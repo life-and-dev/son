@@ -241,7 +241,7 @@ It is a paradox to claim that Jesus is simultaneously 100% God and 100% human be
 
 #### Jesus serves God
 
-Trinitarians believe that [the Son is "equal" to the Father](https://eternal.family.net.za/god/son/essence/of-god/similarities), but this clash with [the Bible](https://eternal.family.net.za/bible), because:
+Trinitarians believe that [the Son is "equal" to the Father](https://eternal.family.net.za/god/son/essence/of-god/similarities), but this clash with [the Bible](https://wordofgod.info), because:
 
 * Isaiah prophesied that the Christ would be God's servant (Isaiah 42:1, 52:13-53:12).
 * Jesus himself said that he was "sent" (commissioned) by the Father (John 3:16-18, 4:34, 6:57, 8:29, 14:24, 17:1-3; 1 John 4:14). This implies the Father has more authority than Jesus.
@@ -250,7 +250,7 @@ Trinitarians believe that [the Son is "equal" to the Father](https://eternal.fam
 
 Now, some Trinitarians will argue that it was only the human-part of Jesus that served God and that it is no longer the case because Jesus is now exalted. If this was true, Jesus would not need to pray to God after he was exalted (​Luke 24:30).
 
-Paul who wrote his letters after Jesus' exaltation, teaches that even though Jesus is our Lord in his exalted state, Jesus still intercedes for believers (​Romands 8:34). This would not have been necessary if he was God himself. 
+Paul who wrote his letters after Jesus' exaltation, teaches that even though Jesus is our Lord in his exalted state, Jesus still intercedes for believers (​Romans 8:34). This would not have been necessary if he was God himself. 
 
 In addition Paul also wrote that Jesus still submit and serve God (1 Corinthians 3:23; 11:3; 15:28; Romans 6:10). Even Peter confirms this (Acts 3:13; 4:27-30 ESV), although some translations translated ["servant" as "child"](https://eternal.family.net.za/god/son/essence/of-god/parent).
 
@@ -351,7 +351,7 @@ Ask yourself:
 - Does it help you follow Jesus's example, or make it an impossible task?
 - Does it align with the full counsel of Scripture, or only selected verses?
 
-Ultimately, your relationship with God through Christ matters more than winning a theological debate. Whether you conclude Jesus is God, the Son of God, or both, let your understanding lead you to worship God in spirit and truth (John 4:23-24), to love others as Christ loved you (John 13:34), and to grow in holiness as you follow His example.
+Ultimately, your relationship with God through Christ matters more than winning a theological debate. Whether you conclude Jesus is "God the Son" or "the Son of God", let your understanding lead you to worship God in spirit and truth (John 4:23-24) and to love others as the Christ set the example.
 
 ---
 
