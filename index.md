@@ -60,7 +60,7 @@ Which version gives the most glory to God?
 
 | If Jesus was God Himself                                                                                     | If Jesus was the Son of God                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| God's love would be self-directed                                                                            | God loves His Son (Matthew 3:16-17; Mark 1:9-11; 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18)                                                                                                                                             |
+| God's love would be self-directed                                                                            | God loves His Son (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18)                                                                                                                                             |
 | Jesus glorified Himself (self-glorification or boasting)                                                     | Jesus and His Father glorified each other as distinct persons (John 13:31, 17:1)                                                                                                                                                         |
 | God allowed people to torture His human-part, but He Himself, did not really suffer anything                 | *For God so loved the world that He gave His only begotten Son...* (John 3:16); God has no pleasure in death (Ezekiel 18:32, 33:11) especially in His beloved Son. This was necessary to save the world (John 3:16-17; 1 Timothy 2:3-4). |
 | God faked His "death" because God is immortal (Daniel 9:24-27; Zechariah 13:7-9 & Mark 14:27; Matthew 26:31) | Jesus, as a distinct man from God, [really suffered and died](https://eternal.family.net.za/god/son/essence/of-man/prophecies#jesus-would-die).                                                                                                                       |
@@ -152,25 +152,25 @@ The phrase "God as the Son" does not exist in the Bible. However, many have iden
 
 | Person            | Identity                              | Scripture                                                                |
 | ----------------- | ------------------------------------- | ------------------------------------------------------------------------ |
-| God               | this is My beloved Son                | Matthew 3:16-17; Mark 1:9-11; 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18 |
+| God               | this is My beloved Son                | Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18 |
 | Peter             | the Christ, the Son of the living God | Matthew 16:16-17                                                         |
 | The centurion     | the Son of God                        | Matthew 27:54                                                            |
 | Gabriel           | the Son of the Most High              | Luke 1:31-35                                                             |
-| The devil         | the Son of God                        | Luke 4:3,9                                                               |
+| The devil         | the Son of God                        | Luke 4:3, 9                                                              |
 | Mark              | Jesus Christ, the Son of God          | Mark 1:1                                                                 |
 | John              | Jesus is the Christ, the Son of God   | John 1:39, 20:30                                                         |
-| John              | God's only begotten Son               | John 1:14,18; 1 John 4:9                                                 |
+| John              | God's only begotten Son               | John 1:14, 18; 1 John 4:9                                                |
 | Nathanael         | the Son of God... the King of Israel  | John 1:45-51                                                             |
-| Jesus             | I am the Son of God                   | John 9:35-37; 10:36; 17:1                                                |
+| Jesus             | I am the Son of God                   | John 9:35-37, 10:36, 17:1                                                |
 | Martha            | the Christ, the Son of God            | John 11:27                                                               |
 | Paul              | the Son of God, Jesus Christ          | Acts 9:20; 2 Corinthians 1:19                                            |
-| Author of Hebrews | the Son of God                        | Hebrews 1:1-2; 4:14                                                      |
+| Author of Hebrews | the Son of God                        | Hebrews 1:1-2, 4:14                                                      |
 
 The way people interacted and treated Jesus also hint that they did not believe he was God, for example:
-* [Jesus close disciples doubted Jesus.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 14:25-33; Mark 6:35-37)
+* [Jesus's close disciples doubted Jesus.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 14:25-33; Mark 6:35-37)
 * [Judas Iscariot sold Jesus.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:14-16; Mark 14:10-11)
-* [Jesus close disciples forsook him, which shows they did not believe he was in control as God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:34-35; Mark 14:27-29)
-* [Jesus close disciples did not take him seriously.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Mark 14:32-42)
+* [Jesus's close disciples forsook him, which shows they did not believe he was in control as God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:34-35; Mark 14:27-29)
+* [Jesus's close disciples did not take him seriously.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Mark 14:32-42)
 * [Peter argued with Jesus, something you do not do with your God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (John 13:8-17)
 * [Thomas did not believe that Jesus was omnipresent.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (John 14:8-9)
 * [Peter denied Jesus, which shows he did not believe Jesus was in control as God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Luke 22:55-62; John 18:15-18)
@@ -178,14 +178,14 @@ The way people interacted and treated Jesus also hint that they did not believe 
 
 Now, some argue that Jesus had a "dual-nature" as "the Son of Man" and "the Son of God". If this was true:
 * then Adam would also have a "dual-nature" as "the son of God" (Luke 3:38) and
-* Jesus would have been his own Father (Matthew 3:16-17; Mark 1:9-11; 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20)
+* Jesus would have been his own Father (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20)
 
 Instead:
 
 * Jesus said that [he is a man](https://eternal.family.net.za/god/son/essence/of-man/human) (John 8:39-40)
 * Jesus said that [he is not God](https://eternal.family.net.za/god/son/essence/not-god#jesus-denies-being-god) (Matthew 19:17; John 5:19,43-47; 8:49-50,54; 17:1-3)
 * Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17) 
-* Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9; 26:39,42,53; Luke 6:12; John 11:41, 17:1)
+* Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
 
 The term ["only-begotten son"](https://eternal.family.net.za/god/son/essence/of-god) comes from the Greek words [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) which could technically mean "the only offspring of God". Jesus was not just another ["son of God"](https://eternal.family.net.za/god/sons-of-god) like Adam, Israel and many others. Jesus was "the only-begotten son of God" (John 1:14; 3:16 (KJV); 1 John 4:9 (KJV)) which implies he must have inherited something directly from God at his conception. This is significant because:
 
@@ -222,7 +222,7 @@ It is a paradox to claim that Jesus is simultaneously 100% God and 100% human be
 | God forms babies in a womb (Psalm 139:13-14)                                                         | Jesus was a baby in a womb (Matthew 1:18; Galatians 4:4)                                                              |
 | God is perfect (Matthew 5:48) and never changes (Malachi 3:6)                                        | Jesus had to grow (Luke 2:52; Hebrews 5:8-9)                                                                          |
 | [God has never been fully seen](https://eternal.family.net.za/god/father/appearance) (Exodus 33:20; John 1:18; 1 Timothy 6:13-16) | Jesus was seen and touched (Luke 24:38-43)                                                                            |
-| God is [the Father](https://eternal.family.net.za/god/father) (Psalm 68:5; Matthew 23:9)                                          | Jesus is [the Son](https://eternal.family.net.za/god/son) (Matthew 3:16-17; Mark 1:9-11; 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20). |
+| God is [the Father](https://eternal.family.net.za/god/father) (Psalm 68:5; Matthew 23:9)                                          | Jesus is [the Son](https://eternal.family.net.za/god/son) (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20). |
 | God is metaphorically "the Vinedresser" (John 15:1-9)                                                | Jesus is metaphorically "the vine" (John 15:1-9; Zechariah 3:10)                                                      |
 | God does not dwell on earth (1 Kings 8:27)                                                           | Jesus did, and he will return again (Acts 1:11)                                                                       |
 | God is omnipresent (Psalm 139:7-10; Ephesians 4:6; Revelation 19:6)                                  | Jesus left (John 14:2-4, 16:28); Jesus is not in the world (John 17:11, 13); Jesus was not present (John 11:14-15)    |
