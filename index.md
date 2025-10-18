@@ -1,5 +1,5 @@
 ---
-description: Examining biblical evidence for Jesus's nature: Man, God or both? Exploring the prophecies, Jesus's own words, witnesses, creeds and the Trinity doctrine debate.
+description: "Examining biblical evidence for Jesus's nature: Man, God or both? Exploring the prophecies, Jesus's own words, witnesses, creeds and the Trinity doctrine debate."
 keywords: Jesus Christ, Son of God, Trinity doctrine, Unitarian theology, Arianism, Nicene Creed, biblical prophecy, Christology, incarnation, divinity of Christ, nature of Jesus
 ---
 
