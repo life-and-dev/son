@@ -83,9 +83,9 @@ Trinitarians argue that "God is one" actually means ["God is unified"](https://e
 
 Some Christians claim that the 3 men who appeared to Abraham in Genesis 18 are the Godhead in 3 different persons:
 
-> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](https://eternal.family.net.za/bible/doctrines/trinitarian/3-men) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." -- Genesis 18:1-3 (ESV)
+> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](abraham-3-visitors) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." -- Genesis 18:1-3 (ESV)
 
-Some argue that these [3 men](https://eternal.family.net.za/bible/doctrines/trinitarian/3-men) were the 3 members of [the Godhead](https://eternal.family.net.za/bible/concepts/godhead) that appeared to Abraham.
+Some argue that these [3 men](abraham-3-visitors) were the 3 members of [the Godhead](https://eternal.family.net.za/bible/concepts/godhead) that appeared to Abraham.
 
 Yet, there are no evidence that [God appears](https://eternal.family.net.za/god/father/appearance) as a "man" that you can invite for dinner to anyone. It was most likely 3 [angels who spoke on behalf of God](https://eternal.family.net.za/bible/concepts/angel) to Abraham.
 
