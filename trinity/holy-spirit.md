@@ -5,7 +5,7 @@ keywords: Holy Spirit identity, Spirit of God, pneumatology, Trinity doctrine, S
 
 # The Holy Spirit
 
-Growing up in church, I was taught the Trinity doctrine—that the Holy Spirit is a distinct divine person, co-equal with the Father and the Son. This teaching left me deeply confused about how to relate to this third person. Should I worship the Holy Spirit directly? Should I pray to Him? How do I balance my worship between the Holy Spirit, the Father, and Jesus? Or are these all the same person with different names? These questions troubled me because if the Holy Spirit truly is a separate person, I needed to know how to properly honor Him.
+Growing up in church, I was taught [the Trinity doctrine](/trinity.md) — that the Holy Spirit is a distinct divine person, co-equal with the Father and the Son. This teaching left me deeply confused about how to relate to this third person. Should I worship the Holy Spirit directly? Should I pray to Him? How do I balance my worship between the Holy Spirit, the Father, and Jesus? Or are these all the same person with different names? These questions troubled me because if the Holy Spirit truly is a separate person, I needed to know how to properly honor Him.
 
 ## Facts about the Holy Spirit
 
