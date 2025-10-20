@@ -122,7 +122,7 @@ In other words, a more direct translation would probably be something like:
 
 Often modern bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
 
-* [Matthew 28:19](https://eternal.family.net.za/bible/doctrines/trinitarian/matt-28-19)
+* [Matthew 28:19](trinity/baptism-formula.md)
 * [John 1:18](https://eternal.family.net.za/bible/doctrines/trinitarian/john-1-18)
 * [1 John 5:7-8](https://eternal.family.net.za/bible/doctrines/trinitarian/1-john-5)
 
