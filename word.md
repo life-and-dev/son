@@ -192,15 +192,13 @@ For example:
 
 > So Jesus said to the Jews who had believed him, "If you abide in **my word** ([logō](https://biblehub.com/greek/3056.htm)), you are truly my disciples, and you will know the truth, and the truth will set you free." — John 8:31 (ESV)
 
-> Jesus said to them, "If God were your Father, you would love me, for I came from God and I am here. I came not of my own accord, but whe sent me. Why do you not understand what I say? It is because you cannot bear to hear **my word** ([logon](https://biblehub.com/greek/3056.htm))." — John 8:42-43 (ESV)
+> Jesus said to them, "If God were your Father, you would love me, for I came from God and I am here. I came not of my own accord, but he sent me. Why do you not understand what I say? It is because you cannot bear to hear **my word** ([logon](https://biblehub.com/greek/3056.htm))." — John 8:42-43 (ESV)
 
-> Jesus answered, "I do not have a demon, but I honor my Father, and you dishonor me. Yet iI do not seek my own glory; there is One who seeks it, and He is the judge. Truly, truly, I say to you, if anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never see death."<br/>
+> Jesus answered, "I do not have a demon, but I honor my Father, and you dishonor me. Yet I do not seek my own glory; there is One who seeks it, and He is the judge. Truly, truly, I say to you, if anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never see death."<br/>
 > The Jews said to him, "Now we know that you have a demon! Abraham died, as did the prophets, yet you say, 'If anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never taste death.' Are you greater than our father Abraham, who died? And the prophets died! Who do you make yourself out to be?"<br/>
 > Jesus answered, "If I glorify myself, my glory is nothing. It is my Father Who glorifies me, of Whom you say, 'He is our God.' But you have not known Him. I know Him. If I were to say that I do not know Him, I would be a liar like you, but I do know Him and I keep **His word** ([logon](https://biblehub.com/greek/3056.htm)).
 >
 > — John 8:49-55 (ESV)
-
-> So Jesus said to the Jews who had believed him, "If you abide in **my word** ([logō](https://biblehub.com/greek/3056.htm)), you are truly my disciples, and you will know the truth, and the truth will set you free." — John 8:31 (ESV)
 
 > "I do not ask for these only, but also for those who will believe in me through **their word** ([logou](https://biblehub.com/interlinear/john/17-20.htm)), that they may all be one, just as You, Father, are in me, and I in You, that they also may be in us, so that the world may believe that You have sent me." — John 17:20-21 (ESV)
 
@@ -554,8 +552,7 @@ These are NOT titles for Jesus himself, but rather describe the **result of God'
 
 ### John 1:6-9 - John's Witness to the Light
 
-> There was a man sent from God, whose name was John. This man came for a witness, to **bear witness of [the light](https://
-.net.za/bible/metaphors/light.md)**, that all through him might believe. He was not that light, but was sent to **bear witness of that light**. That was the true light which gives light to every man coming into the world. — John 1:6-9 (NKJV)
+> There was a man sent from God, whose name was John. This man came for a witness, to **bear witness of [the light](https://eternal.family.net.za/bible/metaphors/light.md)**, that all through him might believe. He was not that light, but was sent to **bear witness of that light**. That was the true light which gives light to every man coming into the world. — John 1:6-9 (NKJV)
 
 #### Was John the Baptist Testifying About Jesus or the Gospel?
 

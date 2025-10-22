@@ -10,7 +10,7 @@ When I first studied [the Bible](https://word.ofgod.info) as a new believer, I a
 - If the Trinity is central to Christianity, why do [even Trinitarian scholars admit the doctrine isn't found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
 - How could the apostles preach salvation without ever mentioning it in their letters?
 - Why did it take over 300 years after Christ for the church to formalize this doctrine?
-- Why are there so [many variations of the Trinity doctrine](https://eternal.family.net.za/bible/concepts/godhead/according-to-scholars) and which one is correcct?
+- Why are there so [many variations of the Trinity doctrine](https://eternal.family.net.za/bible/concepts/godhead/according-to-scholars) and which one is correct?
 
 This article examines the evidence, both historical and biblical, to help you understand what the Trinity really is, where it came from, and whether it aligns with the teachings of Jesus and His apostles. My goal isn't to attack sincere believers, but to encourage you to search the Scriptures like the Bereans and let God's Word speak for itself.
 
@@ -46,7 +46,7 @@ Also known as ["Godhood"](https://eternal.family.net.za/bible/concepts/godhead).
 
 [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) was [the first who added this word](https://en.wikipedia.org/wiki/Godhead_in_Christianity) to the Bible in 14th century to explain the Trinity.
 
-## Why Christians belief in the Trinity
+## Why Christians believe in the Trinity
 
 ### Father, Son and Spirit is God
 
@@ -305,7 +305,7 @@ Negative effects of the Trinity doctrine:
 |----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Complexity: Complex to reason, witness or share the Gospel of God                                              | Clarity: Simple to explain and the Gospel is easy to understand                                                                                   |
 | Confusion: Cannot understand the "[mysteries of God](https://eternal.family.net.za/bible/concepts/mystery)"                                 | Clarity: No contradictions                                                                                                                        |
-| Idolatry: Potentially [worshipping the wrong member](https://eternal.family.net.za/bible/conepts/idolatry) of the Trinity                   | Clarity: Only [1 God to serve and worship](https://eternal.family.net.za/god/son/essence/as-god/worship)                                                                       |
+| Idolatry: Potentially [worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                   | Clarity: Only [1 God to serve and worship](https://eternal.family.net.za/god/son/essence/as-god/worship)                                                                       |
 | Christianity: Live only for the [glory of Jesus](https://eternal.family.net.za/god/son/essence/as-god/claims/glory)                         | Purpose: [The Father is the purpose of our existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6) |
 | Outsiders: [The Godhead is complete](https://eternal.family.net.za/concepts/godhead), we are outsiders (sinners)                            | Adopted: As the Father accepted Jesus as His Son, [so can we be adopted](https://eternal.family.net.za/god/family) too                                                         |
 | No miracles: [A Jesus God do miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles) which is impossible for us | Miracles: [Jesus did miracles by God's Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) [which we can also receive](https://eternal.family.net.za/god/spirit)                         |
