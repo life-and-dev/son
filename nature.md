@@ -11,21 +11,21 @@ I've encountered believers on both sides of this theological divide, each passio
 
 What troubles me most is how this question divides the body of Christ. Accusations of heresy fly in both directions. Yet when I read the Gospels, I see Jesus converting people without requiring them to understand complex Trinitarian formulas (Luke 7:36-50; Acts 2:14-47). Salvation seems tied to faith in Jesus as the Christ, but does "Christ" mean God incarnate, or God's anointed human representative?
 
-## History of the Christianity
+## History of Christianity
 
 [The Church History](https://eternal.family.net.za/kingdom/church/history) indicates that initially [Christianity](https://eternal.family.net.za/bible/concepts/christian) was considered [a minor sect](https://en.wikipedia.org/wiki/History_of_Christianity) among many pagan religions. However, by the fourth century, Christianity spread so much that the pagan Roman Emperor Constantine decided to support it. This enabled Christians to build [state-sponsored church structures](https://eternal.family.net.za/kingdom/church/history/constantine) and institutional hierarchies to establish order among the citizens. 
 
-However, to encourage Christianity and to restore peace in the empire, certain aspects got [merged with pagan religions](https://eternal.family.net.za/kingdom/church/history/constantine). For example, Jesus was considered the emperor's sun god so that both Christians and pagans have the freedom to continue their traditions. 
+However, to encourage Christianity and to restore peace in the empire, certain aspects were [merged with pagan religions](https://eternal.family.net.za/kingdom/church/history/constantine). For example, Jesus was considered the emperor's sun god so that both Christians and pagans have the freedom to continue their traditions. 
 
 This led to [great debates about the divinity of Jesus](https://eternal.family.net.za/kingdom/church/history/1st-nicaea-creed). Bishop Arius challenged the view that Jesus was co-eternal with God. These debates caused a split in the church such that Arius's less popular view was considered Arianism.
 
 A few decades later, [Arianism spread to the gothic nations](https://eternal.family.net.za/kingdom/church/history/arianism). This motivated the Nicene Christian Roman state to associate Arianism with their enemies such that in July 381, the First Council of Constantinople expanded [the Nicaea Creed](https://en.wikipedia.org/wiki/Nicene_Creed) to [address Arianism disputes](https://eternal.family.net.za/kingdom/church/history/sundays). This version clearly defined [the Trinity doctrine](https://eternal.family.net.za/bible/doctrines/trinitarian) and proclaimed Jesus as God and as such the first Latin Bible ([Vulgate](https://eternal.family.net.za/kingdom/church/history/vulgate)) was translated in 382 in favour of the Nicaea Christianity's views.
 
-A few centuries later the "Arian" nations were either destroy or converted by the Roman Empire. As a result, Arianism among many other religions was gradually rooted out during [the Dark Ages](https://eternal.family.net.za/kingdom/church/history/dark-ages).
+A few centuries later the "Arian" nations were either destroyed or converted by the Roman Empire. As a result, Arianism among many other religions was gradually rooted out during [the Dark Ages](https://eternal.family.net.za/kingdom/church/history/dark-ages).
 
 Since the fourteenth century, the Nicaean Bible was [translated into vernacular](https://eternal.family.net.za/kingdom/church/history/wycliffe) languages to reduce dependence on the state church and to support reformations.
 
-Today, the [majority](https://eternal.family.net.za/bible/interpretations/rebuttals#majority) of Christian churches still base their [Trinitarian doctrines](https://eternal.family.net.za/bible/doctrines/trinitarian) on those of the early church fathers of Nicene Christianity's creeds and the Vulgate. While certain [Unitarian movements](https://eternal.family.net.za/bible/doctrines/unitarian) continue to challenge these views. Each denomination obviously [translated the Bible in favour of their own interpretation](https://eternal.family.net.za/bible/translations), therefore one cannot prove the divinity of Jesus from isolated bible verses alone. For example the NIV translate Titus 2:13 that *"Jesus is our great God"*, while [many other bibles translate it differently](https://eternal.family.net.za/god/son/essence/as-god/saviour#titus-2-13).
+Today, the [majority](https://eternal.family.net.za/bible/interpretations/rebuttals#majority) of Christian churches still base their [Trinitarian doctrines](https://eternal.family.net.za/bible/doctrines/trinitarian) on those of the early church fathers of Nicene Christianity's creeds and the Vulgate. However, certain [Unitarian movements](https://eternal.family.net.za/bible/doctrines/unitarian) continue to challenge these views. Each denomination obviously [translated the Bible in favour of their own interpretation](https://eternal.family.net.za/bible/translations), therefore one cannot prove the divinity of Jesus from isolated bible verses alone. For example the NIV translate Titus 2:13 that *"Jesus is our great God"*, while [many other bibles translate it differently](https://eternal.family.net.za/god/son/essence/as-god/saviour#titus-2-13).
 
 ## Bible Translations
 
@@ -83,11 +83,11 @@ Moses prophesied:
 >
 > “And the LORD said to me: What they have spoken is good. I will raise up for them **a prophet like you from among their brethren**, and will put My words in his mouth, and he shall speak to them all that I command him. And it shall be that whoever will not hear My words, which he speaks in My name, I will require it of him.
 >
-> -- Deuteronomy 18:15-19 (NKJV)
+> — Deuteronomy 18:15-19 (NKJV)
 
 Jesus quoted this prophecy himself:
 
-> So Jesus said to them... "For if you believed Moses, you would believe me; for he wrote of me. But if you do not believe his writings, how will you believe my words?" -- John 5:19,46-47 (ESV)
+> So Jesus said to them... "For if you believed Moses, you would believe me; for he wrote of me. But if you do not believe his writings, how will you believe my words?" — John 5:19,46-47 (ESV)
 
 This interpretation of the prophecy was also confirmed by Peter (Acts 3:22-26). 
 
@@ -122,15 +122,15 @@ However, Trinitarians often quote John 1 to prove Jesus's divinity. They argue t
 
 Paul also introduces the Son as a human Christ that fulfilled the prophecies (God's word):
 
-> The gospel of God, which He promised beforehand through His prophets in the holy Scriptures, concerning His Son, who was descended from David according to the flesh... -- Romans 1:1-3 ESV
+> The gospel of God, which He promised beforehand through His prophets in the holy Scriptures, concerning His Son, who was descended from David according to the flesh... — Romans 1:1-3 ESV
 
 The term, ["the word"](https://eternal.family.net.za/bible/concepts/word) is used multiple times throughout the book of John and the gospels, but it always refers to something someone had said. John was not giving a clever word puzzle, but instead the purpose of his book was to give a testimony of Jesus, therefore one would expect that the meaning of "the word" should be consistent throughout this testimony.
 
 Acts starts with Jesus leaving his disciples behind to return to God. This by itself proves that [Jesus is distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct) and that Jesus is not omnipresent like God.
 
-Every letter of Paul, start with an introduction that mentions both God and Christ as [distinct persons](https://eternal.family.net.za/god/son/essence/not-god/distinct), for example:
+Every letter of Paul starts with an introduction that mentions both God and Christ as [distinct persons](https://eternal.family.net.za/god/son/essence/not-god/distinct), for example:
 
-> Blessed be the **God and Father of our Lord Jesus Christ**... -- Ephesians 1:3 (ESV)
+> Blessed be the **God and Father of our Lord Jesus Christ**... — Ephesians 1:3 (ESV)
 
 1 Peter, opens with a blessing: "Blessed be **the God and Father of our Lord Jesus Christ!**" This states that [Jesus has a God](https://eternal.family.net.za/god/son/essence/not-god) Who is a distinct [Father](https://eternal.family.net.za/god/son/essence/of-god/parent) to him.
 
@@ -269,7 +269,7 @@ God had always been [holy](https://eternal.family.net.za/bible/concepts/holy) (P
 
 It would not be necessary for the Holy God to go through a ceremony of cleansing to fulfil righteousness to himself. Instead with this ceremony, Jesus was dedicated for God's special purpose which implies [Jesus is distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct) as God Himself publicly proclaimed:
 
-> "This is [My beloved Son](https://eternal.family.net.za/god/son/essence/of-god) with whom I am well pleased." -- Matthew 3:17; Luke 3:21
+> "This is [My beloved Son](https://eternal.family.net.za/god/son/essence/of-god) with whom I am well pleased." — Matthew 3:17; Luke 3:21
 
 ### Jesus' purpose
 
@@ -298,13 +298,13 @@ If Jesus was God:
 * Jesus would have quoted the wrong scripture which are only applicable to man (Luke 4:4 quoting Deuteronomy 8:3).
 * The devil would have quoted the wrong scripture (Matthew 4:5-7 & Luke 4:9-11 quoting Psalm 91:11-12) and Jesus would have no need to respond.
 * The devil's offer for kingdoms (Matthew 4:9; Luke 4:5-6) would not have been a temptation at all, because God already owns everything (Psalm 24:1).
-* Jesus would have referred to himself as God, but instead he refers to [God as Someone distinct](https://eternal.family.net.za/god/son/essence/not-god/distinct)** (Matthew 4:6-7,10; Luke 4:12).
+* Jesus would have referred to himself as God, but instead he refers to [God as Someone distinct](https://eternal.family.net.za/god/son/essence/not-god/distinct) (Matthew 4:6-7,10; Luke 4:12).
 
 ### Jesus inheritance
 
 If Jesus was God Himself, he would own everything, yet it was prophesied that Jesus would inherit from God (Psalm 2:7-11). This understanding is also confirmed by Paul (Romans 8:17).
 
-> The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs — heirs of God and **fellow heirs with Christ**, provided we suffer with him in order that we may also be glorified with him. -- Romans 8:17 (ESV)
+> The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs — heirs of God and **fellow heirs with Christ**, provided we suffer with him in order that we may also be glorified with him. — Romans 8:17 (ESV)
 
 ## Relating to Jesus
 

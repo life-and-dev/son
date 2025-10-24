@@ -97,7 +97,7 @@ The context here is that Jesus was dealing with condemnation and everlasting lif
 
 ### The only Son of God
 
-The word "only" which came from the Greek word "monos", means "alone". This means "the only begotten Son of God" had to be a unique attribute to Jesus which sets him apart from every other person.
+The word "only" comes from the Greek word "monos", which means "alone". This means "the only begotten Son of God" had to be a unique attribute to Jesus which sets him apart from every other person.
 
 * Jesus was not the only (alone) one who was baptized. John the Baptist had baptized many people before Jesus, so it does not make sense to say Jesus is *"the only baptized Son of God"*. 
 * Jesus was not the only "son of God", because there were many other ["sons of God"](https://eternal.family.net.za/god/sons) named in the Old Testament before Jesus was born. 
@@ -113,7 +113,7 @@ If one studies the root of the Greek word "monogenés":
 | Word origin | from [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) |
 | Definition  | only begotten                                                                                                          |
 
-Which literally means Jesus was "the ***only offspring** Son of God" where all other sons were "adopted" by God. This is why Jesus was considered "**the** Son of God" and not just *a* son of God like the rest of Israel (Hosea 1:10). For example the same phrase is used in Hebrews:
+This literally means Jesus was "the ***only offspring*** Son of God" where all other sons were "adopted" by God. This is why Jesus was considered "**the** Son of God" and not just *a* son of God like the rest of Israel (Hosea 1:10 (ESV)). For example the same phrase is used in Hebrews:
 
 > By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up **his only begotten son**. —Hebrews 11:17 (KJV)
 
@@ -297,7 +297,7 @@ The Bible consistently affirms that Jesus lived a completely sinless life:
 
 > how much more will the blood of Christ, **who through the eternal Spirit offered himself without blemish to God**, purify our conscience from dead works to serve the living God. —Hebrews 9:14 (ESV)
 
-### Requirements to be a Heir
+### Requirements to be an Heir
 
 The Bible teaches that **only the righteous can inherit God's kingdom**:
 
