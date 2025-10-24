@@ -3,7 +3,7 @@ description: The biblical meaning of "Son of Man," Jesus's most-used title for h
 keywords: Son of Man, Messiah, Genesis 3:15, Jesus humanity, Son of God, Adam typology, Jesus not God, biblical Christology, monotheism, promised offspring
 ---
 
-# Son of Man
+# The Son of Man
 
 I've encountered countless discussions where Christians assume that calling Jesus "the Son of Man" means God came to earth as a man. This interpretation seems straightforward at first. After all, if Jesus is God, and Jesus calls himself "the Son of Man", then naturally God must have become a man. But then the Jews may point out:
 
