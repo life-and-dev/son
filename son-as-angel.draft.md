@@ -1,5 +1,5 @@
 ---
-description: Explores whether the Angel of the LORD in the Old Testament is Jesus in pre-incarnate form or a distinct messenger, examining evidence from both perspectives.
+description: Explores whether the Angel of the LORD is Jesus in pre-incarnate form or a distinct messenger, examining evidence from both perspectives.
 keywords: Angel of the LORD, Christophany, pre-incarnate Jesus, Michael the Archangel, Old Testament theophanies, divine messenger, Jehovah Witness theology
 ---
 
@@ -83,7 +83,7 @@ If we compare "the angel of the LORD" with "the Son of God":
 | Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                                                              |
 | Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                                                      |
 | Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)                                                   |
-| Obey God's commands (1 Chronicles 21:18)                           | Jesus also obey God (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:24, 14:31)                                       |
+| Obey God's commands (1 Chronicles 21:18)                           | Jesus also obeys God (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:24, 14:31)                                       |
 
 Therefore, some assume that the "Lord's angel" is some sort of [pre-incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation). However:
 
@@ -151,44 +151,80 @@ This again could be interpreted in 2 ways:
 * Either this "angel" is John (the messenger) as stated in Revelation 1:1-2 who were tasked to write down this revelation for the churches.
 * Or this refers to another angelic being that Jesus sent to the churches.
 
-In the absence of names, it is also possible that John intended to say that 3 distinct persons are coming together and quickly:
+In the absence of names, it is also possible that John intended to say that 3 distinct persons are saying "I am coming quickly". These 3 persons would then be:
 
-* The powerful angel who would attack the world (mentioned earlier in Revelation)
+* The powerful angel (Revelation 18:1-2,21 or Revelation 20:1-3)
 * God Almighty as "the Alpha and the Omega" (Revelation 1:8, 22:13)
 * The Lord Jesus (Revelation 22:16)
 
-If this is the correct interpretation we can expect God Himself together with the Lord Jesus who commands the powerful angel or angels to execute his will.
+If this is the case, then we have 3 judges:
+* The angel that judges angels like "Babylon the Great" (Revelation 18:1-2,21) and/or the devil and satan (Revelation 20:1-3)
+* Jesus that judges humans (Revelation 2:16, 6:16-17, 19:11-16)
+* God Almighty that authoritatively oversees all judgment over "each one" (Revelation 22:12)
+
+Another reason that could indicate that this angel is not Jesus, is that John wrote:
+
+> They will make war on **the Lamb**, and **the Lamb** will conquer them, for **he is Lord of lords and King of kings**, and those with him are called and chosen and faithful.” And **the angel** said to me, ... 
+>
+> -- Revelation 17:14-15 (ESV)
+
+Here, "the Lamb" refers to Jesus (John 1:29,36; Revelation 5:6-14), who is also known as "Lord of lords and King of kings", but in the next verse "the angel" is simply addressed as "the angel". John did not say then "the Lamb" or "the Lord said..." but instead the angel seems to speaks separately.
+
+If this "Lord and King" was the angel, then the angel would not have reacted like this:
+
+> I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me, 
+>
+> “You must not do that! **I am a fellow servant** with you and your brothers the prophets, and with those who keep the words of this book. Worship God.” -- Revelation 22:8-9 (ESV)
+
+This could also be interpreted 2 ways:
+* Jesus was also a fellow brother and prophet and Jesus also served God the Father.
+* The angel was a distinct being from Jesus, which explains why he was not called "Lord" or "King" by John.
+
+Whichever way one interprets these passages, it is clear that the identity of this angel is ambiguous and open to interpretation and serve no concrete proof that Jesus is definitely the angel of the LORD in the context of the Book of Revelation.
 
 ### The Michael the Archangel Question
 
 Some religious groups, notably Jehovah's Witnesses, identify Jesus as the archangel Michael based on several key passages:
 
-* **Revelation 12:7** - Michael leads angels in heavenly war against Satan
-* **1 Thessalonians 4:16** - Christ descends with "the voice of an archangel"
-* **Daniel 10:13, 12:1** - Michael described as "one of the chief princes" and protector of Israel
-* **Jude 1:9** - Michael the archangel disputed with the devil about Moses' body
+> Now war arose in heaven, **Michael** and his angels **fighting against the dragon**. And the dragon and his angels fought back, but he was defeated, and there was no longer any place for them in heaven. And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him.
+>
+> And I heard a loud voice in heaven, saying, “Now the salvation and the power and the kingdom of our God and the authority of His **Christ have come, for the accuser of our brothers has been thrown down**, who accuses them day and night before our God. -- Revelation 12:7-10 (ESV)
+
+Who defeated the devil? Michael or Christ or are they the same person?
+
+Another possible interpretation is that both defeated the devil but in their own way. Michael represents the angelic host fighting against another angel, while Christ defeated the devil's effect on us by his atoning death and resurrection. 
+
+> For since we believe that Jesus died and rose again, even so, through **Jesus**, God will bring with him those who have fallen asleep. For this we declare to you by a word from the Lord, that we who are alive, who are left until the coming of the Lord, will not precede those who have fallen asleep. For **the Lord himself** will descend from heaven with a cry of command, **with the voice of an archangel**, and with the sound of the trumpet of God. And the dead in Christ will rise first. -- 1 Thessalonians 4:14-16 (ESV)
+
+It seems to suggest that Jesus is the Lord who will cry the command with the voice of an archangel. 
+
+However, this does not proof that Jesus is the archangel himself. It only stated with the voice of an archangel, which could mean that Jesus commanded with similiar authority. This is also not concrete proof that Jesus is Michael the archangel.
+
+> But the prince of the kingdom of Persia withstood me twenty-one days; and behold, **Michael**, one of the chief *princes*, came to help me, for I had been left alone there with the kings of Persia. Now I have come to make you understand what will happen to your people in the latter days, for the vision refers to many days yet to come.”
+>
+> When he had spoken such words to me, I turned my face toward the ground and became speechless. And suddenly, one having **the likeness of the sons of men** touched my lips; then I opened my mouth and spoke, saying to him who stood before me, “My lord, because of the vision my sorrows have overwhelmed me, and I have retained no strength. For how can this **servant of my lord** talk with you, my lord? As for me, no strength remains in me now, nor is any breath left in me.”
+>
+> Then again, **the one having the likeness of a man** touched me and strengthened me. And he said, “O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!” So when he spoke to me I was strengthened, and said, “Let my lord speak, for you have strengthened me.” Then he said, “Do you know why I have come to you? And now I must return to **fight with the prince of Persia**; and when I have gone forth, indeed the prince of Greece will come. But I will tell you what is noted in the Scripture of Truth. (No one upholds me against these, except **Michael your *prince***. -- Daniel 10:13-21 (NKJV)
+
+and
+
+> “At that time **Michael** shall stand up, **the great *prince*** who stands watch over the sons of your people; And there shall be a time of trouble, Such as never was since there was a nation, Even to that time. And at that time **your people shall be delivered**, Every one who is found written in the book. -- Daniel 12:1 (NKJV)
+
+The Hebrew word for "prince" is also the same word for "leader". While traditionally people belief God has only one Son or "prince", God could have multiple leaders acting in different domains.
+
+While both Jesus and Michael are "leaders" and both "deliver" people, it is no proof that they are the same person. Jesus delivers us from sin and death through his atoning sacrifice (Romans 5:8-10; 1 Corinthians 15:54-57), while Michael delivers God's people through spiritual warfare and protection (Revelation 12:7-11).
 
 The reasoning follows that if the Angel of the LORD in the Old Testament represents Jesus in his pre-human existence, and if Jesus is Michael, then the Angel of the LORD could be Michael appearing to these biblical figures.
 
 However, several scriptures challenge the identification of Jesus as an archangel:
 
-> For to which of the angels did God ever say, "You are my Son, today I have begotten you"? Or again, "I will be to him a father, and he shall be to me a son"?
->
-> And again, when he brings the firstborn into the world, he says, "Let all God's angels worship him."
->
-> —Hebrews 1:5-6 (ESV)
+> God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by **His Son**, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of his glory and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down at the right hand of the Majesty on high, having become so **much better than the angels**, as he has by inheritance obtained a **more excellent name** than they. **For to which of the angels did He ever say: “You are My Son, Today I have begotten You”? And again: “I will be to Him a Father, And He shall be to Me a Son”?** -- Hebrews 1:1-5 (NKJV)
 
-> having become as much superior to angels as the name he has inherited is more excellent than theirs.
->
-> —Hebrews 1:4 (ESV)
+In addition, Michael dare not to rebuke the devil in his own authority:
 
-The phrase "become superior to angels" suggests Jesus was not merely an archangel elevated to higher status, but rather entered a category fundamentally distinct from angelic beings. The author of Hebrews emphasizes that no angel ever received the designation "Son" in the way Jesus did, implying a unique relationship with God that transcends the angelic realm.
+> Yet **Michael the archangel**, in contending with the devil, when he disputed about the body of Moses, **dared not bring against him a reviling accusation, but said, “The Lord rebuke you!”** -- Jude 1:9 (NKJV)
 
-Additionally, the command for angels to worship Jesus (Hebrews 1:6) would be problematic if Jesus were himself an angel. Throughout scripture, angels consistently refuse worship and redirect it to God alone (Revelation 19:10, 22:8-9). If Jesus were Michael the archangel, we would expect him to refuse worship as well, yet Jesus accepts worship repeatedly in the Gospels (Matthew 14:33, 28:9, John 9:38).
-
-The "voice of an archangel" in 1 Thessalonians 4:16 could mean Jesus speaks with commanding authority at his return, not that he is an archangel. Similarly, kings speak with royal authority without being royalty themselves.
-
-Whether "the angel of the LORD" in the Old Testament is Michael, Jesus in pre-incarnate form, or another divine messenger remains a matter of interpretation. The evidence presents challenges for any single view, which is why faithful believers have reached different conclusions throughout church history.
+Yet, Jesus rebuked the devil directly (Matthew 4:10; Luke 4:8; Mark 1:25, 9:25).
 
 ### More examples where the "Angel of the LORD" speak and act on behalf of God
 
@@ -371,7 +407,7 @@ Like Moses, Gideon saw "the angel of the LORD", but heard the voice of "the LORD
 > 
 > And the LORD answered gracious and comforting words to **the angel** who talked with me. 
 > 
-> So **the angel** who talked with me said to me, ‘Cry out, Thus says the Lord of hosts: I am exceedingly jealous for Jerusalem and for Zion. And I am exceedingly angry with the nations that are cat ease; for while I was angry but a little, they furthered the disaster. Therefore, thus says **the LORD**, I have returned to Jerusalem with mercy; my house shall be built in it, declares the LORD of hosts, and the measuring line shall be stretched out over Jerusalem. Cry out again, Thus says the LORD of hosts: My cities shall again overflow with prosperity, and the LORD will again comfort Zion and again choose Jerusalem.’ ” 
+> So **the angel** who talked with me said to me, 'Cry out, Thus says the Lord of hosts: I am exceedingly jealous for Jerusalem and for Zion. And I am exceedingly angry with the nations that are at ease; for while I was angry but a little, they furthered the disaster. Therefore, thus says **the LORD**, I have returned to Jerusalem with mercy; my house shall be built in it, declares the LORD of hosts, and the measuring line shall be stretched out over Jerusalem. Cry out again, Thus says the LORD of hosts: My cities shall again overflow with prosperity, and the LORD will again comfort Zion and again choose Jerusalem.' " 
 > 
 > —Zechariah 1:9-17 (ESV)
 
@@ -389,7 +425,7 @@ Like Moses, Gideon saw "the angel of the LORD", but heard the voice of "the LORD
 
 > And, lo, **the angel of the Lord** came upon them, and the glory of the Lord shone round about them: and they were sore afraid. —Luke 2:9 (KJV) 
 
-#### Appeared the apostles
+#### Appearance to the apostles
 
 > And laid their hands on the apostles, and put them in the common prison. But **the angel of the Lord** by night opened the prison doors, and brought them forth, and said, "Go, stand and speak in the temple to the people all the words of this life." —Acts 5:18-20 (KJV)
 
@@ -409,7 +445,7 @@ Like Moses, Gideon saw "the angel of the LORD", but heard the voice of "the LORD
 > 
 > And when Peter was come to himself, he said, Now I know of a surety, that **the Lord hath sent his angel**, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews. —Acts 12:7-11 (KJV)
 
-#### Appeared to Herod
+#### Appearance to Herod
 
 > And immediately **the angel of the Lord** smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost. —Acts 12:23 (KJV)
 
@@ -449,13 +485,13 @@ Unlike Joseph, the shepherds did not dream about the angel because they all witn
 
 Only the Angel of the Lord speaks on behalf of God the Father, yet we have an angel that spoke on behalf of the Father distinctly from Jesus.
 
-### The Angel was present at Jesus ascension
+### The Angel was present at Jesus' ascension
 
-The Angel of the Lord also [appeared to the apostles](#appeared-the-apostles) at multiple occasions and [to Herod](#appeared-to-herod) after Jesus' ascension. This is [not how Jesus said he would return](https://eternal.family.net.za/god/son/essence/as-god/prophecies/jesus#second-coming).
+The Angel of the Lord also [appeared to the apostles](#appearance-to-the-apostles) at multiple occasions and [to Herod](#appearance-to-herod) after Jesus' ascension. This is [not how Jesus said he would return](https://eternal.family.net.za/god/son/essence/as-god/prophecies/jesus#second-coming).
 
 ### The Angel was not identified as Jesus
 
-Peter who was very familiar to Jesus and who was the first disciple to correctly identified him (Matthew 16:13-19) was also very familiar to the Angel of the Lord, such that Peter thought he was only seeing another vision.  Yet, Peter identified "the Angel of the Lord" as a specific angel of God and not as Jesus (Acts 12:11). Surely Peter would not have mistaken the Angel of the Lord as someone else if he was really Jesus.
+Peter who was very familiar with Jesus and who was the first disciple to correctly identify him (Matthew 16:13-19) was also very familiar with the Angel of the Lord, such that Peter thought he was only seeing another vision. Yet, Peter identified "the Angel of the Lord" as a specific angel of God and not as Jesus (Acts 12:11). Surely Peter would not have mistaken the Angel of the Lord as someone else if he was really Jesus.
 
 ## What This Means for You
 
