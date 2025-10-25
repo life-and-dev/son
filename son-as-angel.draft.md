@@ -79,7 +79,6 @@ If we compare "the angel of the LORD" with "the Son of God":
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Was sent by God (Exodus 23:20)                                     | Was sent by God (John 7:16, 14:24)                                                                           |
 | God instructed His people to obey the angel (Exodus 23:20-25)      | We should obey Jesus (Deuteronomy 18:15,18-19; Matthew 17:5; Mark 9:7; Luke 9:35; John 8:31, 14:23, 15:10-15) |
-| Protects "those who fear him" (Psalm 34:7)                         | We should fear Jesus (Matthew 10:28)                                                                         |
 | Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                                                              |
 | Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                                                      |
 | Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)                                                   |
@@ -115,72 +114,72 @@ Some suggest that the angel was God's instrument to fulfilled Jesus' role in his
 
 ### Jesus considered to be the angel of John's Revelation
 
-> The Revelation of Jesus Christ, **which God gave him** to show His servants — things which must shortly take place. And He sent and signified it by His angel to His servant John, 
-> 1. who bore witness to **the word of God**, **and** 
-> 2. to **the testimony of Jesus Christ**, 
-> 3. to all **things that he saw**. 
+The Book of Revelation contains several passages involving an angel who reveals mysteries to John. These passages can be interpreted in two primary ways:
+
+**Interpretation 1:** Jesus is the angel (the divine messenger who reveals to John)
+**Interpretation 2:** Jesus and the angel are distinct beings
+
+Let us examine the key passages:
+
+> The Revelation of Jesus Christ, **which God gave him** to show His servants — things which must shortly take place. And He sent and signified it by His angel to His servant John,
+> 1. who bore witness to **the word of God**, **and**
+> 2. to **the testimony of Jesus Christ**,
+> 3. to all **things that he saw**.
 >
 > — Revelation 1:1-2 (NKJV)
 
-This allows one of 2 interpretations:
-* *God the Father gave the revelation to Jesus, who gave it to some angel, who gave it to John, who wrote it down for us.*
-* *God the Father gave the revelation to Jesus, **who is the angel** (messenger) that gave it to John, who wrote it down for us.*
+**Interpretation 1 (Jesus = Angel):** God the Father gave the revelation to Jesus, who is himself "the angel" (messenger) that gave it to John, who wrote it down for us.
 
-Fast-forward to the closing of the book and we find:
+**Interpretation 2 (Jesus ≠ Angel):** God the Father gave the revelation to Jesus, who gave it to a separate angelic being, who gave it to John, who wrote it down for us.
 
-> Then he said to me, “These words are faithful and true.” 
-> 
+Fast-forward to the closing of the book:
+
+> Then he said to me, "These words are faithful and true."
+>
 > And the Lord God of the holy prophets sent **His angel** to show His servants the things which must shortly take place.
-> 
-> “**Behold, I am coming quickly!** Blessed is he who keeps the words of the prophecy of this book.”
-> 
+>
+> "**Behold, I am coming quickly!** Blessed is he who keeps the words of the prophecy of this book."
+>
 > Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things.
-> Then he said to me, “See that you do not do that. For **I am your fellow servant, and of your brethren the prophets**, and of those who keep the words of this book. **Worship God**.” — Revelation 22:6-9 (NKJV)
+> Then he said to me, "See that you do not do that. For **I am your fellow servant, and of your brethren the prophets**, and of those who keep the words of this book. **Worship God**." — Revelation 22:6-9 (NKJV)
 
-And then in the same chapter John reveal that the speaker is the "Lord Jesus" who use the exact same words:
+Later in the same chapter, John records the "Lord Jesus" using similar words:
 
-> He who testifies to these things says, “Surely **I am coming quickly**.” Amen. Even so, come, Lord Jesus! — Revelation 22:20 (NKJV)
+> He who testifies to these things says, "Surely **I am coming quickly**." Amen. Even so, come, Lord Jesus! — Revelation 22:20 (NKJV)
 
-In addition, the angel wields immense power throughout Revelation, opening seals, pronouncing judgments, and guiding John's visions. Jesus is also depicted with comparable authority in other parts of the New Testament.
+**Interpretation 1 (Jesus = Angel):** The angel who says "I am coming quickly" (22:7) is Jesus himself, which explains why Jesus repeats the same phrase in 22:20. The angel's refusal of worship and self-description as "fellow servant" reflects Jesus' own humility and servanthood to the Father.
 
-However, John also revealed:
+**Interpretation 2 (Jesus ≠ Angel):** The angel is a distinct being from Jesus. Both the angel and Jesus separately declare "I am coming quickly" because they are both coming in their respective roles. The angel's refusal of worship proves he is not Jesus, who rightfully receives worship.
 
-> “**I, Jesus, have sent my angel** to testify to you these things in the churches. I am the Root and the Offspring of David, the Bright and Morning Star.” -- Revelation 22:16 (NKJV)
+Another passage adds complexity:
 
-This again could be interpreted in 2 ways:
-* Either this "angel" is John (the messenger) as stated in Revelation 1:1-2 who were tasked to write down this revelation for the churches.
-* Or this refers to another angelic being that Jesus sent to the churches.
+> "**I, Jesus, have sent my angel** to testify to you these things in the churches. I am the Root and the Offspring of David, the Bright and Morning Star." -- Revelation 22:16 (NKJV)
 
-In the absence of names, it is also possible that John intended to say that 3 distinct persons are saying "I am coming quickly". These 3 persons would then be:
+**Interpretation 1 (Jesus = Angel):** "My angel" could refer to John himself (the messenger/scribe) as stated in Revelation 1:1-2, who was tasked to write down this revelation for the churches.
 
-* The powerful angel (Revelation 18:1-2,21 or Revelation 20:1-3)
-* God Almighty as "the Alpha and the Omega" (Revelation 1:8, 22:13)
-* The Lord Jesus (Revelation 22:16)
+**Interpretation 2 (Jesus ≠ Angel):** "My angel" refers to the angelic being who revealed these things to John, confirming that Jesus and the angel are distinct.
 
-If this is the case, then we have 3 judges:
-* The angel that judges angels like "Babylon the Great" (Revelation 18:1-2,21) and/or the devil and satan (Revelation 20:1-3)
-* Jesus that judges humans (Revelation 2:16, 6:16-17, 19:11-16)
-* God Almighty that authoritatively oversees all judgment over "each one" (Revelation 22:12)
+Additional evidence that supports Interpretation 2:
 
-Another reason that could indicate that this angel is not Jesus, is that John wrote:
-
-> They will make war on **the Lamb**, and **the Lamb** will conquer them, for **he is Lord of lords and King of kings**, and those with him are called and chosen and faithful.” And **the angel** said to me, ... 
+> They will make war on **the Lamb**, and **the Lamb** will conquer them, for **he is Lord of lords and King of kings**, and those with him are called and chosen and faithful." And **the angel** said to me, ...
 >
 > -- Revelation 17:14-15 (ESV)
 
-Here, "the Lamb" refers to Jesus (John 1:29,36; Revelation 5:6-14), who is also known as "Lord of lords and King of kings", but in the next verse "the angel" is simply addressed as "the angel". John did not say then "the Lamb" or "the Lord said..." but instead the angel seems to speaks separately.
+Here, "the Lamb" (Jesus, see John 1:29,36; Revelation 5:6-14) is distinguished from "the angel" who speaks separately. If the angel were Jesus, John would have continued calling him "the Lamb" or "the Lord."
 
-If this "Lord and King" was the angel, then the angel would not have reacted like this:
+Similarly, when the angel refuses worship:
 
-> I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me, 
+> I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me,
 >
-> “You must not do that! **I am a fellow servant** with you and your brothers the prophets, and with those who keep the words of this book. Worship God.” -- Revelation 22:8-9 (ESV)
+> "You must not do that! **I am a fellow servant** with you and your brothers the prophets, and with those who keep the words of this book. Worship God." -- Revelation 22:8-9 (ESV)
 
-This could also be interpreted 2 ways:
-* Jesus was also a fellow brother and prophet and Jesus also served God the Father.
-* The angel was a distinct being from Jesus, which explains why he was not called "Lord" or "King" by John.
+**Interpretation 1 (Jesus = Angel):** Jesus, who took on the role of servant and brother (Hebrews 2:11-12), humbly refuses worship in his messenger role and redirects glory to God the Father, just as he did during his earthly ministry.
 
-Whichever way one interprets these passages, it is clear that the identity of this angel is ambiguous and open to interpretation and serve no concrete proof that Jesus is definitely the angel of the LORD in the context of the Book of Revelation.
+**Interpretation 2 (Jesus ≠ Angel):** The angel's self-description as "fellow servant" and refusal of worship proves he is a created being, not Jesus, who accepted worship and holds titles of "Lord" and "King."
+
+#### Conclusion on Revelation's Angel
+
+As you can see, these passages remain ambiguous. The Book of Revelation alone provides no definitive proof that Jesus is the angel of the LORD, as the identity of the angel in Revelation can reasonably be interpreted both ways. Therefore we need to gather more concrete evidence.
 
 ### The Michael the Archangel Question
 
@@ -226,7 +225,13 @@ In addition, Michael dare not to rebuke the devil in his own authority:
 
 Yet, Jesus rebuked the devil directly (Matthew 4:10; Luke 4:8; Mark 1:25, 9:25).
 
-### More examples where the "Angel of the LORD" speak and act on behalf of God
+### Old Testament Examples
+
+The following passages show various encounters with the Angel of the LORD throughout Old Testament history. As you read these examples, pay attention to how the angel relates to God, speaks to people, and exercises authority.
+
+**Note on terminology:** In English translations, "the LORD" (all capitals) represents the Hebrew name YHWH (Yahweh/Jehovah), God's personal covenant name. This is distinct from "the Lord" (only capital L), which translates Adonai meaning "master" or "sovereign." When you see "the angel of the LORD," it refers to the angel associated with YHWH specifically, not just any lord or master.
+
+Do you notice a consistent pattern where the angel appears visibly and speaks with divine authority, yet the text carefully distinguishes him from "the LORD" himself?
 
 #### Appearance to Hagar
 
@@ -242,7 +247,7 @@ Yet, Jesus rebuked the devil directly (Matthew 4:10; Luke 4:8; Mark 1:25, 9:25).
 >
 > And **the angel of the LORD** said to her, “Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because **the LORD** has listened to your affliction. He shall be a wild donkey of a man, his hand against everyone and everyone's hand against him, and he shall dwell over against all his kinsmen.” 
 > 
-> —Genesis 16:7-12 (ESV)
+> — Genesis 16:7-12 (ESV)
 
 The angel referred to "the LORD" as a separate person.
 
@@ -260,7 +265,7 @@ The angel referred to "the LORD" as a separate person.
 > 
 > And **the angel of the LORD** called to Abraham a second time from heaven and said, “By myself I have sworn, **declares the LORD**, because you have done this and have not withheld your son, your only son, I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies, and in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.” 
 > 
-> —Genesis 22:10-18 (ESV)
+> — Genesis 22:10-18 (ESV)
 
 The angel referred to "God" as a separate God and also indicates that he "declares" on behalf of "the LORD" when he speaks.
 
@@ -275,13 +280,13 @@ The angel referred to "God" as a separate God and also indicates that he "declar
 > 
 > And Moses hid his face, for he was afraid to look at God.
 > 
-> —Exodus 3:2-6 (ESV)
+> — Exodus 3:2-6 (ESV)
 
 Moses saw the angel of the LORD and not God Himself (John 1:18 (NKJV); John 6:46; 1 John 3:6, 4:12; Exodus 33:20; Isaiah 64:4), however Moses did hear God's voice (perhaps God was speaking through the angel).
 
 Jesus also confirms that it was God speaking to Moses:
 
-> Jesus said to them... "Have you not read in the book of Moses, in the passage about the bush, **how God spoke** to him... —Mark 12:26 (ESV)
+> Jesus said to them... "Have you not read in the book of Moses, in the passage about the bush, **how God spoke** to him... — Mark 12:26 (ESV)
 
 Jesus did not say the angel was God, or that he is the angel. He only said that "God spoke" to Moses.
 
@@ -313,7 +318,7 @@ Both "the LORD" and "the angel of the LORD" are present in this scripture and di
 > 
 > As soon as **the angel of the LORD** spoke these words to all the people of Israel, the people lifted up their voices and wept. And they called the name of that place Bochim. And they sacrificed there to **the LORD**. 
 > 
-> —Judges 2:1-5
+> — Judges 2:1-5
 
 This implies the angel of the LORD is able to judge and make covenants. As the angel refers back to the past, it also implies that it was the same "angel of the LORD" who previously brought the Israelites out of Egypt.
 
@@ -321,7 +326,7 @@ Also note that they sacrificed to "the LORD" and not to "the angel".
 
 #### Song of Deborah and Barak
 
-> "Curse Meroz", says **the angel of the LORD**, "curse its inhabitants thoroughly, because they did not come to the help of the LORD, to the help of the LORD against the mighty." —Judges 5:23
+> "Curse Meroz", says **the angel of the LORD**, "curse its inhabitants thoroughly, because they did not come to the help of the LORD, to the help of the LORD against the mighty." — Judges 5:23
 
 #### Appearance to Gideon
 
@@ -350,7 +355,7 @@ Also note that they sacrificed to "the LORD" and not to "the angel".
 > 
 > So Gideon took ten men of his servants and did as **the LORD** had told him. But because he was too afraid of his family and the men of the town to do it by day, he did it by night. 
 > 
-> —Judges 6:11-27 (ESV)
+> — Judges 6:11-27 (ESV)
 
 Like Moses, Gideon saw "the angel of the LORD", but heard the voice of "the LORD" even after "the angel of the LORD" had vanished from his sight.
 
