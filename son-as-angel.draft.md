@@ -42,11 +42,11 @@ This is possibly a reference to the instance when Israel (Jacob) was delivered f
 
 A common assumption is that "transgression" exclusively refers to sin against God. Other translations render:
 
-> Pay attention to him and listen to his voice; do not be rebellious against him, for he will not pardon your **disobedience**, for My name is in him. —Exodus 23:21 (REV)
+> Pay attention to him and listen to his voice; do not be rebellious against him, for he will not pardon your **disobedience**, for My name is in him. — Exodus 23:21 (REV)
 
 The Israelites were warned that the angel will not pardon their disobedience against him, if they rebel against his instructions. 
 
-> **The angel of the LORD** encamps around those **who fear him**, and delivers them. —Psalm 34:7 (ESV)
+> **The angel of the LORD** encamps around those **who fear him**, and delivers them. — Psalm 34:7 (ESV)
 
 > Then he showed me Joshua the high priest standing before **the angel of the LORD**, and Satan standing at his right hand to accuse him.
 >
@@ -66,26 +66,26 @@ The Israelites were warned that the angel will not pardon their disobedience aga
 >
 > If you will walk in My ways and keep My charge, then you shall rule My house and have charge of My courts, and I will give you the right of access among those who are standing here. Hear now, O Joshua the high priest, you and your friends who sit before you, for they are men who are a sign: behold, I will bring My servant the Branch. For behold, on the stone that I have set before Joshua, on a single stone with seven eyes, I will engrave its inscription, declares the LORD of hosts, and I will **remove the iniquity** of this land in a single day. In that day, declares the LORD of hosts, every one of you will invite his neighbor to come under his vine and under his fig tree.”
 >
-> —Zechariah 3:1-10 (ESV)
+> — Zechariah 3:1-10 (ESV)
 
-Assuming all of the above scriptures refers to the same "angel of the LORD" we can conclude that this angel:
+*Assuming* all of the above scriptures refers to the same "angel of the LORD" we can conclude that this angel:
 
 * The angel is not God Himself (because God sent him).
 * The angel speaks and acts on behalf of God.
 
 If we compare "the angel of the LORD" with "the Son of God":
 
-| The angel of the LORD                                              | The Son of God                                                         |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| Was sent by God (Exodus 23:20)                                     | Was sent by God (John 7:16, 14:24)                                     |
-| God instructed His people to obey the angel (Exodus 23:20-25)      | We should obey Jesus (John 8:31, 14:23, 15:10-15)                      |
-| Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                        |
-| Protects "those who fear him" (Psalm 34:7)                         | We should fear Jesus (Matthew 10:28)                                   |
-| Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                |
-| Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)             |
-| Obey God's commands (1 Chronicles 21:18)                           | Jesus also obey God (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:24, 14:31) |
+| The angel of the LORD                                              | The Son of God                                                                                               |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Was sent by God (Exodus 23:20)                                     | Was sent by God (John 7:16, 14:24)                                                                           |
+| God instructed His people to obey the angel (Exodus 23:20-25)      | We should obey Jesus (Deuteronomy 18:15,18-19; Matthew 17:5; Mark 9:7; Luke 9:35; John 8:31, 14:23, 15:10-15) |
+| Protects "those who fear him" (Psalm 34:7)                         | We should fear Jesus (Matthew 10:28)                                                                         |
+| Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                                                              |
+| Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                                                      |
+| Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)                                                   |
+| Obey God's commands (1 Chronicles 21:18)                           | Jesus also obey God (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:24, 14:31)                                       |
 
-Therefore, some [assume](https://eternal.family.net.za/bible/interpretations/rebuttals) that the "Lord's angel" is some sort of [pre-incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation). However:
+Therefore, some assume that the "Lord's angel" is some sort of [pre-incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation). However:
 
 * God also sent other humans
 * God also require us to obey authority of humans
@@ -97,9 +97,9 @@ Therefore, some [assume](https://eternal.family.net.za/bible/interpretations/reb
 
 ### Jesus referring to himself as an "angel"
 
-> “Behold, I send my messenger *(John the Baptist according to Matthew 11:10; Mark 1:2; Luke 7:27)*, and he will prepare the way before me. —Malachi 3:1
+> “Behold, I send My messenger *(John the Baptist according to Matthew 11:10; Mark 1:2; Luke 7:27)*, and he will prepare the way before Me. — Malachi 3:1 (ESV)
 
-If we assume that John prepared the way for Jesus, it would imply that Jesus is the second "messenger" or "angel".
+If John prepared the way for Jesus, it would imply that Jesus is the second "messenger" or "angel".
 
 > And the Lord whom you seek will suddenly come to his temple; and **the messenger *(angel)* of the covenant** in whom you delight, behold, he is coming, says the LORD of hosts.
 >
@@ -107,7 +107,7 @@ If we assume that John prepared the way for Jesus, it would imply that Jesus is 
 >
 > For **he is like a refiner's fire** and like fullers' soap. He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the LORD. Then the offering of Judah and Jerusalem will be pleasing to the LORD as in the days of old and as in former years.
 >
-> —Malachi 3:1-4 (ESV)
+> — Malachi 3:1-4 (ESV)
 
 Some suggest that the angel was God's instrument to fulfilled Jesus' role in his absence, so that this angel was speaking and acting on behalf of God and/or Jesus with the same authority and power:
 * This is also the case with the sun, moon and stars which are temporary instruments to give light on behalf of God (Genesis 1:16-18; Matthew 24:29; Revelation 21:23, 22:5)
@@ -115,29 +115,16 @@ Some suggest that the angel was God's instrument to fulfilled Jesus' role in his
 
 ### Jesus considered to be the angel of John's Revelation
 
-There are great debates about how one should interpret the book of Revelation, for example the Message Translation render:
-
-> A revealing of Jesus, the Messiah.  
->
-> God gave it to make plain to his servants what is about to happen. He published and delivered it by Angel to his servant John. And John told everything he saw: 
-> 1. God’s Word—the witness of Jesus Christ! 
->
-> —Revelation 1:1-2 (MSG)
-
-This translation gives the idea that *God is Jesus, who gave the revelation to some angel, who gave it to John, who wrote it down for us.*
-
-Note that the translator admitted that he paraphrased the text. More direct bible translations render something like:
-
 > The Revelation of Jesus Christ, **which God gave him** to show His servants — things which must shortly take place. And He sent and signified it by His angel to His servant John, 
 > 1. who bore witness to **the word of God**, **and** 
 > 2. to **the testimony of Jesus Christ**, 
 > 3. to all **things that he saw**. 
 >
-> —Revelation 1:1-2 (NKJV)
+> — Revelation 1:1-2 (NKJV)
 
 This allows one of 2 interpretations:
 * *God the Father gave the revelation to Jesus, who gave it to some angel, who gave it to John, who wrote it down for us.*
-* *God the Father gave the revelation to Jesus, who is the angel (messenger) that gave it to John, who wrote it down for us.*
+* *God the Father gave the revelation to Jesus, **who is the angel** (messenger) that gave it to John, who wrote it down for us.*
 
 Fast-forward to the closing of the book and we find:
 
@@ -148,15 +135,29 @@ Fast-forward to the closing of the book and we find:
 > “**Behold, I am coming quickly!** Blessed is he who keeps the words of the prophecy of this book.”
 > 
 > Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things.
-> Then he said to me, “See that you do not do that. For **I am your fellow servant, and of your brethren the prophets**, and of those who keep the words of this book. **Worship God**.” —Revelation 22:6-9 (NKJV)
+> Then he said to me, “See that you do not do that. For **I am your fellow servant, and of your brethren the prophets**, and of those who keep the words of this book. **Worship God**.” — Revelation 22:6-9 (NKJV)
 
-This causes a problem for many Trinitarians:
-* if the angel is not Jesus: We need to explain why it is significant that the angel "is coming quickly", when John revealed earlier in the book that the Christ is coming;
-* if the angel is Jesus: It means we should not [worship Jesus](https://eternal.family.net.za/god/son/essence/as-god/worship) and that [Jesus is not God](https://eternal.family.net.za/god/son/essence/not-god)
+And then in the same chapter John reveal that the speaker is the "Lord Jesus" who use the exact same words:
+
+> He who testifies to these things says, “Surely **I am coming quickly**.” Amen. Even so, come, Lord Jesus! — Revelation 22:20 (NKJV)
 
 In addition, the angel wields immense power throughout Revelation, opening seals, pronouncing judgments, and guiding John's visions. Jesus is also depicted with comparable authority in other parts of the New Testament.
 
-Critiques argue, that Jesus is addressed as "the Son of God", "Lord", "the Christ" which is not the case with this angel. Another challenge is that because the book of Revelations does not follow chronologically and because there are so much symbolism, it is hard to tell to whom every "he"-word refers which makes it easy confuse God, Jesus and the angel with each other.
+However, John also revealed:
+
+> “**I, Jesus, have sent my angel** to testify to you these things in the churches. I am the Root and the Offspring of David, the Bright and Morning Star.” -- Revelation 22:16 (NKJV)
+
+This again could be interpreted in 2 ways:
+* Either this "angel" is John (the messenger) as stated in Revelation 1:1-2 who were tasked to write down this revelation for the churches.
+* Or this refers to another angelic being that Jesus sent to the churches.
+
+In the absence of names, it is also possible that John intended to say that 3 distinct persons are coming together and quickly:
+
+* The powerful angel who would attack the world (mentioned earlier in Revelation)
+* God Almighty as "the Alpha and the Omega" (Revelation 1:8, 22:13)
+* The Lord Jesus (Revelation 22:16)
+
+If this is the correct interpretation we can expect God Himself together with the Lord Jesus who commands the powerful angel or angels to execute his will.
 
 ### The Michael the Archangel Question
 
