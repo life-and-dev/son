@@ -13,7 +13,7 @@ When I first encountered this mysterious figure appearing throughout scripture, 
 
 ## Understanding the Hebrew Term
 
-Note that the same Hebrew word for [angel](https://eternal.family.net.za/bible/concepts/angel) could either mean an [angelical being](https://eternal.family.net.za/creation/angelic-beings), but it could also mean a messenger from God which could be literally anything like a human, bush, donkey, fire, even Jesus himself.
+Note that the same Hebrew word for [angel](https://eternal.family.net.za/bible/concepts/angel) could either mean an [angelic being](https://eternal.family.net.za/creation/angelic-beings), but it could also mean a messenger from God which could be literally anything like a human, bush, donkey, fire, even Jesus himself.
 
 There are many "angels" that appear to people in the Old Testament, but the "angel of the LORD" is different from the other ones:
 
@@ -197,7 +197,9 @@ Another possible interpretation is that both defeated the devil but in their own
 
 It seems to suggest that Jesus is the Lord who will cry the command with the voice of an archangel. 
 
-However, this does not proof that Jesus is the archangel himself. It only stated with the voice of an archangel, which could mean that Jesus commanded with similiar authority. This is also not concrete proof that Jesus is Michael the archangel.
+However, this does not prove that Jesus is the archangel himself. 
+
+[As seen above](#jesus-considered-to-be-the-angel-of-johns-revelation) it is possible that Jesus with a similar voice as an archangel (or with great authority) commanded the archangels, like Michael, to will "sound the trumpet of God" and that at this same event God will "rise the dead". This means there are multiple actors involved in this "coming".
 
 > But the prince of the kingdom of Persia withstood me twenty-one days; and behold, **Michael**, one of the chief *princes*, came to help me, for I had been left alone there with the kings of Persia. Now I have come to make you understand what will happen to your people in the latter days, for the vision refers to many days yet to come.”
 >
@@ -217,7 +219,13 @@ The reasoning follows that if the Angel of the LORD in the Old Testament represe
 
 However, several scriptures challenge the identification of Jesus as an archangel:
 
-> God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by **His Son**, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of his glory and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down at the right hand of the Majesty on high, having become so **much better than the angels**, as he has by inheritance obtained a **more excellent name** than they. **For to which of the angels did He ever say: “You are My Son, Today I have begotten You”? And again: “I will be to Him a Father, And He shall be to Me a Son”?** -- Hebrews 1:1-5 (NKJV)
+> God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by **His Son**, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of his glory and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down at the right hand of the Majesty on high, having *become* so **much better than the angels**, as he has by inheritance obtained a **more excellent name** than they. **For to which of the angels did He ever say: “You are My Son, Today I have begotten You”? And again: “I will be to Him a Father, And He shall be to Me a Son”?** -- Hebrews 1:1-5 (NKJV)
+
+Jehova Witnesses typically argue that Jesus "become so much better" and that he was elevated to this position at some point in time. However the Greek word for "become" is ["ginomai" (γίνομαι)](https://biblehub.com/greek/1096.htm) which could also mean "proven to be".
+
+If "become" is the correct interpretation, at what point did Jesus "become so much better than the angels"? We read that even during Jesus early ministry (Mark 1:25-27), Jesus already had authority over the demons.
+
+The key here is "for to which of the angels did He **EVER** say...". The Greek word for "ever" is ["pote" (ποτέ)](https://biblehub.com/greek/4218.htm) which means "at any time past/present/future" which mean that Jesus was **NEVER** not considered "the Son of God".
 
 In addition, Michael dare not to rebuke the devil in his own authority:
 
@@ -472,7 +480,7 @@ Some would argue that Joseph was dreaming this and that is how it was possible f
 >
 > And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us. 
 >
-> —Luke 2:9-15 (KJV)
+> — Luke 2:9-15 (KJV)
 
 Unlike Joseph, the shepherds did not dream about the angel because they all witnessed it and spoke to each other.
 
@@ -486,9 +494,9 @@ Unlike Joseph, the shepherds did not dream about the angel because they all witn
 > Others said, “**An angel has spoken to him**.”  
 > Jesus answered, “This voice has come for your sake, not mine.”
 >
-> —John 12:28-30 (ESV)
+> — John 12:28-30 (ESV)
 
-Only the Angel of the Lord speaks on behalf of God the Father, yet we have an angel that spoke on behalf of the Father distinctly from Jesus.
+Although it was an opinion from the "others" that is was possibly "an angel" they heard, we can learn from this reaction that the understanding at that time was that angels could speak in the first person on behalf of God. Whether it was God Himself speaking or an angel speaking on behalf of God, either way the voice was distinct from Jesus' voice which means the message came from another person.
 
 ### The Angel was present at Jesus' ascension
 
