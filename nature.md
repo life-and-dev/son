@@ -63,7 +63,7 @@ Which version gives the most glory to God?
 | God's love would be self-directed                                                                            | God loves His Son (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18)                                                                                                                                             |
 | Jesus glorified Himself (self-glorification or boasting)                                                     | Jesus and His Father glorified each other as distinct persons (John 13:31, 17:1)                                                                                                                                                         |
 | God allowed people to torture His human-part, but He Himself, did not really suffer anything                 | *For God so loved the world that He gave His only begotten Son...* (John 3:16); God has no pleasure in death (Ezekiel 18:32, 33:11) especially in His beloved Son. This was necessary to save the world (John 3:16-17; 1 Timothy 2:3-4). |
-| God faked His "death" because God is immortal (Daniel 9:24-27; Zechariah 13:7-9 & Mark 14:27; Matthew 26:31) | Jesus, as a distinct man from God, [really suffered and died](https://eternal.family.net.za/god/son/essence/of-man/prophecies#jesus-would-die).                                                                                                                       |
+| God faked His "death" because God is immortal (Daniel 9:24-27; Zechariah 13:7-9 & Mark 14:27; Matthew 26:31) | Jesus, as a distinct man from God, [really suffered and died](son-of-man/prophecies.md#jesus-would-die).                                                                                                                       |
 | God witnessed Himself.                                                                                       | The Father and the Son can independently provide a witness of each other (John 8:17-18; 1 John 5:9)                                                                                                                                      |
 | God was temporarily cursed (unholy) to bear our sin.                                                         | God was and will never be unholy (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13; Revelation 4:8). Instead, His Son became cursed with sin (Galatians 3:13; Isaiah 53:6; 1 Peter 2:24)                                                            |
 | God [violated natural laws](#incompatible-attributes) by "shape-shifting" or reincarnation                   | God never changes (Malachi 3:6; James 1:17) and God never lies (Numbers 23:19; Titus 1:2)                                                                                                                                                |
@@ -75,7 +75,7 @@ Which version gives the most glory to God?
 
 ## Evidence
 
-### Prophecies
+### [Prophecies](son-of-man/prophecies.md)
 
 Moses prophesied:
 
@@ -114,7 +114,7 @@ In addition, some prophets saw visions where God and Christ was positioned at di
 
 The book of Matthew starts with an ancestor registry (Matthew 1:1-17) to prove that Jesus was the expected Christ born from the prophesied family lineage. Matthew even uses the word Greek ["genesis"](https://biblehub.com/greek/1078.htm) (beginning) to describe when Jesus's life began. This is usually translated as "birth" in Matthew 1:18, but at that moment when Mary was conceived, Jesus was not born yet.
 
-Mark 1:1 introduces Jesus as ["the Son of God"](https://eternal.family.net.za/god/son/essence/of-god) which implies [he is not God Himself](https://eternal.family.net.za/god/son/essence/not-god).
+Mark 1:1 introduces Jesus as ["the Son of God"](index.md) which implies [he is not God Himself](https://eternal.family.net.za/god/son/essence/not-god).
 
 Luke 1:26-35 mentions a human son that Mary would give birth to. Gabriel is silent about the divinity of this son.
 
@@ -187,7 +187,7 @@ Instead:
 * Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17) 
 * Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
 
-The term ["only-begotten son"](https://eternal.family.net.za/god/son/essence/of-god) comes from the Greek words [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) which could technically mean "the only offspring of God". Jesus was not just another ["son of God"](https://eternal.family.net.za/god/sons-of-god) like Adam, Israel and many others. Jesus was "the only-begotten son of God" (John 1:14; 3:16 (KJV); 1 John 4:9 (KJV)) which implies he must have inherited something directly from God at his conception. This is significant because:
+The term ["only-begotten son"](index.md) comes from the Greek words [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) which could technically mean "the only offspring of God". Jesus was not just another ["son of God"](https://eternal.family.net.za/god/sons-of-god) like Adam, Israel and many others. Jesus was "the only-begotten son of God" (John 1:14; 3:16 (KJV); 1 John 4:9 (KJV)) which implies he must have inherited something directly from God at his conception. This is significant because:
 
 * It means Jesus did not inherit sin from Adam (1 Peter 2:22; Hebrews 4:15; 1 John 3:5), because his Father was God Himself.
 * It means Jesus accurately represented the Father (John 8:19,55) as His Son, unlike any prior prophet.
@@ -269,7 +269,7 @@ God had always been [holy](https://eternal.family.net.za/bible/concepts/holy) (P
 
 It would not be necessary for the Holy God to go through a ceremony of cleansing to fulfil righteousness to himself. Instead with this ceremony, Jesus was dedicated for God's special purpose which implies [Jesus is distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct) as God Himself publicly proclaimed:
 
-> "This is [My beloved Son](https://eternal.family.net.za/god/son/essence/of-god) with whom I am well pleased." — Matthew 3:17; Luke 3:21
+> "This is [My beloved Son](index.md) with whom I am well pleased." — Matthew 3:17; Luke 3:21
 
 ### Jesus' purpose
 
