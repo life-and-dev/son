@@ -26,11 +26,11 @@ The most powerful witness to Jesus' identity didn't come from human theology or 
 >
 > ***"This is My beloved Son***, with whom I am well pleased."***
 >
-> —Matthew 3:16-17 (ESV); Mark 1:9-11; Luke 3:21; John 1:51
+> — Matthew 3:16-17 (ESV); Mark 1:9-11; Luke 3:21; John 1:51
 
 At Jesus' transfiguration, God repeated this declaration in the presence of Peter, James, and John:
 
-> And a cloud overshadowed them, and a voice came out of the cloud, ***"This is my beloved Son; listen to him."*** —Mark 9:7 (ESV)
+> And a cloud overshadowed them, and a voice came out of the cloud, ***"This is my beloved Son; listen to him."*** — Mark 9:7 (ESV)
 
 Peter later testified as an eyewitness to this event:
 
@@ -53,13 +53,13 @@ But instead, God specifically said: "**This is My beloved Son**" — affirming a
 
 Some Bible translations like the KJV state that Jesus is the "only begotten Son of the Father":
 
-> I will declare the decree: the LORD hath said unto me, **Thou art my Son; this day have I begotten thee**. —Psalm 2:7 (KJV); Acts 13:33; Hebrews 1:5, 5:5
+> I will declare the decree: the LORD hath said unto me, **Thou art my Son; this day have I begotten thee**. — Psalm 2:7 (KJV); Acts 13:33; Hebrews 1:5, 5:5
 
-> And [the word](word.md) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of **the only begotten of the Father**) full of grace and truth. —John 1:14 (KJV)
+> And [the word](word.md) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of **the only begotten of the Father**) full of grace and truth. — John 1:14 (KJV)
  
-> The only **begotten** son, who is in the bosom of the Father, [He has declared him](son-as-god/john-1-18.md). —John 1:18 (NKJV)
+> The only **begotten** son, who is in the bosom of the Father, [He has declared him](son-as-god/john-1-18.md). — John 1:18 (NKJV)
 
-> In this was manifested the love of God toward us, because that **God sent his only begotten Son** into the world, that we might live through him. —1 John 4:9 (KJV)
+> In this was manifested the love of God toward us, because that **God sent his only begotten Son** into the world, that we might live through him. — 1 John 4:9 (KJV)
 
 The Greek word translated as "only begotten" is:
 
@@ -89,7 +89,7 @@ The literal translation seems to mean that Jesus was the only Son that was ever 
 > 
 > And no man hath ascended up to heaven, but he that came down from heaven, even [the Son of man](https://eternal.family.net.za/god/son/essence/of-man) which is in heaven. And as Moses lifted up the serpent in the wilderness, even so must [the Son of man](https://eternal.family.net.za/god/son/essence/of-man) be lifted up: That whosoever believeth in him should not perish, but have eternal life.  For God so loved the world, that He gave His **only begotten Son**, that whosoever believeth in him should not perish, but have everlasting life. For God sent not **His Son** into the world to condemn the world; but that the world through him might be saved. He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in [the name](https://eternal.family.net.za/bible/concepts/name) of **the only begotten Son of God**.
 > 
-> —John 3:1-18 (KJV)
+> — John 3:1-18 (KJV)
 
 Jesus was not referring to the physical birth of a person as he corrected Nicodemus. Instead, Jesus refers to the ["birth of water"](https://eternal.family.net.za/eternal/saved/baptize) and ["birth of the spirit"](https://eternal.family.net.za/eternal/saved/spirit) which modern Christians call ["baptism"](https://eternal.family.net.za/eternal/saved/baptize). Therefore, some would argue that "the only begotten Son of God" means "the only baptized Son of God"—since Jesus himself was baptized. 
 
@@ -106,7 +106,7 @@ Anyone can be adopted into "sonship" by another Father. If this was John's inten
 
 If one studies the root of the Greek word "monogenés":
 
-> monogenḗs (from 3411 /misthōtós, "one-and-only" and 1085 /génos, "offspring, stock") —[HELP Word-studies](https://biblehub.com/greek/3439.htm)
+> monogenḗs (from 3411 /misthōtós, "one-and-only" and 1085 /génos, "offspring, stock") — [HELP Word-studies](https://biblehub.com/greek/3439.htm)
 
 |             | [NAS Exhaustive Concordance](https://biblehub.com/greek/3439.htm)                                                      |
 |-------------|------------------------------------------------------------------------------------------------------------------------|
@@ -115,7 +115,7 @@ If one studies the root of the Greek word "monogenés":
 
 This literally means Jesus was "the ***only offspring*** Son of God" where all other sons were "adopted" by God. This is why Jesus was considered "**the** Son of God" and not just *a* son of God like the rest of Israel (Hosea 1:10 (ESV)). For example the same phrase is used in Hebrews:
 
-> By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up **his only begotten son**. —Hebrews 11:17 (KJV)
+> By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up **his only begotten son**. — Hebrews 11:17 (KJV)
 
 Isaac was not Abraham's only biological son. At that time Abraham already had another elder son, called Ishmael (Genesis 16:11 (ESV)). However, Ishmael was rejected by the family. In this context it meant Isaac was the only heir of Abraham. If this was the understanding of the Greek word "monogenḗs", then it could mean that Jesus was the only son that was worthy to God.
 
@@ -125,13 +125,13 @@ This could also explain why it was such a revelation for many people to discover
 
 Jesus himself consistently affirmed this Father-Son relationship. He referred to himself as the "Son **of** God" (John 10:36 (ESV)) and prayed publicly to demonstrate this distinction:
 
-> And Jesus lifted up his eyes and said, “[Father](https://ofgod.info), I thank You that You have heard me. I knew that You always hear me, but I said this **on account of the people standing around, that they may believe that You sent me**.” —John 11:41-42 (ESV)
+> And Jesus lifted up his eyes and said, "[Father](https://ofgod.info), I thank You that You have heard me. I knew that You always hear me, but I said this **on account of the people standing around, that they may believe that You sent me**." — John 11:41-42 (ESV)
 
 If Jesus prayed to himself as a "Father" Who "always hears" him (an action that happens between two [distinct](https://eternal.family.net.za/god/son/essence/not-god/distinct) parties), and Jesus prayed "on account of the people standing around that they may believe", then he would have totally confused everyone if he really was God the Father especially if he indicates that this "Father" had "sent" him (another [distinct](https://eternal.family.net.za/god/son/essence/not-god/distinct) action).
 
 Another example:
 
-> When Jesus had spoken these words, he lifted up his eyes to heaven, and said, “[Father](https://ofgod.info), the hour has come; **glorify your Son** that the Son may glorify you, since you have given him authority over all flesh, to give eternal life to all whom you have given him. And this is eternal life, **that they know you, the only true God**, and Jesus Christ whom you have sent. I glorified you on earth, having accomplished the work that you gave me to do. And now, Father, **glorify me** in your own presence with the glory that I had with you before the world existed. —John 17:1-5 (ESV)
+> When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "[Father](https://ofgod.info), the hour has come; **glorify your Son** that the Son may glorify you, since you have given him authority over all flesh, to give eternal life to all whom you have given him. And this is eternal life, **that they know you, the only true God**, and Jesus Christ whom you have sent. I glorified you on earth, having accomplished the work that you gave me to do. And now, Father, **glorify me** in your own presence with the glory that I had with you before the world existed. — John 17:1-5 (ESV)
 
 Peter also testified that God is Jesus' Father:
 
@@ -143,27 +143,27 @@ Peter also testified that God is Jesus' Father:
 > Simon Peter replied, “You are the Christ, [the Son of the living God](#what-does-son-of-god-mean).”  
 > And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, **but my Father** who is in heaven.
 >
-> —Matthew 16:13-17 (ESV)
+> — Matthew 16:13-17 (ESV)
 
 Peter could have said: *"You are God"*, but he said *"You are the Christ, the Son of the living God"*. Jesus did not correct Peter, but instead praised him because *"his Father"* revealed this information such that Peter continued teaching his disciples this way:
 
-> The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified His son Jesus —Acts 3:13 (KJV)
+> The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified His son Jesus — Acts 3:13 (KJV)
 
-> For of a truth against **thy holy child** Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, for to do whatsoever thy hand and thy counsel determined before to be done. And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, by stretching forth thine hand to heal; and that signs and wonders may be done by the name of **thy holy child** Jesus. —Acts 4:27-30 (KJV)
+> For of a truth against **thy holy child** Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, for to do whatsoever thy hand and thy counsel determined before to be done. And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, by stretching forth thine hand to heal; and that signs and wonders may be done by the name of **thy holy child** Jesus. — Acts 4:27-30 (KJV)
 
 [(Some translations translate "child" as "servant".)](https://eternal.family.net.za/god/son/essence/not-god/serve-god#jesus-is-called-gods-servant)
 
 Paul testifies that God is Jesus' Father:
 
-> Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, which he promised beforehand through his prophets in the holy Scriptures, concerning **His Son**, who was descended from David according to the flesh and was **declared to be the Son of God in power** according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord, through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations, including you who are called to belong to Jesus Christ —Romans 1:1-6 (NKJV)
+> Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, which he promised beforehand through his prophets in the holy Scriptures, concerning **His Son**, who was descended from David according to the flesh and was **declared to be the Son of God in power** according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord, through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations, including you who are called to belong to Jesus Christ — Romans 1:1-6 (NKJV)
 
 and
 
-> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](https://eternal.family.net.za/god/sons-of-god). —Galatians 4:4-5 (NKJV)
+> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](https://eternal.family.net.za/god/sons-of-god). — Galatians 4:4-5 (NKJV)
 
 and
 
-> Blessed be the **God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... —Ephesians 1:3 (ESV)
+> Blessed be the **God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
 
 and
 
@@ -171,7 +171,7 @@ and
 >
 > that **[the God of our Lord Jesus Christ](https://eternal.family.net.za/god/son/essence/not-god), the Father of glory**, may give to you the spirit of wisdom and revelation in the knowledge of Him, the eyes of your understanding being enlightened.
 >
-> —Ephesians 1:15-18 (NKJV)
+> — Ephesians 1:15-18 (NKJV)
 
 ## How Jesus Was Identified
 
@@ -181,27 +181,27 @@ Beyond God's own declaration and Jesus' own testimony, many others recognized Je
 
 #### John
 
-> And I have seen and have borne witness that this *(Jesus)* is **the Son of God**. —John 1:34 (ESV)
+> And I have seen and have borne witness that this *(Jesus)* is **the Son of God**. — John 1:34 (ESV)
 
-> Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that **Jesus is [the Christ](https://eternal.family.net.za/god/son/christ), the Son of God**, and that by believing you may have life in his name. —John 20:30-31 (ESV)
+> Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that **Jesus is [the Christ](https://eternal.family.net.za/god/son/christ), the Son of God**, and that by believing you may have life in his name. — John 20:30-31 (ESV)
 
 #### Mark
 
-> The beginning of the gospel of Jesus [Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**. —Mark 1:1 (ESV)
+> The beginning of the gospel of Jesus [Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**. — Mark 1:1 (ESV)
 
 #### Martha
 
-> She said to him *(Jesus)*, "Yes, Lord; I believe that you are [the Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**, who is coming into the world." —John 11:27 (ESV)
+> She said to him *(Jesus)*, "Yes, Lord; I believe that you are [the Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**, who is coming into the world." — John 11:27 (ESV)
 
 #### Paul
 
-> And immediately he *(Paul)* proclaimed Jesus in the synagogues, saying, "He is **the Son of God**." —Acts 9:20 (NKJV)
+> And immediately he *(Paul)* proclaimed Jesus in the synagogues, saying, "He is **the Son of God**." — Acts 9:20 (NKJV)
 
-> For **the Son of God, Jesus [Christ](https://eternal.family.net.za/god/son/christ)**, whom we proclaimed among you... —2 Corinthians 1:19 (NKJV)
+> For **the Son of God, Jesus [Christ](https://eternal.family.net.za/god/son/christ)**, whom we proclaimed among you... — 2 Corinthians 1:19 (NKJV)
 
 #### Author of Hebrews
 
-> Since then we have a great high priest who has passed through the heavens, **Jesus, the Son of God**, let us hold fast our confession. —Hebrews 4:14 (NKJV)
+> Since then we have a great high priest who has passed through the heavens, **Jesus, the Son of God**, let us hold fast our confession. — Hebrews 4:14 (NKJV)
 
 ### Non-disciples
 
@@ -211,7 +211,7 @@ Beyond God's own declaration and Jesus' own testimony, many others recognized Je
 > And Mary said to the angel, "How will this be, since I am a virgin?"
 > And the angel answered her, "The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy — **the Son of God**.
 >
-> —Luke 1:31-35 (ESV)
+> — Luke 1:31-35 (ESV)
 
 #### Nathanael
 
@@ -225,21 +225,21 @@ Beyond God's own declaration and Jesus' own testimony, many others recognized Je
 > Jesus answered and said unto him, "Because I said unto thee, 'I saw thee under the fig tree', believest thou? thou shalt see greater things than these."
 > And he saith unto him, "Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon [the Son of man](https://eternal.family.net.za/god/son/essence/of-man).
 >
-> —John 1:45-51 (KJV)
+> — John 1:45-51 (KJV)
 
 #### The centurion
 
-> When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, ***"Truly this was the Son of God!"*** —Matthew 27:54 (NKJV)
+> When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, ***"Truly this was the Son of God!"*** — Matthew 27:54 (NKJV)
 
 #### Demons and Evil Spirits
 
 Even Jesus' enemies in the spiritual realm — beings who existed in God's presence and knew spiritual truth firsthand — recognized His identity as the Son of God. Unlike humans who might be deceived, demons had no choice but to acknowledge reality:
 
-> And whenever the unclean spirits saw him, they fell down before him and cried out, **"You are the Son of God."** —Mark 3:11 (ESV)
+> And whenever the unclean spirits saw him, they fell down before him and cried out, **"You are the Son of God."** — Mark 3:11 (ESV)
 
-> And behold, they cried out, "What have you to do with us, **O Son of God**? Have you come here to torment us before the time?" —Matthew 8:29 (ESV)
+> And behold, they cried out, "What have you to do with us, **O Son of God**? Have you come here to torment us before the time?" — Matthew 8:29 (ESV)
 
-> And there was in their synagogue a man with an unclean spirit. And he cried out, "What have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are — **the Holy One of God**." —Mark 1:23-24 (ESV)
+> And there was in their synagogue a man with an unclean spirit. And he cried out, "What have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are — **the Holy One of God**." — Mark 1:23-24 (ESV)
 
 Notice what demons never said. They never addressed Jesus as:
 - "God Himself"
@@ -261,7 +261,7 @@ The devil's temptation follows the same pattern. He never requested Jesus to pro
 > The devil said to him, "If you are **the Son of God**, command ..."
 > And he *(the devil)* took him *(Jesus)* to Jerusalem and set him on the pinnacle of the temple and said to him, "If you are **the Son of God**, throw yourself down from here...
 >
-> —Luke 4:3,9 (ESV)
+> — Luke 4:3,9 (ESV)
 
 ## Jesus' Right as the Worthy Heir
 
@@ -273,45 +273,45 @@ The Bible consistently affirms that Jesus lived a completely sinless life:
 
 **Direct Statements:**
 
-> For our sake he made him to be sin **who knew no sin**, so that in him we might become the righteousness of God. —2 Corinthians 5:21 (ESV)
+> For our sake he made him to be sin **who knew no sin**, so that in him we might become the righteousness of God. — 2 Corinthians 5:21 (ESV)
 
-> For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, **yet without sin**. —Hebrews 4:15 (ESV)
+> For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, **yet without sin**. — Hebrews 4:15 (ESV)
 
-> **He committed no sin**, neither was deceit found in his mouth. —1 Peter 2:22 (ESV)
+> **He committed no sin**, neither was deceit found in his mouth. — 1 Peter 2:22 (ESV)
 
-> You know that he appeared in order to take away sins, and **in him there is no sin**. —1 John 3:5 (ESV)
+> You know that he appeared in order to take away sins, and **in him there is no sin**. — 1 John 3:5 (ESV)
 
 **Character Descriptions:**
 
-> For it was indeed fitting that we should have such a high priest, **holy, innocent, unstained, separated from sinners**, and exalted above the heavens. —Hebrews 7:26 (ESV)
+> For it was indeed fitting that we should have such a high priest, **holy, innocent, unstained, separated from sinners**, and exalted above the heavens. — Hebrews 7:26 (ESV)
 
-> And they made his grave with the wicked and with a rich man in his death, although **he had done no violence, and there was no deceit in his mouth**. —Isaiah 53:9 (ESV)
+> And they made his grave with the wicked and with a rich man in his death, although **he had done no violence, and there was no deceit in his mouth**. — Isaiah 53:9 (ESV)
 
 **Jesus' Own Challenge:**
 
-> **Which one of you convicts me of sin?** If I tell the truth, why do you not believe me? —John 8:46 (ESV)
+> **Which one of you convicts me of sin?** If I tell the truth, why do you not believe me? — John 8:46 (ESV)
 
 **Sacrificial Symbolism:**
 
-> knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with **the precious blood of Christ, like that of a lamb without blemish or spot**. —1 Peter 1:18-19 (ESV)
+> knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with **the precious blood of Christ, like that of a lamb without blemish or spot**. — 1 Peter 1:18-19 (ESV)
 
-> how much more will the blood of Christ, **who through the eternal Spirit offered himself without blemish to God**, purify our conscience from dead works to serve the living God. —Hebrews 9:14 (ESV)
+> how much more will the blood of Christ, **who through the eternal Spirit offered himself without blemish to God**, purify our conscience from dead works to serve the living God. — Hebrews 9:14 (ESV)
 
 ### Requirements to be an Heir
 
 The Bible teaches that **only the righteous can inherit God's kingdom**:
 
-> Or do you not know that **the unrighteous will not inherit** [the kingdom of God](https://kingdom.ofgod.info)? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God. —1 Corinthians 6:9-10 (ESV)
+> Or do you not know that **the unrighteous will not inherit** [the kingdom of God](https://kingdom.ofgod.info)? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God. — 1 Corinthians 6:9-10 (ESV)
 
-> Now the works of the flesh are evident... I warn you, as I warned you before, that **those who do such things will not inherit the kingdom of God**. —Galatians 5:19-21 (ESV)
+> Now the works of the flesh are evident... I warn you, as I warned you before, that **those who do such things will not inherit the kingdom of God**. — Galatians 5:19-21 (ESV)
 
 Jesus' sinlessness qualified Him to inherit not merely as a beneficiary, but as **THE heir who rules**. He is appointed **Lord** over the kingdom:
 
-> ...that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that **Jesus Christ is Lord**, to the glory of God the Father. —Philippians 2:10-11 (ESV)
+> ...that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that **Jesus Christ is Lord**, to the glory of God the Father. — Philippians 2:10-11 (ESV)
 
-> Jesus Christ... the **ruler of kings on earth**... made us a **kingdom**, priests to his God and Father... —Revelation 1:5-6 (ESV)
+> Jesus Christ... the **ruler of kings on earth**... made us a **kingdom**, priests to his God and Father... — Revelation 1:5-6 (ESV)
 
-> For all things are yours... and you are Christ's, and **Christ is God's**. —1 Corinthians 3:21-23 (ESV)
+> For all things are yours... and you are Christ's, and **Christ is God's**. — 1 Corinthians 3:21-23 (ESV)
 
 If Jesus was God Himself, He would already own everything. Yet Scripture prophesied that Jesus would **inherit** from God (Psalm 2:7-11 (ESV)). This proves Jesus is distinct from God the Father.
 
@@ -319,7 +319,7 @@ If Jesus was God Himself, He would already own everything. Yet Scripture prophes
 
 Believers, by contrast, do not inherit God's kingdom because of personal sinlessness. We were once among the unrighteous who could not inherit (1 Corinthians 6:9-10 (ESV)). But through faith in Christ, we are "washed, sanctified, justified in the name of the Lord Jesus Christ" (1 Corinthians 6:11 (ESV)) and **adopted as sons**:
 
-> For **all** who are led by [the Spirit of God](trinity/holy-spirit.md) are **sons of God**. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom **we** cry, "Abba! Father!" The Spirit himself bears witness with our spirit that **we are children of God**, and if children, then heirs — **heirs of God** and **fellow heirs with Christ**, provided we suffer with him in order that we may also be glorified with him. —Romans 8:14-17 (ESV)
+> For **all** who are led by [the Spirit of God](trinity/holy-spirit.md) are **sons of God**. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom **we** cry, "Abba! Father!" The Spirit himself bears witness with our spirit that **we are children of God**, and if children, then heirs — **heirs of God** and **fellow heirs with Christ**, provided we suffer with him in order that we may also be glorified with him. — Romans 8:14-17 (ESV)
 
 Notice the distinction: We are **fellow heirs WITH Christ**, not independent heirs. We inherit as **participants** in the kingdom under Christ's lordship, not as lords ourselves.
 
@@ -381,7 +381,7 @@ Mary had no husband, and the Holy Spirit impregnated her. This technically makes
 
 Interestingly, Luke's genealogy calls Adam "the son of God":
 
-> ...the son of Enos, the son of Seth, **the son of Adam, the son of God**. —Luke 3:38 (ESV)
+> ...the son of Enos, the son of Seth, **the son of Adam, the son of God**. — Luke 3:38 (ESV)
 
 When God formed Adam from the dust of the earth (Genesis 2:7 (ESV)), Adam had no biological parents. Yet in ancient biblical language, someone created from dust could be called a "son of God." If this is the case, then Jesus — created in the womb of a woman — could also technically be called a "son of God."
 
@@ -444,7 +444,7 @@ The question before you is deeply personal: What does it mean to follow Scriptur
 
 For centuries, church tradition has taught the [Trinity](trinity.md) doctrine. Councils formulated creeds to systematize theology. But the apostle John didn't write his gospel so we would believe in the Trinity. He wrote it with a clear purpose:
 
-> These are written **so that you may believe that Jesus is the Christ, the Son of God**, and that by believing **you may have life in his name**. —John 20:31 (ESV)
+> These are written **so that you may believe that Jesus is the Christ, the Son of God**, and that by believing **you may have life in his name**. — John 20:31 (ESV)
 
 John didn't say "believe Jesus is God the Son" or "believe in the Trinity." He said believe Jesus is **the Son of God** — the one sent by the Father, the worthy heir, the Lord appointed to rule.
 
