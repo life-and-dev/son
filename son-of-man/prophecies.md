@@ -3,7 +3,7 @@ description: Old Testament prophets consistently expected a fully human Messiah 
 keywords: Messiah prophecies, human Christ, Jewish expectations, servant of God, prophetic testimony, Isaiah 53, Davidic lineage, incarnation debate
 ---
 
-# A human Christ was prophesied
+# A Human Christ was Prophesied
 
 Many Jews reject Christianity because they expect a human Messiah (Christ), while the majority of [Christians](https://eternal.family.net.za/bible/concepts/christian) teach that [Jesus is God](../son-as-god.md) or a "god-man" with both divine and human natures. This doctrine clashes with the Jewish Tanakh that teaches [there is only one God](../shema.md). Jewish sources explicitly affirm that [the Messiah will be "born of human parents" with "normal physical attributes"](https://www.simpletoremember.com/articles/a/jewsandjesus/#5), ["not a demi-god"](https://aish.com/why-jews-dont-believe-in-jesus/), and that the idea of God taking human form is considered idolatry. 
 
