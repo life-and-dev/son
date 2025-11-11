@@ -146,7 +146,7 @@ The other authors also introduce Jesus [distinct from God](https://eternal.famil
 
 The phrase "***a*** son of man" refers to any general human throughout the Hebrew Old Testament, for example Numbers 23:19; Job 25:6, 35:8; Psalms 146:3; Jeremiah 49:18,33; Ezekiel 2:1,3,6,8; Daniel 8:17
 
-But "***the*** Son of Man" refers to the prophesied [Christ](https://eternal.family.net.za/god/son/christ). "Man" refers to "Adam" (Genesis 1:27; 2:7-8,15-23) and [God gave His word](https://eternal.family.net.za/bible/concepts/word) in Genesis 3:15 on what the Christ as "the woman's offspring" will accomplish. This term is also used in Daniel 7:13 in his prophecy about Christ. This highlights that the Jews expected [a human Christ](https://eternal.family.net.za/god/son/essence/of-man/human). Throughout the Gospels Jesus repeatedly referred to himself as "***the*** Son of Man" (Matthew 13:41), which implies he is "the" prophesied **man** (Matthew 16:27-28; 24:37-44; Luke 17:22-30).
+But "***the*** Son of Man" refers to the prophesied [Christ](https://kingdom.ofgod/christ). "Man" refers to "Adam" (Genesis 1:27; 2:7-8,15-23) and [God gave His word](word.md) in Genesis 3:15 on what the Christ as "the woman's offspring" will accomplish. This term is also used in Daniel 7:13 in his prophecy about Christ. This highlights that the Jews expected [a human Christ](son-of-man/human.md) with real human [limitations](son-of-man-/limitations.md). Throughout the Gospels Jesus repeatedly referred to himself as "***the*** Son of Man" (Matthew 13:41), which implies he is "the" prophesied **man** (Matthew 16:27-28; 24:37-44; Luke 17:22-30).
 
 The phrase "God as the Son" does not exist in the Bible. However, many have identified Jesus as "the Son of God", for example:
 
@@ -167,14 +167,14 @@ The phrase "God as the Son" does not exist in the Bible. However, many have iden
 | Author of Hebrews | the Son of God                        | Hebrews 1:1-2, 4:14                                                      |
 
 The way people interacted and treated Jesus also hint that they did not believe he was God, for example:
-* [Jesus's close disciples doubted Jesus.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 14:25-33; Mark 6:35-37)
-* [Judas Iscariot sold Jesus.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:14-16; Mark 14:10-11)
-* [Jesus's close disciples forsook him, which shows they did not believe he was in control as God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:34-35; Mark 14:27-29)
-* [Jesus's close disciples did not take him seriously.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Mark 14:32-42)
-* [Peter argued with Jesus, something you do not do with your God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (John 13:8-17)
-* [Thomas did not believe that Jesus was omnipresent.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (John 14:8-9)
-* [Peter denied Jesus, which shows he did not believe Jesus was in control as God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Luke 22:55-62; John 18:15-18)
-* [The disciples were surprised to see Jesus alive, which shows they did not believe he was an immortal God.](https://eternal.family.net.za/god/son/essence/of-man/human#jesus-own-disciples-treated-him-like-a-human) (Luke 24:13-32; John 20:25)
+* [Jesus's close disciples doubted Jesus.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 14:25-33; Mark 6:35-37)
+* [Judas Iscariot sold Jesus.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:14-16; Mark 14:10-11)
+* [Jesus's close disciples forsook him, which shows they did not believe he was in control as God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:34-35; Mark 14:27-29)
+* [Jesus's close disciples did not take him seriously.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Mark 14:32-42)
+* [Peter argued with Jesus, something you do not do with your God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (John 13:8-17)
+* [Thomas did not believe that Jesus was omnipresent.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (John 14:8-9)
+* [Peter denied Jesus, which shows he did not believe Jesus was in control as God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Luke 22:55-62; John 18:15-18)
+* [The disciples were surprised to see Jesus alive, which shows they did not believe he was an immortal God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Luke 24:13-32; John 20:25)
 
 Now, some argue that Jesus had a "dual-nature" as "the Son of Man" and "the Son of God". If this was true:
 * then Adam would also have a "dual-nature" as "the son of God" (Luke 3:38) and
@@ -182,7 +182,7 @@ Now, some argue that Jesus had a "dual-nature" as "the Son of Man" and "the Son 
 
 Instead:
 
-* Jesus said that [he is a man](https://eternal.family.net.za/god/son/essence/of-man/human) (John 8:39-40)
+* Jesus said that [he is a man](son-of-man/human.md) (John 8:39-40)
 * Jesus said that [he is not God](https://eternal.family.net.za/god/son/essence/not-god#jesus-denies-being-god) (Matthew 19:17; John 5:19,43-47; 8:49-50,54; 17:1-3)
 * Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17) 
 * Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
@@ -217,8 +217,8 @@ It is a paradox to claim that Jesus is simultaneously 100% God and 100% human be
 | God                                                                                                  | Jesus                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [God is eternal](https://eternal.family.net.za/god/father/time) (Psalm 90:2)                                                      | Jesus had a "genesis" which means beginning (Matthew 1:17-21; Luke 1:26-35)                                           |
-| There was no period where God was temporary not God (Isaiah 40:27; Romans 16:26)                     | [Jesus was limited in many aspects](https://eternal.family.net.za/god/son/essence/limitations)                                                     |
-| God is Spirit (John 4:21-24) and not human (Numbers 23:19)                                           | [Jesus is human](https://eternal.family.net.za/god/son/essence/of-man/human) (John 1:30; Romans 5:15-17; 1 Timothy 2:5-7; 1 Corinthians 15:21-22)  |
+| There was no period where God was temporary not God (Isaiah 40:27; Romans 16:26)                     | [Jesus was limited in many aspects](son-of-man/limitations.md)                                                     |
+| God is Spirit (John 4:21-24) and not human (Numbers 23:19)                                           | [Jesus is human](son-of-man/human.md) (John 1:30; Romans 5:15-17; 1 Timothy 2:5-7; 1 Corinthians 15:21-22)  |
 | God forms babies in a womb (Psalm 139:13-14)                                                         | Jesus was a baby in a womb (Matthew 1:18; Galatians 4:4)                                                              |
 | God is perfect (Matthew 5:48) and never changes (Malachi 3:6)                                        | Jesus had to grow (Luke 2:52; Hebrews 5:8-9)                                                                          |
 | [God has never been fully seen](https://eternal.family.net.za/god/father/appearance) (Exodus 33:20; John 1:18; 1 Timothy 6:13-16) | Jesus was seen and touched (Luke 24:38-43)                                                                            |
