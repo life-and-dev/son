@@ -1,65 +1,65 @@
 ---
-description: Examines whether the three men who appeared to Abraham in Genesis 18 represent the Trinity or were angels acting as messengers of the LORD.
-keywords: Genesis 18, three men, Abraham, angels, YHVH, Trinity, incarnation, Sodom
+description: Examines whether Abraham's three visitors in Genesis 18 were the Trinity or divine messengers acting under God's authority.
+keywords: Genesis 18 visitors, Abraham three men, Trinity debate, Angel of the LORD, divine messengers, Genesis 19 angels, theophany, YHVH appearance
 ---
 
 # The 3 that appeared to Abraham
 
-Genesis 18 has generated theological debate regarding whether the three men who appeared to Abraham represent the Trinity. God in three distinct persons. The argument appears compelling at first glance. The text says "the LORD appeared" (singular), yet three men showed up at Abraham's tent. This has led some to interpret the passage as an early revelation of [the Godhead](https://eternal.family.net.za/bible/concepts/godhead) in human form.
+Genesis 18 has generated theological debate regarding whether the three men who appeared to Abraham represent the Trinity. God in three distinct persons. The argument appears compelling at first glance. The text says "the LORD appeared" (singular), yet three men showed up at Abraham's tent. This has led some to interpret the passage as an early revelation of [the Godhead](../../bible/concepts/godhead.md) in human form.
 
-> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." -- Genesis 18:1-3 (ESV)
+> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
 
 A closer examination of the passage and its context reveals that this interpretation raises more questions than it answers. If Abraham truly saw God the Father in physical form, how does that harmonize with Jesus' statement that "no one has ever seen God" (John 1:18 (ESV))? Why does the very next chapter explicitly call two of these visitors "angels" (Genesis 19:1 (ESV))? 
 
 ## Abraham recognized YHVH
 
-> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHVH](https://eternal.family.net.za/god/father/name))*. -- Genesis 18:22 (ESV)
+> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHVH](https://eternal.family.net.za/god/father/name))*. — Genesis 18:22 (ESV)
 
 However, if Abraham was physically standing before the Father, it could contradict Jesus' words:
 
-> [No one has ever seen God](https://eternal.family.net.za/god/father/appearance); the only God, who is at **the Father’s side**, he has made him known. -- John 1:18 (ESV)
+> [No one has ever seen God](https://eternal.family.net.za/god/father/appearance); the only God, who is at **the Father's side**, he has made him known. — John 1:18 (ESV)
 
-Some use these verses to prove that this "man" referred as the LORD (YHVH) could be [an early incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation) and because the LORD (YHVH) is God, they argue that this proves that [Jesus is God](https://eternal.family.net.za/god/son/essence). Possible explanations:
+Some use these verses to prove that this "man" referred to as the LORD (YHVH) could be [an early incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation), and because the LORD (YHVH) is God, they argue that this proves that [Jesus is God](https://eternal.family.net.za/god/son/essence). Possible explanations:
 
 1. Some believe Abraham was dreaming or seeing a vision while sleeping under the "oaks of Mamre" during his midday nap. However, the text does not confirm this. Sodom was really destroyed. It was not Abraham's imagination.
 2. The "man" was most likely an angel (Genesis 19:1 (ESV)) appearing in the form of a "man" but speaking on behalf of the LORD (YHVH), just as prophets often did. When Abraham addressed "the LORD," he was speaking to the LORD because the messenger spoke His words with His authority. Similarly, when an ambassador speaks, we say "France announced" or "The President said." The ambassador physically stands before us, but represents someone else entirely. The messenger's physical presence doesn't make them the one they represent.
 
-The reason why there are great confusion regarding this passage is because of the division between Genesis chapter 18 and 19 (that did not exist in the original text). In the next chapter we read:
+The reason why there is great confusion regarding this passage is because of the division between Genesis chapter 18 and 19 (that did not exist in the original text). In the next chapter we read:
 
-> The **two angels** came to Sodom in the evening, and Lot was sitting in the gate of Sodom. -- Genesis 19:1 (ESV)
+> The **two angels** came to Sodom in the evening, and Lot was sitting in the gate of Sodom. — Genesis 19:1 (ESV)
 
-This implies the 3rd "man" stayed behind with Abraham to continue the conversation at the end of Genesis 18. No text clearly specifies what the 3rd "man" was. 
+This implies that the 3rd "man" stayed behind with Abraham to continue the conversation at the end of Genesis 18. No text clearly specifies what the 3rd "man" was. 
 
-Since Abraham addressed the 3rd "man" as the LORD (YHVH), it is commonly assumed the 3rd man was YHVH Himself. However, several considerations challenge this assumption:
+Since Abraham addressed the 3rd "man" as the LORD (YHVH), it is commonly assumed that the 3rd man was YHVH Himself. However, several considerations challenge this assumption:
 
 * If this was true, then YHVH's full glory would have killed Abraham (Exodus 33:20 (ESV)).
 * There are also no other examples in the Bible where YHVH appeared as a "man" to anyone (Numbers 23:19 (ESV)).
 * YHVH is not a shape-shifter (Malachi 3:6 (ESV)).
 * Often YHVH communicated through [messengers](https://eternal.family.net.za/bible/concepts/angel) like angels, prophets, scripture and even nature, but the times when He "appears", He does not look like an ordinary man whom one can invite for dinner like Abraham did. For example:
   * Genesis 3:8 (ESV): Adam and Eve only heard and experienced God's presence
-  * Exodus 24:9-12 (ESV): Moses and the leaders of Israel only saw God's feet and heard His voice. Later Moses, requested to see more of God, which was denied (Exodus 33:15-20 (ESV))
-  * Daniel 7:10 (ESV): Daniel saw a vision of "the Ancient of Days" as someone with a white garment and hair, but with fiery flames, burning wheels and streams that came forth from Him. Definitely not an ordinary "man".
+  * Exodus 24:9-12 (ESV): Moses and the leaders of Israel only saw God's feet and heard His voice. Later Moses requested to see more of God, which was denied (Exodus 33:15-20 (ESV))
+  * Daniel 7:10 (ESV): Daniel saw a vision of "the Ancient of Days" as someone with white garment and hair, but with fiery flames, burning wheels, and streams that came forth from Him. Definitely not an ordinary "man".
   * Mark 1:9-11 (ESV): The people only heard God and saw His spirit "like a dove".
   * Acts 7:49 (ESV): Stephen saw God, but did not identify Him as another "man" next to Jesus.
-  * Revelation: John saw a vision of God and described Him as the One Who sat on the throne, but John only describes His throne and what he sees around the throne. It is possibly that the light radiating from God was so intense that he could not properly see Him.
+  * Revelation: John saw a vision of God and described Him as the One Who sat on the throne, but John only describes His throne and what he sees around the throne. It is possible that the light radiating from God was so intense that he could not properly see Him.
 
 ## At least 2 of the men were angels
 
 The 2 angels also appeared as normal "men" to the men of Sodom:
 
-> But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter: And they called unto Lot, and said unto him, "Where are the **men** which came in to thee this night? Bring them out unto us, that we may know them." -- Genesis 19:4-5 (KJV)
+> But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter: And they called unto Lot, and said unto him, "Where are the **men** which came in to thee this night? Bring them out unto us, that we may know them." — Genesis 19:4-5 (KJV)
 
-In Genesis 19:12 (ESV) these "angels" are referred again as "men".
+In Genesis 19:12 (ESV), these "angels" are referred to again as "men".
 
-> Then **the men** said to Lot... "For **we are about to destroy this place**, because the outcry against its people has become great before the LORD, and **the LORD has sent us** to destroy it." -- Genesis 19:12-13 (ESV)
+> Then **the men** said to Lot... "For **we are about to destroy this place**, because the outcry against its people has become great before the LORD, and **the LORD has sent us** to destroy it." — Genesis 19:12-13 (ESV)
 
 These angels were acting under the authority of the LORD, and they referred to the LORD as a separate superior God. For example:
 
-> Then **the LORD** rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven; -- Genesis 19:24 (ESV)
+> Then **the LORD** rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven; — Genesis 19:24 (ESV)
 
-Even in modern English we don't blame the individual soldier who attacks a country. We say something like "Russia attacked Ukraine" as the Russian soldiers acted under the command of the Russian government. In the same way these angels acted under the command of "the LORD".
+Even in modern English, we don't blame the individual soldier who attacks a country. We say something like "Russia attacked Ukraine" as the Russian soldiers acted under the command of the Russian government. In the same way, these angels acted under the command of "the LORD".
 
-Lot also never directly addressed these angels as "YHVH", but as "Lords" in lowercase (Genesis 19:2 (ESV)) which is a form of respect to someone important.
+Lot also never directly addressed these angels as "YHVH", but as "Lords" in lowercase (Genesis 19:2 (ESV)), which is a form of respect to someone important.
 
 ## Common Objections Addressed
 
