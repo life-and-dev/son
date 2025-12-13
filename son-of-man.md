@@ -39,7 +39,7 @@ Then God gave [His Word](word.md) to Eve:
 >
 > — Genesis 3:15 (ESV, with interpretive notes added for clarity)
 
-The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, He promised that Eve's offspring would do that.
+The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, [He promised that Eve's offspring would bruise the devil's head](https://prophecies.ofgod.info/messianic/genesis-3-15).
 
 When Jesus asked the question:
 
