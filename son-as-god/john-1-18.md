@@ -3,7 +3,7 @@ description: Analysis of John 1:18 translation variations showing theos can mean
 keywords: john 1:18, theos, translation, NIV, KJV, interlinear, trinity, messiah, father, son of god
 ---
 
-# John 1:18
+# John 1:18 ("who is himself God")
 
 > No one has ever seen God, but the one and only Son, ***who is himself God*** and is in closest relationship with the Father, has made him known. — John 1:18 (NIV)
 

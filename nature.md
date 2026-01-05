@@ -338,20 +338,20 @@ Praying or acting "in the name of Jesus" is no way of addressing Jesus. In moder
 
 As you reflect on this evidence, consider: **How does your understanding of Jesus's nature affect your faith?**
 
-If Jesus is God Himself, you worship a deity who experienced human limitations firsthand: Who knows hunger, pain, temptation, and even the *feeling of separation* from divinity. Your salvation rests on God's willingness to humble Himself and take human form to rescue His creation.
+If Jesus is God Himself, you worship a deity Who experienced human limitations firsthand like hunger, pain and temptations. Your salvation rests on God's willingness to humble Himself and take human form to rescue His creation.
 
 If Jesus is the Son of God (fully human but uniquely empowered by the Father), you follow a man who perfectly represented God and set an achievable standard for holiness. Your salvation rests on God's love being so great that He gave His only beloved son, watching him suffer and die to redeem the world (John 3:16).
 
 Both perspectives magnify God's love, though in different ways. What matters most is not that you perfectly comprehend the metaphysics of Christ's nature, but that you trust in His work and follow His teachings. Remember, Jesus converted people who simply believed he was the Christ, the son of God (John 20:31). It was not necessary for people to understand the Trinity.
 
-**Don't rely solely on creeds, traditions, or even this article.** Examine the Scriptures yourself. Pray for wisdom (James 1:5). Consider the evidence with an open heart, even if it challenges what you've always believed. The truth is not afraid of investigation.
+**Don't rely solely on [creeds](https://church.ofgod.info/evolution), traditions, or even this article.** Examine the Scriptures yourself. Pray for wisdom (James 1:5). Consider the evidence with an open heart, even if it challenges what you've always believed. The truth is not afraid of investigation.
 
 Ask yourself:
 - Does your view of Jesus draw you closer to God or create theological confusion?
 - Does it help you follow Jesus's example, or make it an impossible task?
 - Does it align with the full counsel of Scripture, or only selected verses?
 
-Ultimately, your relationship with God through Christ matters more than winning a theological debate. Whether you conclude Jesus is "God the Son" or "the Son of God", let your understanding lead you to worship God in spirit and truth (John 4:23-24) and to love others as the Christ set the example.
+Ultimately, your relationship with [our Father God](https://ofgod.info) matters more than winning a theological debate. Whether you conclude Jesus is "God the Son" or "the Son of God", let your understanding lead you to worship God in spirit and truth (John 4:23-24) and to love others as the Christ set the example.
 
 ---
 
