@@ -29,7 +29,7 @@ Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern Engli
 
 > “[The Spirit](/god/spirit) of **[the Lord God](/god/father/name)** is upon me, because the **LORD** ([YHVH](/god/father/name)) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
 
-> Then he *(Jesus)* closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him. And He began to say to them, “Today this Scripture is fulfilled in your hearing.” -- Luke 4:17-21 (NKJV)
+> Then he *(Jesus)* closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him. And He began to say to them, “Today this Scripture is fulfilled in your hearing.” — Luke 4:17-21 (NKJV)
 
 Here Jesus himself announced that this prophecy had been fulfilled in their presence which means that Isaiah 61 was talking about Jesus.
 
@@ -39,7 +39,7 @@ If Jesus was the ["Lord God" or "YHVH"](/god/father/name) of the Old Testament, 
 
 [Daniel did not see Jesus as God](/god/son/essence/as-god/prophecies/daniel), but testifies that he saw "[the son of man](/god/son/essence/of-man/human)" coming to "[the Ancient of Days](/god/father/ancient-of-days)" and that he was "presented before Him" as a separate being:
 
-> I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and **he came to** the Ancient of Days and was **presented before Him**. And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed. -- Daniel 7:13-14 (ESV)
+> I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and **he came to** the Ancient of Days and was **presented before Him**. And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed. — Daniel 7:13-14 (ESV)
 
 There are many more [prophecies that identifies Jesus distinct from God](prophecies.md#jesus-is-distinct-from-god).
 
@@ -47,7 +47,7 @@ There are many more [prophecies that identifies Jesus distinct from God](prophec
 
 Luke wrote:
 
-> And Jesus grew in wisdom and stature, and in **favor with God** and man. -- Luke 2:52 (NIV)
+> And Jesus grew in wisdom and stature, and in **favor with God** and man. — Luke 2:52 (NIV)
 
 Either Jesus suffered from a low self-esteem or he is not God.
 
@@ -102,7 +102,7 @@ Why would Jesus refer to a separate God from him at a different location if he i
 
 Some my argue, Jesus was setting an example for his disciples, but when Jesus also rebuked his disciples with these words:
 
-> Or do you think that I cannot now **pray to my Father**, and He will provide Me with more than twelve legions of angels? -- Matthew 26:53 (NKJV)
+> Or do you think that I cannot now **pray to my Father**, and He will provide Me with more than twelve legions of angels? — Matthew 26:53 (NKJV)
 
 Is Jesus setting an example that his disciples should pray for more than twelve legions of angels to come and assist?
 
@@ -110,7 +110,7 @@ Yet, Jesus has to pray to get this request granted. If he was God Himself, he wo
 
 Jesus also made the following statement while he was on earth:
 
-> Do not call **anyone on earth** your father; for One is **your Father, He who is in heaven**. -- Matthew 23:9 (ESV)
+> Do not call **anyone on earth** your father; for One is **your Father, He who is in heaven**. — Matthew 23:9 (ESV)
 
 This disqualifies Jesus from being "the Father" by his own words. Jesus never related to anyone as his or her "Father". Instead, he said:
 
@@ -130,7 +130,7 @@ When the Samaritan woman argue with Jesus about which race God is:
 >
 > The woman said to him, “**I know that [Messiah](/god/son/christ) is coming** (he who is called Christ). **When he comes, [he will tell us all things](/god/son/purpose).**”
 >
-> Jesus said to her, “**I who speak to you am he.**” -- John 4:21-26 (ESV)
+> Jesus said to her, “**I who speak to you am he.**” — John 4:21-26 (ESV)
 
 Jesus refer to God as a distinct spirit Whom should be worshipped. 
 
@@ -189,7 +189,7 @@ However, these clever reasoning fail to explain:
 * Why it was necessary to cry out "with a loud voice" if he was only talking to himself? 
 * If his intention was to make a public declaration through his rhetorical question, then it was not very effective because nobody said afterward: *"Truly Jesus did actually love us"*, or *"Truly we just killed our God"*, but instead we read:
 
-> They were filled with awe and said, “Truly this was the Son [of](https://son.ofgod.info) God!” -- Matthew 27:54 (ESV)
+> They were filled with awe and said, “Truly this was the Son [of](https://son.ofgod.info) God!” — Matthew 27:54 (ESV)
 
 Again, even this shows that the people present at these events realised that they just killed a distinct person from God whom God dearly loved.
 
@@ -197,7 +197,7 @@ Again, even this shows that the people present at these events realised that the
 
 A few days later Mark testifies that Jesus had sat separately from God and not "as God" in the heaven:
 
-> So then, after the Lord had spoken to them, He was received up into heaven, and sat down **at the right hand** of God. -- Mark 16:19 (NKJV)
+> So then, after the Lord had spoken to them, He was received up into heaven, and sat down **at the right hand** of God. — Mark 16:19 (NKJV)
 
 This fulfils the prophecy:
 
@@ -222,7 +222,7 @@ Stephan noticed that Jesus was standing next God as a separate person. However, 
 
 "God anointed Jesus" which does not make sense if Jesus and God is the same being:
 
-> John preached: how **God anointed Jesus** of Nazareth with the Holy Spirit and with power... -- Acts 10:38 (NKJV)
+> John preached: how **God anointed Jesus** of Nazareth with the Holy Spirit and with power... — Acts 10:38 (NKJV)
 
 An apostle or priests minister to God. They are not God themselves. 
 
@@ -230,17 +230,17 @@ An apostle or priests minister to God. They are not God themselves.
 
 Likewise, Paul confirms that Jesus is the mediator **between** God and humans which does not make sense if Jesus **is** God Himself:
 
-> For there is one God and one Mediator **between** God and men, the **man** Christ Jesus -- 1 Timothy 2:5 (NKJV)
+> For there is one God and one Mediator **between** God and men, the **man** Christ Jesus — 1 Timothy 2:5 (NKJV)
 
 Christ is interceding for us at the right hand of God. If Christ is God, then this would not make sense.
 
-> It is Christ who died, and furthermore is also risen, who is even **at the right hand of God, who also makes intercession for us**. -- Romans 8:34 (NKJV)
+> It is Christ who died, and furthermore is also risen, who is even **at the right hand of God, who also makes intercession for us**. — Romans 8:34 (NKJV)
 
 ### Author of Hebrews
 
 However, the author of Hebrews believed that Jesus is our priest:
 
-> Therefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus, **who was faithful to Him Who appointed him**, as Moses also was faithful in all His house. -- Hebrews 3:1-2 (NKJV)
+> Therefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus, **who was faithful to Him Who appointed him**, as Moses also was faithful in all His house. — Hebrews 3:1-2 (NKJV)
 
 ### John of Patmos
 

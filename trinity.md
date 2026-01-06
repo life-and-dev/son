@@ -26,7 +26,7 @@ While some unbiblical words had to be invented to explain the Trinitarian Doctri
 
 Catholic scholars admit that Tertullian was the FIRST writer to use the term "trinity" (Latin: "trinitas").
 
-> Tertullian originated new theological concepts and advanced the development of early Church doctrine. He is perhaps most famous for being the first writer in Latin known to use the term trinity (Latin: trinitas). -- [Wikipedia](https://en.wikipedia.org/wiki/Tertullian) ("Tertullian, Originator of the Trinity", From Logos to Trinity, Cambridge University Press, pp. 190–220, 2012-01-30, doi:10.1017/cbo9781139003971.010, ISBN 9781139003971, retrieved 2022-08-20)
+> Tertullian originated new theological concepts and advanced the development of early Church doctrine. He is perhaps most famous for being the first writer in Latin known to use the term trinity (Latin: trinitas). — [Wikipedia](https://en.wikipedia.org/wiki/Tertullian) ("Tertullian, Originator of the Trinity", From Logos to Trinity, Cambridge University Press, pp. 190–220, 2012-01-30, doi:10.1017/cbo9781139003971.010, ISBN 9781139003971, retrieved 2022-08-20)
 
 Some believe this came from pagan influences involving worship of three gods. This concept was later developed in Origen's theology (the greatest scholar and father of Latin Catholic theology, 180-254 AD).
 
@@ -42,7 +42,7 @@ Timeline as proposed by Dr. Dale Tuggy:
 
 Also known as ["Godhood"](https://eternal.family.net.za/bible/concepts/godhead).
 
-> the nature of God especially as existing in three persons -- [Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/godhead)
+> the nature of God especially as existing in three persons — [Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/godhead)
 
 [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) was [the first who added this word](https://en.wikipedia.org/wiki/Godhead_in_Christianity) to the Bible in 14th century to explain the Trinity.
 
@@ -83,7 +83,7 @@ Trinitarians argue that "God is one" actually means ["God is unified"](https://e
 
 Some Christians claim that the 3 men who appeared to Abraham in Genesis 18 are the Godhead in 3 different persons:
 
-> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](trinity/abraham-3-visitors.md) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." -- Genesis 18:1-3 (ESV)
+> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](trinity/abraham-3-visitors.md) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
 
 Some argue that these [3 men](trinity/abraham-3-visitors.md) were the 3 members of [the Godhead](https://eternal.family.net.za/bible/concepts/godhead) that appeared to Abraham.
 
@@ -190,31 +190,31 @@ Paul mentions:
 * Lord Jesus Christ
 * ***but the Holy Spirit is missing***
 
-> Paul, a bondservant of **Jesus Christ**, called to be an apostle, separated to the gospel of **God** which He promised before through His Prophets in the Holy Scriptures, concerning **His son Jesus Christ our Lord**... -- Romans 1:1-3 (NKJV)
+> Paul, a bondservant of **Jesus Christ**, called to be an apostle, separated to the gospel of **God** which He promised before through His Prophets in the Holy Scriptures, concerning **His son Jesus Christ our Lord**... — Romans 1:1-3 (NKJV)
 
-> Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, to the church of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be saints, with all who in every place call on the name of Jesus Christ our Lord, both theirs and ours: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- 1 Corinthians 1:1-2 (NKJV)
+> Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, to the church of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be saints, with all who in every place call on the name of Jesus Christ our Lord, both theirs and ours: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — 1 Corinthians 1:1-2 (NKJV)
 
-> Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the church of God which is at Corinth, with all the saints who are in all Achaia: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- 2 Corinthians 1:1-2 (NKJV)
+> Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the church of God which is at Corinth, with all the saints who are in all Achaia: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — 2 Corinthians 1:1-2 (NKJV)
 
-> Paul, an apostle (not from men nor through man, but through Jesus Christ and **God the Father** who raised Him from the dead), and all the brethren who are with me, to the churches of Galatia: Grace to you and peace from **God the Father** and our **Lord Jesus Christ**, who gave Himself for our sins, that he might deliver us from this present evil age, according to the will of our **God and Father**, to whom be glory forever and ever. Amen -- Galatians 1:1-4 (NKJV)
+> Paul, an apostle (not from men nor through man, but through Jesus Christ and **God the Father** who raised Him from the dead), and all the brethren who are with me, to the churches of Galatia: Grace to you and peace from **God the Father** and our **Lord Jesus Christ**, who gave Himself for our sins, that he might deliver us from this present evil age, according to the will of our **God and Father**, to whom be glory forever and ever. Amen — Galatians 1:1-4 (NKJV)
 
-> Paul, an apostle of Jesus Christ by the will of God, to the saints who are in Ephesus, and faithful in Christ Jesus: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- Ephesians 1:1-2 (NKJV)
+> Paul, an apostle of Jesus Christ by the will of God, to the saints who are in Ephesus, and faithful in Christ Jesus: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — Ephesians 1:1-2 (NKJV)
 
-> Paul and Timothy, bondservants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with the bishops and deacons: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- Philippians 1:1-2 (NKJV)
+> Paul and Timothy, bondservants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with the bishops and deacons: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — Philippians 1:1-2 (NKJV)
 
-> Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the saints and faithful brethren in Christ who are in Colosse: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- Colossians 1:1-2 (NKJV)
+> Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the saints and faithful brethren in Christ who are in Colosse: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — Colossians 1:1-2 (NKJV)
 
-> Paul, Silvanus, and Timothy, to the church of the Thessalonians in **God the Father** and the **Lord Jesus Christ**. -- 1 Thessalonians 1:1 (ESV)
+> Paul, Silvanus, and Timothy, to the church of the Thessalonians in **God the Father** and the **Lord Jesus Christ**. — 1 Thessalonians 1:1 (ESV)
 
-> Paul, Silvanus, and Timothy, to the church of the Thessalonians in **God our Father** and the **Lord Jesus Christ**. -- 2 Thessalonians 1:1 (ESV)
+> Paul, Silvanus, and Timothy, to the church of the Thessalonians in **God our Father** and the **Lord Jesus Christ**. — 2 Thessalonians 1:1 (ESV)
 
-> Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope, to Timothy, my true child in the faith: Grace, mercy, and peace from **God the Father** and **Christ Jesus our Lord**. -- 1 Timothy 1:1-2 (ESV)
+> Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope, to Timothy, my true child in the faith: Grace, mercy, and peace from **God the Father** and **Christ Jesus our Lord**. — 1 Timothy 1:1-2 (ESV)
 
-> Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus, to Timothy, my beloved child: Grace, mercy, and peace from **God the Father** and **Christ Jesus our Lord**. -- 2 Timothy 1:1-2 (ESV)
+> Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus, to Timothy, my beloved child: Grace, mercy, and peace from **God the Father** and **Christ Jesus our Lord**. — 2 Timothy 1:1-2 (ESV)
 
-> Paul, a servant of God and aan apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness, in hope of eternal life, which God, who never lies, promised before the ages began and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior; To Titus, my true child in ma common faith: Grace and peace from **God the Father** and **Christ Jesus our Savior**. -- Titus 1:1-4 (ESV)
+> Paul, a servant of God and aan apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness, in hope of eternal life, which God, who never lies, promised before the ages began and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior; To Titus, my true child in ma common faith: Grace and peace from **God the Father** and **Christ Jesus our Savior**. — Titus 1:1-4 (ESV)
 
-> Paul, a prisoner for Christ Jesus, and Timothy our brother, to Philemon our beloved fellow worker and Apphia our sister and Archippus our fellow soldier, and the church in your house: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. -- Philemon 1:1-3 (ESV)
+> Paul, a prisoner for Christ Jesus, and Timothy our brother, to Philemon our beloved fellow worker and Apphia our sister and Archippus our fellow soldier, and the church in your house: Grace to you and peace from **God our Father** and the **Lord Jesus Christ**. — Philemon 1:1-3 (ESV)
 
 #### James name only 2 members of the Trinity
 
@@ -224,7 +224,7 @@ James mentions:
 * Lord Jesus Christ
 * ***but the Holy Spirit is missing***
 
-> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes in the Dispersion: Greetings. -- James 1:1 (ESV)
+> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes in the Dispersion: Greetings. — James 1:1 (ESV)
 
 #### Peter name only 2 members of the Trinity
 
@@ -246,7 +246,7 @@ However, in the context of 1 Peter:1, "the Spirit" is complementing the "blood",
 
 If the Spirit is proven to be "God" by this greeting, then the "blood" should also be a "god" making the Trinity 4 members not 3.
 
-> Simeon Peter, a servant and apostle of Jesus Christ, to those who have obtained aa faith of equal standing with ours by the righteousness of **our God** and **Savior Jesus Christ**: May grace and peace be multiplied to you in the knowledge of **God** and of **Jesus our Lord**. -- 2 Peter 1:1-2 (ESV)
+> Simeon Peter, a servant and apostle of Jesus Christ, to those who have obtained aa faith of equal standing with ours by the righteousness of **our God** and **Savior Jesus Christ**: May grace and peace be multiplied to you in the knowledge of **God** and of **Jesus our Lord**. — 2 Peter 1:1-2 (ESV)
 
 #### John name only 2 members of the Trinity
 
@@ -256,11 +256,11 @@ John mentions:
 * Jesus Christ the Father's Son
 * ***but the Holy Spirit is missing***
 
-> That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life — the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us — that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with **the Father** and with His son **Jesus Christ**. And we are writing these things so that our joy may be complete. -- 1 John 1:1-4 (ESV)
+> That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life — the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us — that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with **the Father** and with His son **Jesus Christ**. And we are writing these things so that our joy may be complete. — 1 John 1:1-4 (ESV)
 
-> The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth, because of the truth that abides in us and will be with us forever: Grace, mercy, and peace will be with us, from **God the Father** and from **Jesus Christ** the Father’s Son, in truth and love. -- 2 John 1:1-3 (ESV)
+> The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth, because of the truth that abides in us and will be with us forever: Grace, mercy, and peace will be with us, from **God the Father** and from **Jesus Christ** the Father’s Son, in truth and love. — 2 John 1:1-3 (ESV)
 
-> The elder to the beloved Gaius, whom I love in truth. -- 3 John 1:1 (ESV)
+> The elder to the beloved Gaius, whom I love in truth. — 3 John 1:1 (ESV)
 
 #### Jude name only 2 members of the Trinity
 
@@ -270,7 +270,7 @@ Jude mentions:
 * Jesus Christ
 * ***but the Holy Spirit is missing***
 
-> Jude, a servant of Jesus Christ and brother of James, to those who are called, beloved in **God the Father** and kept for **Jesus Christ**. -- Jude 1:1 (ESV)
+> Jude, a servant of Jesus Christ and brother of James, to those who are called, beloved in **God the Father** and kept for **Jesus Christ**. — Jude 1:1 (ESV)
 
 #### The author of Hebrew name only 2 members of the Trinity
 
@@ -280,7 +280,7 @@ The author mentions:
 * our Lord Jesus, the great shepherd
 * ***but the Holy Spirit is missing***
 
-> Now may the **God of peace** who brought again from the dead **our Lord Jesus, the great shepherd** of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do His will, working in us that which is pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. -- Hebrews 13:20-21 (ESV)
+> Now may the **God of peace** who brought again from the dead **our Lord Jesus, the great shepherd** of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do His will, working in us that which is pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. — Hebrews 13:20-21 (ESV)
 
 ### How God looks
 
