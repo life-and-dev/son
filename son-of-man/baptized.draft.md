@@ -1,6 +1,6 @@
 ---
 description: Explores the theological implications of Jesus's baptism by John, questioning whether a divine being who cannot repent would undergo a baptism of repentance.
-keywords: Jesus's baptism, John the Baptist, baptism of repentance, Numbers 23:19, Mark 1:9, Acts 19:4, sinless, repentance
+keywords: Jesus's baptism, John the Baptist, baptism of repentance, Numbers 23:19, Mark 1:9, Acts 19:4, sinless, repentance, humanity of Jesus
 ---
 # Jesus was baptized
 
@@ -42,6 +42,10 @@ Another common interpretation is that Jesus's baptism was an act of solidarity w
 
 > The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world! — John 1:29 (NIV)
 
+### Evidence of Human Mortality
+
+Some interpretations view Jesus's baptism as a clear indicator of his humanity. By submitting to a ritual designed for mortals who need to repent, Jesus was affirming his human nature. This perspective argues that a divine being, by definition, would have no need for such a ritual. Therefore, the act of baptism itself is seen as evidence that Jesus was a mortal man, subject to the same rituals and requirements as other human beings. This view is often held by those who see Jesus as a prophet or a great teacher, but not as a divine being.
+
 ## Conclusion
 
-The baptism of Jesus presents a theological puzzle. While the act appears to contradict the idea of a sinless divine being undergoing a baptism of repentance, theological interpretations offer various explanations. Whether seen as an act [to fulfill all righteousness](#to-fulfill-all-righteousness) or a profound act of [identification with sinners](#to-identify-with-sinners), the baptism of Jesus remains a significant event in Christian theology, marking the beginning of his public ministry and setting the stage for his ultimate sacrifice.
+The baptism of Jesus presents a complex theological question with no single, universally accepted answer. The event is interpreted in various ways: as an act [to fulfill all righteousness](#to-fulfill-all-righteousness), a profound gesture of [identification with sinners](#to-identify-with-sinners), or as [evidence of his humanity](#evidence-of-human-mortality). Each perspective offers a different understanding of Jesus's nature and the significance of his baptism, highlighting the rich diversity of theological thought on this important event.
