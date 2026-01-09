@@ -3,7 +3,7 @@ description: Examining whether Jesus should be called "God" in the absolute sens
 keywords: deity of Christ, Son of God vs Son as God, Trinity doctrine, biblical titles, Arian controversy, theological terminology, monotheistic communication, scriptural language
 ---
 
-# The Son as God
+# The Son As God
 
 I've studied church history and discovered something troubling. Throughout the centuries, believers were persecuted as heretics for calling Jesus anything less than God Almighty. The Arian controversy in the fourth century saw thousands condemned for questioning whether the Son possessed the exact same nature as the Father. The Inquisition later targeted anyone who dared to make distinctions between the Father and the Son.
 

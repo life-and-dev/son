@@ -3,7 +3,7 @@ description: Examining what 'the Word' in John 1 truly means through Greek lingu
 keywords: logos, John 1, Word of God, Greek linguistics, biblical interpretation, Jesus Christ, Trinity, apostolic testimony
 ---
 
-# The Word with God
+# The Word With God
 
 I was taught that "the Word" is another name for Jesus. That Jesus existed as "the Word" before he was born. That John 1:1 proves Jesus is God himself.
 
@@ -33,7 +33,7 @@ account, appearance, book, command, conversation, eloquence, flattery, grievance
 ### "The Word" According to Strong's Concordance
 
 |                   | Strong's Concordance                                 |
-|-------------------|------------------------------------------------------|
+| ----------------- | ---------------------------------------------------- |
 | logos             | a word (as embodying an idea), a statement, a speech |
 | Original Word     | λόγος, ου, ὁ                                         |
 | Part of Speech    | Noun, Masculine                                      |
@@ -47,7 +47,7 @@ account, appearance, book, command, conversation, eloquence, flattery, grievance
 The BDAG lexicon (the standard scholarly Greek-English dictionary) shows how "logos" is translated in various New Testament passages:
 
 | Translation | Scripture Example                                        |
-|-------------|----------------------------------------------------------|
+| ----------- | -------------------------------------------------------- |
 | account     | Matthew 12:36 - "give account on Judgment Day"           |
 | question    | Matthew 21:24 - "I will ask you one question"            |
 | message     | Luke 4:32 - "his message had authority"                  |
@@ -118,12 +118,12 @@ Peter uses "the word of God" and "His promise" interchangeably. The same word th
 
 ### Apostolic Consensus
 
-| Apostle          | Definition of "The Word of God"                     |
-|------------------|-----------------------------------------------------|
-| Peter (Acts)     | The definite plan and foreknowledge of God          |
-| Stephen          | God's promise announced by prophets                 |
-| Paul             | God's promise fulfilled in Jesus                    |
-| Peter (2 Peter)  | God's promise (creation and future)                 |
+| Apostle         | Definition of "The Word of God"            |
+| --------------- | ------------------------------------------ |
+| Peter (Acts)    | The definite plan and foreknowledge of God |
+| Stephen         | God's promise announced by prophets        |
+| Paul            | God's promise fulfilled in Jesus           |
+| Peter (2 Peter) | God's promise (creation and future)        |
 
 Notice the pattern: The early apostles **consistently** understood "the Word of God" as God's plan or promise about salvation through Jesus, not as Jesus himself being a pre-existent divine "Word" entity.
 
@@ -166,7 +166,7 @@ If John intended "the Word" in John 1 to mean "Jesus," we would expect him to us
 ### How John Defines "The Word"
 
 | Meaning of "word"                 | Scripture                                                                                                    |
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Jesus's spoken word/teaching      | John 2:22; 4:39,41,50; 5:24,38; 8:31,37,43,51,52,55; 10:34-48; 12:44-50; 14:23,24; 15:3,20,25; 17:6,14,17,20 |
 | saying/proverb                    | John 4:37; 6:60; 7:36,40                                                                                     |
 | God's word/Scripture              | John 10:35; 17:17                                                                                            |
@@ -317,7 +317,7 @@ This interpretation aligns with Paul's summary:
 ### John 1:1 - In the Beginning Was the Word
 
 | English   | Greek                                              | Lexicon                                                  | [Strong's Description](https://biblehub.com/strongs/john/1-1.htm)                                                                                                                   |
-|-----------|----------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------- | -------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IN        | [en](https://biblehub.com/greek/en_1722.htm)       | Preposition                                              | [In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.](https://biblehub.com/greek/1722.htm)                |
 | BEGINNING | [archē](https://biblehub.com/greek/arche__746.htm) | Noun - Dative Feminine Singular                          | [From archomai; a commencement, or chief.](https://biblehub.com/greek/746.htm)                                                                                                      |
 | WAS       | [ēn](https://biblehub.com/greek/e_n_1510.htm)      | Verb - Imperfect Indicative Active - 3rd Person Singular | [I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.](https://biblehub.com/greek/1510.htm)                        |
@@ -781,7 +781,7 @@ Based on comprehensive biblical evidence, **"The Word of God" is God's plan, pro
 ### 2. How Biblical Authors Use "The Word"
 
 | Author          | Definition                                  |
-|-----------------|---------------------------------------------|
+| --------------- | ------------------------------------------- |
 | John (Gospel)   | Sayings, teachings, prophecies, God's truth |
 | Peter           | God's definite plan and foreknowledge       |
 | Stephen         | God's promise announced by prophets         |

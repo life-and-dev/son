@@ -3,7 +3,7 @@ description: Examines whether Abraham's three visitors in Genesis 18 were the Tr
 keywords: Genesis 18 visitors, Abraham three men, Trinity debate, Angel of the LORD, divine messengers, Genesis 19 angels, theophany, YHVH appearance
 ---
 
-# The 3 that appeared to Abraham
+# The 3 That Appeared To Abraham
 
 Genesis 18 has generated theological debate regarding whether the three men who appeared to Abraham represent the Trinity. God in three distinct persons. The argument appears compelling at first glance. The text says "the LORD appeared" (singular), yet three men showed up at Abraham's tent. This has led some to interpret the passage as an early revelation of [the Godhead](../../bible/concepts/godhead.md) in human form.
 

@@ -3,7 +3,7 @@ description: What does "Son of God" really mean? Exploring biblical evidence for
 keywords: son of god meaning, god the son, biblical sonship, father son relationship jesus, jesus identity scripture, worthy heir, only begotten son, divine inheritance, jesus not god, monogenes meaning, jesus sinlessness, who is jesus
 ---
 
-# The Son of God
+# The Son Of God
 
 I grew up hearing people say "Jesus is God." But when I read the Bible, I noticed Jesus never claimed to be [the Son *as* God](#important-distinctions). Instead, he consistently said he is the Son **of** God. That small word, "of", changed everything for me. Was I missing something fundamental about [who Jesus really is](nature.md)? Let me share what I discovered.
 
@@ -64,7 +64,7 @@ Some Bible translations like the KJV state that Jesus is the "only begotten Son 
 The Greek word translated as "only begotten" is:
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/3439.htm) |
-|-------------------|-------------------------------------------------------------|
+| ----------------- | ----------------------------------------------------------- |
 | Original Word     | μονογενής, ές                                               |
 | Part of Speech    | Adjective                                                   |
 | Transliteration   | monogenés                                                   |
@@ -109,7 +109,7 @@ If one studies the root of the Greek word "monogenés":
 > monogenḗs (from 3411 /misthōtós, "one-and-only" and 1085 /génos, "offspring, stock") — [HELP Word-studies](https://biblehub.com/greek/3439.htm)
 
 |             | [NAS Exhaustive Concordance](https://biblehub.com/greek/3439.htm)                                                      |
-|-------------|------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Word origin | from [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) |
 | Definition  | only begotten                                                                                                          |
 

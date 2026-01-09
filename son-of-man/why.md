@@ -2,7 +2,7 @@
 description: Explore the theological significance of Jesus' humanity. Understand why Jesus had to be fully human to fulfill his role as the Last Adam and mediator.
 keywords: Jesus' humanity, Last Adam, Second Adam, mediator, Christology, Son of Man
 ---
-# Why Jesus Had to Be Human
+# Why Jesus Had To Be Human
 
 The nature of Jesus Christ has been a topic of theological debate for centuries. Was he fully God, fully man, or a unique combination of both? While the Bible affirms his divine nature, it places a profound emphasis on his humanity. This article explores the essential reasons why Jesus had to be human to fulfill God's plan of salvation.
 

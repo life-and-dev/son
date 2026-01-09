@@ -3,7 +3,7 @@ description: Explores whether the Angel of the LORD is Jesus in pre-incarnate fo
 keywords: Angel of the LORD, Christophany, pre-incarnate Jesus, Michael the Archangel, Old Testament theophanies, divine messenger, Jehovah Witness theology
 ---
 
-# The Son as the Angel of the LORD
+# The Son As The Angel Of The LORD
 
 I have wrestled with a question that many sincere believers face: 
 
@@ -75,13 +75,13 @@ The Israelites were warned that the angel will not pardon their disobedience aga
 
 If we compare "the angel of the LORD" with "the Son of God":
 
-| The angel of the LORD                                              | The Son of God                                                                                               |
-|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Was sent by God (Exodus 23:20)                                     | Was sent by God (John 7:16, 14:24)                                                                           |
+| The angel of the LORD                                              | The Son of God                                                                                                |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Was sent by God (Exodus 23:20)                                     | Was sent by God (John 7:16, 14:24)                                                                            |
 | God instructed His people to obey the angel (Exodus 23:20-25)      | We should obey Jesus (Deuteronomy 18:15,18-19; Matthew 17:5; Mark 9:7; Luke 9:35; John 8:31, 14:23, 15:10-15) |
-| Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                                                              |
-| Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                                                      |
-| Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)                                                   |
+| Acts and speak on behalf of God (Zechariah 1:13-14)                | Acts and speak on behalf of God (John 14:24,31)                                                               |
+| Can take iniquity (sin) away (Zechariah 3:1-10)                    | Can forgive sin against God (Mark 2:10)                                                                       |
+| Had some authority (e.g. order dressing Joshua) (Zechariah 3:1-10) | Has the highest authority in creation (Philippians 2:9-11)                                                    |
 | Obey God's commands (1 Chronicles 21:18)                           | Jesus also obeys God (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:24, 14:31)                                       |
 
 Therefore, some assume that the "Lord's angel" is some sort of [pre-incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation). However:
