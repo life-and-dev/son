@@ -3,7 +3,7 @@ description: Examines the biblical evidence that Jesus Christ was a human being,
 keywords: Jesus, human, man, God, deity of Christ, trinity, son of man, prophet, firstborn, immortal God
 ---
 
-# A Human Jesus
+# Jesus Is Human
 
 For centuries, a core tenet of mainstream Christianity has been the dual nature of Jesus Christ: *fully God and fully man*. This concept, however, presents a theological paradox. How can a being be simultaneously infinite and finite, immortal and mortal, all-knowing and limited in knowledge? The Bible itself contains descriptions that can be interpreted as conflicting. This apparent paradox necessitates a deeper investigation of the scriptures to understand what the prophets and apostles taught about the nature of the man, Jesus.
 

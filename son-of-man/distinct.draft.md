@@ -1,4 +1,4 @@
-# Jesus is from God
+# Jesus Interacted With God
 
 Jesus and God interacted with each other in various ways, for example:
 

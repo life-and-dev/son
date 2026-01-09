@@ -1,4 +1,4 @@
-# Jesus has a God
+# Jesus Has A God
 
 ## Jesus stated that he has a God
 

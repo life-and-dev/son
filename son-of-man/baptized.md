@@ -2,7 +2,7 @@
 description: Explores the theological implications of Jesus's baptism by John, questioning whether a divine being who cannot repent would undergo a baptism of repentance.
 keywords: Jesus's baptism, John the Baptist, baptism of repentance, Numbers 23:19, Mark 1:9, Acts 19:4, sinless, repentance, humanity of Jesus
 ---
-# Jesus was baptized
+# Jesus was Baptized
 
 The baptism of Jesus by John the Baptist is a pivotal event recorded in the Gospels. While the act itself is well-known, its theological significance has been a subject of deep discussion for centuries. Why would a sinless figure undergo a baptism meant for repentance, and what does this act reveal about his nature and mission?
 

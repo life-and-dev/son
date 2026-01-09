@@ -2,7 +2,7 @@
 description: Examines the biblical evidence for Jesus' limitations in knowledge, power, and presence, contrasting them with God's omnipotence, omniscience, and omnipresence, to clarify Jesus' human nature.
 keywords: Jesus limitations, Jesus knowledge, Jesus power, Jesus omnipresence, Holy Spirit, Son of Man, God's attributes, human nature of Jesus
 ---
-# Limitations of Jesus
+# Jesus Was Limited
 
 The scriptures describe God as almighty, omniscient, and omnipresent, without limit (Job 11:7, Luke 1:37). In contrast, the biblical accounts of Jesus of Nazareth portray a figure with distinct limitations. Jesus himself stated, "the Son can do nothing of his own accord" (John 5:19) and "I can do nothing on my own" (John 5:30). This presents a significant theological question regarding the nature of Jesus. This article examines the biblical evidence for Jesus' limitations in knowledge, power, authority, and presence to clarify how the scriptures define his nature in relation to God.
 

@@ -1,4 +1,4 @@
-# Jesus denies being God
+# Jesus Denies Being God
 
 All Gospel authors recorded that Jesus denied being God.
 
