@@ -2,6 +2,7 @@
 description: An exploration of Galatians 1:1, where Paul contrasts his apostleship as being 'not from men nor through man, but through Jesus Christ.'
 keywords: Galatians 1:1, Paul's apostleship, Jesus Christ, not through man, divine authority, apostle authority
 ---
+
 # Galatians 1:1 ("not man... but Jesus")
 
 In the opening of his letter to the Galatians, the Apostle Paul makes a powerful statement about the origin of his authority. He asserts that his apostleship is "not from men nor through man." This declaration raises an intriguing question: what exactly did Paul mean by this, and what does it reveal about his understanding of Jesus Christ's role in his divine commission? This article explores the nuances of this pivotal phrase in Galatians 1:1.
