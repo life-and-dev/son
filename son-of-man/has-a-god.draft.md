@@ -50,15 +50,15 @@ The apostles, who learned directly from Jesus, continued this understanding in t
 
 The Apostle Paul frequently used this specific phrasing in his letters to the early churches.
 
-> Blessed be the God and Father of our Lord Jesus Christ, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
+> Blessed be **the God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
 
-> ...that the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him... — Ephesians 1:17 (NKJV)
+> ...that **the God of our Lord Jesus Christ**, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him... — Ephesians 1:17 (NKJV)
 
-> ...that together you may with one voice glorify the God and Father of our Lord Jesus Christ. — Romans 15:6 (ESV)
+> ...that together you may with one voice glorify **the God and Father of our Lord Jesus Christ**. — Romans 15:6 (ESV)
 
-> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort... — 2 Corinthians 1:3 (ESV)
+> Blessed be **the God and Father of our Lord Jesus Christ**, the Father of mercies and God of all comfort... — 2 Corinthians 1:3 (ESV)
 
-> The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not. — 2 Corinthians 11:31 (KJV)
+> **The God and Father of our Lord Jesus Christ**, which is blessed for evermore, knoweth that I lie not. — 2 Corinthians 11:31 (KJV)
 
 Paul's consistent terminology across different letters emphasizes that the early church understood the Father to be the God of Jesus.
 
@@ -66,24 +66,22 @@ Paul's consistent terminology across different letters emphasizes that the early
 
 The Apostle Peter began his first epistle with a similar declaration.
 
-> Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead... — 1 Peter 1:3 (NKJV)
+> Blessed be **the God and Father of our Lord Jesus Christ**, Who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead... — 1 Peter 1:3 (NKJV)
 
 In one of his first sermons after Jesus' ascension, Peter identifies Jesus as the servant of God.
 
-> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified His servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. — Acts 3:13 (ESV)
+> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **His servant Jesus**, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. — Acts 3:13 (ESV)
 
 ### The Apostle John
 
 The Apostle John, in the opening of his Revelation, also presents this same view.
 
-> Grace to you and peace from Him who is and Who was and Who is to come... and from Jesus Christ the faithful witness... who... made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen. — Revelation 1:4-6 (ESV)
+> Grace to you and peace from Him who is and Who was and Who is to come... **and** from Jesus Christ the faithful witness... who... made us a kingdom, priests to **his God** and Father, to him be glory and dominion forever and ever. Amen. — Revelation 1:4-6 (ESV)
+
+This shows that "Him who is and Who was and Who is to come"" is distinct from "Jesus Christ" and is "his God".
 
 This shows a unified understanding among the apostles, who all described the Father as the God of Jesus Christ.
 
-## Other Viewpoints
-
-It is important to acknowledge that the relationship between Jesus and God the Father is a subject of much theological debate. The traditional Trinitarian view, for example, holds that the Father, Son, and Holy Spirit are three co-equal and co-eternal persons in one Godhead. From this perspective, Jesus' statements about having a God are understood in the context of his incarnation. As the Son of God who became fully human, Jesus willingly submitted himself to the Father's authority during his earthly ministry. This is seen as a functional subordination, not an essential one, meaning that it does not diminish his divine nature.
-
 ## Conclusion
 
-The biblical evidence, from the [direct statements of Jesus](#jesus-direct-statements) to the consistent testimony of the [apostles](#the-testimony-of-the-apostles), shows that Jesus has a God. Both [Jesus](#the-testimony-of-jesus) and his followers referred to the Father as his God. This understanding does not diminish the divine nature of Jesus, but rather illuminates the distinct roles and relationship between the Father and the Son.
+The biblical evidence, from the [direct statements of Jesus](#jesus-direct-statements) to the consistent testimony of the [apostles](#the-testimony-of-the-apostles), shows that Jesus has a God. Both [Jesus](#the-testimony-of-jesus) and his followers referred to the Father as his God.
