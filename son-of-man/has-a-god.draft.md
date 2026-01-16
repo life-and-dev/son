@@ -1,87 +1,87 @@
+---
+description: This article explores the biblical passages where Jesus refers to God as "my God" and how the apostles described this relationship.
+keywords: Jesus, God, Father, Son of God, relationship between Jesus and God
+---
 # Jesus Has A God
 
-## Jesus stated that he has a God
+The relationship between Jesus and God the Father is a central theme in Christian theology. While the divinity of Jesus is a cornerstone of faith for many, certain passages in the Bible describe a dynamic where Jesus himself refers to God. This article will explore those scriptures, examining the words of Jesus and his apostles to better understand this aspect of their relationship.
 
-> Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, to ***my God*** and your God.’” -- John 20:17 (ESV)
+## The Testimony of Jesus
 
-Jesus prayed to his Father:
+Throughout his ministry, Jesus spoke of God as his Father and, on occasion, as his God. This is most evident in his prayers and direct statements.
 
-> And he *(Jesus)* went a little further, and **fell on his face, and prayed, saying, O my Father**, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt...
-> 
-> He *(Jesus)* went away again the second time, and **prayed, saying, O my Father**, if this cup may not pass away from me, except I drink it, thy will be done...
-> 
-> Thinkest thou that I cannot now **pray to my Father**, and he shall presently give me more than twelve legions of angels?
-> 
-> -- Matthew 26:39,42,53 (KJV)
+### Jesus' Direct Statements
 
-> And it came to pass in those days, that he *(Jesus)* went out into a mountain to pray, and **continued all night in prayer to God**. -- Luke 6:12
+After his resurrection, Jesus made a clear distinction between his Father and God, and ours.
 
-> And Jesus lifted up his eyes and said, "**Father**, I thank you that you have heard me." -- John 11:41 (ESV)
+> Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, to ***my God*** and your God.’” — John 20:17 (ESV)
 
-> When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "**Father**, the hour has come..." -- John 17:1 (ESV)
+Later, in the book of Revelation, Jesus continues to refer to the Father as "my God."
 
-Paul also states that [God the Father](/god/father) is Jesus Christ's [God](/god).
+> The one who conquers, I will make him a pillar in the temple of **my God**. Never shall he go out of it, and I will write on him the name of **my God**, and the name of the city of **my God**, the new Jerusalem, which comes down from **my God** out of heaven, and my own new name. — Revelation 3:12 (ESV)
 
-> Blessed be **the God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... -- Ephesians 1:3 (ESV)
+This message is part of a revelation given to the Apostle John. The speaker is identified as "the first and the last, and the living one" who "died, and behold I am alive forevermore" (Revelation 1:17-18, ESV), which is clearly Jesus. This confirms that even after his ascension, Jesus refers to the Father as his God.
 
-and
+### Jesus' Prayers
 
-> Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints, do not cease to give thanks for you, making mention of you in my prayers:
->
-> that **the God of our Lord Jesus Christ, the Father of glory**, may give to you the spirit of wisdom and revelation in the knowledge of Him, the eyes of your understanding being enlightened.
->
-> -- Ephesians 1:15-18 (NKJV)
+Jesus' prayers also reveal his relationship with the Father. He consistently prayed *to* God, demonstrating a relationship of dependence and communion.
 
-and
+> And it came to pass in those days, that he (Jesus) went out into a mountain to pray, and **continued all night in prayer to God**. — Luke 6:12 (KJV)
 
-> May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify **the God and Father of our Lord Jesus Christ**. -- Romans 15:5-6 (ESV)
+> And Jesus lifted up his eyes and said, "**Father**, I thank you that you have heard me." — John 11:41 (ESV)
 
-and
+> When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "**Father**, the hour has come..." — John 17:1 (ESV)
 
-> Blessed be **the God and Father of our Lord Jesus Christ**, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. -- 2 Corinthians 1:3-4 (ESV)
+In the Garden of Gethsemane, Jesus' submission to the Father's will is on full display.
 
-Peter also said:
+> And he (Jesus) went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt... He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done... — Matthew 26:39,42 (KJV)
 
-> Blessed be **the God and Father of our Lord Jesus Christ**, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you, who are kept by the power of God through faith for salvation ready to be revealed in the last time. -- 1 Peter 1:3-5 (NKJV)
+Jesus even indicated that he could pray to his Father for angelic intervention.
 
-John opens his revelation with:
+> Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels? — Matthew 26:53 (KJV)
 
-> Grace to you and peace from Him who is and Who was and Who is to come, and from the seven spirits who are before His throne, and **from Jesus Christ the faithful witness**, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests **to his God and Father**, to him be glory and dominion forever and ever. Amen. -- Revelation 1:4-6 (ESV)
+These instances show a clear and consistent pattern of Jesus communicating with his Father as a distinct being to whom he prayed.
 
-Jesus also reveals:
+## The Testimony of the Apostles
 
-> When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, "Fear not, I am the first and the last, and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades. Write therefore the things that you have seen, those that are and those that are to take place after this... -- Revelation 1:17-19 (ESV)
+The apostles, who learned directly from Jesus, continued this understanding in their own writings and sermons. They consistently referred to the Father as "the God and Father of our Lord Jesus Christ."
 
-From this we can assume that Jesus is the witness that is revealing what should "take place after this". The same witness continues his revelation through the remainder of chapter 1, 2 and in chapter 3 we read:
+### The Apostle Paul
 
-> The one who conquers, I will make him a pillar in the temple of **my God**. Never shall he go out of it, and I will write on him the name of **my God**, and the name of the city of **my God**, the new Jerusalem, which comes down from **my God** out of heaven, and my own new name." -- Revelation 3:12 (ESV)
+The Apostle Paul frequently used this specific phrasing in his letters to the early churches.
 
-If this "witness" somehow silently switch to John, then why would John be the one who makes "the one who conquers" a "pillar in the temple" of God and why would John "write the name" of God on "the one who conquers"? From this we can assume that it is still Jesus speaking.
+> Blessed be **the God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
 
-## The apostles believed Jesus had a God
+> ...that **the God of our Lord Jesus Christ**, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him... — Ephesians 1:17 (NKJV)
 
-### Paul 
+> ...that together you may with one voice glorify **the God and Father of our Lord Jesus Christ**. — Romans 15:6 (ESV)
 
-> Grace be to you, and peace, from God our Father, **and** from the Lord Jesus Christ. Blessed be **the God and Father of our Lord Jesus Christ**, Who hath blessed us with all spiritual blessings in heavenly places *in [by]* Christ.
->
-> ...
->
-> That **the God of our Lord Jesus Christ**, the Father of glory, may give unto you the Spirit of wisdom and revelation in the knowledge of Him: The eyes of your understanding being enlightened; that ye may know what is the hope of His calling, and what the riches of the glory of His inheritance in the saints, And what is the exceeding greatness of His power to us - ward who believe, according to the working of His mighty power, which He wrought in Christ, when **He raised him** from the dead, and set **him at His** own right hand in the heavenly places.
->
-> -- Ephesians 1:2-3,17-20 (KJV)
+> Blessed be **the God and Father of our Lord Jesus Christ**, the Father of mercies and God of all comfort... — 2 Corinthians 1:3 (ESV)
 
-> That ye may with one mind and one mouth glorify **God, even the Father of our Lord Jesus Christ**. -- Romans 15:6 (KJV)
+> **The God and Father of our Lord Jesus Christ**, which is blessed for evermore, knoweth that I lie not. — 2 Corinthians 11:31 (KJV)
 
-> Blessed be **God, *even (also)* the Father of our Lord Jesus Christ**, the Father of mercies, and the God of all comfort; -- 2 Corinthians 1:3 (KJV)
+Paul's consistent terminology across different letters emphasizes that the early church understood the Father to be the God of Jesus.
 
-> **The God and Father of our Lord Jesus Christ**, which is blessed for evermore, knoweth that I lie not. -- 2 Corinthians 11:31 (KJV)
+### The Apostle Peter
 
-### Peter
+The Apostle Peter began his first epistle with a similar declaration.
 
-> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **His servant Jesus**, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. -- Acts 3:13 (ESV)
+> Blessed be **the God and Father of our Lord Jesus Christ**, Who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead... — 1 Peter 1:3 (NKJV)
 
-> Blessed be **the God and Father of our Lord Jesus Christ**, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, -- 1 Peter 1:3 (KJV)
+In one of his first sermons after Jesus' ascension, Peter identifies Jesus as the servant of God.
 
-### John of Patmos
+> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **His servant Jesus**, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. — Acts 3:13 (ESV)
 
-> To him who loved us and washed us from our sins in his own blood *[Jesus]*, and has made us kings and priests to **his God and Father**, to him be glory and dominion forever and ever. Amen. -- Revelation 1:6 (NKJV)
+### The Apostle John
+
+The Apostle John, in the opening of his Revelation, also presents this same view.
+
+> Grace to you and peace from Him who is and Who was and Who is to come... **and** from Jesus Christ the faithful witness... who... made us a kingdom, priests to **his God** and Father, to him be glory and dominion forever and ever. Amen. — Revelation 1:4-6 (ESV)
+
+This shows that "Him who is and Who was and Who is to come"" is distinct from "Jesus Christ" and is "his God".
+
+This shows a unified understanding among the apostles, who all described the Father as the God of Jesus Christ.
+
+## Conclusion
+
+The biblical evidence, from the [direct statements of Jesus](#jesus-direct-statements) to the consistent testimony of the [apostles](#the-testimony-of-the-apostles), shows that Jesus has a God. Both [Jesus](#the-testimony-of-jesus) and his followers referred to the Father as his God.
