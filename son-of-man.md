@@ -196,7 +196,7 @@ From this we can assume that Jesus is the witness that is revealing what should 
 
 If this "witness" somehow silently switches to John, then why would John be the one who makes "the one who conquers" a "pillar in the temple" of God and why would John "write the name" of God on "the one who conquers"? From this we can assume that it is still Jesus speaking.
 
-These testimonies from Jesus himself and from his closest followers consistently present Jesus as someone who has a God above him. This pattern supports understanding "Son of Man" as referring to the promised human offspring from Genesis 3:15, not God incarnate.
+These testimonies from Jesus himself and from his closest followers consistently present Jesus as someone who [has a God](son-of-man/has-a-god.md) above him. This pattern supports understanding "Son of Man" as referring to the promised human offspring from Genesis 3:15, not God incarnate.
 
 For a fuller discussion of Jesus's nature and his relationship to God the Father, see [The Nature of Jesus](nature.md).
 
