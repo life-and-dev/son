@@ -1,4 +1,13 @@
-# Jesus Interacted With God
+---
+description: An exploration of the distinct interactions and relationship between Jesus and God as depicted in the Bible, examining key scriptures and prophecies.
+keywords: Jesus, God, distinct beings, Son of God, biblical interpretation, theology, Christology
+---
+
+# Is Jesus Distinct from God?
+
+The relationship between Jesus and God has been a subject of theological debate for centuries. Many passages in the Bible describe a dynamic and interactive relationship between the two, raising questions about their unity and distinction. This article will explore various biblical accounts, from prophecies to the testimonies of the apostles, that depict Jesus and God as separate and distinct beings.
+
+## Interactions Between Jesus and God
 
 Jesus and God interacted with each other in various ways, for example:
 
@@ -49,7 +58,7 @@ Luke wrote:
 
 > And Jesus grew in wisdom and stature, and in **favor with God** and man. — Luke 2:52 (NIV)
 
-Either Jesus suffered from a low self-esteem or he is not God.
+This verse suggests a clear distinction between Jesus and God, as one is growing in favor with the other.
 
 Instead, we read that [God personally declared that he is distinct from His son.](/god/son/essence/of-god/parent)
 
@@ -100,7 +109,7 @@ While Jesus was on earth, he referred to the Father as "your Father in heaven" (
 
 Why would Jesus refer to a separate God from him at a different location if he is supposed to be "the Father"?
 
-Some my argue, Jesus was setting an example for his disciples, but when Jesus also rebuked his disciples with these words:
+Some may argue, Jesus was setting an example for his disciples, but when Jesus also rebuked his disciples with these words:
 
 > Or do you think that I cannot now **pray to my Father**, and He will provide Me with more than twelve legions of angels? — Matthew 26:53 (NKJV)
 
@@ -189,7 +198,7 @@ However, these clever reasoning fail to explain:
 * Why it was necessary to cry out "with a loud voice" if he was only talking to himself? 
 * If his intention was to make a public declaration through his rhetorical question, then it was not very effective because nobody said afterward: *"Truly Jesus did actually love us"*, or *"Truly we just killed our God"*, but instead we read:
 
-> They were filled with awe and said, “Truly this was the Son [of](https://son.ofgod.info) God!” — Matthew 27:54 (ESV)
+> They were filled with awe and said, “Truly this was the Son of God!” — Matthew 27:54 (ESV)
 
 Again, even this shows that the people present at these events realised that they just killed a distinct person from God whom God dearly loved.
 
@@ -267,4 +276,8 @@ And around the throne, on each side of the throne, are four living creatures, fu
 
 Some would argue that when Jesus talked, prayed, obeyed, worshipped or interacted any way with Himself, he was setting an example to his disciples. However, if he was faking interaction with an imaginary God to demonstrate a concept, he must have explicitly said so or at least the apostles should have explained it in such a way when they wrote their testimonies otherwise we cannot trust their witness accounts.
 
-Some also argue that some of these interactions should be considered symbolic prophetic messages. However, all prophets made it clear when they were quoting a message from God so that the reader can distinguish between their own commentaries and [God's inspired word](https://word.ofgod.info/inspired). However, the Gospel authors omitted to explanation of the "prophetic interactions" Jesus had with "Himself".
+Some also argue that some of these interactions should be considered symbolic prophetic messages. However, all prophets made it clear when they were quoting a message from God so that the reader can distinguish between their own commentaries and God's inspired word. However, the Gospel authors omitted to explanation of the "prophetic interactions" Jesus had with "Himself".
+
+## Conclusion
+
+The biblical accounts presented in this article, from [Old Testament prophecies](#prophecies) to the [writings of the apostles](#the-apostles-witnesses), consistently depict Jesus as a being distinct from God. The [interactions between them](#interactions-between-jesus-and-god)—God anointing Jesus, Jesus praying to God, and Jesus being seated at the right hand of God—all point to a relationship between two separate individuals. The testimonies of figures like Stephen and John of Patmos further support this view, describing visions where Jesus and God are seen as two distinct entities. While their unity in purpose is clear, the evidence suggests a distinction in their persons.
