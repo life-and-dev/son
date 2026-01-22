@@ -1,21 +1,12 @@
+---
+description: This article explores the various interactions between Jesus and God as recorded in the Bible, examining prophecies and testimonies that portray them as distinct beings.
+keywords: Jesus, God, distinct beings, Son of Man, Ancient of Days, mediator, Son of God
+reviewed: true
+---
+
 # Jesus Interacted With God
 
-Jesus and God interacted with each other in various ways, for example:
-
-* [God anointed Jesus](#john) (Acts 10:38)
-* [God publicly declared His love for Jesus](../index.md) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21; John 1:51)
-* [God publicly glorified Jesus](#god-publicly-glorified-jesus) (John 12:27-28)
-* [God resurrected Jesus](https://eternal.family.net.za/god/son/essence/as-god/resurrected) (Acts 2:32, 13:30, 17:30-31; Romans 10:9; 1 Corinthians 15:15)
-* [God separated Himself from Jesus](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
-* [Jesus cried to God](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
-* [Jesus grew in favour with God](#jesus-grew-in-favour) (Luke 2:52)
-* [Jesus mediates between man and God](#paul) (1 Timothy 2:5)
-* [Jesus prayed to God](https://eternal.family.net.za/life/prayer) (Matthew 5:45-6:9, 26:53)
-* [Jesus returned to God](#mark-saw-jesus-distinct-from-god) (Mark 16:19)
-* [Jesus served God](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
-* [Jesus stood next to God](#stephen) (Acts 7:55-56)
-* [Jesus witness with God](#jesus-witness-with-god) (John 8:17-18)
-* [Jesus worshipped God](https://eternal.family.net.za/bible/concepts/worship) (by keeping feasts Luke 2:41-42; Matthew 26:17-20; John 7:1-10)
+The Bible records numerous interactions between Jesus and God, suggesting a relationship between two distinct individuals rather than a single being acting in different roles. This article will explore prophecies, testimonies, and Jesus' own words to examine the nature of their relationship.
 
 ## Prophecies
 
@@ -27,17 +18,17 @@ In Luke 4:17 (NKJV) we read:
 
 Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern English bibles. A more accurate quote directly from the book of Isaiah 61:1-2 itself reads:
 
-> “[The Spirit](/god/spirit) of **[the Lord God](/god/father/name)** is upon me, because the **LORD** ([YHVH](/god/father/name)) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
+> “The Spirit of the LORD God is upon me, because the LORD has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the LORD.”
 
 > Then he *(Jesus)* closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him. And He began to say to them, “Today this Scripture is fulfilled in your hearing.” — Luke 4:17-21 (NKJV)
 
 Here Jesus himself announced that this prophecy had been fulfilled in their presence which means that Isaiah 61 was talking about Jesus.
 
-If Jesus was the ["Lord God" or "YHVH"](/god/father/name) of the Old Testament, then why would Jesus have to send his own spirit to himself, and why would Jesus anoint himself to preach, heal and proclaim?
+If Jesus were the "LORD God" or "YHVH" of the Old Testament, it would be illogical for him to send his own spirit to himself, or to anoint himself to preach, heal and proclaim.
 
 ### Daniel prophesied that Jesus would be distinct
 
-[Daniel did not see Jesus as God](/god/son/essence/as-god/prophecies/daniel), but testifies that he saw "[the son of man](/god/son/essence/of-man/human)" coming to "[the Ancient of Days](/god/father/ancient-of-days)" and that he was "presented before Him" as a separate being:
+Daniel did not see Jesus as God, but testifies that he saw "the son of man" coming to "the Ancient of Days" and that he was "presented before Him" as a separate being:
 
 > I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and **he came to** the Ancient of Days and was **presented before Him**. And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed. — Daniel 7:13-14 (ESV)
 
@@ -49,9 +40,9 @@ Luke wrote:
 
 > And Jesus grew in wisdom and stature, and in **favor with God** and man. — Luke 2:52 (NIV)
 
-Either Jesus suffered from a low self-esteem or he is not God.
+This growth in favor with God suggests a relationship between two separate beings, rather than a single being growing in favor with himself.
 
-Instead, we read that [God personally declared that he is distinct from His son.](/god/son/essence/of-god/parent)
+Instead, we read that God personally declared that he is distinct from His son.
 
 ## Jesus witness with God
 
@@ -98,13 +89,13 @@ While Jesus was on earth, he referred to the Father as "your Father in heaven" (
 >
 > -- Matthew 5:45-6:9 (ESV)
 
-Why would Jesus refer to a separate God from him at a different location if he is supposed to be "the Father"?
+Jesus's reference to a separate God in a different location would be inconsistent if he were "the Father".
 
 Some my argue, Jesus was setting an example for his disciples, but when Jesus also rebuked his disciples with these words:
 
 > Or do you think that I cannot now **pray to my Father**, and He will provide Me with more than twelve legions of angels? — Matthew 26:53 (NKJV)
 
-Is Jesus setting an example that his disciples should pray for more than twelve legions of angels to come and assist?
+Jesus's prayer for angelic assistance was not an example for his disciples to follow, but a genuine request to his Father.
 
 Yet, Jesus has to pray to get this request granted. If he was God Himself, he would have no need to pray to someone else to send the angels.
 
@@ -124,11 +115,11 @@ This disqualifies Jesus from being "the Father" by his own words. Jesus never re
 
 When the Samaritan woman argue with Jesus about which race God is:
 
-> Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you [worship](/god/worship) [the Father](/god/father). You worship what you do not know; we worship what we know, for [salvation is from the Jews](/god/covenants/christ). But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.
+> Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.
 >
 > God is spirit, and those who worship him must worship in spirit and truth.”
 >
-> The woman said to him, “**I know that [Messiah](/god/son/christ) is coming** (he who is called Christ). **When he comes, [he will tell us all things](/god/son/purpose).**”
+> The woman said to him, “**I know that Messiah is coming** (he who is called Christ). **When he comes, he will tell us all things.**”
 >
 > Jesus said to her, “**I who speak to you am he.**” — John 4:21-26 (ESV)
 
@@ -144,7 +135,7 @@ And in addition the Samaritan woman revealed that they believed that a distinct 
 >
 > -- John 12:27-28 (ESV)
 
-[The Father also publicly declared Jesus as His Son.](/god/son/essence/of-god/parent)
+The Father also publicly declared Jesus as His Son.
 
 ## It is possible to separately belief in Jesus or God
 
@@ -161,7 +152,7 @@ Jesus said:
 
 This statement of Jesus himself makes no sense if Jesus is the same person or essence as God.
 
-Jesus acknowledge that it is possible for people to believe God, but not him as it was the case was with the Pharisees and many Jews.
+Jesus acknowledges that it is possible for people to believe in God but not to believe in him, as was the case with the Pharisees and many Jews.
 
 ## Jesus and God were separated
 
@@ -171,17 +162,13 @@ Jesus acknowledge that it is possible for people to believe God, but not him as 
 > 
 > that is, 
 > 
-> “***[My God, my God](/god/son/essence/not-god)***, why have You forsaken me?” 
+> “***My God, my God***, why have You forsaken me?”
 > 
 > -- Matthew 27:46 (NKJV); Mark 15:34
 
-If Jesus was God:
+If Jesus was God, several questions arise from this passage. It is unclear why he would ask a question of himself, how it would be possible for him to forsake himself, and why he would refer to someone else as "My God."
 
-1. Why would Jesus ask a question if he was doing it to himself?
-2. How is it possible that one could forsake oneself?
-3. Why does Jesus call someone else "My God" if he is supposed be the God?
-
-[Trinitarians](/bible/doctrines/trinitarian) respond to these critical questions by reasoning that "forsaken" means that Jesus left His holiness to take up the sin of the world. They explain that Jesus was asking a rhetorical question to himself like "Why am I going through this suffering again?" to show how much he loved the world despite his suffering.
+Trinitarians respond to these critical questions by reasoning that "forsaken" means that Jesus left His holiness to take up the sin of the world. They explain that Jesus was asking a rhetorical question to himself like "Why am I going through this suffering again?" to show how much he loved the world despite his suffering.
 
 However, these clever reasoning fail to explain:
 
@@ -189,7 +176,7 @@ However, these clever reasoning fail to explain:
 * Why it was necessary to cry out "with a loud voice" if he was only talking to himself? 
 * If his intention was to make a public declaration through his rhetorical question, then it was not very effective because nobody said afterward: *"Truly Jesus did actually love us"*, or *"Truly we just killed our God"*, but instead we read:
 
-> They were filled with awe and said, “Truly this was the Son [of](https://son.ofgod.info) God!” — Matthew 27:54 (ESV)
+> They were filled with awe and said, “Truly this was the Son of God!” — Matthew 27:54 (ESV)
 
 Again, even this shows that the people present at these events realised that they just killed a distinct person from God whom God dearly loved.
 
@@ -201,7 +188,7 @@ A few days later Mark testifies that Jesus had sat separately from God and not "
 
 This fulfils the prophecy:
 
-> [YHVH](/god/father/name#yhvh) said unto my Master,
+> The LORD said unto my Master,
 >
 > Sit thou at My right hand, until I make thine enemies thy footstool.
 >
@@ -267,4 +254,8 @@ And around the throne, on each side of the throne, are four living creatures, fu
 
 Some would argue that when Jesus talked, prayed, obeyed, worshipped or interacted any way with Himself, he was setting an example to his disciples. However, if he was faking interaction with an imaginary God to demonstrate a concept, he must have explicitly said so or at least the apostles should have explained it in such a way when they wrote their testimonies otherwise we cannot trust their witness accounts.
 
-Some also argue that some of these interactions should be considered symbolic prophetic messages. However, all prophets made it clear when they were quoting a message from God so that the reader can distinguish between their own commentaries and [God's inspired word](https://word.ofgod.info/inspired). However, the Gospel authors omitted to explanation of the "prophetic interactions" Jesus had with "Himself".
+Some also argue that some of these interactions should be considered symbolic prophetic messages. However, all prophets made it clear when they were quoting a message from God so that the reader can distinguish between their own commentaries and God's inspired word. However, the Gospel authors omitted to explanation of the "prophetic interactions" Jesus had with "Himself".
+
+## Conclusion
+
+The Bible provides multiple accounts of Jesus and God interacting as distinct individuals. [Prophecies](#prophecies) foretold a separation between them, and Jesus's own actions, such as [praying to God](#jesus-prays-to-a-distinct-god) and claiming to be a [separate witness](#jesus-witness-with-god), reinforce this distinction. The [apostles' testimonies](#the-apostles-witnesses) further support this view, describing Jesus as a mediator and high priest who sits at the right hand of God.
