@@ -12,7 +12,7 @@ Jesus and God interacted with each other in various ways, for example:
 * [God anointed Jesus](#john-the-baptist-s-testimony) (Acts 10:38)
 * [God publicly declared His love for Jesus](../index.md) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21)
 * [God publicly glorified Jesus](#god-publicly-glorified-jesus) (John 12:27-28)
-* [God resurrected Jesus](https://eternal.family.net.za/god/son/essence/as-god/resurrected) (Acts 2:32, 13:30, 17:30-31; Romans 10:9; 1 Corinthians 15:15)
+* [God resurrected Jesus](#god-resurrected-jesus) (Acts 2:32, 13:30, 17:30-31; Romans 10:9; 1 Corinthians 15:15)
 * [God separated Himself from Jesus](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus cried to God](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus grew in favour with God](#jesus-grew-in-favour) (Luke 2:52)
@@ -22,7 +22,7 @@ Jesus and God interacted with each other in various ways, for example:
 * [Jesus served God](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
 * [Jesus stood next to God](#stephen-s-vision) (Acts 7:55-56)
 * [Jesus witness with God](#jesus-as-a-distinct-witness) (John 8:17-18)
-* [Jesus worshipped God](https://eternal.family.net.za/bible/concepts/worship) (Luke 2:41-42; Matthew 26:17-20; John 7:1-10)
+* [Jesus worshipped God](#jesus-worshipped-god) (Luke 2:41-42; Matthew 26:17-20; John 7:1-10)
 
 ## Prophecies
 
@@ -71,7 +71,28 @@ In John 8:17-18, Jesus explains that his testimony is valid because it is suppor
 
 ## Jesus Prays to a Distinct God
 
-Throughout his ministry, Jesus frequently referred to God as "your Father in heaven," setting a clear distinction between himself and God. For example, in Matthew 6:9, he instructs his followers to pray to "Our Father in heaven." This phrasing suggests that Jesus did not consider himself to be the Father.
+Throughout his ministry, Jesus frequently referred to God as "your Father in heaven," setting a clear distinction between himself and God.
+
+> But I say to you, love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.
+>
+> For if you love those who love you, what reward do you have?
+> Do not even the tax collectors do the same?
+> And if you greet only your brothers, what more are you doing than others?
+> Do not even the Gentiles do the same?
+>
+> You therefore must be perfect, as your heavenly Father is perfect.
+>
+> Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.
+>
+> Thus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may ube praised by others. Truly, I say to you, they have received their reward. But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father who sees in secret will reward you.
+>
+> And when you pray, you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward. But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.
+>
+> “And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words. Do not be like them, for your Father knows what you need before you ask him. Pray then like this:
+>
+> "Our Father in heaven, hallowed be your name..."
+>
+> -- Matthew 5:45-6:9 (ESV)
 
 Some argue that Jesus was merely setting an example for his disciples. However, in Matthew 26:53, Jesus rebukes a disciple by stating his ability to "pray to my Father" for legions of angels. This was not an example for his disciples to follow, but a declaration of his own reliance on the Father. If he were God, he would have no need to pray to someone else for assistance.
 
@@ -205,9 +226,33 @@ In his vision in Revelation, John of Patmos saw "a Lamb" (representing Jesus) ap
 >
 > -- Revelation 4:2, 5:6-7 (ESV)
 
-## The Temptation of Jesus
+## God Resurrected Jesus
 
-The temptation of Jesus in the wilderness (Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13) provides further evidence of his distinction from God. The Bible states that God cannot be tempted by evil (James 1:13). If Jesus is God, this would mean he could not be tempted. However, the scriptures explicitly state that Jesus was "tempted in every way, just as we are—yet was without sin" (Hebrews 4:15). This suggests that Jesus, in his humanity, was able to be tempted, which distinguishes him from God.
+The resurrection of Jesus is a cornerstone of Christian faith, and the scriptures consistently attribute this act to God the Father. This distinction is theologically significant. If Jesus had resurrected himself, it would imply he was not truly dead, as an immortal being cannot die. The Bible, however, teaches that only God is immortal (1 Timothy 6:16) and that Jesus truly "died for our sins" (1 Corinthians 15:3).
+
+The apostles repeatedly testified that God raised Jesus from the dead:
+
+> “This Jesus God raised up, and of that we all are witnesses.” — Acts 2:32 (ESV)
+
+> “And God raised him from the dead.” — Acts 13:30 (ESV)
+
+> “...because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead.” — Acts 17:31 (ESV)
+
+> “If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.” — Romans 10:9 (ESV)
+
+These verses emphasize that the resurrection was an act of God's power, demonstrating His authority over death and His vindication of Jesus's sacrifice.
+
+## Jesus Worshipped God
+
+Jesus, as a devout Jew, adhered to the practice of worshipping God alone, in accordance with the scriptures (Deuteronomy 6:13). His actions consistently demonstrated a clear distinction between himself and the God he worshipped.
+
+For instance, Jesus actively participated in the Jewish feasts, which were acts of worship directed to God. He celebrated the Passover (Luke 2:41-42; Matthew 26:17-20) and the Feast of Tabernacles (John 7:1-10), both of which were centered on the worship of the God of Israel. If Jesus were God, his participation in these feasts would be a performance rather than genuine worship.
+
+Furthermore, when tempted by Satan to worship him, Jesus responded by quoting scripture:
+
+> “Away from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’” (Matthew 4:10, NIV)
+
+This declaration reinforces the principle that worship is to be directed to God alone, and by adhering to this principle, Jesus demonstrated his own submission to God.
 
 ## Critiques
 
@@ -219,4 +264,4 @@ Some also suggest these interactions were symbolic prophecies. But prophets in t
 
 ## Conclusion
 
-The Bible provides substantial evidence that Jesus and God are distinct beings who interacted in various ways. [Prophecies foretold their separate roles](#Prophecies), and Jesus's actions and words consistently pointed to a relationship with a separate God. [Jesus grew in favor with God](#Jesus-grew-in-favour), [acted as a distinct witness](#Jesus-as-a-distinct-witness), and [prayed to a separate God](#Jesus-prays-to-a-distinct-God). Furthermore, [Jesus was publicly glorified by God](#God-publicly-glorified-Jesus) and [emphasized the need to believe in both of them separately](#separate-belief-in-jesus-and-god). Even in his suffering, [Jesus cried out to God](#Jesus-and-God-were-separated), and after his resurrection, he was [seen at God's right hand](#mark-s-testimony-of-jesus-s-ascension). The [apostles' testimonies](#the-apostles-witnesses) and the account of his [temptation](#the-temptation-of-jesus) consistently supported this view. While some offer alternative interpretations, the biblical accounts strongly suggest a clear distinction between Jesus and God.
+The Bible provides substantial evidence that Jesus and God are distinct beings who interacted in various ways. [Prophecies foretold their separate roles](#Prophecies), and Jesus's actions and words consistently pointed to a relationship with a separate God. [Jesus grew in favor with God](#Jesus-grew-in-favour), [acted as a distinct witness](#Jesus-as-a-distinct-witness), and [prayed to a separate God](#Jesus-prays-to-a-distinct-God). Furthermore, [Jesus was publicly glorified by God](#God-publicly-glorified-Jesus) and [emphasized the need to believe in both of them separately](#separate-belief-in-jesus-and-god). Even in his suffering, [Jesus cried out to God](#Jesus-and-God-were-separated), and after his resurrection, he was [seen at God's right hand](#mark-s-testimony-of-jesus-s-ascension). The [apostles' testimonies](#the-apostles-witnesses) and his [worship of God](#jesus-worshipped-god) consistently supported this view. While some offer alternative interpretations, the biblical accounts strongly suggest a clear distinction between Jesus and God.
