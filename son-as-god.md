@@ -37,7 +37,7 @@ You will never find the phrase "the Son **as** God" in the Bible. What you will 
 
 The Bible bestows upon Jesus the highest honors and authority, yet it consistently distinguishes between him and God the Father. This distinction is crucial for maintaining clarity in monotheistic faith.
 
-*   The term "god" had a more flexible meaning in the ancient world than it does today, and was sometimes used to refer to powerful human leaders. (See [The Flexible Meaning of "God"](#the-flexible-meaning-of-god))
-*   While the scriptures affirm the supreme authority and eternal nature of the Son, they do not use the phrase "the Son as God." (See [The Missing Phrase](#the-missing-phrase))
+*   The term "god" had a more [flexible meaning in the ancient world](#the-flexible-meaning-of-god) than it does today, and was sometimes used to refer to powerful human leaders.
+*   While the scriptures affirm the supreme authority of the Son, they do not use the phrase ["the Son as God"](#the-missing-phrase).
 
 By reserving the title "God" for the Almighty Father, it is possible to fully honor the Son and all that the scriptures affirm about him, while at the same time preserving the core principles of monotheism.
