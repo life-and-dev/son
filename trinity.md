@@ -24,7 +24,7 @@ While some unbiblical words had to be invented to explain the Trinitarian Doctri
 
 ### The word "trinity"
 
-Catholic scholars admit that Tertullian was the FIRST writer to use the term "trinity" (Latin: "trinitas").
+Catholic scholars admit that [Tertullian](https://church.ofgod.info/evolution/206-tertullian) was the FIRST writer to use the term "trinity" (Latin: "trinitas").
 
 > Tertullian originated new theological concepts and advanced the development of early Church doctrine. He is perhaps most famous for being the first writer in Latin known to use the term trinity (Latin: trinitas). — [Wikipedia](https://en.wikipedia.org/wiki/Tertullian) ("Tertullian, Originator of the Trinity", From Logos to Trinity, Cambridge University Press, pp. 190–220, 2012-01-30, doi:10.1017/cbo9781139003971.010, ISBN 9781139003971, retrieved 2022-08-20)
 
