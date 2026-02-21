@@ -12,6 +12,7 @@ Jesus and God interacted with each other in various ways, for example:
 * [God anointed Jesus](#john-the-baptist-s-testimony) (Acts 10:38)
 * [God publicly declared His love for Jesus](../index.md) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21)
 * [God publicly glorified Jesus](#god-publicly-glorified-jesus) (John 12:27-28)
+* [God commands Jesus](#jesus-have-less-authority-than-god) (Matthew 20:22-23; John 12:49-50)
 * [God resurrected Jesus](#god-resurrected-jesus) (Acts 2:32, 13:30, 17:30-31; Romans 10:9; 1 Corinthians 15:15)
 * [God separated Himself from Jesus](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus cried to God](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
@@ -108,6 +109,18 @@ Jesus said this while is was on earth. Jesus never referred to himself as "the F
 > “Here are my mother and my brothers! For whoever does the will of **my Father** in heaven is my brother and sister and mother.”
 >
 > -- Matthew 12:49-50 (ESV)
+
+## Jesus have Less Authority than God
+
+> But Jesus answered and said, “You do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?”  
+> They said to Him, “We are able.”  
+> So He said to them, “You will indeed drink my cup, and be baptized with the baptism that I am baptized with; **but to sit on my right hand and on my left is not mine to give, but it is for those for whom it is prepared by my Father**.”
+>
+> — Matthew 20:22-23 (ESV)
+
+> For **I have not spoken on my own authority, but the Father who sent me** has **Himself given me a commandment** — what to say and what to speak. And I know that His commandment is eternal life. What I say, therefore, **I say as the Father has told me**.
+>
+> — John 12:49-50 (ESV)
 
 ## The Samaritan Woman's Belief
 
