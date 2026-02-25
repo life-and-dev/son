@@ -1,11 +1,8 @@
 ---
 description: Explore whether Jesus' claim to be the good shepherd implies he is God. This article examines the biblical distinction between intrinsic and noble goodness.
 keywords: Jesus good shepherd, Mark 10:18, Agathos, Kalos, divine nature, Jesus identity, biblical Greek goodness
-published: true
-reviewed: true
 ---
-
-# Jesus Claims to Be Good
+# Jesus is Good
 
 The question of whether Jesus is God often centers on his own words and how he described himself. In a famous encounter with a rich young ruler, Jesus asked why he was being called good, stating that only God is good. Does this mean Jesus was denying his own goodness, or was he making a deeper point about his nature? By examining the original Greek terms and the role of Rabbis in the first century, we can uncover a more nuanced perspective on this classic theological debate.
 
@@ -67,11 +64,7 @@ In that cultural context, many believed that adherence to the law made a person 
 
 The point Jesus made was that his own role as a Rabbi did not make him "good" by nature. He demonstrated that he was not good simply because of his title or his outward obedience to the commandments. The man also followed these same laws, but this did not change his intrinsic nature. Jesus did not state that no one else could ever be good, but rather that no one but God is good by nature.
 
-## Partaking in the Divine Nature
-
-According to the New Testament, humans can only become "good" in a deeper sense by partaking in the divine nature of God.
-
-> Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust. — 2 Peter 1:4 (KJV)
+## Good by Nature
 
 Jesus showed that to be "good by nature," a person must undergo a total transformation, taking on the nature of God. This transformation is not achieved merely by following laws or holding a religious title. Other scriptures emphasize this need for a renewed nature:
 
