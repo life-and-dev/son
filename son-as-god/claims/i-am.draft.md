@@ -1,58 +1,119 @@
 ---
-title: Jesus said "I am"
-published: true
+description: Exploring the meaning of Jesus' "I am" statement in John 8:58 and its connection to Exodus 3:14 through Greek linguistic and biblical context.
+keywords: John 8:58, Exodus 3:14, ego eimi, ho on, Septuagint, pre-existence, deity of Christ, I AM WHO I AM, Greek interlinear, biblical interpretation
+reviewed: true
 ---
 
-In the Old Testament God identified Himself as:
+# Jesus Said "I Am"
 
-> And God said to Moses, “**I AM WHO I AM**.” -- Exodus 3:14 (NKJV)
+When Jesus uttered the words "before Abraham was, I am," it sparked a
+confrontation that nearly ended in his stoning. For centuries, these few words
+have served as a cornerstone for arguments regarding his divine nature. Did
+Jesus truly intend to claim the sacred name of God from the burning bush? By
+examining the original Greek and the historical context of the Septuagint, a
+more nuanced picture emerges. This article explores whether this statement was
+a claim to be God or a declaration of his role in God's eternal plan.
 
-And in the New Testament, Jesus made the claim:
+## Claiming the Divine Title
 
-> Jesus said to them, “Most assuredly, I say to you, [before Abraham was](/god/son/essence/as-god/incarnation#jesus-existed-before-abraham), ***I AM***. *([egō eimi](https://biblehub.com/interlinear/john/8-58.htm))*” -- John 8:58 (NKJV)
+In the Old Testament, God identified himself as:
 
-Thus, some argue this proof Jesus is God, because:
-1. Jesus is identified with the same title as God.
-2. Jesus already existed before Abraham was born.
+> And God said to Moses, “**I AM WHO I AM**.” — Exodus 3:14 (NKJV)
 
-If a person say "I am", it does not mean that person claim to be God. For example the man who had been born blind identified himself by saying exactly what Jesus said in John 8:58: “I am” (John 9:9). 
+In the New Testament, Jesus made the following statement:
 
-> Therefore the neighbors and those who previously had seen that he was blind said, “Is not this he who sat and begged?”<br/>
-> Some said, “This is he.” <br/>
-> Others said, “He is like him.”<br/>
-> He said, **“I am he.”** *([egō eimi](https://biblehub.com/interlinear/john/9-9.htm))*<br/>
-> -- John 9:8-9 (NKJV)
+> Jesus said to them, “Most assuredly, I say to you, before Abraham was,
+> ***I AM***. *([egō eimi](https://biblehub.com/interlinear/john/8-58.htm))*”
+> — John 8:58 (NKJV)
 
-However, note that the biased translators translated the same Greek words "egō eimi":
-* in the case where Jesus' speak as ***"I am"***
-* in the case where the blind man speak as ***"I am he"***
+Based on these verses, some argue that Jesus is God. They suggest that Jesus
+identified with the same title as God and existed before Abraham was born.
 
-Paul also identified himself as "I am":
+## Linguistic Usage of I Am
 
-> And Paul said, “I would to God that not only you, but also all who hear me today, might become both almost and altogether such as **I am** *([egō eimi](https://biblehub.com/interlinear/acts/26-29.htm))*, except for these chains.” -- Acts 26:29 (NKJV)
+The Greek phrase *egō eimi* (I am) is a common expression. It does not
+necessarily imply a claim to divinity. For instance, the man born blind
+identified himself using the exact same phrase in John 9:9.
 
-Another examples of "egō eimi" where it does not identify Jesus:
+> Therefore the neighbors and those who previously had seen that he was blind
+> said, “Is not this he who sat and begged?”
+>
+> Some said, “This is he.”
+>
+> Others said, “He is like him.”
+>
+> He said, **“I am he.”** *([egō eimi](https://biblehub.com/interlinear/john/9-9.htm))*
+> — John 9:8-9 (NKJV)
 
-> And they were exceedingly sorrowful, and each of them began to say to him, “Lord, ***is it I*** *([egō eimi](https://biblehub.com/interlinear/matthew/26-22.htm))*?”
-> He answered and said, “He who dipped his hand with me in the dish will betray me. The Son of Man indeed goes just as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been good for that man if he had not been born.”
-> Then Judas, who was betraying Him, answered and said, “Rabbi, ***is it I*** *([egō eimi](https://biblehub.com/interlinear/matthew/26-25.htm))*?” 
-> 
-> -- Matthew 26:22-25 (NKJV)
+Translators often render the same Greek words differently depending on the
+speaker. When Jesus speaks, the words are often translated as "I am." When the
+blind man speaks, the same words are translated as "I am he."
 
-However, some argue that "I AM" is the shortened version of God's title "I AM WHO I AM" and that Jesus was claiming God's title:
+Similarly, Paul used this phrase to describe his own state:
 
-> And God said unto Moses, **I AM THAT I AM**: and He said, thus shalt thou say unto the children of Israel, **I AM** hath sent me unto you. -- Exodus 3:13 (KJV)
+> And Paul said, “I would to God that not only you, but also all who hear me
+> today, might become both almost and altogether such as **I am**
+> *([egō eimi](https://biblehub.com/interlinear/acts/26-29.htm))*, except for
+> these chains.” — Acts 26:29 (NKJV)
 
-The problems with the reasoning is:
+The phrase is also used as a simple self-identification or a question of
+identity by the disciples and Judas:
 
-Firstly, that Jesus did not claim the full title. If Jesus was revealing himself as God, he would have made sure that the Jews don't misunderstand who he was.
+> And they were exceedingly sorrowful, and each of them began to say to him,
+> “Lord, ***is it I*** *([egō eimi](https://biblehub.com/interlinear/matthew/26-22.htm))*?”
+> ... Then Judas, who was betraying Him, answered and said, “Rabbi, ***is it I***
+> *([egō eimi](https://biblehub.com/interlinear/matthew/26-25.htm))*?”
+> — Matthew 26:22-25 (NKJV)
 
-Secondly, Jesus never said that he saw Abraham, it was Abraham who saw Jesus (possibly in a prophetic vision).
+## Connecting to Exodus
 
-Thirdly, according to the Greek Septuagint, Jesus shortened the wrong part of the title: 
+Some argue that "I AM" is a shortened version of the title "I AM WHO I AM"
+revealed to Moses.
 
-> And God said to Moses: “I am (εγω ειμι) **THE ONE WHO IS (ο ων).**” … ‘You are to tell the children of Israel this: “**THE ONE WHO IS (ο ων)** has sent me to you.’” -- Exodus 3:14
+> And God said unto Moses, **I AM THAT I AM**: and He said, thus shalt thou say
+> unto the children of Israel, **I AM** hath sent me unto you.
+> — Exodus 3:14 (KJV)
 
-It is likely that the author, John, would have quoted from the Greek Septuagint which was familiar in his days as he wrote his own book in Greek.
+This reasoning faces several challenges. First, Jesus did not claim the full
+title. If he intended to reveal himself as God, using an ambiguous phrase would
+likely lead to misunderstanding. Second, Jesus did not claim to have seen
+Abraham. Instead, he stated that Abraham saw his day and rejoiced
+(John 8:56). This likely refers to a prophetic vision of the coming Messiah.
 
-So, Jesus was more likely identifying himself as "I am he" or "I am the one" ... "that was previously identified." Who was previously identified?
+## The Septuagint Evidence
+
+The Greek translation of the Old Testament, the Septuagint, provides further
+clarity. In Exodus 3:14, the title is rendered differently than the phrase
+Jesus used.
+
+> And God said to Moses: “I am (εγω ειμι) **THE ONE WHO IS (ο ων).**” … ‘You are
+> to tell the children of Israel this: “**THE ONE WHO IS (ο ων)** has sent me to
+> you.’” — Exodus 3:14
+
+The author of the Gospel of John was likely familiar with the Septuagint. If
+Jesus were claiming the divine name from Exodus, he would be expected to use
+the title *ho on* (the one who is). This is the specific name God identifies
+as in that passage. Instead, Jesus used the common *egō eimi*.
+
+## Identifying the Context
+
+Rather than a claim to deity, Jesus identified himself as the one previously
+promised. In the context of the conversation, he explained his superiority to
+Abraham. This superiority was not based on chronological age, but on his
+central role in the plan of God that existed before Abraham was born.
+
+## Conclusion
+
+The statement "I am" in John 8:58 is often interpreted as a claim to divinity,
+but a closer look at the Greek text suggests otherwise.
+
+- The phrase *egō eimi* is a common self-identification used by many figures
+  in the New Testament. This includes the blind man and Paul, as seen in the
+  section on [Linguistic Usage of I Am](#linguistic-usage-of-i-am).
+- The connection to Exodus 3:14 is weakened because the Septuagint identifies
+  God by a different title than the one Jesus used. This is discussed in
+  [The Septuagint Evidence](#the-septuagint-evidence).
+- The context of the argument focuses on the role of Jesus in the plan of God
+  rather than a claim to be God himself. This is explored in
+  [Connecting to Exodus](#connecting-to-exodus) and
+  [Identifying the Context](#identifying-the-context).
