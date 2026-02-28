@@ -7,6 +7,7 @@ keywords: divine, divinity, Jesus is God
 * [Jesus claims that you receive God when you receive him](claims/receive-god.md)
 * [Jesus claims to be good](claims/good.md)
 * [Jesus claims to be &#34;the I AM&#34;](claims/i-am.md)
+* [Jesus claims to be the life](claims/life.md)
 * [Jesus claims to be the light](claims/light.md)
 
 * [Jesus claims to come from God](https://eternal.family.net.za/god/son/essence/as-god/claims/come-from-god)
