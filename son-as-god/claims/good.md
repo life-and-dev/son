@@ -22,8 +22,6 @@ These verses suggest that goodness is not exclusive to God in every sense. This 
 
 ## The Distinction Between Agathos and Kalos
 
-LJ Thriepland explains the linguistic difference between these references:
-
 > The word translated as good in the 3 Gospels, used in both the statement of the young man to Jesus and in the reply question of Jesus to the man is the Greek Ἀγαθός, agathos. It means a good nature or to be intrinsically good.
 >
 > This is NOT the word that Jesus used for himself when he called himself the good shepherd in John 10:11 and John 10:14.
@@ -42,7 +40,7 @@ The context of the encounter with the rich young ruler is also significant.
 
 > And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life? — Mark 10:17; Luke 18:18; Matthew 19:16 (KJV)
 
-Bible translators use terms like "Good Master" or "Good Teacher." In either case, Jesus was being addressed as a Jewish Rabbi. LJ Thriepland provides insight into why Jesus responded as he did:
+Bible translators use terms like "Good Master" or "Good Teacher." In either case, Jesus was being addressed as a Jewish Rabbi.
 
 > Rabbis were some of the most respected men in Judaism. They followed the word of God and taught the word of God.
 >
@@ -76,9 +74,7 @@ Jesus showed that to be "good by nature," a person must undergo a total transfor
 
 ## Addressing Counter-Arguments
 
-A common interpretation of Mark 10:18 is that Jesus was implicitly claiming to be God. The reasoning suggests that if Jesus is good and only God is good, then Jesus must be God. However, this syllogism fails to account for the linguistic and cultural nuances present in the text. As previously discussed, Jesus used different Greek words to distinguish between [intrinsic goodness and noble character](#the-distinction-between-agathos-and-kalos).
-
-Critics might also argue that Jesus' perfect obedience makes him "good by nature" in the same way as God. While Jesus perfectly reflected God's nature, the New Testament consistently portrays him as receiving his life and authority from the Father. His goodness is a result of his perfect submission and [partaking in the divine](#partaking-in-the-divine-nature), rather than being the original source of that goodness himself. By asking "Why do you call me good?" Jesus directed the focus away from himself and toward the Father, who is the sole source of intrinsic goodness.
+A common interpretation of Mark 10:18 is that Jesus was implicitly claiming to be God. The reasoning suggests that if Jesus is good and only God is good, then Jesus must be God. However, this logic doesn't work because it ignores the way people actually use language and their specific traditions. As previously discussed, Jesus used different Greek words to distinguish between [intrinsic goodness and noble character](#the-distinction-between-agathos-and-kalos).
 
 ## Conclusion
 
