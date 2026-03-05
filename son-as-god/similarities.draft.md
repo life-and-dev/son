@@ -1,166 +1,296 @@
-# Similarities between Jesus and God
+---
+description: This article explores the biblical similarities between Jesus and
+God while highlighting their distinct identities and the nature of Jesus'
+equality.
+keywords: Jesus God similarities, son of god, trinitarianism, biblical
+equality, Philippians 2:6, Isaiah prophecies, Jesus relationship with Father
+reviewed: true
+---
 
-| Attribute                      | The Father                                                       | The Son                                                | Understanding                                                                                                              |
-| ------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| Judge sin                      | Genesis 18:25                                                    | Matthew 10:32-33, John 5:22, 1 John 2:1                | The Father is the Judge, the Son choose (judge) whom he will confess/deny (Matthew 10:32-33, 1 John 2:1) before the Father |
-| "The Life"                     | Deuteronomy 30:20                                                | John 14:6                                              | [Jesus is the means to the life of God the Father.](/god/son/essence/as-god/claims/life)                                   |
-| Can heal                       | Exodus 15:26                                                     | John 4:46-54, 5:8-9                                    | Both can heal                                                                                                              |
-| Has emotions                   | Exodus 34:6; Numbers 14:17                                       | Psalm 2:12                                             | Both are persons (not impersonal forces)                                                                                   |
-| Forgives sin                   | Numbers 14:19-20; Matthew 6:14-15                                | Matthew 9:2-8; Mark 2:10                               | [The Father is the final Judge, the Son choose whose debt (sin) was paid by him](/eternal/death#you-will-be-judged)        |
-| "The Shepherd"                 | Psalm 23:1, 95:7; Isaiah 40:11; Ezekiel 34:2                     | John 10:14                                             | Both take care of the "sheep" (believers)                                                                                  |
-| "The Light"                    | Psalm 27:1; Isaiah 60:1-5,19-20; 1 John 1:5-7                    | John 1:5, 3:19, 8:12                                   | [Jesus is the means to the light of God the Father](/god/son/essence/as-god/claims/light)                                  |
-| Carries our burden             | Psalm 55:22                                                      | Matthew 11:30                                          | Both are able to carry our burdens                                                                                         |
-| "The King"                     | Psalm 95:3                                                       | Matthew 21:5; John 1:49; 18:37                         | [Jesus rules as the King under the authority of God the Father](/god/son/essence/as-god/lord)                              |
-| "The First and the Last"       | Isaiah 41:4, 44:6, 48:12; Revelation 1:8, 21:5-8, 22:13          | Revelation 1:17                                        | [Both are called "First and the Last"](/god/son/essence/as-god/prophecies/john-from/patmos)                                |
-| Is our saviour                 | Isaiah 43:11; 1 Timothy 1:1, 2:3, 4:10; Titus 2:10, 3:4; Jude 25 | Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23 | [Jesus would not have been able to save us if the Father did not made it possible](/god/son/essence/as-god/saviour)        |
-| Will return to judge the world | Matthew 16:27-28; Revelation 14:1; 19:11-16; 22:1-5              | Matthew 16:27-28; Revelation 22:1-5                    | Both the Father and the Son will return to judge the world                                                                 |
-| Can raise people for the dead  | John 5:21, Acts 2:24; Romans 4:17; Galatians 1:1                 | John 5:21                                              | [The Son can only raises people from the dead with the power of the Father](/god/son/essence/of-man/limitations)           |
-| Glorify each other             | John 8:55, 13:32, 17:1, 17:5                                     | John 17:1; Philippians 2:11                            | The Father [glorify](/bible/concepts/glory) the Son so that the Son can [glorify](/bible/concepts/glory) the Father        |
+# Similarities Between Jesus and God
 
-Just because the Son and the Father shares some similarities, it does not mean they are the same person or being. There are many other attributes that the Son and the Father do not share. Likewise, there are also some attributes that believers share with the Son or even the Father, yet that does not turn us into gods.
+The Bible presents several striking similarities between Jesus Christ and God
+the Father. These parallels often lead to theological discussions about the
+nature of their relationship and whether they are the same being. By examining
+these similarities alongside clear biblical distinctions, a deeper
+understanding can be gained of how Jesus relates to His Father and what His
+"equality" with God truly means in a scriptural context.
 
-Just because [Jesus acted like the Father](act), some belief he has to be the Father Himself. However, we too are supposed to be God's disciples (agents) on His behalf and neither does that turn us into gods. 
+## Shared Attributes and Roles
 
-# [Jesus is a different person from his Father](/god/son/essence/of-god/different)
+The following points compare attributes and roles attributed to both the Father
+and the Son:
 
-* God announced Jesus is a different person (Matthew 3:16-17)
-* Jesus says himself that he is a different person (Matthew 12:49-50, 19:17, 23:9; John 5:19,44-45, 8:17-18, 14:1-2, 17:3)
-* Luke testified that Jesus is a different person (Luke 2:52)
-* John testified that Jesus is a different person (Acts 10:38)
-* Paul testified that Jesus is a different person (Romans 8:34; 1 Timothy 2:5)
-* The author of Hebrews testified that Jesus is a different person (Hebrews 3:1-2)
-* Even the devil believed Jesus is a different person (Matthew 4:3-10)
+* **Judge sin**
+  * **The Father:** Genesis 18:25
+  * **The Son:** Matthew 10:32-33; John 5:22; 1 John 2:1
+  * **Understanding:** The Father is the Judge. The Son chooses whom he will
+    confess before the Father (Matthew 10:32-33; 1 John 2:1).
+* **"The Life"**
+  * **The Father:** Deuteronomy 30:20
+  * **The Son:** John 14:6
+  * **Understanding:** [Jesus is the means to the life of God the
+    Father](claims/life.md).
+* **Can heal**
+  * **The Father:** Exodus 15:26
+  * **The Son:** John 4:46-54, 5:8-9
+  * **Understanding:** Both have the power to heal.
+* **Has emotions**
+  * **The Father:** Exodus 34:6; Numbers 14:17
+  * **The Son:** Psalm 2:12
+  * **Understanding:** Both are persons rather than impersonal forces.
+* **Forgives sin**
+  * **The Father:** Numbers 14:19-20; Matthew 6:14-15
+  * **The Son:** Matthew 9:2-8; Mark 2:10
+  * **Understanding:** The Father is the final Judge. The Son chooses whose debt
+    was paid by him.
+* **"The Shepherd"**
+  * **The Father:** Psalm 23:1, 95:7; Isaiah 40:11; Ezekiel 34:2
+  * **The Son:** John 10:14
+  * **Understanding:** Both care for the believers.
+* **"The Light"**
+  * **The Father:** Psalm 27:1; Isaiah 60:1-5,19-20; 1 John 1:5-7
+  * **The Son:** John 1:5, 3:19, 8:12
+  * **Understanding:** [Jesus is the means to the light of God the
+    Father](claims/light.md).
+* **Carries our burden**
+  * **The Father:** Psalm 55:22
+  * **The Son:** Matthew 11:30
+  * **Understanding:** Both are able to carry the burdens of people.
+* **"The King"**
+  * **The Father:** Psalm 95:3
+  * **The Son:** Matthew 21:5; John 1:49, 18:37
+  * **Understanding:** Jesus rules as King under the authority of the Father.
+* **"The First and the Last"**
+  * **The Father:** Isaiah 41:4, 44:6, 48:12; Revelation 1:8, 21:5-8, 22:13
+  * **The Son:** Revelation 1:17
+  * **Understanding:** Both share this title in different contexts.
+* **Is our saviour**
+  * **The Father:** Isaiah 43:11; 1 Timothy 1:1, 2:3, 4:10; Titus 2:10, 3:4;
+    Jude 25
+  * **The Son:** Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23
+  * **Understanding:** Jesus saves because the Father made it possible.
+* **Will return to judge the world**
+  * **The Father:** Matthew 16:27-28; Revelation 14:1, 19:11-16, 22:1-5
+  * **The Son:** Matthew 16:27-28; Revelation 22:1-5
+  * **Understanding:** Both the Father and the Son will return to judge.
+* **Can raise people from the dead**
+  * **The Father:** John 5:21; Acts 2:24; Romans 4:17; Galatians 1:1
+  * **The Son:** John 5:21
+  * **Understanding:** [The Son raises people through the power of the
+    Father](../son-of-man/limitations.md).
+* **Glorify each other**
+  * **The Father:** John 8:55, 13:32, 17:1, 17:5
+  * **The Son:** John 17:1; Philippians 2:11
+  * **Understanding:** The Father [glorifies](claims/glory.draft.md) the Son so
+    the Son can [glorify](claims/glory.draft.md) the Father.
 
-# Jesus' equality with God
+Sharing similarities does not imply being the same person or being. Many other
+attributes exist that the Son and the Father do not share. Additionally,
+believers share certain attributes with the Son or the Father, yet this does
+not grant them divinity.
 
-Some translators add titles in their bibles, like *"Jesus Is Equal with God"*, based on their understanding and could imply meaning to scriptures that the original author did not intend. They do this to separate a section as it is common practise in modern articles like the one you are reading at the moment. Unfortunately, it clashes with Jesus own words:
+Some believe that because [Jesus acted like the
+Father](similarities/act.draft.md), He must be the Father. However, disciples
+are called to be God's agents on His behalf, and this role does not turn them
+into gods.
 
-> My Father, who has given them to me, **is greater** than all -- John 10:29 (NKJV)
+## Jesus Is a Different Person From His Father
 
-and
+The New Testament provides extensive evidence that Jesus and His Father are
+distinct individuals. This distinction is affirmed by several witnesses:
 
-> Jesus answered him: ... "You heard me say to you, ‘I am going away, and I will come to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for **the Father is greater than I**." -- John 14:28 (ESV)
+* **God the Father:** Declared Jesus as a different person (Matthew 3:16-17).
+* **Jesus Himself:** Stated He is a different person from His Father (Matthew
+  12:49-50, 19:17, 23:9; John 5:19,44-45, 8:17-18, 14:1-2, 17:3).
+* **Luke:** Testified to Jesus' separate identity (Luke 2:52).
+* **John:** Witnessed to the distinction (Acts 10:38).
+* **Paul:** Confirmed Jesus is a different person (Romans 8:34; 1 Timothy 2:5).
+* **The Author of Hebrews:** Testified to this distinction (Hebrews 3:1-2).
+* **The Devil:** Believed Jesus is a different person from God (Matthew
+  4:3-10).
 
-The prophet Isaiah wrote:
+## Jesus' Equality With God
 
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
-> I equip you, though you do not know me, that people may know, from the rising of the sun and from the west, that **there is none besides Me**;  
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**.
+Some translators include section titles like "Jesus Is Equal with God" in their
+Bibles. These titles reflect their own understanding and might imply meanings
+not intended by the original authors. This practice can clash with the words of
+Jesus Himself:
+
+> My Father, who has given them to me, **is greater** than all — John 10:29
+> (NKJV)
+
+And:
+
+> Jesus answered him: ... "You heard me say to you, ‘I am going away, and I
+> will come to you.’ If you loved me, you would have rejoiced, because I am
+> going to the Father, for **the Father is greater than I**." — John 14:28
+> (ESV)
+
+The prophet Isaiah emphasized the uniqueness of God:
+
+> I am the LORD (YHVH), and **there is no other, besides Me there is no God**;
+>
+> I equip you, though you do not know me, that people may know, from the rising
+> of the sun and from the west, that **there is none besides Me**;
+> I am the LORD (YHVH), and **there is no other**.
 >
 > ...
-> 
-> For thus says the LORD, Who created the heavens (He is God!), Who formed the earth and made it (He established it; He did not create it empty, He formed it to be inhabited!):
 >
-> "I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**."
-> 
+> For thus says the LORD, Who created the heavens (He is God!), Who formed the
+> earth and made it (He established it; He did not create it empty, He formed
+> it to be inhabited!):
+>
+> "I am the LORD (YHVH), and **there is no other**."
+>
 > ...
-> 
-> To whom will you **liken Me and make Me equal, and compare me, that we may be alike?**
-> 
+>
+> To whom will you **liken Me and make Me equal, and compare me, that we may be
+> alike?**
+>
 > ...
-> 
-> Remember this and stand firm, recall it to mind, you transgressors, remember the former things of old; for   
-> I am God, and **there is no other**;  
-> I am God, and **there is none like me**,  
->  declaring the end from the beginning and from ancient times things not yet done. 
-> 
-> --Isaiah 45:5-6,18;46:5,8-10
-
-Many scholars will look at this prophecy and reason that Isaiah was referring to the [Godhead](/bible/concepts/godhead) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](/bible/doctrines/trinitarian). However, Isaiah believed that [YHVH](/god/father#name) (translated as "the LORD") Who was speaking is [the Father](/god/father):
-
-> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O [LORD *(YHVH)*](/god/father#name), are **our Father**. -- Isaiah 63:16 (ESV)
-
-> O [LORD *(YHVH)*](/god/father#name), you are our Father. -- Isaiah 64:8 (ESV)
-
-Jeremiah also believed that [YHVH](/god/father#name) is the Father:
-
-> “I said, 'How I would **set you among My sons**, and give you a pleasant land, a heritage most beautiful of all nations.'
-> 
-> And I thought you would call Me, **'My Father'**, and would not turn from following Me.  
-> 
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHVH)*](/god/father#name).
-> 
-> -- Jeremiah 3:19-20 (ESV)
-
-Malachi wrote that God is only 1 Father:
-
-> Have we not all **one Father**? Has not **one God** created us? -- Malachi 2:10 (ESV)
-
-Therefore, Jesus addresses the Father:
-
-> In that hour Jesus rejoiced in the Spirit and said, “I thank You, Father, **Lord** of heaven and earth -- Luke 10:21
-
-If Jesus was "equal" with the Father, then why does he address his Father as "Lord"?
-
-[Strong's Concordance](https://kingjamesbibledictionary.com/StrongsNo/G2962/lord) defines "Lord":
-
-```
-Greek:	         κύριος
-Transliteration: kurios
-Phonetic:	     koo'-ree-os
-Word Origin:	 From κῦρος kuros (supremacy)
-Bible Usage:	 God Lord master Sir.
-Part of Speech:	 Noun Masculine
-```
-
-## Philippians 2:6
-
-[Trinitarians](/bible/doctrines/trinitarian) often quote Philippians 2:6 to proof that Jesus is God, because some translations read:
-
-> **Christ was truly God**. But **he did not try to remain equal with God**. Instead he gave up everything and became a slave, when he became like one of us. Christ was humble. He obeyed God and even died on a cross. -- Philippians 2:6-8 (CEV)
-
-or
-
-> Christ Jesus, who, being in the **form of God**, **did not consider it robbery to be equal with God**, but made himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, he humbled himself and became obedient to the point of death, even the death of the cross. -- Philippians 2:6-8 (NKJV)
-
-or
-
-> Christ Jesus *[look to Him as your example in selfless humility]* who, although **He existed in the form and unchanging essence of God** *[as One with Him, possessing the fullness of all the divine attributes—the entire nature of deity]*, **did not regard equality with God a thing to be grasped** or asserted *[as if He did not already possess it, or was afraid of losing it]*; but emptied Himself *[without renouncing or diminishing His deity, but only temporarily giving up the outward expression of divine equality and His rightful dignity]* by assuming the form of a bond-servant, and being made in the likeness of men *[He became completely human but was without sin, being fully God and fully man]*. After He was found in *[terms of His]* outward appearance as a man *[for a divinely-appointed time]*, He humbled Himself *[still further]* by becoming obedient *[to the Father]* to the point of death, even death on a cross. -- Philippians 2:6-8 (AMP)
-
-However, Paul was not giving a scientific lecture on how Jesus turned into a human being. 
-
-Instead, in the context of the letter to Philippians, Paul was writing to a congregation that had problems of “selfish ambition” (Philippian 1:15, 2:3); “vain conceit” (Philippian 2:3), arguing and lack of consideration for others (Philippian 2:4,14) and a need for humility, purity and blamelessness (Philippian 2:3,15). Paul wrote these scriptures to explain to the congregation that their attitude should be the same as Christ Jesus. Then he goes on:
-
-> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 >
-> Look not every man on his own things, but every man also on the things of others. **Let this mind be in you, which was also in Christ Jesus**. Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became **obedient** unto death, even the death of the cross.
+> Remember this and stand firm, recall it to mind, you transgressors, remember
+> the former things of old; for
+> I am God, and **there is no other**;
+> I am God, and **there is none like me**,
+> declaring the end from the beginning and from ancient times things not yet
+> done.
 >
-> Wherefore **God also hath highly exalted him**, and given him [a name which is above every name](/bible/concepts/name): That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, **to the glory of God the Father**.
+> — Isaiah 45:5-6,18, 46:5,8-10
+
+Many scholars reason that Isaiah referred to a Godhead where an equal Father
+and Son exist. However, Isaiah identified YHVH as the Father:
+
+> For **you are our Father**, though Abraham does not know us, and Israel does
+> not acknowledge us; you, O LORD (YHVH), are **our Father**. — Isaiah 63:16
+> (ESV)
 >
-> -- Philippians 2:3-11 (KJV)
+> O LORD (YHVH), you are our Father. — Isaiah 64:8 (ESV)
 
-Paul was encouraging his readers to follow Jesus example ("Let this mind be in you which was also in Christ Jesus"). The Amplified translation goes even so far to write:
+Jeremiah also identified YHVH as the Father:
 
-> Have this **same attitude** in yourselves which was in Christ Jesus *[look to Him as your example in selfless humility]*, ... -- Philippians 2:5 (AMP)
+> “I said, 'How I would **set you among My sons**, and give you a pleasant
+> land, a heritage most beautiful of all nations.'
+>
+> And I thought you would call Me, **'My Father'**, and would not turn from
+> following Me.
+>
+> Surely, as a treacherous wife leaves her husband, so have you been
+> treacherous to Me, O house of Israel", declares the LORD (YHVH).
+>
+> — Jeremiah 3:19-20 (ESV)
 
-Then Philippians 2:6 explains what this "attitude" or "mind of Christ" is, namely:
+Malachi noted that there is only one Father:
 
-* Christ Jesus did not try to become equal with God
-* Christ Jesus did not seek reputation (popularity) among people
+> Have we not all **one Father**? Has not **one God** created us? — Malachi
+> 2:10 (ESV)
 
-But instead:
+Jesus addressed His Father as Lord:
 
-* Christ Jesus served as a servant like all other men
-* Christ Jesus was obedient to God even "unto death"
+> In that hour Jesus rejoiced in the Spirit and said, “I thank You, Father,
+> **Lord** of heaven and earth — Luke 10:21
 
-That is the message that Paul tried to communicate. 
+If Jesus were equal with the Father, the reason for addressing Him as "Lord"
+would need explanation. [Strong's
+Concordance](https://kingjamesbibledictionary.com/StrongsNo/G2962/lord) defines
+"Lord" (kurios) as indicating supremacy or a master.
 
-Paul even goes on and explain that Christ Jesus humility was rewarded by God Himself with [a "name" or authority](/bible/concepts/name) that is far above any other authority in creation, so that every person should [pay respect](/god/son/essence/as-god/worship) ("bow the knee") to this humble "servant" so that God (as ["the Father"](/god/father) of Jesus) could [receive the glory](/god/son/essence/as-god/claims/glory).
+## Philippians 2:6 {#philippians-2-6}
 
-Sadly this message got lost in many modern English translations which are very [Trinitarian](/bible/doctrines/trinitarian) agenda based. For example, a more direct translation would read:
+[Trinitarians](../trinity.md) often quote Philippians 2:6 to argue that Jesus
+is God. Various translations present different perspectives:
 
-> Christ Jesus, who, though being in the **form of God**, **he considered equality with God not something to be grasped at**, but instead he emptied himself by taking the form of a servant, becoming **like the rest of humankind**. And being found **as an ordinary human**, he humbled himself, becoming obedient unto death — even death on a cross! -- Philippians 2:6-8 (REV 231015)
+> **Christ was truly God**. But **he did not try to remain equal with God**.
+> Instead he gave up everything and became a slave, when he became like one of
+> us. Christ was humble. He obeyed God and even died on a cross. — Philippians
+> 2:6-8 (CEV)
 
-So how are we supposed to know which translation is correct?
+Alternatively:
 
-If Paul truly believed Jesus was God, we need to explain:
+> Christ Jesus, who, being in the **form of God**, **did not consider it
+> robbery to be equal with God**, but made himself of no reputation, taking the
+> form of a bondservant, and coming in the likeness of men. And being found in
+> appearance as a man, he humbled himself and became obedient to the point of
+> death, even the death of the cross. — Philippians 2:6-8 (NKJV)
 
-* Why would Jesus "grasp" to equity with himself?
-* [To whom was Jesus obedient](/god/son/essence/not-god/serve-god) if he was supposed to the highest God (Philippians 2:8)?
-* How can an [immortal God](/god/son/essence/of-man/limitations) die (Philippians 2:8)?
-* How can Jesus be humble if he exalted himself (Philippians 2:9)?
-* Why does Paul differentiate between the "bow the knee" to Jesus and "the glory of God the Father"?
-* Why would the reincarnation of a divine being to a human encourage this congregation to live humble with each other?
-* How are Paul's readers supposed to follow the example of Christ, if his example is to reincarnate from a divine being into a human?
+The context of the letter to the Philippians suggests Paul was addressing
+issues of selfish ambition and pride within the congregation. He encouraged the
+readers to adopt the same attitude as Christ Jesus.
 
-Sadly, many Christians ignore common sense and even Paul's own words of this same passage, by rather follow the mainstream translations or views for their own popularity among people.
+> Let nothing be done through strife or vainglory; but in lowliness of mind let
+> each esteem other better than themselves.
+>
+> Look not every man on his own things, but every man also on the things of
+> others. **Let this mind be in you, which was also in Christ Jesus**. Who,
+> being in the form of God, thought it not robbery to be equal with God: But
+> made himself of no reputation, and took upon him the form of a servant, and
+> was made in the likeness of men: And being found in fashion as a man, he
+> humbled himself, and became **obedient** unto death, even the death of the
+> cross.
+>
+> Wherefore **God also hath highly exalted him**, and given him a name which is
+> above every name: That at the name of Jesus every knee should bow, of things
+> in heaven, and things in earth, and things under the earth; And that every
+> tongue should confess that Jesus Christ is Lord, **to the glory of God the
+> Father**.
+>
+> — Philippians 2:3-11 (KJV)
+
+Paul explained the attitude of Christ as:
+
+* Not attempting to become equal with God.
+* Not seeking reputation among people.
+* Serving as a servant.
+* Being obedient to God even to death.
+
+Paul noted that Jesus' humility led to God exalting Him and giving Him
+authority above all others. This was so that respect would be paid to this
+humble servant, ultimately bringing glory to God the Father.
+
+A more direct translation reads:
+
+> Christ Jesus, who, though being in the **form of God**, **he considered
+> equality with God not something to be grasped at**, but instead he emptied
+> himself by taking the form of a servant, becoming **like the rest of
+> humankind**. And being found **as an ordinary human**, he humbled himself,
+> becoming obedient unto death — even death on a cross! — Philippians 2:6-8
+> (REV)
+
+The view that Jesus is God must address several questions raised by this
+passage:
+
+* Why would Jesus need to grasp for equality with Himself?
+* To whom was Jesus obedient if He were the highest God?
+* How can an [immortal God](../son-of-man/limitations.md) die?
+* How can Jesus be humble if He exalted Himself?
+* Why is there a distinction between bowing to Jesus and the glory of the
+  Father?
+* How does a reincarnation from a divine being serve as an achievable example
+  of humility for a human congregation?
+
+Critics might argue that Jesus' "form of God" inherently implies He is God.
+However, the Greek word *morphe* (form) can refer to the outward appearance or
+characteristics that reflect an underlying reality. In this context, it likely
+refers to Jesus being the perfect representative or "image" of God, reflecting
+His character and authority, rather than being the ontological equivalent of
+the Father. This interpretation maintains the distinction between the Father
+and the Son while explaining why Jesus could be described in such divine terms.
+
+The intended message of humility and obedience can be obscured by certain
+translation choices that prioritize specific theological frameworks. By
+examining the context and the Greek text, a clearer understanding of Paul's
+original intent can be reached, highlighting Jesus' role as an example of
+selfless service.
+
+## Conclusion
+
+The Bible highlights many similarities between Jesus and God while maintaining
+their distinct identities. [Parallels in attributes](#shared-attributes-and-roles)
+demonstrate Jesus' role as the perfect representative of His Father. Scriptural
+evidence confirms that [Jesus is a different person from His
+Father](#jesus-is-a-different-person-from-his-father). Jesus' own words
+regarding His Father's greatness clarify the nature of [His equality with
+God](#jesus-equality-with-god). Finally, the context of [Philippians
+2:6](#philippians-2-6) emphasizes Jesus' humility and obedience rather than a
+claim to be the Almighty God Himself.
