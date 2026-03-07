@@ -36,6 +36,8 @@ The observation that [Jesus acted like the Father](similarities/act.md) leads so
 
 ## Jesus Is a Different Person From His Father
 
+The New Testament provides extensive evidence that Jesus and His Father are distinct individuals. This distinction is affirmed by several witnesses:
+
 * God announced Jesus is a different person (Matthew 3:16-17)
 * Jesus says himself that he is a different person (Matthew 12:49-50, 19:17, 23:9; John 5:19,44-45, 8:17-18, 14:1-2, 17:3)
 * Luke testified that Jesus is a different person (Luke 2:52)
@@ -54,7 +56,7 @@ and
 
 > Jesus answered him: ... "You heard me say to you, ‘I am going away, and I will come to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for **the Father is greater than I**." — John 14:28 (ESV)
 
-The prophet Isaiah wrote:
+The prophet Isaiah emphasized the uniqueness of God:
 
 > I am [the LORD *(YHVH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
 > I equip you, though you do not know me, that people may know, from the rising of the sun and from the west, that **there is none besides Me**;  
@@ -95,11 +97,11 @@ Jeremiah also believed that YHVH is the Father:
 > 
 > — Jeremiah 3:19-20 (ESV)
 
-Malachi wrote that God is only 1 Father:
+Malachi noted that there is only one Father:
 
 > Have we not all **one Father**? Has not **one God** created us? — Malachi 2:10 (ESV)
 
-Therefore, Jesus addresses the Father:
+Jesus addressed his Father as Lord:
 
 > In that hour Jesus rejoiced in the Spirit and said, “I thank You, Father, **Lord** of heaven and earth — Luke 10:21
 
@@ -128,7 +130,7 @@ or
 
 > Christ Jesus *[look to Him as your example in selfless humility]* who, although **He existed in the form and unchanging essence of God** *[as One with Him, possessing the fullness of all the divine attributes—the entire nature of deity]*, **did not regard equality with God a thing to be grasped** or asserted *[as if He did not already possess it, or was afraid of losing it]*; but emptied Himself *[without renouncing or diminishing His deity, but only temporarily giving up the outward expression of divine equality and His rightful dignity]* by assuming the form of a bond-servant, and being made in the likeness of men *[He became completely human but was without sin, being fully God and fully man]*. After He was found in *[terms of His]* outward appearance as a man *[for a divinely-appointed time]*, He humbled Himself *[still further]* by becoming obedient *[to the Father]* to the point of death, even death on a cross. — Philippians 2:6-8 (AMP)
 
-However, Paul was not giving a scientific lecture on how Jesus turned into a human being. 
+However, Paul was not giving a lecture on how Jesus turned into a human being. 
 
 Instead, in the context of the letter to Philippians, Paul was writing to a congregation that had problems of “selfish ambition” (Philippian 1:15, 2:3); “vain conceit” (Philippian 2:3), arguing and lack of consideration for others (Philippian 2:4,14) and a need for humility, purity and blamelessness (Philippian 2:3,15). Paul wrote these scriptures to explain to the congregation that their attitude should be the same as Christ Jesus. Then he goes on:
 
