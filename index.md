@@ -100,7 +100,7 @@ The context here is that Jesus was dealing with condemnation and everlasting lif
 The word "only" comes from the Greek word "monos", which means "alone". This means "the only begotten Son of God" had to be a unique attribute to Jesus which sets him apart from every other person.
 
 * Jesus was not the only (alone) one who was baptized. John the Baptist had baptized many people before Jesus, so it does not make sense to say Jesus is *"the only baptized Son of God"*. 
-* Jesus was not the only "son of God", because there were many other ["sons of God"](https://eternal.family.net.za/god/sons) named in the Old Testament before Jesus was born. 
+* Jesus was not the only "son of God", because there were many other ["sons of God"](sons-of-god.md) named in the Old Testament before Jesus was born. 
 
 Anyone can be adopted into "sonship" by another Father. If this was John's intention it would have been sufficient to write "Jesus was *a* Son of God" (like many others), but that is not what he wrote.
 
@@ -159,7 +159,7 @@ Paul testifies that God is Jesus' Father:
 
 and
 
-> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](https://eternal.family.net.za/god/sons-of-god). — Galatians 4:4-5 (NKJV)
+> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](sons-of-god.md). — Galatians 4:4-5 (NKJV)
 
 and
 

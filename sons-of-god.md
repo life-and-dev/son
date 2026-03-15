@@ -10,7 +10,9 @@ Note that some Bible translations like the ESV omits the word "begotten" and ren
   - [Israel](#israel)
   - [King David](#king-david)
   - [Adopted Children of God](#adopted-children-of-god)
+  - [Babylonian Deities](#babylonian-deities)
   - [Christ](#christ)
+  - [Conclusion](#conclusion)
 
 ## "Angelic" beings
 
@@ -126,13 +128,17 @@ One day God will reveal who are his adopted "sons".
 
 > The one who conquers will have this heritage, and I will be his God and **he will be my son**. -- Revelations 21:7
 
-## Christ
+## Babylonian Deities
 
-[Trinitarians](trinity.md) often quote scriptures where Jesus is called "the Son of God" as evidence that Jesus is divine. The Babylonians too called divine beings "son of the gods" for example:
+The Babylonians called divine beings "son of the gods" for example:
 
 > He answered and said, “But I see four men unbound, walking in the midst of the fire, and they are not hurt; and the appearance of the fourth is **like a son of the gods**.” -- Daniel 3:25 (ESV)
 
-Note, this does not mean they saw Jesus among Daniel's friends.  As already mentioned above, the title "son of God" is not unique to only Jesus. The Babilonians more likely meant "son of the gods" is some divine being they cannot explain which could potentially be any angelic being. 
+Note, this does not mean they saw Jesus among Daniel's friends.  As already mentioned above, the title "son of God" is not unique to only Jesus. The Babilonians more likely meant "son of the gods" is some divine being they cannot explain which could potentially be any angelic being.
+
+[Trinitarians](trinity.md) too believe that only a divine being can be called "the Son of God" and use this reasoning as evidence that [Jesus is divine](son-as-divine.md). 
+
+## Christ
 
 This was prophesied:
 
@@ -146,11 +152,14 @@ This was prophesied:
 >
 > -- Acts 13:16,30-34 (ESV)
 
-In this context, some interpret "begotten" as a metaphor for resurrection: meaning that Jesus was the only "son of God" that was resurrected so far who is currently alive, however the same phrase is also used by John:
-
-> For God so loved the world that He gave **His only begotten Son**, that whoever believes in Him should not perish but have everlasting life. -- John 3:16 (NKJV)
-
-In this context, "begotten" could more likely mean [a direct "son of God" like Adam](#adam), but unlike Adam who was created from dust, Jesus was ***begotten*** from a woman's womb: 
+In this context, some interpret "begotten" as a metaphor for resurrection: meaning that Jesus was the only "son of God" that was resurrected so far who is currently alive, however the same phrase is also used by Luke:
 
 > And the angel answered *[Mary]*, "The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy — **the Son of God**." -- Luke 1:35
 
+In this context, "begotten" could more likely mean [a direct "son of God" like Adam](#adam), but unlike Adam who was created from dust, Jesus was ***begotten*** from a woman's womb. In addition "son of God" could also refer to God's special relationship with Jesus, his role as God's appointed and worthy heir, and his delegated authority:
+
+> For God so loved the world that He gave **His only begotten Son**, that whoever believes in Him should not perish but have everlasting life. -- John 3:16 (NKJV)
+
+## Conclusion
+
+The biblical designation "sons of God" covers a range of usages which may include from angelic beings and Israel to adopted believers. The title has nothing to do with the divine nature of Jesus, but rather emphasizes his unique relationship to the Father, his role as God's appointed and worthy heir, and his delegated authority.
