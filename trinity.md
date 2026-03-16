@@ -69,6 +69,8 @@ However, in the Bible, the word "Elohim" could also [technically be considered a
 * Chemosh was considered "elohim" (Judges 11:24)
 * Dagon was considered "elohim" (1 Samuel 5:7)
 
+Bible-Truth-Files explain this very well in [this YouTube](https://youtu.be/Mb9aE6PAHDE?si=kNmLhw_-zNvbOJks).
+
 ### God does godly things in partnership
 
 Often God partners with someone and use the words "us" or "our" to do divine things. For example Genesis 1:26; 3:22; 11:7.
