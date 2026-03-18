@@ -3,7 +3,7 @@ description: Examines the biblical significance of Jesus' throne and whether it 
 keywords: Jesus throne, Son of Man, God's throne, Revelation 3:21, Matthew 25:31, 1 Chronicles 29:23, David's throne, Solomon's throne
 ---
 
-# Sitting on the Throne of Glory
+# Jesus Sitting on the Glorious Throne
 
 The biblical description of Jesus sitting on a glorious throne is often used to support the argument for his divinity. However, a broader examination of
 scripture reveals that sitting on a throne, even the throne of God, is not an honor exclusive to God alone. This article explores how the Bible uses throne
@@ -51,14 +51,8 @@ Solomon was not God, yet he sat on the throne of the LORD. This demonstrates tha
 
 ## Addressing the Divine Claim
 
-Critics of this view argue that Jesus' throne is uniquely divine because he is worshiped while on it. However, the worship described in heaven often distinguishes between the one on the throne (God) and the Lamb. While both receive honor, they are honored for different reasons: God for His creation and eternal existence (Revelation 4:11), and the Lamb for his sacrifice (Revelation 5:9). Furthermore, the word for worship often used in these contexts can refer to the [homage paid to a superior or a king](../../serve.draft.md).
+Critics of this view argue that Jesus' throne is uniquely divine because he is worshiped while on it. However, the worship described in heaven often distinguishes between the one on the throne (God) and the Lamb. While both receive honor, they are honored for different reasons: God for His creation and eternal existence (Revelation 4:11), and the Lamb for his sacrifice (Revelation 5:9). Furthermore, the word for worship often used in these contexts can refer to the [homage paid to a superior or a king](../../serve.md).
 
 ## Conclusion
 
 The evidence from both the Old and New Testaments suggests that sitting on a throne, even one described as God's throne, signifies [delegated authority](#the-throne-of-the-lord-in-the-old-testament) and [shared honor](#believers-shared-in-the-throne) rather than inherent divinity. Jesus occupies the throne because he conquered and was exalted by the Father, just as he promises that [believers will share in his throne](#believers-shared-in-the-throne) for their own faithfulness.
-
-Each statement in this conclusion is supported by the preceding sections:
-
-* [Delegated authority](#the-son-of-man-on-his-throne)
-* [Shared honor with believers](#believers-shared-in-the-throne)
-* [Precedent of human kings on God's throne](#the-throne-of-the-lord-in-the-old-testament)
