@@ -138,7 +138,7 @@ Instead, in the context of the letter to Philippians, Paul was writing to a cong
 >
 > Look not every man on his own things, but every man also on the things of others. **Let this mind be in you, which was also in Christ Jesus**. Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became **obedient** unto death, even the death of the cross.
 >
-> Wherefore **God also hath highly exalted him**, and given him [a name which is above every name](https://eternal.family.net.za/bible/concepts/name): That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, **to the glory of God the Father**.
+> Wherefore **God also hath highly exalted him**, and given him [a name which is above every name](https://word.ofgod.info/terms/name): That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, **to the glory of God the Father**.
 >
 > — Philippians 2:3-11 (KJV)
 
@@ -158,7 +158,7 @@ But instead:
 
 That is the message that Paul tried to communicate. 
 
-Paul explained that the humility of Christ Jesus was rewarded by God with [a "name" or authority](https://eternal.family.net.za/bible/concepts/name) that is far above any other authority in creation, so that every person should [pay respect](https://eternal.family.net.za/god/son/essence/as-god/worship) ("bow the knee") to this humble "servant" so that God (as ["the Father"](https://eternal.family.net.za/god/father) of Jesus) could [receive the glory](https://eternal.family.net.za/god/son/essence/as-god/claims/glory).
+Paul explained that the humility of Christ Jesus was rewarded by God with [a "name" or authority](https://word.ofgod.info/terms/name) that is far above any other authority in creation, so that every person should [pay respect](https://eternal.family.net.za/god/son/essence/as-god/worship) ("bow the knee") to this humble "servant" so that God (as ["the Father"](https://ofgod.info) of Jesus) could [receive the glory](https://eternal.family.net.za/god/son/essence/as-god/claims/glory).
 
 This message is sometimes obscured in modern English translations that lean heavily toward [Trinitarian](../trinity.md) perspectives. For example, a more direct translation provides a different emphasis:
 
