@@ -1,39 +1,102 @@
 ---
-title: Jesus claims to be glorified
+description: Explore the biblical relationship between the glory of God and the
+  glorification of Jesus by examining key scriptures from both the Old and New
+  Testaments.
+keywords: Isaiah 42:8, John 17:1, Jesus glorified, God's glory, heteros vs
+  allos, glorification of the Son, John 5:23, John 8:54
 published: true
 ---
 
-> I am [the LORD](/god/father/name#yhvh), that is My name;<br/>
-> And **My [glory](/bible/concepts/glory) I will not give to another**, nor My [praise](/god/praise) to carved images.
-> 
-> -- Isaiah 42:8 (NKJV)
+# Jesus Claims to Be Glorified
 
-Yet Jesus said:
+The concept of glory is central to the biblical understanding of God's majesty
+and authority. In the Old Testament, the LORD declares that He will not give His
+glory to another. Yet, in the New Testament, Jesus frequently speaks of being
+glorified and receiving glory from the Father. This raises an important question
+about the nature of their relationship and whether these statements contradict
+the exclusive claims of the Creator.
 
-> And Jesus answered them, saying, "The hour has come for the Son of Man to be glorified. -- John 12:23 (ESV)
+## The Context of God's Glory
 
-and
+The prophet Isaiah recorded a powerful declaration from the LORD regarding His
+unique status and the glory that belongs to Him alone.
 
-> All mine are Yours, and Yours are mine, and **I am [glorified](/bible/concepts/glory)** in them. -- John 17:10 (ESV)
+> I am [the LORD](/god/father/name#yhvh), that is My name;
+> And **My [glory](/bible/concepts/glory) I will not give to another**, nor My
+[praise](/god/praise) to carved images. — Isaiah 42:8 (NKJV)
 
-[Out of context](/bible/interpretations/rebuttals#context), it seems like Jesus contradicts Isaiah. To solve this "contradiction", some would argue this proof that Jesus is [the LORD](/god/father/name#yhvh). This argument is supported by [the confusion caused by removing God's name](/bible/interpretations/rebuttals#confused-by-name-removal) is replaced with "the LORD" which is also what Jesus is called.
+In this context, the LORD was addressing the issue of idolatry. He was making it
+clear that He would not share His glory with foreign idols or carved images.
 
-In the context of Isaiah 42:8, the issue was the God do not want to share His glory with foreign idols ("carved images"), however as the Father of Jesus, the Son of God, He has no problem with anyone glorifies His Son, because that automatically also glorifies Him.
+The distinction between "another" person and "another" kind of thing is evident
+in the Greek translation of the Old Testament, the Septuagint (LXX). In Isaiah
+42:8, the word used for "another" is *heterō* (a form of *heteros*). This
+specific Greek term refers to another of a different kind. For example, a carved
+idol is a different kind of being than the living God.
 
-> If God is glorified in him, God will also glorify him in Himself, and glorify him at once. -- John 13:32 (ESV)
+In contrast, the Greek word *allos* is typically used to describe another of the
+same kind. By using *heteros*, the text emphasizes that God will not give His
+glory to false gods or idols. This leaves room for the Father to share His glory
+with His Son, who is the "radiance of the glory of God and the exact imprint of
+his nature" (Hebrews 1:3).
 
-No parent should be competing with their children, but should instead support their children.  For example, a human father is also glorified (honoured) when someone glorifies (honour) his son which means that the father raised his son well.
+## Jesus Receives Glory From the Father
 
-> All may honor the Son, just as they honor the Father. -- John 5:22 (ESV)
+Despite the declaration in Isaiah, Jesus spoke openly about the glory he was to
+receive. He indicated that the purpose of his life and impending death was for
+his own glorification and the glorification of his Father.
 
-Therefore, both Isaiah and Jesus are correct. In the context of John 17, Jesus prayed a few verses earlier:
+> And Jesus answered them, saying, "The hour has come for the Son of Man to be
+glorified." — John 12:23 (ESV)
 
->  When Jesus had spoken these words, he lifted up his eyes to heaven, and said, “Father, the hour has come; **glorify your Son that the Son may glorify You**, since [You have given him authority over all flesh](/god/son/essence/as-god/lord#jesus-got-all-authority), [to give eternal life to all whom You have given him](/god/son/essence/as-god/similarities/act#jesus-judge-as-the-father). -- John 17:1-2 (ESV)
+Later, during his final prayer with his disciples, Jesus affirmed that he was
+already glorified through them and that everything he had belonged to the
+Father.
 
-In other words, if someone gives glory to Jesus, it also glorifies God the Father of Jesus.
+> All mine are Yours, and Yours are mine, and I am glorified in them. — John
+17:10 (ESV)
 
-Jesus himself says that it is useless to glorify oneself:
+To some readers, this appears to be a contradiction. If the LORD does not give
+His glory to another, how can Jesus be glorified? Some interpret this as proof
+that Jesus must be the LORD Himself. This argument is often reinforced by the
+practice of replacing the divine name with "the Lord" in many Bible
+translations. Since Jesus is also called "Lord," it can lead to confusion
+between the two distinct persons.
 
-> Jesus answered, “**If I glorify myself, my glory is nothing. It is my Father Who glorifies me**, of Whom you say, ‘He is our God.’ -- John 8:54 (ESV)
+## Shared Glory and Distinction
 
-Therefore, [Jesus has to be distinct from God the Father](/god/son/essence/not-god/distinct) to be glorified by Him.
+The relationship between the Father and the Son provides a different perspective
+on how glory is shared. Rather than competing for honor, the Father and Son
+glorify each other.
+
+> If God is glorified in him, God will also glorify him in Himself, and
+glorify him at once. — John 13:32 (ESV)
+
+Just as a human father is honored when his son is respected, God the Father is
+glorified when people honor His Son. The Son represents the Father and acts on
+His behalf. Therefore, the honor given to the Son ultimately returns to the
+Father.
+
+> All may honor the Son, just as they honor the Father. — John 5:23 (ESV)
+
+Jesus himself emphasized that his glory was not something he took for himself,
+but something given to him by the Father.
+
+> Jesus answered, “**If I glorify myself, my glory is nothing. It is my Father
+Who glorifies me**, of Whom you say, ‘He is our God.’ — John 8:54 (ESV)
+
+This highlights a clear distinction between the two. One person gives glory, and
+the other receives it. For Jesus to be glorified by the Father, he must be a
+distinct person from the Father.
+
+## Conclusion
+
+The glorification of Jesus does not contradict the declaration that God will not
+share His glory with idols. While the LORD will not give His glory to "another"
+of a different kind, such as a carved image, He does share His glory with His
+own Son. This shared glory serves to further [honor the
+Father](#the-context-of-gods-glory). Jesus's reception of glory is a gift from
+the Father, which demonstrates their unique relationship and [functional
+unity](#jesus-receives-glory-from-the-father). Ultimately, the honor given to
+Jesus is an expression of [honor for the God who sent
+him](#shared-glory-and-distinction).
