@@ -26,7 +26,7 @@ and
 > And the LORD God commanded **the man**, saying, “You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”  
 > Then the LORD God said, “It is not good that **the man** should be alone; I will make him a helper fit for him.”
 >
-> Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to **the man** to see what he would call them. And whatever **the man** called every living creature, that was its name. **The man** gave names to all livestock and to the birds of the heavens and to every beast of the field. But for *Adam* ([Man](https://biblehub.com/hebrew/120.htm)) there was not found a helper fit for him. So the LORD God caused a deep sleep to fall upon **the man**, and while he slept took one of his ribs and closed up its place with flesh. And the rib that the LORD God had taken from **the man** he made into a woman and brought her to **the man**.
+> Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to **the man** to see what he would call them. And whatever **the man** called every living creature, that was its name. **The man** gave names to all livestock and to the birds of the heavens and to every beast of the field. But for *Adam* *(which also is the same word for "[Man](https://biblehub.com/hebrew/120.htm)")* there was not found a helper fit for him. So the LORD God caused a deep sleep to fall upon **the man**, and while he slept took one of his ribs and closed up its place with flesh. And the rib that the LORD God had taken from **the man** he made into a woman and brought her to **the man**.
 >
 > Then **the man** said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of **Man**.”
 >
@@ -47,13 +47,15 @@ When Jesus asked the question:
 
 The Jews did not answer *"God as a man"*, but instead...
 
-> they said, “Some say John the Baptist, others say Elijah, and others Jeremiah or one of the prophets.” — Matthew 16:14 (ESV)
+> they said, “Some say **John the Baptist**, others say **Elijah**, and others **Jeremiah** or **one of the prophets**.” — Matthew 16:14 (ESV)
 
-Eve was the wife of "Man". So when Jesus says he is the "son of Man" this indicates he is that promised "offspring" of "Man" that will bruise the head of the "snake".
+The Jews expected that "the Son of Man" means one of their prophets instead of an incarnated god.
+
+Eve was the wife of "Man". So when Jesus says he is the "son of Man" this indicates he is that promised "son of Man" that will bruise the head of the "snake".
 
 ## The authority of the Son of Man
 
-Every time Jesus refers to himself as "the Son of Man", he uses it in the context of his God given authority or purpose. Just to list a few examples:
+Every time Jesus refers to himself as "the Son of Man", he uses it in the context of his God given authority or purpose as [the Christ](https://kingdom.ofgod.info/christ) (Messiah). Just to list a few examples:
 
 > But that you may know that the Son of Man **has authority on earth to forgive sins** — Matthew 9:6 (ESV)
 
@@ -133,11 +135,11 @@ Jesus explicitly called God "my God" and consistently demonstrated dependence on
 Jesus regularly prayed to his Father:
 
 > And he *(Jesus)* went a little further, and **fell on his face, and prayed, saying, O my Father**, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt...
-> 
+>
 > He *(Jesus)* went away again the second time, and **prayed, saying, O my Father**, if this cup may not pass away from me, except I drink it, thy will be done...
-> 
+>
 > Thinkest thou that I cannot now **pray to my Father**, and he shall presently give me more than twelve legions of angels?
-> 
+>
 > — Matthew 26:39,42,53 (KJV)
 
 > And it came to pass in those days, that he *(Jesus)* went out into a mountain to pray, and **continued all night in prayer to God**. — Luke 6:12
