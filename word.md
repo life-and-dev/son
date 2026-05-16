@@ -108,7 +108,7 @@ Paul identifies "the Word of God" as **God's promise** that was fulfilled when G
 
 > For they deliberately overlook this fact, that the heavens existed long ago, and the earth was formed out of water and through water **by the word of God**, and that by means of these the world that then existed was deluged with water and perished. But **by the same word** the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly. But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to **fulfill His promise** as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 >
-> But [the day of the Lord](https://eternal.family.net.za/eternal/death.md#day-of-the-lord) will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed. Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, waiting for and hastening the coming of [the day of God](https://eternal.family.net.za/eternal/death.md#day-of-the-lord), because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn!
+> But [the day of the Lord](https://eternal.family.net.za/eternal/death#day-of-the-lord) will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed. Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, waiting for and hastening the coming of [the day of God](https://eternal.family.net.za/eternal/death#day-of-the-lord), because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn!
 >
 > But according to **His promise** we are waiting for new heavens and a new earth in which righteousness dwells.
 >
@@ -157,7 +157,7 @@ If John intended "the Word" in John 1 to mean "Jesus," we would expect him to us
 
 ### John Uses "The Word" for God's Message and Truth
 
-> Jesus answered them, "Is it not written in your Law, 'I said, you are gods'? If he called them gods to whom **the word of God** ([ho logos](https://biblehub.com/greek/3056.htm)) came — and Scripture cannot be broken — do you say of him whom the Father consecrated and sent into the world, 'You are [blaspheming](https://eternal.family.net.za/bible/concepts/blasphemy.md),' because I said, '[I am the Son of God](https://eternal.family.net.za/god/son/essence/of-god.md)'? — John 10:34-36 (ESV)
+> Jesus answered them, "Is it not written in your Law, 'I said, you are gods'? If he called them gods to whom **the word of God** ([ho logos](https://biblehub.com/greek/3056.htm)) came — and Scripture cannot be broken — do you say of him whom the Father consecrated and sent into the world, 'You are [blaspheming](https://word.ofgod.info/terms/blasphemy),' because I said, '[I am the Son of God](son-of-god.md)'? — John 10:34-36 (ESV)
 
 > And Jesus cried out and said, "Whoever believes in me, believes not in me but in Him who sent me. And whoever sees me sees Him Who sent me. I have come into the world as light, so that whoever believes in me may not remain in darkness. If anyone hears **my words** and does not keep them, I do not judge him; for I did not come to judge the world but to save the world. The one who rejects me and does not receive my words has a Judge; **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that I have spoken will judge him on the last day. For I have not spoken on my own authority, but the Father who sent me has himself given me a commandment — what to say and what to speak." — John 12:44-50 (ESV)
 
@@ -229,7 +229,7 @@ Some claim John wrote:
 
 But John himself explains his purpose:
 
-> This is the disciple *(John)* who is bearing **witness** about these things, and who has written these things, and we know that **his testimony** is true. — John 21:24 (ESV)
+> This is the disciple *(John)* who is bearing **witness** about these things, and who has written these things, and we know that **his [testimony](https://word.ofgod.info/terms/testimony)** is true. — John 21:24 (ESV)
 
 A witness or testimony should be **clear and understandable**, not overcomplicated, confusing, or mysterious.
 
@@ -237,9 +237,9 @@ John explicitly states his goal:
 
 > These are written so that you may believe that
 >
-> - [Jesus is the Christ](https://eternal.family.net.za/god/son/christ.md),
-> - [the Son of God](https://eternal.family.net.za/god/son/essence/of-god.md), and
-> - that [by believing](https://eternal.family.net.za/eternal/saved/belief.md) [you may have life](https://eternal.family.net.za/eternal/saved.md) in his [name](https://eternal.family.net.za/bible/concepts/name.md).
+> - [Jesus is the Christ](https://kingdom.ofgod.info/christ),
+> - [the Son of God](son-of-god.md), and
+> - that by believing [you may have life](https://kingdom.ofgod.info/life) in his [name](https://word.ofgod.info/terms/name).
 >
 > — John 20:31 (ESV)
 
@@ -376,7 +376,7 @@ However, as Dr. Dale Tuggy notes:
 The Greek word "theos" can mean:
 
 - **God Almighty** (the Father)
-- **Divine** or [a god/important person](https://eternal.family.net.za/bible/concepts/god.md)
+- **Divine** or [a god/important person](https://word.ofgod.info/terms/god)
 
 Scholar Murry J. Harris suggests:
 
@@ -385,7 +385,7 @@ Scholar Murry J. Harris suggests:
 Which reading makes more sense?
 
 1. "The Word was with the Father, and the Word was the Father" ❌ (Contradiction)
-2. "The Word was with the Father, and the Word was [divine](https://eternal.family.net.za/bible/concepts/god.md)" ✅ (Consistent)
+2. "The Word was with the Father, and the Word was [divine](https://word.ofgod.info/terms/god)" ✅ (Consistent)
 
 #### What Makes "The Word" Divine?
 
@@ -528,7 +528,7 @@ Peter equates "the word" with God's **promise**. God created by his word, and wi
 
 ### John 1:4-5 - In Him Was Life
 
-> In Him was life; and the life was [the light](https://eternal.family.net.za/bible/metaphors/light.md) of men. And the light shineth in darkness; and the darkness comprehended it not. — John 1:4-5 (KJV)
+> In Him was life; and the life was [the light](https://kingdom.ofgod.info/light) of men. And the light shineth in darkness; and the darkness comprehended it not. — John 1:4-5 (KJV)
 
 #### Parallels with Genesis 1
 
@@ -540,8 +540,8 @@ John echoes Genesis: "in the beginning," "light," and "darkness."
 
 John introduces two metaphors:
 
-- **"The life"** = [eternal salvation](https://eternal.family.net.za/eternal/saved.md)
-- **"The light"** = [the gospel/truth](https://eternal.family.net.za/bible/metaphors/light.md) that exposes darkness (deception)
+- **"The life"** = [eternal salvation](https://kingdom.ofgod.info/life)
+- **"The light"** = [the gospel/truth](https://kingdom.ofgod.info/light) that exposes darkness (deception)
 
 These are NOT titles for Jesus himself, but rather describe the **result of God's plan**:
 
@@ -552,7 +552,7 @@ These are NOT titles for Jesus himself, but rather describe the **result of God'
 
 ### John 1:6-9 - John's Witness to the Light
 
-> There was a man sent from God, whose name was John. This man came for a witness, to **bear witness of [the light](https://eternal.family.net.za/bible/metaphors/light.md)**, that all through him might believe. He was not that light, but was sent to **bear witness of that light**. That was the true light which gives light to every man coming into the world. — John 1:6-9 (NKJV)
+> There was a man sent from God, whose name was John. This man came for a witness, to **bear witness of [the light](https://kingdom.ofgod.info/light)**, that all through him might believe. He was not that light, but was sent to **bear witness of that light**. That was the true light which gives light to every man coming into the world. — John 1:6-9 (NKJV)
 
 #### Was John the Baptist Testifying About Jesus or the Gospel?
 
@@ -562,7 +562,7 @@ Some translations add words that aren't in the original Greek:
 
 The italicized words create the impression that "the light" = Jesus himself.
 
-However, in context (John 1:4), "the life" = [eternal salvation](https://eternal.family.net.za/eternal/saved.md), which is also [the Glory of God](https://eternal.family.net.za/bible/metaphors/light.md#glory). This is [the purpose why God created life](https://eternal.family.net.za/creation.md#the-purpose-of-creation) (Psalm 86:9-10, 148:1-12; Ephesians 1:3-6).
+However, in context (John 1:4), "the life" = [eternal salvation](https://kingdom.ofgod.info/life), which is also the Glory of God. This is [the purpose why God created life](https://eternal.family.net.za/creation#the-purpose-of-creation) (Psalm 86:9-10, 148:1-12; Ephesians 1:3-6).
 
 #### Why Clarify That John the Baptist Was Not the Light?
 
@@ -604,7 +604,7 @@ If John meant physical creation, this makes no sense:
 
 #### The Authority (Name) to Become Sons of God
 
-"Sons of God" are made when people **believe on his [name](https://eternal.family.net.za/bible/concepts/name.md) (authority)**, which is:
+"Sons of God" are made when people **believe on his [name](https://word.ofgod.info/name) (authority)**, which is:
 
 - Jesus "was born, not of blood, nor of the will of the flesh, nor of the will of man, but of God"
 - Jesus was NOT an accident (Mary's out-of-wedlock affair)
@@ -618,13 +618,13 @@ This ties back to "the Word" (God's plan) becoming flesh.
 
 #### Does This Mean Incarnation?
 
-Some claim this proves [Jesus was God incarnate](https://eternal.family.net.za/god/son/essence/as-god/incarnation.md) - that God became human.
+Some claim this proves [Jesus was God incarnate](https://eternal.family.net.za/god/son/essence/as-god/incarnation) - that God became human.
 
 **Alternative understanding**: "The word became flesh" = **God's promised plan materialized** when Jesus was born.
 
-- God's plan/promise ([the word](https://eternal.family.net.za/bible/concepts/word.md)) became **reality** in human form
-- God kept his promise through [the prophets](https://eternal.family.net.za/god/son/prophecies.md)
-- This event [glorified](https://eternal.family.net.za/bible/concepts/glory.md) God (showed his faithfulness)
+- God's plan/promise ([the word](https://word.ofgod.info)) became **reality** in human form
+- God kept his promise through [the prophets](https://prophecies.ofgod.info)
+- This event [glorified](https://eternal.family.net.za/bible/concepts/glory) God (showed his faithfulness)
 
 "We beheld his glory" = We saw God's glory displayed in the only begotten Son, full of grace and truth.
 
@@ -638,7 +638,7 @@ Some claim this proves [Jesus was God incarnate](https://eternal.family.net.za/g
 
 #### Does "Before Me" Mean Pre-existence?
 
-John the Baptist was older than Jesus, so "he was before me" seems puzzling. Does it mean Jesus [pre-existed](https://eternal.family.net.za/god/son/essence/as-god/incarnation.md)?
+John the Baptist was older than Jesus, so "he was before me" seems puzzling. Does it mean Jesus [pre-existed](https://eternal.family.net.za/god/son/essence/as-god/incarnation)?
 
 **NO.** The Greek word "protos" (translated "before") can also mean:
 
@@ -685,14 +685,14 @@ Compare with older translation:
 
 [The Interlinear Bible](https://biblehub.com/interlinear/john/1-18.htm) reads:
 
-> God no one has seen ever yet [the] only begotten [god](https://eternal.family.net.za/god.md) the one being in the bosom of the Father he has made [Him] known.
+> God no one has seen ever yet [the] only begotten [god](https://word.ofgod.info/terms/god) the one being in the bosom of the Father he has made [Him] known.
 
 #### The Greek Word "Theos"
 
 The Greek word "[theos](https://biblehub.com/greek/2316.htm)" can mean:
 
 - **God Almighty** (capital "G")
-- [**A god or important person**](https://eternal.family.net.za/bible/concepts/god.md) (small "g")
+- [**A god or important person**](https://word.ofgod.info/terms/god) (small "g")
 
 Depending on the translator's theological view, the same Greek text is translated differently.
 
@@ -716,16 +716,16 @@ If the "only begotten Son" made God known, did Jesus teach about the triune God 
 
 **Examples**:
 
-- **Samaritan woman** (John 4:1-42) - Jesus said he was [the Messiah](https://eternal.family.net.za/bible/concepts/christ.md), told her to worship the Father, reinforcing belief in one God
-- **Disciples** (Matt 16:17-20) - Jesus taught he was [the Messiah](https://eternal.family.net.za/bible/concepts/christ.md), reinforced that God the Father revealed this
-- **Blind man** (John 9:35-38) - Jesus taught he was [the Messiah](https://eternal.family.net.za/bible/concepts/christ.md), not God
+- **Samaritan woman** (John 4:1-42) - Jesus said he was [the Messiah](https://kingdom.ofgod.info/christ), told her to worship the Father, reinforcing belief in one God
+- **Disciples** (Matt 16:17-20) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), reinforced that God the Father revealed this
+- **Blind man** (John 9:35-38) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), not God
 - **Rich young ruler** (Mark 10:17-18) - Jesus corrected him: "Only God is good" (implying Jesus is not God)
 
 #### The Key Point
 
 Regardless of translation, the verse says "**he has made Him known**" or "**he has declared Him**."
 
-This describes [**two distinct persons**](https://eternal.family.net.za/god/son/essence/not-god/distinct.md):
+This describes [**two distinct persons**](son-of-man/distinct-persons.md):
 
 - **The Son** (who declares/makes known)
 - **The Father/God** (who is declared/made known)
@@ -738,11 +738,11 @@ This describes [**two distinct persons**](https://eternal.family.net.za/god/son/
 
 John wrote in the book of Revelations:
 
-> Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war. His eyes are like a flame of fire, and on his head are many diadems, and he has [a name](https://eternal.family.net.za/bible/concepts/name.md) written that no one knows but himself. He is clothed in a robe dipped in blood, and [the name](https://eternal.family.net.za/bible/concepts/name.md) by which he is called is **The Word of God**. And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses. From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. On his robe and on his thigh he has [a name](https://eternal.family.net.za/bible/concepts/name.md) written, King of kings and Lord of lords. — Revelation 19:11-16 (ESV)
+> Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war. His eyes are like a flame of fire, and on his head are many diadems, and he has [a name](https://word.ofgod.info/terms/name) written that no one knows but himself. He is clothed in a robe dipped in blood, and [the name](https://word.ofgod.info/terms/name) by which he is called is **The Word of God**. And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses. From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. On his robe and on his thigh he has [a name](https://word.ofgod.info/terms/name) written, King of kings and Lord of lords. — Revelation 19:11-16 (ESV)
 
 ### Is This Jesus?
 
-Many scholars agree this likely describes Jesus based on similar [prophecies about Jesus](https://eternal.family.net.za/god/son/prophecies.md). Some argue "the name" means "identity," proving Jesus IS "the Word of God."
+Many scholars agree this likely describes Jesus based on similar [prophecies about Jesus](https://prophecies.ofgod.info/messianic). Some argue "the name" means "identity," proving Jesus IS "the Word of God."
 
 1. **Authorship unclear** - No evidence "John of Patmos" is "John the apostle"
 2. **Different genres** - Gospel of John = testimony; Revelation = prophecy (different language/context)
