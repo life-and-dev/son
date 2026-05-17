@@ -7,13 +7,13 @@ keywords: Genesis 18 visitors, Abraham three men, Trinity debate, Angel of the L
 
 Genesis 18 has generated theological debate regarding whether the three men who appeared to Abraham represent the Trinity. God in three distinct persons. The argument appears compelling at first glance. The text says "the LORD appeared" (singular), yet three men showed up at Abraham's tent. This has led some to interpret the passage as an early revelation of [the Godhead](../../bible/concepts/godhead.md) in human form.
 
-> And the LORD ([YHVH](https://eternal.family.net.za/god/father/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
+> And the LORD ([YHVH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
 
 A closer examination of the passage and its context reveals that this interpretation raises more questions than it answers. If Abraham truly saw God the Father in physical form, how does that harmonize with Jesus' statement that "no one has ever seen God" (John 1:18 (ESV))? Why does the very next chapter explicitly call two of these visitors "angels" (Genesis 19:1 (ESV))? 
 
 ## Abraham recognized YHVH
 
-> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHVH](https://eternal.family.net.za/god/father/name))*. — Genesis 18:22 (ESV)
+> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHVH](https://ofgod.info/name))*. — Genesis 18:22 (ESV)
 
 However, if Abraham was physically standing before the Father, it could contradict Jesus' words:
 

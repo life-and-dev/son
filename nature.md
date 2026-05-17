@@ -99,8 +99,8 @@ In addition, it was also prophesied:
 * that the Christ would serve his God (Psalm 16:8-11 confirmed by Acts 2:22,25-34; Isaiah 42:1-4 confirmed by Matthew 12:15-21; Isaiah 52:13-53:12 confirmed by Luke 22:37)
 * that the Christ would be distinct from God (Psalm 110:1 confirmed by Mark 16:19)
 * that the Christ would depend on his God (Isaiah 11:1-2; 42:1-2; 61:1)
-* that the Christ would be anointed by [the LORD](https://eternal.family.net.za/god/father/name) God (Isaiah 61:1-2 confirmed by Luke 4:17-21)
-* that the Christ would be sent by [the LORD](https://eternal.family.net.za/god/father/name) God (Isaiah 61:1-2 confirmed by Luke 4:17-21)
+* that the Christ would be anointed by [the LORD](https://ofgod.info/name) God (Isaiah 61:1-2 confirmed by Luke 4:17-21)
+* that the Christ would be sent by [the LORD](https://ofgod.info/name) God (Isaiah 61:1-2 confirmed by Luke 4:17-21)
 
 Now, some may argue that Christ is just "God's human body" or the "man"-part of God like an avatar. However, some prophecies picture interaction between the Christ and God as [distinct persons](https://eternal.family.net.za/god/son/essence/not-god/distinct), for example Daniel 7:10-14,27; Revelation 1:1,4-5
 

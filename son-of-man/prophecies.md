@@ -165,7 +165,7 @@ Isaiah's prophecy:
 > Kings shall shut their mouths because of him, for that which has not been told them they see, and that which they have not heard they understand.
 >
 > Who has believed what he has heard from us? *(Romans 10:16)*  
-> And to whom has the arm of [the LORD](https://eternal.family.net.za/god/father/name#lord) been revealed?
+> And to whom has the arm of [the LORD](https://ofgod.info/name#lord) been revealed?
 >
 > For he grew up before Him like a young plant, and like a root out of dry ground; *(Luke 2:52)*  
 > he had no form or majesty that we should look at him, and no beauty that we should desire him. *(John 7:24; Matthew 11:8)*
@@ -181,7 +181,7 @@ Isaiah's prophecy:
 >
 > All we like sheep have gone astray; *(John 10:11-18; Mark 14:27)*  
 > we have turned — every one — to his own way;  
-> and [the LORD](https://eternal.family.net.za/god/father/name#lord) has laid on him the [iniquity](https://eternal.family.net.za/bible/concepts/iniquity) of us all.
+> and [the LORD](https://ofgod.info/name#lord) has laid on him the [iniquity](https://eternal.family.net.za/bible/concepts/iniquity) of us all.
 >
 > He was oppressed, and he was afflicted, yet he opened not his mouth;  
 > like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth. *(John 1:29, 1 Peter 1:19, Revelation 1:17)*
@@ -190,10 +190,10 @@ Isaiah's prophecy:
 > and as for his generation, who considered that he was cut off out of the land of the living, stricken for the [transgression](https://eternal.family.net.za/bible/concepts/transgression) of my people?
 >
 > And they made his grave with the wicked and with a rich man in his death, although he had done no violence, and there was no deceit in his mouth.  
-> Yet it was the will of [the LORD](https://eternal.family.net.za/god/father/name#lord) to crush him;  
+> Yet it was the will of [the LORD](https://ofgod.info/name#lord) to crush him;  
 > he has put him to grief;  
 > when his soul makes an [offering](https://eternal.family.net.za/bible/concepts/sacrifice) for guilt, he shall see his offspring; he shall prolong his days;  
-> the will of [the LORD](https://eternal.family.net.za/god/father/name#lord) shall prosper in his hand.
+> the will of [the LORD](https://ofgod.info/name#lord) shall prosper in his hand.
 >
 > Out of the anguish of his soul he shall see and be satisfied;  
 > by his knowledge shall the righteous one, My servant, make many to be accounted righteous, and he shall bear their iniquities.  
@@ -207,7 +207,7 @@ Both Peter and David expected a human Christ:
 
 > Men of Israel, hear these words: Jesus of Nazareth... For David says concerning him,
 >
->> ‘I saw the [LORD](https://eternal.family.net.za/god/father/name) always before me, for He is at my right hand that I may not be shaken;  
+>> ‘I saw the [LORD](https://ofgod.info/name) always before me, for He is at my right hand that I may not be shaken;  
 >> therefore my heart was glad, and my tongue rejoiced; my flesh also will dwell in hope.  
 >> For You will not abandon my soul to Hades, or let Your **holy one** see corruption.  
 >> You have made known to me the paths of life; You will make me full of gladness with Your presence.’

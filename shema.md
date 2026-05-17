@@ -13,7 +13,7 @@ The answer began with a prayer that every faithful Jew has recited for thousands
 
 The Shema is a Jewish prayer that teaches:
 
-> "Hear, O Israel: The [LORD](https://eternal.family.net.za/god/father/name) our [God](https://eternal.family.net.za/god), the [LORD](https://eternal.family.net.za/god/father/name) is **one**!" — Deuteronomy 6:4 (NKJV), Mark 12:29
+> "Hear, O Israel: The [LORD](https://ofgod.info/name) our [God](https://eternal.family.net.za/god), the [LORD](https://ofgod.info/name) is **one**!" — Deuteronomy 6:4 (NKJV), Mark 12:29
 
 The original Hebrew:
 
@@ -51,11 +51,11 @@ The Jews were not Trinitarians. The scribe did not [serve and worship Jesus](htt
 
 God refers to Himself as one:
 
-> God spoke all these words, saying, "**I am** the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before **me**." — Exodus 20:1-3 (ESV)
+> God spoke all these words, saying, "**I am** the LORD ([YHVH](https://ofgod.info/name#lord)) your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before **me**." — Exodus 20:1-3 (ESV)
 
 This is what Moses believed:
 
-> To you it was shown, that you might know that the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) is God; **there is no other besides Him**... know therefore today, and lay it to your heart, that the LORD *(YHVH)* is God in heaven above and on the earth beneath; **there is no other**. — Deuteronomy 4:35,39 (ESV)
+> To you it was shown, that you might know that the LORD ([YHVH](https://ofgod.info/name#lord)) is God; **there is no other besides Him**... know therefore today, and lay it to your heart, that the LORD *(YHVH)* is God in heaven above and on the earth beneath; **there is no other**. — Deuteronomy 4:35,39 (ESV)
 
 This is what Hannah believed:
 
@@ -67,30 +67,30 @@ This is what King David believed:
 
 and
 
-> For who is God, but the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord))?   
+> For who is God, but the LORD ([YHVH](https://ofgod.info/name#lord))?   
 > And who is a rock, except our God?
 > 
 > —Psalm 18:31 (ESV)
 
 and
 
-> All nations whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://eternal.family.net.za/god/father/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; **You alone are God**. — Psalm 86:9-10 (NKJV)
+> All nations whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://ofgod.info/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; **You alone are God**. — Psalm 86:9-10 (NKJV)
 
 and
 
-> There is none like you, O LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)), and **there is no God besides You**, according to all that we have heard with our ears. — 1 Chronicles 17:20 (ESV)
+> There is none like you, O LORD ([YHVH](https://ofgod.info/name#lord)), and **there is no God besides You**, according to all that we have heard with our ears. — 1 Chronicles 17:20 (ESV)
 
 This is what King Solomon believed:
 
-> Let these words of mine, with which I have pleaded before the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)), be near to the LORD our God day and night, and may He maintain the cause of His servant and the cause of his people Israel, as each day requires, that all the peoples of the earth may know that the LORD is God; **there is no other**. — 1 Kings 8:59-60 (ESV)
+> Let these words of mine, with which I have pleaded before the LORD ([YHVH](https://ofgod.info/name#lord)), be near to the LORD our God day and night, and may He maintain the cause of His servant and the cause of his people Israel, as each day requires, that all the peoples of the earth may know that the LORD is God; **there is no other**. — 1 Kings 8:59-60 (ESV)
 
 This is what Hezekiah believed:
 
-> And Hezekiah prayed before the LORD and said: "O LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)), the God of Israel, enthroned above the cherubim, You are the God, **You alone**, of all the kingdoms of the earth; You have made heaven and earth. — 2 Kings 19:15 (ESV); Isaiah 37:15-16
+> And Hezekiah prayed before the LORD and said: "O LORD ([YHVH](https://ofgod.info/name#lord)), the God of Israel, enthroned above the cherubim, You are the God, **You alone**, of all the kingdoms of the earth; You have made heaven and earth. — 2 Kings 19:15 (ESV); Isaiah 37:15-16
 
 This is what Isaiah taught:
 
-> You are My witnesses,” declares the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)),
+> You are My witnesses,” declares the LORD ([YHVH](https://ofgod.info/name#lord)),
 > “and my servant whom I have chosen, that you may know and believe Me and understand that I am He.
 > **Before me no god was formed, nor shall there be any after me.**
 >
@@ -159,19 +159,19 @@ This is what the Levites believed:
 
 > Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said: 
 > 
-> "Stand up and bless the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. **You are the LORD, You alone.** You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and You preserve all of them; and the host of heaven worships you." — Nehemiah 9:5-6 (ESV)
+> "Stand up and bless the LORD ([YHVH](https://ofgod.info/name#lord)) your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. **You are the LORD, You alone.** You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and You preserve all of them; and the host of heaven worships you." — Nehemiah 9:5-6 (ESV)
 
 This is what Hosea prophesied:
 
-> Yet I am the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) thy God from the land of Egypt, and **thou shalt know no god but Me**: for there is no saviour beside Me. — Hosea 13:4 (KJV)
+> Yet I am the LORD ([YHVH](https://ofgod.info/name#lord)) thy God from the land of Egypt, and **thou shalt know no god but Me**: for there is no saviour beside Me. — Hosea 13:4 (KJV)
  
 This is what Joel prophesied:
 
-> You shall know that I am in the midst of Israel, and that I am the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) your God and there is none else. — Joel 2:27 (ESV)
+> You shall know that I am in the midst of Israel, and that I am the LORD ([YHVH](https://ofgod.info/name#lord)) your God and there is none else. — Joel 2:27 (ESV)
 
 This is what Zechariah prophesied:
 
-> On that day **the LORD ([YHVH](https://eternal.family.net.za/god/father/name#lord)) will be one** and His name One. — Zechariah 14:9 (ESV)
+> On that day **the LORD ([YHVH](https://ofgod.info/name#lord)) will be one** and His name One. — Zechariah 14:9 (ESV)
 
 Trinitarians look at this prophecy and reason that Isaiah was referring to the [Godhead](https://eternal.family.net.za/bible/concepts/godhead) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](https://eternal.family.net.za/god/son/essence/as-god/similarities). However, Isaiah believed that [YHVH](https://eternal.family.net.za/god/father#name) (translated as "the LORD") Who was speaking is [the Father](https://eternal.family.net.za/god/father):
 

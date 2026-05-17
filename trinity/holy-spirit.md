@@ -259,7 +259,7 @@ Jesus states here that the Holy Spirit is another Helper and not himself.
 
 > Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put **My Spirit upon him**; he will bring forth justice to the nations  — Isaiah 42:1 (ESV)
 
-> I will mention the lovingkindnesses of ***the LORD*** *([YHVH](https://eternal.family.net.za/god/father/name#YHVH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
+> I will mention the lovingkindnesses of ***the LORD*** *([YHVH](https://ofgod.info/name#YHVH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
 > 
 > For He said, “Surely they are My people, Children who will not lie.”
 > 
@@ -274,7 +274,7 @@ Jesus states here that the Holy Spirit is another Helper and not himself.
 > “Where is **He who brought them up out of the sea** with the shepherd of His flock?
 > Where is **He who put His Holy Spirit** within them, **Who led them** by the right hand of Moses, with His glorious arm, **dividing the water before them** to make for Himself an everlasting name, **Who led them through the deep**, as a horse in the wilderness, that they might not stumble?”
 > 
-> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHVH](https://eternal.family.net.za/god/father/name#YHVH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
+> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHVH](https://ofgod.info/name#YHVH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
 > 
 >  — Isaiah 63:7-14 (NKJV)
 
@@ -296,7 +296,7 @@ Jesus said:
 
 Jesus could possibly have referred to scriptures like Psalm 118:
 
-> Oh, give thanks to the LORD *([YHVH](https://eternal.family.net.za/god/father/name))*, for He is good!
+> Oh, give thanks to the LORD *([YHVH](https://ofgod.info/name))*, for He is good!
 > For His mercy endures forever.  — Psalm 118:1
 
 However, King David also wrote:
