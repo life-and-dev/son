@@ -80,7 +80,7 @@ In the late 2nd century, Noetus is often recognized as the first to openly preac
 
 Praxeas brought these ideas to Rome and North Africa. He famously drew the ire of Tertullian, who wrote a massive treatise against him (Adversus Praxean). Tertullian famously mocked Praxeas’s strict stance by writing that Praxeas "did two works for the devil in Rome: he drove out prophecy and he brought in heresy; he put to flight the Paraclete *[Holy Spirit]* and he crucified the Father."
 
-[Sabellius was a Christian priest](https://en.wikipedia.org/wiki/Sabellius), the most famous proponent of the doctrine, and was therefore excommunicated by Pope Callixtus I. Sabellius wrote:
+[Sabellius was a Christian priest](https://en.wikipedia.org/wiki/Sabellius), the most famous proponent of this theology, and was therefore excommunicated by Pope Callixtus I. Sabellius wrote:
 
 > "Father, Son and Holy Ghost are **three names for the same God**" 
 
@@ -130,7 +130,7 @@ This subordination clashes with the modern Trinity theology that *all are equal*
 
 ### Arianism
 
-In 318 AD, Arius from Alexandria began preaching his doctrine that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
+In 318 AD, Arius from Alexandria began preaching his theology that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
 
 ### Mystic Trinity
 
@@ -493,7 +493,7 @@ The author mentions:
 
 ## The Effects of Faith in the Trinity
 
-| Triune God                                                                                                                                     | Single God doctrine                                                                                                                                                                 |
+| Triune God                                                                                                                                     | Single God                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Complexity: Complex to reason, witness or share the Gospel of God                                                                              | Clarity: Simple to explain and the Gospel is easy to understand                                                                                                                     |
 | Confusion: Cannot understand the "[mysteries of God](https://eternal.family.net.za/bible/concepts/mystery)"                                    | Clarity: No contradictions                                                                                                                                                          |
