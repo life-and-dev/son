@@ -33,7 +33,7 @@ Critics of this modalist view argue that the Father and the Son interacted with 
 
 ## Mystery
 
-Some believers argue that it is pointless to attempt to understand how the members of the Godhead relate to each other. They suggest we should accept it as a [mystery](https://eternal.family.net.za/bible/concepts/mystery) that human minds will never be able to solve.
+Some believers argue that it is pointless to attempt to understand how the members of the Godhead relate to each other. They suggest we should accept it as a [mystery](https://church.ofgod.info/terms/mystery) that human minds will never be able to solve.
 
 However, classifying the nature of God as an absolute mystery may discourage believers from searching for the truth. Seeking to understand divine matters is a central theme in Scripture. Proponents of the mystery view counter that acknowledging human limitations in understanding the infinite honors God's transcendent nature.
 
