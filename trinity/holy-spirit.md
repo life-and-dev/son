@@ -5,7 +5,7 @@ keywords: Holy Spirit identity, Spirit of God vs Jesus, pneumatology, Trinity do
 
 # The Holy Spirit
 
-Growing up in church, I was taught [the Trinity doctrine](/trinity.md) — that the Holy Spirit is a distinct divine person, co-equal with the Father and the Son. This teaching left me deeply confused about how to relate to this third person. Should I worship the Holy Spirit directly? Should I pray to Him? How do I balance my worship between the Holy Spirit, the Father, and Jesus? Or are these all the same person with different names? These questions troubled me because if the Holy Spirit truly is a separate person, I needed to know how to properly honor Him.
+Growing up in church, I was taught [the Trinity doctrine](../trinity.md) that declare that the Holy Spirit is a distinct divine person, co-equal with the Father and the Son. This teaching left me deeply confused about how to relate to this third person. Should I worship the Holy Spirit directly? Should I pray to Him? How do I balance my worship between the Holy Spirit, the Father, and Jesus? Or are these all the same person with different names? These questions troubled me because if the Holy Spirit truly is a separate person, I needed to know how to properly honor Him.
 
 ## Facts about the Holy Spirit
 
@@ -68,16 +68,6 @@ Paul understood there is only one Holy Spirit:
 > — Matthew 16:13-19 (NKJV)
 
 ## What the Holy Spirit is not
-
-### The Holy Spirit cannot be an impersonal power
-
-Power cannot "fellowship":
-
-> The grace of the Lord Jesus Christ and the love of God and **the fellowship** of the Holy Spirit be with you all.  — 2 Corinthians 13:14 (ESV)
-
-The Holy Spirit has a personality (Acts 5:3)
-* mind (1 Corinthians 2:10)
-* will (1 Corinthians 12:4-7)
 
 ### The Holy Spirit cannot be a unity of believers
 
@@ -458,12 +448,47 @@ According to Jesus we ought to enjoy fellowship **with** both the Father and His
 
 Note that Jesus did not mention the Holy Spirit in his prayer, because our fellowship is **with** the Father and the Son. Unlike Paul, Jesus was praying to his Father, who already understood how the fellowship will be possible, so it was not necessary for Jesus to mention that this "fellowship" will become possible "of" the Holy Spirit.
 
-## What This Means for You
+## Trinitarian View of the Holy Spirit
 
-Now that you've explored the biblical evidence, you face a personal question: 
+### Fellowship with the Holy Spirit
 
-How will this understanding of the Holy Spirit change your relationship with God? 
+Often Trinitarians will quote Paul to prove that one cannot have "fellowship" with an impersonal power:
 
-When you pray, remember that God's Spirit dwells within you and that God's Spirit is not a separate entity to petition, but as the very presence of your Heavenly Father guiding your thoughts and interceding on your behalf. When you read Scripture and feel convicted, that's the Father Himself speaking through His Spirit. When you experience comfort in trials, that's God Himself drawing near through the same Spirit that raised Jesus from the dead.
+> The grace of the Lord Jesus Christ and the love of God and **the fellowship of the Holy Spirit** be with you all.  — 2 Corinthians 13:14 (ESV)
 
-The question isn't whether you should "build a relationship" with the Holy Spirit separately from the Father, but instead, ask yourself: Am I sensitive to the Father's Spirit moving in my life?
+Unitarians interpret the same scripture as a blessing from Paul that implies he blesses his readers with:
+
+- **grace** of the Lord Jesus Christ (who has grace with our sin)
+- **love** of God (who loves His creation)
+- **fellowship** of the Holy Spirit (*koinōnia* in Greek, meaning sharing in common, enabled by God's Spirit in us)
+
+There is no evidence that Paul meant we should have fellowship "***with*** the Holy Spirit" instead of with God. Paul used the phrase "***of*** the Holy Spirit" (participation/sharing in the Spirit, similar to the phrasing in Philippians 2:1).
+
+### Lying to the Holy Spirit
+
+Often Trinitarians will point to Acts 5:3 with the argument that it is not possible to lie to an impersonal power:
+
+> But Peter said, “Ananias, why has Satan filled your heart to lie **to the Holy Spirit** and to keep back for yourself part of the proceeds of the land?
+>
+> While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have conceived this deed in your heart? **You have not lied to men but to God.**”
+>
+> — Acts 5:3-4 (ESV)
+
+Unitarians address this argument by pointing out two main principles:
+
+* **The Principle of Representation (Agency):** In scripture, lying to, grumbling against, or rejecting God's spirit-filled representatives is treated as acting directly against God Himself, because they speak and act under the authority and power of His Spirit:
+  * **Moses** was filled with God's Spirit (Numbers 11:17; Isaiah 63:11). When the Israelites grumbled against him, Moses declared, *"Your grumblings are not against us but against the Lord"* (Exodus 16:8).
+  * **Jesus** was filled with God's Spirit (Luke 4:1, 18; John 3:34). He warned that rejecting Him was rejecting the Father: *"The one who rejects me rejects Him Who sent me"* (Luke 10:16; John 12:44-45).
+  * **The Apostles** were filled with the Holy Spirit to speak and act on God's behalf (Acts 2:4; Acts 4:8).
+  Therefore, when Ananias lied to the Apostles, he was attempting to deceive people who were acting as the direct mouthpieces of the Holy Spirit. Lying to the Spirit-inspired representative is treated as lying to the Sender (God Himself).
+* **The Analogy of a Person's Spirit:** Just as a man's spirit is not a separate person from the man, God's Spirit is not a separate person from God. As Paul notes, *"who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God"* (1 Corinthians 2:11). Lying to the Spirit of God is simply lying to God Himself, because the Spirit is His own inner presence, not a distinct person.
+
+### The Holy Spirit's Personality
+
+Often Trinitarians point out that the Holy Spirit has attributes of personality, such as:
+* **A mind:** *"For the Spirit searches everything, even the depths of God."* (1 Corinthians 2:10)
+* **A will:** *"All these are empowered by one and the same Spirit, who apportions to each one individually as he wills."* (1 Corinthians 12:11 / 12:4-7)
+
+Unitarians respond that:
+* **The Spirit is God's own mind/will:** Just as a human's spirit has the thoughts and will of that human but is not a separate person, the Spirit of God is the Father's own mind and will at work. 
+* **Personification:** Scripture frequently personifies non-personal things for literary effect—such as Wisdom having a voice and a house (Proverbs 8-9), or Sin and Death reigning as kings (Romans 5:14). Describing the Spirit as having a mind or will is a personification of God's active power.
