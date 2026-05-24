@@ -74,7 +74,7 @@ and
 
 and
 
-> All nations whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://ofgod.info/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; **You alone are God**. — Psalm 86:9-10 (NKJV)
+> All nations whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://ofgod.info/name), and shall glorify Your [name](https://word.ofgod.info/terms/name). For You are great, and do wondrous things; **You alone are God**. — Psalm 86:9-10 (NKJV)
 
 and
 
@@ -197,7 +197,7 @@ Even Malachi wrote that God is only 1 Father:
 
 Jesus teaches that he comes in his Father's authority, who is "the only God":
 
-> Then Jesus answered and said to them... "I do not receive honor from men. But I know you, that you do not have the love of God in you. **I have come in my Father's [name](https://eternal.family.net.za/bible/concepts/name)**, and you do not receive me; if another comes in his own name, him you will receive. How can you believe, who receive honor from one another, and do not seek the honor that comes from **the only God?** — John 5:41-44 (ESV)
+> Then Jesus answered and said to them... "I do not receive honor from men. But I know you, that you do not have the love of God in you. **I have come in my Father's [name](https://word.ofgod.info/terms/name)**, and you do not receive me; if another comes in his own name, him you will receive. How can you believe, who receive honor from one another, and do not seek the honor that comes from **the only God?** — John 5:41-44 (ESV)
 
 If Jesus were God and came with His own honor, He would be guilty of the same thing He accused the Jews of doing.
 
@@ -240,7 +240,7 @@ translates to:
 because the [Strong's Concordance](https://biblehub.com/greek/2532.htm) states:
 
 | Property          | Value                    |
-|-------------------|--------------------------|
+| ----------------- | ------------------------ |
 | kai               | and, even, also          |
 | Original Word     | καί                      |
 | Part of Speech    | Conjunction              |

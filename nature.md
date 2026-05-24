@@ -312,15 +312,15 @@ If Jesus was God Himself, he would own everything, yet it was prophesied that Je
 
 Many people confuse:
 
-| Term                                                                                   | Meaning                                                                                   | Can be given to a man? |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
-| [praise](https://eternal.family.net.za/god/praise)                                     | Express gratitude or honour to someone, often in the form of music or public declarations | yes                    |
-| [paying obeisance](https://eternal.family.net.za/god/worship#paying-obeisance-worship) | Humbling oneself to pay respect to a very important person, like bowing or kneeling       | yes                    |
-| [sacrificial worship](https://eternal.family.net.za/god/worship#sacrificial-worship)   | Serving God with a sacrifice (valuable gift)                                              | no                     |
+| Term                                                                               | Meaning                                                                                   | Can be given to a man? |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
+| [praise](https://eternal.family.net.za/god/praise)                                 | Express gratitude or honour to someone, often in the form of music or public declarations | yes                    |
+| [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) | Humbling oneself to pay respect to a very important person, like bowing or kneeling       | yes                    |
+| [sacrificial worship](https://word.ofgod.info/terms/worship#sacrificial-worship)   | Serving God with a sacrifice (valuable gift)                                              | no                     |
 
-All of the above are often referred to as ["worship"](https://eternal.family.net.za/god/worship) by modern English speakers which is the root cause of confusion and debates regarding the topic why the disciples 'worshipped' Jesus. 
+All of the above are often referred to as ["worship"](https://word.ofgod.info/terms/worship) by modern English speakers which is the root cause of confusion and debates regarding the topic why the disciples 'worshipped' Jesus. 
 
-The disciples were [paying obeisance](https://eternal.family.net.za/god/worship#paying-obeisance-worship) to Jesus as their king. This is indicated by their actions, but often translated described as "worship" in the Greek source text. The distinction is that this kind of worship is "worship" only without "serving" a sacrifice.
+The disciples were [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) to Jesus as their king. This is indicated by their actions, but often translated described as "worship" in the Greek source text. The distinction is that this kind of worship is "worship" only without "serving" a sacrifice.
 
 There are [no scripture](https://eternal.family.net.za/god/son/essence/as-god/worship) of anyone that has "worship and serve" (with a sacrifice) Jesus like they did to God as it was in the case of Deuteronomy 8:19-20; Luke 4:8; Exodus 23:25 and so forth. Instead, Jesus rebuked this kind of worship to anyone other than God (Luke 4:8).
 
@@ -332,7 +332,7 @@ Yet, we have the examples of Stephen, Paul and John who [communicated with Jesus
 
 #### Jesus' name
 
-Praying or acting "in the name of Jesus" is no way of addressing Jesus. In modern English "name" means designation, but [the original Greek phrase](https://eternal.family.net.za/bible/concepts/name) means to act in the authority of someone more important. For example, when the Roman officials taxed the Jews in the name of Caesar, it means they have his permission to act as delegates to do their job. Likewise, when Jesus' disciples act or pray in the name of Jesus, it means they are requesting God to do something so that they can act with the permission of Jesus. 
+Praying or acting "in the name of Jesus" is no way of addressing Jesus. In modern English "name" means designation, but [the original Greek phrase](https://word.ofgod.info/terms/name) means to act in the authority of someone more important. For example, when the Roman officials taxed the Jews in the name of Caesar, it means they have his permission to act as delegates to do their job. Likewise, when Jesus' disciples act or pray in the name of Jesus, it means they are requesting God to do something so that they can act with the permission of Jesus. 
 
 ## What This Means for You
 
