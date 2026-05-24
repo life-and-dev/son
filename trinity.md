@@ -22,11 +22,21 @@ Moses made [the monotheistic declaration](shema.md) to the Israelites that only 
 
 > "Hear, O Israel: The [LORD](https://ofgod.info/name) our [God](https://eternal.family.net.za/god), the [LORD](https://ofgod.info/name) is **one**!" — Deuteronomy 6:4 (NKJV), Mark 12:29
 
-This was also quoted by other prophets like Malachi 2:10 and Zechariah 14:9.
+#### ~500 BC: Zechariah's Declaration
+
+The prophet Zechariah states that only one God exists:
+
+> And the [LORD](https://ofgod.info/name) will be king over all the earth. On that day the [LORD](https://ofgod.info/name) will be **one** and His name **one**. — Zechariah 14:9 (ESV)
+
+#### ~450 BC: Malachi's Declaration
+
+The prophet Malachi states that only one God exists:
+
+> Have we not all **one** Father? Has not **one** God created us? — Malachi 2:10 (ESV)
 
 #### ~30 AD: Jesus quoted the Shema
 
-Even Jesus quoted [the Shema](shema.md) that Moses declared according to Mark 12:29.
+Jesus quoted [the Shema](shema.md) that Moses declared according to Mark 12:29.
 
 #### ~60 AD: Paul's Monotheistic declaration
 

@@ -83,75 +83,17 @@ However, this word is missing in the New King James Version (NKJV) from the same
 
 ## The "Unified" God
 
-Biblical Unitarians often argue that [there is only one God](shema.md). However, [Trinitarians](trinity.md) argue that "God is one" actually means "God is unified". This interpretation proposes that God is a unification of three united members.
+Biblical Unitarians often argue that [there is only one God](shema.md). 
 
-> "echad" has a wider range of usage that includes composite unities as well. — [Jason Dulle](https://www.onenesspentecostal.com/echad.htm)
+However, [Trinitarians](trinity.md) argue that "God is one" actually means "God is unified". This interpretation proposes that God is a unification of three united members.
 
-| Language | Word                                         | Definition          | Text                                          | Usage                                |
-| -------- | -------------------------------------------- | ------------------- | --------------------------------------------- | ------------------------------------ |
-| Hebrew   | [echad](https://biblehub.com/hebrew/259.htm) | unified/numeric one | Genesis 2:24; Deuteronomy 6:4; Zechariah 14:9 | Used of God's "oneness"              |
-| Hebrew   | [echad](https://biblehub.com/hebrew/259.htm) | unified/numeric one | Ezekiel 33:24; Isaiah 51:2                    | Abraham was only "one" versus many   |
-| Hebrew   | [bad](https://biblehub.com/hebrew/905.htm)   | alone               | Isaiah 37:20                                  | God is "alone" God versus many idols |
-| Greek    | [heis](https://biblehub.com/greek/1520.htm)  | alone/numeric one   | Mark 12:29                                    | Used of God's "oneness"              |
-| Greek    | [heis](https://biblehub.com/greek/1520.htm)  | alone/numeric one   | John 10:30; Galatians 3:20                    | Used of God's "oneness"              |
-| Greek    | [hen](https://biblehub.com/greek/1520.htm)   | only/numeric one    | Mark 12:32                                    | There is only "one" God and no other |
-| Greek    | [monos](https://biblehub.com/greek/3441.htm) | alone               | 1 Timothy 1:17                                | Used of God's "oneness"              |
+[Jason Dulle](https://www.onenesspentecostal.com/echad.htm) argues "echad" the Hebrew word in question:
 
-For example, "echad" means unified in:
+> [Echad](https://word.ofgod.info/translation/echad) is used nearly 1000 times in the OT, and almost always refers to a single numerical entity.  There are times when it is used of a composite entity (Genesis 2:24).  It functions just like the English word “one,” which can be used of single or composite entities, although it most often refers to a single, solitary thing.  Only the context can determine how echad is being used.  Given the rarity with which echad is used to refer to a composite entity, we should understand echad as referring to a single entity unless there are good contextual clues that warrant the uncommon meaning.
 
-> Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one *[echad]* flesh. — Genesis 2:24 (ESV)
+However, in the context of [the Shema](shema.md) nothing suggest a unified God.
 
-Therefore, Trinitarians would apply the same "unified" meaning to "echad" in:
-
-> "And the LORD will be king over all the earth; in that day the LORD will be the only one *[echad]*, and His name the only one *[echad]*." — Zechariah 14:9
-
-and
-
-> "Hear, O Israel! Yahweh is our God, Yahweh is one *[echad]*!" — Deuteronomy 6:4
-
-However, when Jesus quoted Deuteronomy 6:4, the Greek translation uses the word "heis" which means single or numerical one:
-
-> And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one *[heis]* Lord. — Mark 12:29 (KJV)
-
-Another example of "heis" is:
-
-> For there is one *[heis]* God, and there is one *[heis]* mediator between God and men, the man Christ Jesus... — 1 Timothy 2:5 (NKJV)
-
-This verse also uses "heis" for God's "oneness" as well as to refer to Jesus our mediator. The same word cannot have two different meanings in the same sentence. If "heis" means "united" then the "mediator" must also be united of more members. This would mean we have more than one mediator between God and men, which contradicts Jesus (John 14:6).
-
-Another example where "echad" means "one":
-
-> Have we not all one *[echad]* Father? Has not one *[echad]* God created us? — Malachi 2:10 (KJV)
-
-In the same sentence "echad" is used for both the Father and God. Therefore, "echad" must have the same meaning for both. If "echad" meant a unified one, then it would mean that the Father is also unified of smaller gods. Alternatively, we should accept that there is really [only one God](shema), namely [the Father](https://ofgod.info) Who created us.
-
-There are also examples that demonstrate that God is really **the single God or only one God**:
-
-[The Greek word "hen" usually means "one"](https://biblehub.com/greek/1520.htm), but some scholars argue that because Jesus and his Father is "hen" it means they are unified:
-
-> My sheep hear my voice, and I know them, and they follow me: And I give unto them eternal life; and they shall never perish, **neither shall any man pluck them out of my hand**. My Father, which gave them me, is greater than all; and **no man is able to pluck them out of my Father's hand**. I and my Father are ***"hen"***. — John 10:27-30 (KJV)
-
-In this context, it makes more sense that nobody can pluck Jesus' disciples "out of his hand", nor "out of his Father's hand" because they are the "only" ones who would be with them ("give them eternal life").
-
-> And the scribe said unto him, Well, Master, thou hast said the truth: for there is one *[hen]* God ; and there is **none other** but He. — Mark 12:32 (KJV)
-
-In the New Testament Greek, Paul wrote (after Jesus' crucifixion, after Jesus ascended, after Jesus was exalted, and after he personally met Christ Jesus):
-
-> Now unto the King eternal, immortal, invisible, the only *[monos]* wise God, be honour and glory for ever and ever. — 1 Timothy 1:17 (KJV)
-
-and
-
-> For there is **one God**, and there is **one mediator** between God and men, the man Christ Jesus... — 1 Timothy 2:5 (NKJV)
-
-[Jason Dulle](https://www.onenesspentecostal.com/echad.htm) argue:
-
-> Echad is used nearly 1000 times in the OT, and almost always refers to a single numerical entity.  There are times when it is used of a composite entity (Genesis 2:24).  It functions just like the English word “one,” which can be used of single or composite entities, although it most often refers to a single, solitary thing.  Only the context can determine how echad is being used.  Given the rarity with which echad is used to refer to a composite entity, we should understand echad as referring to a single entity unless there are good contextual clues that warrant the uncommon meaning.  So given the lexical data alone, the best one could argue is that the semantical domain of echad allows for a Trinitarian understanding of “one,” but by no means does it prove it, and by no means does it rule out the understanding of God’s oneness as an absolute unity.
->
-> The question, then, comes down to context.  Is there anything in the context of Deuteronomy 6:4 – or any other passage of Scripture in which God is described as being echad – that requires the meaning of composite unity?  Meaning is not determined by a words semantical domain, but by the context.  To demonstrate that echad means a composite entity with reference to God, the context must make it clear that this is the meaning intended by the author.  For example, in Genesis 2:24 man and woman are described as being “echad flesh.”  It is physically impossible for man and woman to be considered a single physical entity, so the author must mean “one” in the sense of a composite entity.  Are there similar contextual clues that make it clear that echad is being used in this way in Deuteronomy 6:4?  No.  Indeed, given how God’s oneness is described in passages like Isaiah 42:8 and 44:24, we have very good grounds for understanding the nature of God’s oneness to be that of a numerically single entity.
->
-> ...
->
-> Yachid is also used to describe the emotion of feeling alone (Psalm 25:16) or being alone (Psalm 68:6), and even the uniqueness or precious nature of something (Psalm 22:21; 35:17).  The word is never used as a general term for “one.”  Its meaning is more akin to “unique” or “only.”  Indeed, Isaac is described as Abraham’s yachid even though Isaac was not his only son (Ishmael was born earlier).  While God could have been described using yachid, it would not necessarily tell us how many gods there are, but rather what kind of God YHWH is: a unique God.  If we want to know how many gods there are, the most appropriate word is echad.
+Further more "echad" should also be [compared with the Greek word "heis"](https://word.ofgod.info/translation/echad) when New Testament authors quote [the Shema](shema.md) in Greek.
 
 ## The "Plural" God
 
