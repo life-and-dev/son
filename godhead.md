@@ -89,11 +89,11 @@ However, [Trinitarians](trinity.md) argue that "God is one" actually means "God 
 
 [Jason Dulle](https://www.onenesspentecostal.com/echad.htm) argues "echad" the Hebrew word in question:
 
-> [Echad](https://word.ofgod.info/translation/echad) is used nearly 1000 times in the OT, and almost always refers to a single numerical entity.  There are times when it is used of a composite entity (Genesis 2:24).  It functions just like the English word “one,” which can be used of single or composite entities, although it most often refers to a single, solitary thing.  Only the context can determine how echad is being used.  Given the rarity with which echad is used to refer to a composite entity, we should understand echad as referring to a single entity unless there are good contextual clues that warrant the uncommon meaning.
+> [Echad](https://word.ofgod.info/semantics/echad) is used nearly 1000 times in the OT, and almost always refers to a single numerical entity.  There are times when it is used of a composite entity (Genesis 2:24).  It functions just like the English word “one,” which can be used of single or composite entities, although it most often refers to a single, solitary thing.  Only the context can determine how echad is being used.  Given the rarity with which echad is used to refer to a composite entity, we should understand echad as referring to a single entity unless there are good contextual clues that warrant the uncommon meaning.
 
 However, in the context of [the Shema](shema.md) nothing suggest a unified God.
 
-Further more "echad" should also be [compared with the Greek word "heis"](https://word.ofgod.info/translation/echad) when New Testament authors quote [the Shema](shema.md) in Greek.
+Further more "echad" should also be [compared with the Greek word "heis"](https://word.ofgod.info/semantics/echad) when New Testament authors quote [the Shema](shema.md) in Greek.
 
 ## The "Plural" God
 
