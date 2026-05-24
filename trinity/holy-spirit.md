@@ -46,6 +46,10 @@ Paul understood there is only one Holy Spirit:
 
 > And as Jesus taught in the temple, he said, "How can the scribes say that the Christ is the son of David? **David himself, in the Holy Spirit**, declared, 'The Lord said to my Lord, "Sit at my right hand, until I put your enemies under your feet."' " — Mark 12:35-36 (ESV)
 
+### In Ezekiel's Days
+
+> "And I will put **My Spirit** within you, and cause you to walk in My statutes and be careful to obey My rules." — Ezekiel 36:27 (ESV)
+
 ### In Daniel's Days
 
 > But at last Daniel came before me (his name is Belteshazzar, according to the name of my god; in him is **the Spirit of the Holy God**), and I told the dream before him, saying: “Belteshazzar, chief of the magicians, because I know that **the Spirit of the Holy God** is in you, and no secret troubles you, explain to me the visions of my dream that I have seen, and its interpretation.” — Daniel 4:8-9 (NKJV)
@@ -419,20 +423,6 @@ Peter stated that it was the Holy Spirit who raised Jesus from the dead:
 
 To reconcile these statements without contradiction, the Holy Spirit is understood to be the Spirit of God the Father.
 
-### Jesus Received the Authority to Send the Holy Spirit on His Behalf
-
-> Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, **I will send him** to you. And when he comes, he will convict the world concerning sin and righteousness and judgment:
-> 
-> * concerning sin, because they do not believe in me; 
-> * concerning righteousness, because I go to the Father, and you will see me no longer; 
-> * concerning judgment, because the ruler of this world is judged. 
->  
-> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, he will guide you into all the truth, for **he will not speak on his own authority, but whatever he hears he will speak**, and he will declare to you the things that are to come. He will glorify me, for he will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that **he will take what is mine and declare it to you**.  — John 16:7-15 (ESV)
-
-> You, however, are not in the flesh but in the Spirit, if in fact **the Spirit of God** dwells in you. Anyone who does not have **the Spirit of Christ** does not belong to him. But if **Christ is in** you, although the body is dead because of sin, the **Spirit is life** because of righteousness. — Romans 8:9-10 (ESV)
-
-This may explain why the Spirit behaves and acts like Jesus and is referred to as "the mind of Christ" or "the Spirit of Christ." This relationship highlights how the Spirit operates under the authority of both the Father and the Son, rather than acting as an independent entity.
-
 #### Fellowship of the Holy Spirit
 
 > The grace of the Lord Jesus Christ and the love of God and the fellowship **of** the Holy Spirit be with you all. — 2 Corinthians 13:14 (ESV)
@@ -445,21 +435,36 @@ According to the New Testament, fellowship is enjoyed with both the Father and H
 
 Jesus did not mention the Holy Spirit in his prayer, because fellowship is **with** the Father and the Son. Unlike Paul, Jesus was praying to his Father, who already understood how the fellowship would be possible, so it was not necessary to mention that this fellowship would become possible through the Holy Spirit.
 
-## Trinitarian View of the Holy Spirit
+## Holy Spirit as Third Trinity Member
 
-### Fellowship With the Holy Spirit
+### Jesus Personifies the Holy Spirit
 
-Often [Trinitarians](../trinity.md) will quote Paul to prove that one cannot have "fellowship" with an impersonal power:
+> Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, ***[the Helper](https://biblehub.com/greek/3875.htm)*** will not come to you. But if I go, I will send ***him*** to you. And when ***he*** comes, ***he*** will convict the world concerning sin and righteousness and judgment:
+> 
+> * concerning sin, because they do not believe in me; 
+> * concerning righteousness, because I go to the Father, and you will see me no longer; 
+> * concerning judgment, because the ruler of this world is judged. 
+>  
+> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, ***he*** will guide you into all the truth, for ***he*** will not speak on ***his*** own authority, but whatever ***he*** hears ***he*** will speak, and ***he*** will declare to you the things that are to come. ***He*** will glorify me, for ***he*** will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that ***he*** will take what is mine and declare it to you. 
+> 
+> — John 16:7-15 (ESV)
 
-> The grace of the Lord Jesus Christ and the love of God and **the fellowship of the Holy Spirit** be with you all. — 2 Corinthians 13:14 (ESV)
+The use of personal pronouns such as "he", "his", and "him" to refer to the Holy Spirit **suggests that the Holy Spirit is a person**. Furthermore, the Holy Spirit is described as having the ability to **think, reason, and act on his own authority**.
 
-Unitarians interpret the same scripture as a blessing from Paul that implies he blesses his readers with:
+However, in John 15:26, Jesus says the Spirit *“**proceeds** from the Father”*. This implies that the Spirit is not an independent person alongside God, but rather something coming from the Father.
 
-* **grace** of the Lord Jesus Christ (who extends grace for sin)
-* **love** of God (who loves His creation)
-* **fellowship** of the Holy Spirit (*koinōnia* in Greek, meaning sharing in common, enabled by God's Spirit in believers)
+[The Greek word *paraklētos* (“Helper,” “Advocate,” “Comforter”) is masculine](https://biblehub.com/greek/3875.htm), so masculine pronouns naturally follow. This does not prove personhood. Wisdom, sin, death, and other abstract realities are also personified in Scripture.
 
-There is no evidence that Paul meant fellowship should be "*with* the Holy Spirit" instead of with God. Paul used the phrase "*of* the Holy Spirit" (participation/sharing in the Spirit, similar to the phrasing in Philippians 2:1).
+John 16:13 says the Spirit “will not speak on his own authority.” This is difficult for the idea of a coequal divine person, but fits the Spirit as God’s operative presence communicating God’s will.
+
+In John's own framework, he states a few verses later in the next chapter:
+
+> And this is eternal life, that they know you, **the only true God**, and **Jesus Christ** whom You have sent. — John 17:3 (ESV)
+
+So Jesus's message is not about knowing three persons, but about two persons:
+
+1. God the Father and 
+2. Jesus the Christ
 
 ### Lying to the Holy Spirit
 
@@ -480,6 +485,35 @@ Unitarians address this argument by pointing out two main principles:
   Therefore, when Ananias lied to the Apostles, he was attempting to deceive people who were acting as the direct mouthpieces of the Holy Spirit. Lying to the Spirit-inspired representative is treated as lying to the Sender (God Himself).
 * **The Analogy of a Person's Spirit:** Just as a man's spirit is not a separate person from the man, God's Spirit is not a separate person from God. As Paul notes, *"who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God"* (1 Corinthians 2:11). Lying to the Spirit of God is simply lying to God Himself, because the Spirit is His own inner presence, not a distinct person.
 
+### The Holy Spirit Speaks
+
+> And the Spirit said to Philip... — Acts 8:29 (ESV)
+
+Luke was providing a testimony to Theophilus (Acts 1:1). Therefore Luke was telling Theophilus how Philip knew what he was to do. God was speaking to Philip through His Spirit.
+
+### The Holy Spirit's Intercession
+
+Often [Trinitarians](../trinity.md) will quote Paul to prove that the Holy Spirit is a separate person from God:
+
+> Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but **the Spirit himself [intercedes](https://biblehub.com/greek/5241.htm) for us** with groanings too deep for words. — Romans 8:26 (ESV)
+
+The reasoning is that God does not need an intercessor, and that the Spirit's intercession is proof that the Spirit is a separate person from God.
+
+However, the Unitarian response is that in the context of the letter, Paul is speaking about the Spirit helping ["us", the believers] in our weakness, not about the Spirit's intercession before God. This is further eviden in verse 31:
+
+> What then shall we say to these things? 
+> If God is for us, who can be against us?
+>
+> — Romans 8:31 (ESV)
+
+It is not a third person who is for us against God. It is God Himself Who is for us.
+
+The Greek word is "[huperentugchanó](https://biblehub.com/greek/5241.htm)" and this is the only instance where this compound variation is used in the New Testament.
+
+> 5241 hyperentygxánō (from 5228 /hypér, ***"for benefit"*** and 1793/entygxanō, ***"come in line with"***) – properly, to light upon (happen); literally, "bending over" to intercede, "confer benefit" (cf. R, 629). — [HELPS Word-studies](https://biblehub.com/greek/5241.htm)
+
+This could be understood that it is God Himself, through His Spirit, helping our prayers to be aligned with His will.
+
 ### The Holy Spirit's Personality
 
 Often [Trinitarians](../trinity.md) point out that the Holy Spirit has attributes of personality, such as:
@@ -490,10 +524,24 @@ Unitarians respond that:
 * **The Spirit is God's own mind/will:** Just as a human's spirit has the thoughts and will of that human but is not a separate person, the Spirit of God is the Father's own mind and will at work. 
 * **Personification:** Scripture frequently personifies non-personal things for literary effect. For example, Wisdom is described as having a voice and building a house (Proverbs 8-9). Similarly, Sin and Death are described as reigning like kings (Romans 5:14). Describing the Spirit as having a mind or will is simply a personification of God's active power.
 
+### Fellowship With the Holy Spirit
+
+Often [Trinitarians](../trinity.md) will quote Paul to prove that one cannot have "fellowship" with an impersonal power:
+
+> The grace of the Lord Jesus Christ and the love of God and **the fellowship of the Holy Spirit** be with you all. — 2 Corinthians 13:14 (ESV)
+
+Unitarians interpret the same scripture as a blessing from Paul that implies he blesses his readers with:
+
+* **grace** of the Lord Jesus Christ (who extends grace for sin)
+* **love** of God (who loves His creation)
+* **fellowship** of the Holy Spirit (*koinōnia* in Greek, meaning sharing in common, enabled by God's Spirit in believers)
+
+There is no evidence that Paul meant fellowship should be "*with* the Holy Spirit" instead of with God. Paul used the phrase "*of* the Holy Spirit" (participation/sharing in the Spirit, similar to the phrasing in Philippians 2:1).
+
 ## Conclusion
 
 * Scriptural evidence indicates that there is [only one Holy Spirit](#there-can-only-be-one-holy-spirit) who has been active throughout history, [including the pre-ascension era](#was-active-before-jesus-ascended).
 * The Holy Spirit cannot be defined as a [unity of believers](#the-holy-spirit-cannot-be-a-unity-of-believers), a [created angel](#the-holy-spirit-cannot-be-an-angel), or a [separate agent](#the-holy-spirit-cannot-be-a-separate-agent-of-god) from God the Father.
 * Biblical accounts demonstrate that the Holy Spirit [is not Jesus Christ Himself](#the-holy-spirit-cannot-be-jesus-himself), as the Spirit led, anointed, and raised Him.
 * The scriptures identify the Holy Spirit as [God Himself](#the-holy-spirit-is-god)—specifically the Father's own presence and inner spirit that proceeds from Him.
-* Theological arguments regarding the Spirit's personality and fellowship can be explained through [biblical agency and personification](#trinitarian-view-of-the-holy-spirit).
+* Theological arguments regarding the Spirit's personality and fellowship can be explained through [personification](#jesus-personifies-the-holy-spirit).
