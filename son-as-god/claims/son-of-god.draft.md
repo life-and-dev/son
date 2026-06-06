@@ -1,68 +1,130 @@
 ---
-title: Jesus claims to be the Son of God
+description: Explore the historical and biblical context of the title "Son of God" used for Jesus, contrasting Jewish and pagan interpretations of this unique claim.
+keywords: [Son of God, Jesus Christ, Second Temple Judaism, Divi Filius, Hebrew messianic titles, son of man meaning, biblical relationship]
 published: true
+reviewed: true
 ---
 
-Jesus is identified as the "Son of God" in the Gospels, for example:
+# Jesus Claims to Be the Son of God
 
-> The beginning of the gospel of **Jesus Christ, the Son of God**. -- Mark 1:1 (ESV)
+The title "Son of God" is a central designation for Jesus in the New Testament.
+Its meaning can vary significantly depending on the cultural and religious
+context of the reader. To some, it implies a divine nature. To others, it
+signifies a specific relationship or a messianic role. Understanding how Jews
+and pagans in the first century perceived this term provides essential clarity
+on the claims made about Jesus.
 
-> And I have seen and have borne witness that this *(Jesus)* is **the Son of God**. -- John 1:39 (ESV)
+Jesus is identified as the "Son of God" in the Gospels.
 
-> Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that **Jesus is the Christ, the Son of God**, and that by believing you may have life in his name. -- John 20:30
-
-# Pagan understanding
-
-Some would argue the fact that Jesus is called "the Son of God", means he had to be divine like God. The reasoning is that the pagan cultures in Jesus life-time believed that their gods' children were also gods. Therefore, if someone would refer to Jesus as "the son of God", the audience would understand that he is divine. The Greeks were used to demi-gods who looked like humans, but who were actually supposed to be gods. The Roman empire even believed that the Caesar was a god and that each son of the previous caesar-god was the next god. 
-
-However, the author of the book of Hebrews who had supposedly written to the non-pagan Hebrew nation, also used the phrase "the son of God" (Hebrews 4:14, 6:6, 7:3, 10:29) multiple times. To the Hebrew believer, [the term "son of God"](#new-testament) does not mean yet leader claiming to be divine.
-
-# Same essence
-
-Some people incorrectly assume that a person can only be called a "son of God" if he is made of the same essence as God.
-
-The title "son of God" has nothing to do with a person's essence, but with his relationship with his Father who is God. Therefore, God has many ["sons of God"](/god/sons-of-god).
-
-For example if a white European family adopts a black African child, they do not have to change his essence (DNA, ethnicity or skin colour) to be able to adopt him as a "son" in their family.
-
-[The term "son of God"](#new-testament) is also [applied people other than Jesus](/god/sons-of-god) (Matthew 5:9; Galatians 4:4-7; Romans 8:14,16-17; Ephesians 1:5; Corinthians 6:18) which never refers to their essence, but instead highlights their relationship with their Father God.
-
-Jesus was not the first "son" who called God "my Father":
-
-> “I said, 'How I would **set/ you among My sons**, and give you a pleasant land, a heritage most beautiful of all nations.'
+> The beginning of the gospel of **Jesus Christ, the Son of God**. — Mark 1:1
+> (ESV)
 >
-> And I thought you would call Me, **'My Father'**, and would not turn from following Me.
+> And I have seen and have borne witness that this is **the Son of God**. — John
+> 1:34 (ESV)
 >
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHVH)*](/god/father#name).
+> but these are written so that you may believe that **Jesus is the Christ, the
+> Son of God**, and that by believing you may have life in his name. — John
+> 20:31 (ESV)
+
+## Pagan Understanding of Divine Sonship
+
+Pagan cultures in the first century often believed that the children of gods
+were themselves divine. The Greeks told stories of demi-gods who were the
+offspring of a deity and a human. These figures were usually considered to
+possess supernatural power and a divine nature. Similarly, the Roman Empire
+promoted the idea that emperors were gods. The successor of a deified emperor
+would often take the title "Son of God" (*Divi Filius*) to bolster his own claim
+to divinity.
+
+However, the author of the book of Hebrews wrote to a Jewish audience. This
+audience understood the term within a Hebrew framework rather than a pagan one.
+The author uses the title "the Son of God" several times (Hebrews 4:14, 6:6,
+7:3, 10:29). For these readers, the title did not automatically equate to a
+claim of being God. Instead, it pointed toward a unique relationship and a
+specific appointed role.
+
+## Relationship Over Essence
+
+Many readers assume that being a "son of God" requires sharing the same
+"essence" as God. In theological discussions, "essence" refers to the
+fundamental nature or substance of what something is. For example, the essence
+of a human is their humanity. However, the biblical use of the title "Son of
+God" often emphasizes a relationship rather than a shared biological or
+spiritual substance. God is described as having many
+[sons of God](../../sons-of-god.md).
+
+This is often compared to an adoption. If a family adopts a child from a
+different background, the child becomes a true son or daughter through a legal
+and relational bond. Their DNA or essence does not change to match the parents.
+In the same way, the title is applied to various
+[people in the Bible](../../sons-of-god.md) (Matthew 5:9; Galatians 4:4-7;
+Romans 8:14,16-17; Ephesians 1:5; 2 Corinthians 6:18). These passages
+highlight a relationship with God as Father rather than a claim to divine
+essence.
+
+Jesus was not the first "son" who called God "my Father."
+
+> “I said, ‘How I would **set you among my sons**, and give you a pleasant land,
+> a heritage most beautiful of all nations.’ And I thought you would call me,
+> **‘My Father’**, and would not turn from following me. Surely, as a
+> treacherous wife leaves her husband, so have you been treacherous to me, O
+> house of Israel,” declares [the LORD](../../nature.md#bible-translations)
+> (*YHVH*). — Jeremiah 3:19-20 (ESV)
 >
-> -- Jeremiah 3:19-20 (ESV)
+> **Have we not all one Father?** Has not one God created us? — Malachi 2:10
+> (ESV)
 
-> **Have we not all one Father?** Has not one God created us? -- Malachi 2:10 (ESV)
+## The Son of God and the Son of Man
 
-# The Son of God and Man
+Jesus frequently used both the titles "Son of God" and "Son of Man." Some argue
+that these titles prove he was both fully God and fully human. However, this
+interpretation depends on how these terms were used in their original contexts.
 
-And we have many scriptures that refers to Jesus as the "son of man" (Matthew 8:20; 9:6; 10:23; 11:19; 12:8, 40; 13:41; 16:13,27,28; 17:9,12,22; 18:11; 19:28; 20:18; 20:28; 24:27,30,37,29,44; 25:13,31; 26:2,2445,64; Mark 2:10,28; 8:31,38; 9:9,12,31; 10:33,45; 13:26; 14:21,41,62; Luke 5:24; 6:5; 7:34; 9:22,26,44,56,58; 11:30; 12:8,10,40; 17:22,24,30; 18:8,31; 19:10; 21:27,36; 22:22,48,69; 24:7; John 1:51; 3:13,14; 5:27; 6:27,53,62; 8:28; 12:23,34; 13:31; Acts 7:56; Revelation 1:13; 14:14)
+### Old Testament Context
 
-The [Trinitarians](/bible/doctrines/trinitarian) are quick to point out that this proof that [Jesus](/god/son) was 100% [God](/god) and 100% [human](/god/son/essence/of-man/human).
+In the Hebrew Old Testament, the exact phrase "the Son of God" is rarely used.
+One notable exception is found in
+[certain translations of Daniel 3:25](../../sons-of-god.md). In that passage,
+King Nebuchadnezzar sees a figure in the fire that he describes as appearing
+"like a son of the gods." This was a pagan expression of seeing a divine-like
+being.
 
-However, this conclusion cannot be made unless one understand the meaning of the two concepts: "The Son of God" and "the son of man".
+The phrase "son of man" appears frequently but is not used as a unique title
+for a specific individual. Instead, it is a common Hebrew idiom for a human
+being. It often highlights the distinction between mortality and the nature of
+God (Numbers 23:19; Psalm 8:4; Ezekiel 2:1). In these contexts, to be a "son of
+man" is simply to be a member of the human race.
 
-## Old Testament
+### New Testament Context
 
-In the Hebrew Old Testament:
+In the Greek New Testament, "the Son of God" identifies someone with a special
+relationship to God. It does not inherently grant them divine power or the same
+nature as the Father. It can refer to a direct creation of God, such as Adam or
+angelic beings. In the case of Jesus, he was conceived in the womb of Mary by
+the power of the Holy Spirit. It can also refer to those adopted by God, such
+as the nation of Israel or Christian believers.
 
-* "The Son of God" is never mentioned, except by a [bad translations of Daniel 3:25](/god/son/essence/as-god/incarnation/nebuchadnezzar) of certain [bible translations](/bible/translations).
-* "The son of man" is not used as a title for anyone. This phrase is used to describe humans and is usually used in the context of highlighting that God is not a human for example: Numbers 23:19; Job 25:6; 35:8; Psalm 8:4; 80:17; 144:3; 146:3; Isaiah 56:2; Jeremiah 49:18,33; 50:40; Ezekiel 2:1,3,6,8; 3:1,3,4,10,25; Daniel 8:17; etc.
+The title "the Son of Man" takes on a unique messianic meaning in the New
+Testament. Jesus used it to refer to himself in the context of his mission and
+future glory. While it confirms his humanity, it also points toward his role as
+the prophesied Christ who would bring salvation.
 
-## New Testament
+## Defense Against Critiques
 
-However, in the Greek New Testament:
+Critiques may argue that the high priest's reaction to Jesus' claim in Matthew
+26:63-65 proves that "Son of God" was a claim to divinity. However, the charge
+of blasphemy was likely directed at his claim to be the exalted Messiah who
+would sit at the right hand of Power. This was a claim to supreme authority and
+judgment. The religious leaders rejected this claim, rather than a direct claim
+to be YHWH himself.
 
-* [The Son of God](/god/sons-of-god) refers to someone who is considered God's son. It has nothing to do with his essence, divinity or power. 
-  * It could be [someone made directly by God like Adam or the angelic beings](/god/sons-of-god). In Jesus' case he was "conceived" (made) directly in the womb of the **virgin** Mary by [God's Spirit](/god/spirit) without a human father's seed. 
-  * It could also be someone that is adopted by God. When God adopted Israel or the Christian believers as ["sons of God"](/god/sons-of-god), He did not turn them into demi-gods.
-* Only in the Greek New Testament, ["the son of man"](/god/son/essence/of-man/human) refers to Jesus, except [Hebrews 2:6 which quotes Psalm 8:6-8](/bible/books/hebrews#hebrews-25-8). Unlike [the Hebrew meaning of "son of man"](#old-testament), this title is unique. It would be silly for Jesus to proof that he is human when everyone can see, touch and interact with him as a human.
-  * It could be [the prophesied seed of Man (Adam)](/god/son/essence/of-man).
-  * Ultimately it always used in the context of the prophesied [Christ who would save mankind](/god/son/christ). 
+## Conclusion
 
-Therefore, Jesus does not have to be divine to be both "the Son of God" (a child of God) and "the son of man" (the prophesied Christ).
+The title "Son of God" reflects a unique relationship between Jesus and God the
+Father [Relationship Over Essence](#relationship-over-essence). While pagan
+cultures often viewed such titles as a claim to divinity
+[Pagan Understanding of Divine Sonship](#pagan-understanding-of-divine-sonship),
+the biblical context emphasizes an appointed role and a relational bond
+[New Testament Context](#new-testament-context). Jesus used both "Son of God"
+and "Son of Man" to fulfill his mission as the prophesied Christ
+[The Son of God and the Son of Man](#the-son-of-god-and-the-son-of-man).
