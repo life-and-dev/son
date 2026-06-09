@@ -92,11 +92,12 @@ Praxeas brought these ideas to Rome and North Africa. He famously drew the ire o
 
 [Sabellius was a Christian priest](https://en.wikipedia.org/wiki/Sabellius), the most famous proponent of this theology, and was therefore excommunicated by Pope Callixtus I. Sabellius wrote:
 
-> "Father, Son and Holy Ghost are **three names for the same God**" 
+> "Father, Son and Holy Ghost are **three names for the same God**"
 
 Modalism often compares God with water. Just as water has 3 modes (ice, water, gas), they believe God has 3 modes (Father, Son, Spirit).
 
 However, this theology fails when:
+
 - Jesus prays to the Father
 - Father loves the Son
 - Father sends the Spirit
@@ -113,12 +114,14 @@ Although the Trinity concept was developed by this time, Tertullian was the firs
 However, Tertullian's version of the Trinity was different. According to him, God is 1 substance, but 3 distinct persons.
 
 It is often compared with a tree:
+
 - The Father is like the roots (origin)
 - The Son is like the branches (what we see)
 - The Spirit is like the fruit (what we enjoy)
 - Yet all 3 components are 1 tree
 
 Another popular example is:
+
 - The Father is like the sun (energy source)
 - The Son is like the rays (what we see)
 - The Spirit is like the warmth (what we feel)
@@ -151,23 +154,23 @@ Because of Arianism, the church leaders gathered in 325 AD at [the council of Ni
 * establishing church hierarchy;
 * separating Christian practices from Jewish traditions;
 
-One of the council's challenges was to determine how to reconcile the *divinity* of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their [monotheistic beliefs](#monotheism) while also acknowledging the *divinity* of Jesus Christ. 
- 
+One of the council's challenges was to determine how to reconcile the *divinity* of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their [monotheistic beliefs](#monotheism) while also acknowledging the *divinity* of Jesus Christ.
+
 Because many Christians initially rejected the Trinity doctrine for fear of polytheism (worship of multiple gods), the council had to carefully and clearly define the Trinity to avoid misunderstandings.
- 
+
 This led to the establishment of [the Nicene Creed](https://www.fourthcentury.com/urkunde-24/), which declared:
 
-> * We believe in [one God](#monotheism), [the Father Almighty](https://ofgod.info), 
+> * We believe in [one God](#monotheism), [the Father Almighty](https://ofgod.info),
 >   * Maker of all things seen and unseen.
-> * And in one Lord, Jesus Christ [the Son of God](https://son.ofgod.info), 
->   * begotten of the Father, 
->   * the only-begotten, that is, of ***the essence of the Father***, 
->   * ***God from God, Light from Light, true God from true God***, 
->   * begotten, not made, of ***the same being as the Father***, 
->   * ***through whom all things came to be, both the things in heaven and on earth***, 
->   * who for us humans and for our salvation ***came down and was made flesh, becoming human***, 
->   * who suffered and rose again on the third day, 
->   * ascended into heaven, 
+> * And in one Lord, Jesus Christ [the Son of God](https://son.ofgod.info),
+>   * begotten of the Father,
+>   * the only-begotten, that is, of ***the essence of the Father***,
+>   * ***God from God, Light from Light, true God from true God***,
+>   * begotten, not made, of ***the same being as the Father***,
+>   * ***through whom all things came to be, both the things in heaven and on earth***,
+>   * who for us humans and for our salvation ***came down and was made flesh, becoming human***,
+>   * who suffered and rose again on the third day,
+>   * ascended into heaven,
 >   * who is coming to judge the living and the dead.
 > * And in the Holy Spirit.
 > * The catholic and apostolic ***church condemns*** those who say concerning the Son of God that ***“there was a time when he was not”*** or ***“he did not exist before he was begotten”*** or ***“he came to be from nothing”*** or who claim that he is of another subsistence or essence, or a creation, or changeable, or alterable.
@@ -214,25 +217,41 @@ There are many [more problems with the Trinity theology](#critique); however, al
 
 #### Solution to All Problems
 
-Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **you cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside our space and time with our finite brains.
+Trinitarians belief:
+
+- ***"There is only 1 God"*** (the Bible is very clear): If they dismiss it, then they have to accept paganism (many gods).
+- ***"Jesus is not the Father"*** (they interacted with each other): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
+- ***"Jesus was 100% human"*** (according to both Bible and Creed): Then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
+- ***"The Father is God, Jesus is God, the Holy Spirit is God"*** (according to Creed): Then they invalidate their own Creed
+
+No Trinitarian will ever compromise on any of these statements so all 4 points must hold for the Trinity to stand.
+
+To consolidate these points the church attempted:
+
+- To say all 3 Trinity Members are 1 God and 1 person, just different modes/names: is [Modalism](#modalism).
+- To say all 3 Trinity Members are parts of 1 God: is [Partialism](#subordinationism)
+- To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented split/mixed* personality God (nobody will accept it)
+- To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
+
+To solve this problem, Trinitarians had to change the definition of the word 'one': "It’s not one person, it’s one substance shared by three persons".
+
+Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a complex deep spiritual mystery.
 
 Therefore they will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that we must trust "the mysteries of God".
 
-#### God is Love Argument
+Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **you cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside our space and time with **your finite brain**.
 
-Another Trinitarian argument is that when John wrote that "God is love" (1 John 4:8,16), it implies multiple persons must exist within God to love each other. The reasoning is that love is usually given or received, but if God is eternal and immaterial, it would mean there had to be a time when a strict monotheistic God did not have anyone to love before He created anyone. To solve this problem, they argue that *God needs distinct eternal persons within Himself to love each other*.
-
-However, the context of 1 John 4 reveals that John was not lecturing the Trinity. The next verse 1 John 4:9 shows that John was referring to outward love towards us instead of Himself. John was possibly fighting some form of Proto-Gnosticism which taught that the supreme God was entirely detached from the physical world and didn't care about humans.
-
-God does not need a recipient to possess the capacity of love. Just as God had the capacity to create before He created, God also possessed **the capacity for love without needing a partner**.
-
-#### The Godhead
+### The Godhead
 
 Also known as ["Godhood"](godhead.md).
 
-> the nature of God especially as existing in three persons — [Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/godhead)
+The term "Godhead" is an archaic English word synonymous with **"Godhood,"** which literally means the "state or quality of being God." Linguistically, these two words are etymological [doublets](https://www.etymonline.com/word/Godhead) sharing the same Middle English root.
 
-[John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) was [the first who added this word](https://en.wikipedia.org/wiki/Godhead_in_Christianity) to the Bible in the 14th century to explain the Trinity.
+By the 14th century, [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) [introduced the word "Godhead"](https://bibleresources.info/the-word-godhead/) to the English Bible to translate the Latin word "divinitas" (divinity) within the text.
+
+In its earliest Biblical sense, the word was used simply to refer to the **divine nature** of the Creator—defining *what* God is rather than *how many* persons He is. However, because there are only three instances of the word in the New Testament, its exact meaning became a subject of historical debate, leading to [various interpretations of the divine nature](nature.md).
+
+ Over time, the meaning of Godhead has changed to mean a collection of three co-equal persons. Today, modern dictionaries and ministries often treat the terms "Godhead" and "Trinity" almost interchangeably.
 
 ## Witnesses
 
@@ -364,6 +383,14 @@ Often modern Bible translators defend the Trinitarian doctrine with biased trans
 > -- 2 Corinthians 13:14 (ESV)
 
 This verse does not list the Trinity members. Instead, Paul concludes with the 3 main topics of his letter and blesses his readers with the information thereof.
+
+### God is Love Argument
+
+Another Trinitarian argument is that when John wrote that "God is love" (1 John 4:8,16), it implies multiple persons must exist within God to love each other. The reasoning is that love is usually given or received, but if God is eternal and immaterial, it would mean there had to be a time when a strict monotheistic God did not have anyone to love before He created anyone. To solve this problem, they argue that *God needs distinct eternal persons within Himself to love each other*.
+
+However, the context of 1 John 4 reveals that John was not lecturing the Trinity. Instead, next verse 1 John 4:9 shows that John was referring to outward love towards us instead of Himself. John was possibly fighting some form of Proto-Gnosticism which taught that the supreme God was entirely detached from the physical world and didn't care about humans.
+
+God does not need a recipient to possess the capacity of love. Just as God had the capacity to create before He created, God also possessed **the capacity for love without needing a partner**.
 
 ## Critique
 

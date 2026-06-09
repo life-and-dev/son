@@ -7,9 +7,11 @@ keywords: godhead,godhood,trinity,triune god,echad,elohim,pronouns
 
 The term "Godhead" is an archaic English word synonymous with **"Godhood,"** which literally means the "state or quality of being God." Linguistically, these two words are etymological [doublets](https://www.etymonline.com/word/Godhead) sharing the same Middle English root.
 
+By the 14th century, [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) [introduced the word "Godhead"](https://bibleresources.info/the-word-godhead/) to the English Bible to translate the Latin word "divinitas" (divinity) within the text.
+
 In its earliest Biblical sense, the word was used simply to refer to the **divine nature** of the Creator—defining *what* God is rather than *how many* persons He is. However, because there are only three instances of the word in the New Testament, its exact meaning became a subject of historical debate, leading to [various interpretations of the divine nature](nature.md).
 
-By the 14th century, [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) [introduced the word "Godhead"](https://bibleresources.info/the-word-godhead/) to the English Bible to specifically [identify the Trinity](https://canadianbibleguy.com/2021/01/18/what-does-godhead-mean/) within the text. Over time, this specific theological framework which defines the Godhead as a collection of three co-equal persons, became the dominant view in Western Christianity. Today, modern dictionaries and ministries often treat the terms "Godhead" and "Trinity" almost interchangeably:
+ Over time, the meaning of Godhead has changed to mean a collection of three co-equal persons. Today, modern dictionaries and ministries often treat the terms "Godhead" and "Trinity" almost interchangeably:
 
 > the nature of God especially as existing in three persons — [Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/godhead)
 
