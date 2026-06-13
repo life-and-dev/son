@@ -217,20 +217,22 @@ There are many [more problems with the Trinity theology](#critique); however, al
 
 #### Solution to All Problems
 
-Trinitarians belief:
+The most contested Trinitarians believes are:
 
-- ***"There is only 1 God"*** (the Bible is very clear): If they dismiss it, then they have to accept paganism (many gods).
-- ***"Jesus is not the Father"*** (they interacted with each other): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
-- ***"Jesus was 100% human"*** (according to both Bible and Creed): Then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
-- ***"The Father is God, Jesus is God, the Holy Spirit is God"*** (according to Creed): Then they invalidate their own Creed
+1. ***"There is only 1 God"*** (the Bible is very clear): If they dismiss it, then they have to accept paganism (many gods).
+2. ***"Jesus is not the Father"*** (they interacted with each other): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
+3. ***"Jesus was 100% human"*** (according to both Bible and creed): If they dismiss it, then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
+4. ***"The Father is God, Jesus is God, the Holy Spirit is God"*** (according to creed): If they dismiss it, then they invalidate [their own creed](#mystic-trinity).
 
-No Trinitarian will ever compromise on any of these statements so all 4 points must hold for the Trinity to stand.
+The Uniterian solution is to dismiss statement #4 and accept there is truly only 1 God, [the Father](https://ofgod.info), and that [Jesus is not God](nature.md), but [the Son of God](index.md), [the Christ](https://kingdom.ofgod.info/christ), a human Lord [glorified](https://word.ofgod.info/terms/glory) by [his God](son-of-man/has-a-god.md).
+
+Hoever, Trinitarian will never compromise on any of these statements so all 4 points must hold for the Trinity to stand.
 
 To consolidate these points the church attempted:
 
 - To say all 3 Trinity Members are 1 God and 1 person, just different modes/names: is [Modalism](#modalism).
 - To say all 3 Trinity Members are parts of 1 God: is [Partialism](#subordinationism)
-- To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented split/mixed* personality God (nobody will accept it)
+- To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
 - To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
 
 To solve this problem, Trinitarians had to change the definition of the word 'one': "It’s not one person, it’s one substance shared by three persons".
