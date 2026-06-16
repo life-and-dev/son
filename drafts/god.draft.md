@@ -1,5 +1,5 @@
 ---
-description: "God — Path: god"
+description: "God"
 keywords: "God"
 ---
 
@@ -79,9 +79,9 @@ keywords: "God"
 | Provides/Take care of creation (Matthew 6:26, 7:11, 10:29, James 1:17)                                                                                                      | -                                                                                                              | Controls nature (Psalm 104:29-30; Isaiah 32:15) | -                                                                                                                        |
 
 # Relationships
-| The Father                                                                     | The Son                                                                                    | Believers                                                                                                                                                                              |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Is God (Deuteronomy 4:35; Psalm 118:27; John 17:3)                             | [The Father is Jesus' God](/god/son/essence/not-god/serve-god) (John 20:17)                | The Father is our God (John 20:17)                                                                                                                                                     |
+| The Father                                                                     | The Son                                                                                   | Believers                                                                                                                                                                              |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Is God (Deuteronomy 4:35; Psalm 118:27; John 17:3)                             | [The Father is Jesus' God](/god/son/essence/not-god/serve-god) (John 20:17)               | The Father is our God (John 20:17)                                                                                                                                                     |
 | Is the Father of His Son (John 17:1,5,11,21,24,25; Hebrews 1:5; Ephesians 1:3) | Is the only begotten [Son of the Father](https://son.ofgod.info) (1 John 5:20, Psalm 2:7) | Could be adopted by the Father as ["Sons of God"](sons-of-god) (Romans 8:14, Galatians 3:26, Ephesians 1:5) and brothers or sisters of the Son (Matthew 12:50, Mark 3:35, Romans 8:17) |
 
 # Authority
