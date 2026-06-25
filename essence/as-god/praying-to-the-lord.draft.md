@@ -1,179 +1,224 @@
 ---
-description: "Praying to the Lord — Path: god / son / essence / as-god / prayer"
-keywords: "Praying to the Lord, god, son, essence, as-god, prayer"
+description: "Explore the theological debate on whether Christians should pray directly to Jesus or exclusively to God the Father, examining scriptural evidence and traditions."
+keywords: "Praying to Jesus, prayer to the Son, John 14:14, Stephen's vision, Pauline prayers, mediator roles"
+reviewed: true
 ---
+
+# Should We Pray to Jesus?
+
+The question of whether one should address prayers to Jesus Christ or exclusively
+to God the Father has been a point of discussion for centuries. While the New
+Testament provides clear instructions on praying to the Father, it also contains
+instances of direct communication with the risen Christ that challenge a simple
+"Father-only" approach. This article examines the scriptural evidence,
+translation nuances, and theological arguments surrounding this central aspect
+of Christian practice.
 
 Jesus said:
 
-> Truly, truly, I say to you, whoever believes in me will also do the works that I do; and greater works than these will he do, because I am going to the Father. Whatever you ask in my [name](/bible/concepts/name), this I will do, that the Father may be glorified in the Son.
+> Truly, truly, I say to you, whoever believes in me will also do the works
+> that I do; and greater works than these will he do, because I am going to
+> the Father. Whatever you ask in my [name](../../nature.md#jesus-name), this
+> I will do, that the Father may be glorified in the Son.
 >
-> **If you ask *me*** anything in my name, I will do it. If you love me, you will keep my commandments. And I will ask the Father, and He will give you another Helper, to be with you forever, even [the Spirit of truth](/god/spirit), Whom the world cannot receive, because it neither sees Him nor knows Him. **You know Him, for he dwells with you and will be in you**.
+> If you ask me anything in my name, I will do it. If you love me, you will
+> keep my commandments. And I will ask the Father, and He will give you another
+> Helper, to be with you forever, even [the Spirit of truth](../../trinity/holy-spirit.md),
+> Whom the world cannot receive, because it neither sees Him nor knows Him.
+> You know Him, for he dwells with you and will be in you.
 >
-> “I will not leave you as orphans; I will come to you. Yet a little while and the world will see me no more, but you will see me. Because **I live**, you also will live. In that day you will know that I am in my Father, and you in me, and I in you. Whoever has my commandments and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him.”
+> “I will not leave you as orphans; I will come to you. Yet a little while and
+> the world will see me no more, but you will see me. Because I live, you also
+> will live. In that day you will know that I am in my Father, and you in me,
+> and I in you. Whoever has my commandments and keeps them, he it is who
+> loves me. And he who loves me will be loved by my Father, and I will love him
+> and manifest myself to him.”
 >
-> -- John 14:12-21 (ESV)
+> — John 14:12-21 (ESV)
 
-Some would quote this scripture to proof that we should pray to Jesus.
+Some would quote this scripture to prove that we should pray to Jesus. However,
+Jesus himself taught that [we should pray to God the Father](../../nature.md#prayers)
+(Matthew 6:9-13; Luke 11:1-2).
 
-However, Jesus himself taught that [we should pray to God the Father](/life/prayer) (Matthew 6:9-13; Luke 11:1-2).
-
-> **Pray then like this**: "**Our Father** in heaven..." -- Matthew 6:9 (ESV)
+> Pray then like this: "Our Father in heaven..." — Matthew 6:9 (ESV)
 
 and
 
-> And he said to them, **“When you pray, say: 'Father...'”** -- Luke 11:2 (ESV)
+> And he said to them, “When you pray, say: 'Father...'” — Luke 11:2 (ESV)
 
-Does Jesus contradict himself?
+This raises the question of whether these instructions are in conflict.
 
-* [Some would argue that that Jesus is the Father](/god/son/essence/as-god/similarities), therefore it does not matter which name you use.
-* Some would argue that, the disciples prayed to the Father while Jesus was a human, and now we should pray to Jesus instead. However, there are no scriptural support for this view.
+## Diverse Perspectives on Prayer
 
-The confusion was introduced when translations like the ESV added the word "*me*" which was not part of the original text. This charges the meaning that you should be asking Jesus directly, instead of asking on behalf of Jesus. For example other bible translations render it:
+There are various ways to interpret these passages:
 
-> Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father. And **whatsoever ye shall ask** in my name, that will I do, that the Father may be glorified in the Son. **If ye shall ask any thing** in my name, I will do it. -- John 14:12-14 (KJV)
+* [Some argue that Jesus is the Father](../../son-as-god/similarities.md).
+  Therefore, it does not matter which name is used in prayer.
+* Others suggest that while the disciples prayed to the Father while Jesus
+  was on earth, believers should now pray to Jesus instead. However, there is
+  no direct scriptural support for this transition in practice.
 
-To asking something in "Jesus name" does not mean you address Jesus, but instead that you ask something in Jesus [authority](/bible/concepts/name), in other words, you are asking something that Jesus would have approved and you are acting as his agent ("diciple") on his behalf.
+## Translation Nuances in John 14
 
-How do we know what Jesus would have approved?
+The confusion often stems from translation differences. Modern versions like
+the ESV include the word "me" in John 14:14, which is absent from some early
+manuscripts. This inclusion changes the meaning to suggest asking Jesus
+directly. For comparison, the King James Version renders it:
 
-The next verse gives the answer:
+> Verily, verily, I say unto you, He that believeth on me, the works that I do
+> shall he do also; and greater works than these shall he do; because I go
+> unto my Father. And whatsoever ye shall ask in my name, that will I do, that
+> the Father may be glorified in the Son. If ye shall ask any thing in my
+> name, I will do it. — John 14:12-14 (KJV)
 
-> "If you love me, you will keep my commandments." -- John 14:15 (ESV)
+Asking in "Jesus' name" does not necessarily mean addressing Jesus. Instead,
+it refers to asking with the [authority](../../nature.md#jesus-name) Jesus granted
+to his followers. This implies acting as his agent and making requests that
+align with his will and commandments.
 
-That is why we need ["the Helper"](/god/spirit):
+## Direct Communication After the Ascension
 
-> And I will ask the Father, and He will give you another Helper, to be with you forever, even [the Spirit of truth](/god/spirit), Whom the world cannot receive, because it neither sees Him nor knows Him. You know Him, for He dwells with you and will be in you. -- John 14:16 (ESV)
+The New Testament records instances where disciples communicated directly with
+Jesus after his ascension. Stephen called out to the Lord Jesus during his
+martyrdom:
 
-# Examples of disciples that communicated directly with Jesus after his ascension
-
-Stephen who **called out** directly (instead of praying) to the Lord Jesus while he was being stoned.
-
-> But he, being full of the Holy Spirit, gazed into heaven and saw the glory of God, **and Jesus standing at the right hand of God**, and said, ***“Look! I see the heavens opened and the Son of Man standing at the right hand of God!”***
-> 
-> Then they cried out with a loud voice, stopped their ears, and ran at him with one accord; and they cast him out of the city and stoned him. And the witnesses laid down their clothes at the feet of a young man named Saul. 
+> But he, being full of the Holy Spirit, gazed into heaven and saw the glory of
+> God, and Jesus standing at the right hand of God, and said, “Behold, I see
+> the heavens opened, and the Son of Man standing at the right hand of God.”
+> But they cried out with a loud voice and stopped their ears and rushed
+> together at him. Then they cast him out of the city and stoned him. And the
+> witnesses laid down their garments at the feet of a young man named Saul.
+> And as they were stoning Stephen, he called out, “Lord Jesus, receive my
+> spirit.” And falling to his knees he cried out with a loud voice, “Lord, do
+> not hold this sin against them.” And when he had said this, he fell asleep.
 >
-> And as they were stoning Stephen, he **called out**, 
-> 
-> “***Lord Jesus***, receive my spirit.” 
-> 
-> And falling to his knees he cried out with a loud voice, “***Lord***, do not hold this sin against them.” 
-> 
-> And when he had said this, he fell asleep. 
-> 
-> -- Acts 7:56-60 (ESV)
+> — Acts 7:55-60 (ESV)
 
-Although Stephen pointed out "Look! I see...", it seems like the mob could not see what he was seeing as "they cried out with a loud voice, stopped their ears, and ran at him". Therefore, some would argue that God and Jesus was not physically present at that event, but that Stephen was in reality describing a vision.
+Some argue that since the mob did not see the vision, God and Jesus were not
+physically present in the immediate vicinity. Stephen was in the midst of a
+crisis and "called out" to Jesus rather than engaging in a formal, comfortable
+prayer. Similarly, Saul of Tarsus communicated with Jesus during his experience
+on the road to Damascus:
 
-Whether Stephen was seeing a vision or whether the mob was blinded, Stephen was not on his knees to pray to Jesus. Stephen was on his knees because he was being stoned. Stephen "called out" and "cried out" to Jesus, instead of praying comfortably.
-
-Saul was definitely not praying to Jesus, because he did not even believe that Jesus was alive:
-
-> But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest and asked him for letters eto the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem. Now as he went on his way, he approached Damascus, and suddenly **a light from heaven shone around him**. 
-> 
-> And falling to the ground, he heard a voice saying to him, “Saul, Saul, why are you persecuting me?”<br/>
-> And he **said**, “Who are you, Lord?”<br/>
-> And he said, “**I am Jesus**, whom you are persecuting. But rise and enter the city, and you will be told what you are to do.”
-> 
-> -- Acts 9:1-6 (ESV)
-
-Stephen was seeing Jesus and Paul was hearing Jesus. They both were communicating directly to him, instead of through formal prayer. However, Paul himself later acknowledge that he was only experiencing a vision of Jesus:
-
-> And when we had all fallen to the ground, **I heard a voice saying** to me in the Hebrew language, "Saul, Saul, why are you persecuting me?" -- Acts 26:14 (ESV)
-
-and
-
-> "Therefore, O King Agrippa, I was not disobedient to the heavenly **vision**" -- Acts 26:19 (ESV)
-
-There are many other examples where people talked to [angels](/creation/angelic-beings) who appeared to them in their direct presence, yet this form of communication was not considered "[praying to angels](/life/prayer#praying-to-angels)".
-
-# Examples of disciples communicating directly with Jesus in a vision
-
-Ananias:
-
-> Now there was a disciple at Damascus named Ananias. 
-> 
-> **The Lord** *(most likely Jesus)* said to him in a vision, “Ananias.”  
-> And **he said**, “Here I am, Lord.”  
-> And the Lord said to him, “Rise and go to the street called Straight, and at the house of Judas look for a man pof Tarsus named Saul, for behold, he is praying, and he has seen in a vision a man named Ananias come in and lay his hands on him so that he might regain his sight.”  
-> But **Ananias answered**, “Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem. And here he has authority from the chief priests to bind all who call on your name.”  
-> But the Lord said to him, “Go, for whe is a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel. For I will show him how much he must suffer for the sake of my name.” 
-> 
-> -- Acts 9:10-16 (ESV)
-
-John:
-
-> He who testifies to these things says, “Surely I am coming quickly.”
-> 
-> Amen. Even so, come, **Lord Jesus**! 
-> 
-> -- Revelation 22:20 (ESV)
-
-They were not on their knees praying to Jesus, they were interactively communicating with him during these visions, asking questions and receiving answers to their questions.
-
-# Paul's prayers to the Lord
-
-Some would also argue that Paul prayed to Jesus:
-
-> Concerning this thing I pleaded with [the Lord](/god/father/name) three times that it might depart from me. 
-> 
-> And He said to me, “My grace is sufficient for you, for My strength is made perfect in weakness.” 
-> 
-> Therefore most gladly I will rather boast in my infirmities, that the power of Christ may rest upon me. Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for **Christ**’s sake. For when I am weak, then I am strong. 
-> 
-> -- 2 Corinthians 12:8-10 (ESV)
-
-In the Greek New Testament, the word "Lord" is only a form of respect. It could refer to any person with authority like a human king, Jesus or God. God's name, [YHVH](/god/father/name#yhvh), was also replaced with "the Lord". Therefore, from this scripture alone it is not possible to determine whether Paul addressed ["the LORD" (YHVH) or "the Lord" (Jesus)](/god/father/name#yhvh). In this passage Paul address Jesus as "Christ" not as "the Lord", so in [this context](/bible/interpretations/rebuttals#context) Paul more likely meant the other LORD which is YHVH.
-
-# Praying in the Name of Jesus
-
-Some would argue that "praying in the name of Jesus" means to pray to Jesus. They may quote scriptures like: 
-
-> “And I will do whatever you ask in my [name](/bible/concepts/name), so that the Father may be glorified in the Son. -- John 14:14”
-
-This does not mean that we should pray directly to Jesus.  This simply means to pray in the [authority](/bible/concepts/name) that Jesus gave to disciples.  In other words this means they are allowed to [request certain things from God the Father](/life/prayer) because Jesus permits them.  
-
-In this case Jesus instructs his disciples to submit to his authority ("name") so that when they ask something from the Father, the Father may use the opportunity to honour ("glorify") His Son's request which should be in alignment with the disciple's request when they had submitted themselves to him.  This is not the disciples telling Jesus what to do, but Jesus mediating on behalf of the disciples to God according to His will. 
-
-A few verses earlier:
-
-> Jesus said to him, “I am the way, the truth, and the life. **No one comes to the Father except through Me**. -- John 14:6 (ESV)
-
-# Jesus is our mediator
-
-Jesus is our mediator, according to Paul:
-
-> For there is one [God](/god), and there is one mediator between God and men, the man [Christ Jesus](/god/son/christ) -- 1 Timothy 2:5 (ESV)
-
-Some assume Jesus is some divine being that channel all our prayers to God as a mediator. They often would indicate that we need to pray to Jesus and he will somehow filter our prayer requests or present it in such a way that it would be acceptable to God.  This is not a biblical teaching. Jesus is not hindering our prayers, neither are he some sort of communication channel to God. 
-
-Instead, we need to understand that a "[mediator](/bible/concepts/mediator)" is:
-
-> one who intervenes between two parties to restore peace, make a covenant, or ratify an agreement. In the New Testament, it is primarily used to describe Jesus Christ as the mediator between God and humanity, highlighting His role in reconciling sinful humans to a holy God through His sacrificial death and resurrection. -- [Strong's Lexicon](https://biblehub.com/greek/3316.htm)
-
-# Fellowship with Jesus
-
-Paul wrote:
-
-> God is faithful, by whom you were called into **the fellowship of His Son, Jesus Christ** our Lord. -- 1 Corinthians 1:9 (ESV)
-
-And John wrote:
-
-> ... so that you too may have fellowship with us; and indeed **our fellowship is** with the Father and **with His Son Jesus Christ** -- 1 John 1:3 (ESV)
-
-How are we supposed to have "fellowship" with Jesus Christ if we should pray to the Father instead?
-
-Some would say that God does not forbid talking (or "praying") to Jesus directly, although no scripture directly encourage prayers to Jesus nor does any scripture state that Jesus would be able to receive our prayers.
-
-Other reason that the apostles could have meant that we would eventually, be able to have direct personal fellowship with Jesus himself on his return. However, nothing implies of a future fellowship, but instead the present tense was used.
-
-However, [Christ's body](/bible/metaphors/bread) is fellow believers. Therefore, fellowship with [Christ's body](/bible/metaphors/bread) is considered fellowship with Jesus Christ.  It is often more convenient to think that we ought to fellowship only with our perfect glorious God, Who abundantly provides in all our needs. It is often less convenient to fellowship with believers, especially if they are imperfect and might be broken, demanding, shameful or needy people.  Yet, this was what Jesus instructed:
-
-> “**Whoever receives you receives me, and whoever receives me receives him who sent me**. The one who receives a prophet because he is a prophet will receive a prophet’s reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person’s reward. And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.” -- Matthew 10:40-42 (ESV)
-
-This is also confirmed a few chapters later when Jesus said:
-
-> "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me."  
-> Then the righteous will answer him, saying, "Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?"  
-> And the King will answer them, "Truly, I say to you, **as you did it to one of the least of these my brothers, you did it to me**."
+> Now as he went on his way, he approached Damascus, and suddenly a light from
+> heaven shone around him. And falling to the ground, he heard a voice saying
+> to him, “Saul, Saul, why are you persecuting me?” And he said, “Who are you,
+> Lord?” And he said, “I am Jesus, whom you are persecuting. But rise and enter
+> the city, and you will be told what you are to do.”
 >
-> -- Matthew 25:35-40 (ESV)
+> — Acts 9:3-6 (ESV)
+
+Paul later characterized this event as a heavenly vision (Acts 26:19). These
+examples involve interactive communication during unique spiritual experiences
+rather than standard liturgical prayer. Similar direct talk occurs with
+[angels](../../son-as-angel.md) in the Bible, yet such instances are not
+generally classified as [praying to angels](../../nature.md#prayers).
+
+## Visionary Interactions
+
+Other disciples had visionary encounters with Jesus. Ananias engaged in a
+dialogue with him:
+
+> Now there was a disciple at Damascus named Ananias. The Lord said to him in
+> a vision, “Ananias.” And he said, “Here I am, Lord.” And the Lord said to
+> him, “Rise and go to the street called Straight, and at the house of Judas
+> look for a man of Tarsus named Saul, for behold, he is praying, and he has
+> seen in a vision a man named Ananias come in and lay his hands on him so
+> that he might regain his sight.”
+>
+> — Acts 9:10-12 (ESV)
+
+At the close of Revelation, John addresses Jesus directly:
+
+> He who testifies to these things says, “Surely I am coming quickly.” Amen.
+> Even so, come, Lord Jesus!
+>
+> — Revelation 22:20 (ESV)
+
+These interactions show believers speaking to Jesus as a present and active
+Lord, receiving instructions and responding to his words.
+
+## Paul's Pleadings to the Lord
+
+Paul writes about a specific instance of petitioning the Lord:
+
+> Three times I pleaded with the Lord about this, that it should leave me.
+> But he said to me, “My grace is sufficient for you, for my power is made
+> perfect in weakness.” Therefore I will boast all the more gladly of my
+> weaknesses, so that the power of Christ may rest upon me.
+>
+> — 2 Corinthians 12:8-9 (ESV)
+
+In the Greek text, "Lord" (*Kyrios*) can refer to a human superior, Jesus, or
+God. Since God's name, [YHWH](../../nature.md#bible-translations), was often
+replaced with "the Lord" in translations, it is sometimes ambiguous which person
+is being addressed. Given [the context](../../nature.md#concerns), Paul may
+have been addressing the Father.
+
+## Praying in the Name of Jesus
+
+The phrase "praying in the name of Jesus" is often interpreted as praying *to*
+Jesus. However, it more likely refers to praying by the
+[authority](../../nature.md#jesus-name) he gave his disciples. This allows
+them to [request things from God the Father](../../nature.md#prayers) because
+Jesus permits it. Jesus acts as the mediator, ensuring that the Father is
+glorified through the Son when the requests align with his will.
+
+> Jesus said to him, “I am the way, and the truth, and the life. No one comes
+> to the Father except through me.” — John 14:6 (ESV)
+
+## Jesus as the Sole Mediator
+
+Paul identifies Jesus' unique role:
+
+> For there is one [God](../../nature.md), and there is one mediator between God
+> and men, the man [Christ Jesus](../../christ/christ.md) — 1 Timothy 2:5 (ESV)
+
+A [mediator](../not-god/jesus-is-our-mediator-to-a-greater-god.md) is one who
+intervenes between two parties to restore peace or ratify an agreement. Jesus
+reconciles humanity to God through his sacrificial death and resurrection. He
+is not a communication channel that filters prayers but the one who made
+access to the Father possible.
+
+## Fellowship and the Body of Christ
+
+Believers are called into fellowship with Jesus Christ (1 Corinthians 1:9;
+1 John 1:3). While some argue this implies talking directly to him in prayer,
+others see it as a future direct fellowship upon his return.
+
+However, the Bible also presents fellowship with the body of Christ as
+fellowship with Jesus himself. This body consists of fellow believers. Jesus
+taught that receiving his disciples is equivalent to receiving him
+(Matthew 10:40-42).
+
+> "Truly, I say to you, as you did it to one of the least of these my brothers,
+> you did it to me." — Matthew 25:40 (ESV)
+
+This suggests that fellowship with the risen Lord is expressed through active
+service and communion within the community of faith.
+
+## Common Counterarguments
+
+Critiques of the "Father-only" prayer model often point to the absolute divinity
+of Jesus. They argue that if Jesus is God, he must be able to receive and answer
+prayer. Supporters of this view cite the worship given to Jesus in the New
+Testament as evidence that he is an appropriate object of petition.
+
+In response, some maintain a distinction between worship (*proskuneo*) as homage
+and the specific liturgical act of prayer (*proseuche*) directed to the Father.
+They emphasize that Jesus' own pattern was to redirect focus to the Father as
+the source of all things.
+
+## Conclusion
+
+The New Testament provides a complex picture of communication with the Divine.
+While the primary pattern for prayer is directed to God the Father, the
+interactive fellowship and direct addresses to the risen Christ in visions and
+moments of crisis demonstrate his active presence in the life of the believer.
+
+* [Jesus taught his disciples to pray to the Father](#should-we-pray-to-jesus)
+* [Translation variations in John 14:14 influence the interpretation of asking Jesus directly](#translation-nuances-in-john-14)
+* [Stephen and Paul communicated with Jesus during visions and crises](#direct-communication-after-the-ascension)
+* [Praying in Jesus' name signifies acting under his authority](#praying-in-the-name-of-jesus)
+* [Jesus serves as the mediator who reconciles humanity to God](#jesus-as-the-sole-mediator)
+* [Fellowship with Jesus is often expressed through service to fellow believers](#fellowship-and-the-body-of-christ)
