@@ -27,7 +27,7 @@ This implies that God does not have mortal visible blood.
 
 Moses wrote:
 
-> But, He *([YHVH](/god/father/name#yhvh))* said, “**you cannot see my face**, for man shall not see me and live.” -- Exodus 33:20 (ESV)
+> But, He *([YHWH](/god/father/name#yhwh))* said, “**you cannot see my face**, for man shall not see me and live.” -- Exodus 33:20 (ESV)
 
 # Bad translations
 

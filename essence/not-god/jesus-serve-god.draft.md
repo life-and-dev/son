@@ -3,7 +3,7 @@ description: "Jesus serve God — Path: god / son / essence / not-god / serve-go
 keywords: "Jesus serve God, god, son, essence, not-god, serve-god"
 ---
 
-> That men may know that thou, whose name alone is [JEHOVAH](/god/father/name#yhvh), art the most high over all the earth. -- Psalm 83:18 (KJV)
+> That men may know that thou, whose name alone is [JEHOVAH](/god/father/name#yhwh), art the most high over all the earth. -- Psalm 83:18 (KJV)
 
 Therefore, [Jehovah](/god/father) [(also known as Yahweh or God the Father)](/god/father/name) has higher authority than Jesus.
 
@@ -27,7 +27,7 @@ and
 
 [The Father](/god/father) had/has a higher authority than Jesus, because:
 
-* God (identified as [YHVH](/god/father/name)) has the highest authority (Psalm 83:18, 103:19-22)
+* God (identified as [YHWH](/god/father/name)) has the highest authority (Psalm 83:18, 103:19-22)
 * God calls Jesus "My Servant" (Isaiah 42:1, 52:13-53:12)
 * Jesus said God should be worshipped instead (Luke 4:8; Matthew:4:10)
 * Jesus was "sent" (commissioned) by the Father (John 3:16-18, 4:34, 6:57, 8:29, 14:24, 17:1-3; 1 John 4:14). This implies the Father has the authority to command Jesus.

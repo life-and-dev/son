@@ -27,29 +27,29 @@ This seems to suggest that Christ was physically travelling with the Israelites 
 
 Some scholars argue that Paul was referring to Moses that stroke the rock:
 
-> And the LORD *([YHVH](/god/father/name#yhvh))* said to Moses, “Go on before the people, and take with you some of the elders of Israel. Also take in your hand your rod with which you struck the river, and go. Behold, I will stand before you there **on** the rock in Horeb; and you shall strike **the rock**, and water will come out of it, that the people may drink.”
+> And the LORD *([YHWH](/god/father/name#yhwh))* said to Moses, “Go on before the people, and take with you some of the elders of Israel. Also take in your hand your rod with which you struck the river, and go. Behold, I will stand before you there **on** the rock in Horeb; and you shall strike **the rock**, and water will come out of it, that the people may drink.”
 >
-> And Moses did so in the sight of the elders of Israel. So he called the name of the place Massah and Meribah, because of the contention of the children of Israel, and because they tempted the LORD *([YHVH](/god/father/name#yhvh))*, saying, “Is the Lord among us or not?” 
+> And Moses did so in the sight of the elders of Israel. So he called the name of the place Massah and Meribah, because of the contention of the children of Israel, and because they tempted the LORD *([YHWH](/god/father/name#yhwh))*, saying, “Is the Lord among us or not?” 
 > 
 > -- Exodus 17:5-7 (NKJV)
 
-Only the LORD, [YHVH](/god/father/name#yhvh), was present, and He never claimed to be the rock itself.
+Only the LORD, [YHWH](/god/father/name#yhwh), was present, and He never claimed to be the rock itself.
 
-> “Beware that you do not forget the LORD *([YHVH](/god/father/name#yhvh))*, your God... Who brought water for you out of the flinty rock... -- Deuteronomy 8:11,15 (NKJV)
+> “Beware that you do not forget the LORD *([YHWH](/god/father/name#yhwh))*, your God... Who brought water for you out of the flinty rock... -- Deuteronomy 8:11,15 (NKJV)
 
 Another instance where a rock provided water to the Israelites:
 
-> Then the LORD *([YHVH](/god/father/name#yhvh))* spoke to Moses, saying, “Take the rod; you and your brother Aaron gather the congregation together. Speak to **the rock** before their eyes, and it will yield its water; thus you shall bring water for them out of the rock, and give drink to the congregation and their animals.” 
+> Then the LORD *([YHWH](/god/father/name#yhwh))* spoke to Moses, saying, “Take the rod; you and your brother Aaron gather the congregation together. Speak to **the rock** before their eyes, and it will yield its water; thus you shall bring water for them out of the rock, and give drink to the congregation and their animals.” 
 > 
-> So Moses took the rod from before the LORD *([YHVH](/god/father/name#yhvh))* as He commanded him. And Moses and Aaron gathered the assembly together before **the rock**; and he said to them, 
+> So Moses took the rod from before the LORD *([YHWH](/god/father/name#yhwh))* as He commanded him. And Moses and Aaron gathered the assembly together before **the rock**; and he said to them, 
 > 
 > “Hear now, you rebels! Must we bring water for you out of this rock?” 
 > 
 > Then Moses lifted his hand and struck **the rock** twice with his rod; and water came out abundantly, and the congregation and their animals drank.
 >
-> Then the LORD *([YHVH](/god/father/name#yhvh))* spoke to Moses and Aaron, “Because you did not believe Me, to hallow Me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.”
+> Then the LORD *([YHWH](/god/father/name#yhwh))* spoke to Moses and Aaron, “Because you did not believe Me, to hallow Me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.”
 >
-> This was the water of Meribah, because the children of Israel contended with the LORD *([YHVH](/god/father/name#yhvh))*, and He was hallowed among them.
+> This was the water of Meribah, because the children of Israel contended with the LORD *([YHWH](/god/father/name#yhwh))*, and He was hallowed among them.
 >
 > -- Numbers 20:7-13 (NKJV)
 
@@ -68,7 +68,7 @@ The confusion comes with the way the chapters are dividing 1 Corinthians. Paul's
 Paul was comparing his "spiritual" race the Israelite's "spiritual" journey. This means that these scriptures should not be taken literally in the material world. For example:
 
 | The race                                             | The exodus                                                         |
-|------------------------------------------------------|--------------------------------------------------------------------|
+| ---------------------------------------------------- | ------------------------------------------------------------------ |
 | The race starts with "baptism" (1 Corinthians 12:13) | The journey started with "baptism" in the cloud and in the sea     |
 | "discipline my body and bring it into subjection"    | "ate the same spiritual food and drank the same spiritual drink"   |
 | The prize is a "crown"                               | The reward is the promised land (Exodus 6:7-8)                     |

@@ -7,7 +7,7 @@ keywords: "Was Jesus in the garden of Eden?, god, son, essence, as-god, incarnat
 
 Danie Haasbroek, the author of "The Wonder of Jesus in the Old Testament", claim that this was Jesus who "walked" with Adam and Eve.
 
-* Jesus' name is never mentioned in the entire book of Genesis. It specifically said "LORD God" which was translated from the Hebrew name, [יְהוָֽה](/god/father/name#yhvh) which is never identified as Jesus.
+* Jesus' name is never mentioned in the entire book of Genesis. It specifically said "LORD God" which was translated from the Hebrew name, [יְהוָֽה](/god/father/name#yhwh) which is never identified as Jesus.
 * There are no verse in the entire bible that stated the Adam walked with the "LORD God" as one would walk next to a buddy through a garden.  This is an assumption many Christians made which is based on no scripture. 
 * The verse state that "they **heard the sound** of the LORD God walking". They never saw Him walking, nor walked with Him. Adam told God “I **heard** Your voice in the garden, and I was afraid because I was naked" (Genesis 3:10 NKJV). Adam did not see Jesus, he **heard** the LORD God.
 * How did it sound? Like the "wind". Many translators would use the words "in the *cool* of the day", which is actually "in the **breeze** of the day". The word used there is [רוּחַ ("ruach")](https://biblehub.com/hebrew/7307.htm) which means "breath", "wind" or "spirit". This could imply that they experienced [God's Spirit](/god/spirit) or presence.

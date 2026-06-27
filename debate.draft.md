@@ -554,7 +554,7 @@ Debate Focus: Compare how each position explains a saved person's relationship w
   - **Objection**: Trinitarians answer that Jesus as the way can also share the divine destination because he is in the Father and reveals him perfectly (John 14:6-11).
 * Worship in the sense of respect, serve in the sense of obedience, but not "worship and serve" in the sense of sacrificial offering to a god.
   - **Objection**: Yes, as God.
-* 1 Samuel 7:3-4 & Matthew 4:10; Luke 4:8: Only the God, YHVH, should be "worshipped and served".
+* 1 Samuel 7:3-4 & Matthew 4:10; Luke 4:8: Only the God, YHWH, should be "worshipped and served".
   - **Objection**: demo
 * Matthew 4:1-2: Jesus fasted (worship a greater God).
   - **Objection**: demo
@@ -562,7 +562,7 @@ Debate Focus: Compare how each position explains a saved person's relationship w
   - **Objection**: godhead
 * No, instead we should pray to the Father.
   - **Objection**: Yes, as God.
-* Ezra 9:5-6: Ezra prayed to the LORD (YHVH) instead.
+* Ezra 9:5-6: Ezra prayed to the LORD (YHWH) instead.
   - **Objection**: godhead
 * Matthew 6:9-13; Luke 11:1-2: Jesus taught that we should pray to our Father in heaven.
   - **Objection**: demo

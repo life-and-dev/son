@@ -3,7 +3,7 @@ title: Jesus claims to be glorified
 published: true
 ---
 
-> I am [the LORD](/god/father/name#yhvh), that is My name;<br/>
+> I am [the LORD](/god/father/name#yhwh), that is My name;<br/>
 > And **My [glory](/bible/concepts/glory) I will not give to another**, nor My [praise](/god/praise) to carved images.
 > 
 > -- Isaiah 42:8 (NKJV)
@@ -16,7 +16,7 @@ and
 
 > All mine are Yours, and Yours are mine, and **I am [glorified](/bible/concepts/glory)** in them. -- John 17:10 (ESV)
 
-[Out of context](/bible/interpretations/rebuttals#context), it seems like Jesus contradicts Isaiah. To solve this "contradiction", some would argue this proof that Jesus is [the LORD](/god/father/name#yhvh). This argument is supported by [the confusion caused by removing God's name](/bible/interpretations/rebuttals#confused-by-name-removal) is replaced with "the LORD" which is also what Jesus is called.
+[Out of context](/bible/interpretations/rebuttals#context), it seems like Jesus contradicts Isaiah. To solve this "contradiction", some would argue this proof that Jesus is [the LORD](/god/father/name#yhwh). This argument is supported by [the confusion caused by removing God's name](/bible/interpretations/rebuttals#confused-by-name-removal) is replaced with "the LORD" which is also what Jesus is called.
 
 In the context of Isaiah 42:8, the issue was the God do not want to share His glory with foreign idols ("carved images"), however as the Father of Jesus, the Son of God, He has no problem with anyone glorifies His Son, because that automatically also glorifies Him.
 

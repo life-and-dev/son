@@ -15,7 +15,7 @@ published: true
 > 
 > Now therefore, O kings, be wise; be warned, O rulers of the earth.
 >
-> Serve **[the LORD](/god/father/name#yhvh)** with fear, and rejoice with trembling.  
+> Serve **[the LORD](/god/father/name#yhwh)** with fear, and rejoice with trembling.  
 > Kiss the son, lest he be angry, and you perish in the way, for his wrath is quickly kindled.
 > 
 > -- Psalm 2:7-12 (ESV)
@@ -51,11 +51,11 @@ Because Jesus was considered the "great King" and Jesus was "exalted" by God, [s
 
 # Quotes from Isaiah 45:22-23
 
-> For thus says **[the LORD](/god/father/name#yhvh)**,
+> For thus says **[the LORD](/god/father/name#yhwh)**,
 > 
 > Who created the heavens, Who is God, Who formed the earth and made it, Who has established it, Who did not create it in vain, Who formed it to be inhabited:
 > 
-> “I am **[the LORD](/god/father/name#yhvh)**, and **there is no other**.
+> “I am **[the LORD](/god/father/name#yhwh)**, and **there is no other**.
 > 
 > ...
 >
@@ -68,9 +68,9 @@ Because Jesus was considered the "great King" and Jesus was "exalted" by God, [s
 
 ## Romans 14:11 context
 
-> For it is written, “As I live, says **[the LORD](/god/father/name#yhvh)**, every knee shall bow to Me, and every tongue shall **confess to God**.” -- Romans 14:11 (ESV)
+> For it is written, “As I live, says **[the LORD](/god/father/name#yhwh)**, every knee shall bow to Me, and every tongue shall **confess to God**.” -- Romans 14:11 (ESV)
 
-This scripture is often quoted [out of context](/bible/interpretations/rebuttals#context) to "proof" that Jesus is God. However, [in this context Paul to does refer to Jesus, but instead to YHVH as God](/god/son/as-god/similarities/act#jesus-judge-as-the-father).
+This scripture is often quoted [out of context](/bible/interpretations/rebuttals#context) to "proof" that Jesus is God. However, [in this context Paul to does refer to Jesus, but instead to YHWH as God](/god/son/as-god/similarities/act#jesus-judge-as-the-father).
 
 ## Philippians 2:9-11
 

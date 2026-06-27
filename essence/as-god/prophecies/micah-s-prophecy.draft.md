@@ -31,14 +31,14 @@ However, if you continue reading Micah you notice:
 > Until the time that she who is in labor has given birth;    
 > Then the remnant of **his** brethren shall return to the children of Israel.    
 > And **he** shall stand and feed His flock in the strength of **the LORD**,  
-> In the majesty of the name of **the LORD ([YHVH](/god/father/name)) his God**;  
+> In the majesty of the name of **the LORD ([YHWH](/god/father/name)) his God**;  
 > And they shall abide,  
 > For now **he** shall be great to the ends of the earth;  
 > And **this one** shall be peace.
 >
 > -- Micah 5:2-5 (NKJV)
 
-This means this ruler, who according to Matthew is Jesus, submits under "[the name](/bible/concepts/name)" (authority) of a greater "LORD" or [YHVH](/god/father/name) who is also "his God" which means, [Jesus has a God](/god/son/essence/not-god#jesus-has-a-god).
+This means this ruler, who according to Matthew is Jesus, submits under "[the name](/bible/concepts/name)" (authority) of a greater "LORD" or [YHWH](/god/father/name) who is also "his God" which means, [Jesus has a God](/god/son/essence/not-god#jesus-has-a-god).
 
 If Micah truly meant to make the statement that this ruler existed from eternity like God, then Matthew did a bad job to leave that part out from his quotation.
 

@@ -122,7 +122,7 @@ Paul wrote:
 >
 > for it is written,
 >
->> “As I live, says *[the LORD](/god/father/name#yhvh)*, [every knee shall bow to me, and every tongue shall confess to God.](/god/son/essence/as-god/lord#quotes-from-isaiah-45-22-23)”
+>> “As I live, says *[the LORD](/god/father/name#yhwh)*, [every knee shall bow to me, and every tongue shall confess to God.](/god/son/essence/as-god/lord#quotes-from-isaiah-45-22-23)”
 >
 > So then each of us will give an account of himself to God.
 >
@@ -136,15 +136,15 @@ There are two issues with this reasoning:
 
 ## [The Lord's name](/bible/interpretations/rebuttals#confused-by-name-removal)
 
-People get confused because both God Almighty's name [YHVH](/god/father/name#yhvh) is replaced with "the Lord" which happens to be what Jesus is also called in the New Testament.
+People get confused because both God Almighty's name [YHWH](/god/father/name#yhwh) is replaced with "the Lord" which happens to be what Jesus is also called in the New Testament.
 
 Paul was quoting:
 
-> For thus says **[the LORD](/god/father/name#yhvh)**,
+> For thus says **[the LORD](/god/father/name#yhwh)**,
 >
 > Who created the heavens, Who is God, Who formed the earth and made it, Who has established it, Who did not create it in vain, Who formed it to be inhabited:
 >
-> “I am **[the LORD](/god/father/name#yhvh)**, and there is no other.
+> “I am **[the LORD](/god/father/name#yhwh)**, and there is no other.
 >
 > ...
 >
@@ -155,7 +155,7 @@ Paul was quoting:
 >
 > -- Isaiah 45:18, 22-23 (NKJV)
 
-Therefore, "God" in Romans 14:10-12 does not refer to Jesus, but instead refers to [YHVH](/god/father/name#yhvh).
+Therefore, "God" in Romans 14:10-12 does not refer to Jesus, but instead refers to [YHWH](/god/father/name#yhwh).
 
 ## [Context](/bible/interpretations/rebuttals#context)
 

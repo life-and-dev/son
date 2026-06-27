@@ -97,12 +97,12 @@ Jesus quoted Malachi:
 > 
 > -- Malachi 2:17-3:1 (ESV)
 
-It is unfortunately that the translators of Malachi choose to replace [YHVH's name with the LORD](/god/father/name#yhvh), because this cause confusion with the other Lord.
+It is unfortunately that the translators of Malachi choose to replace [YHWH's name with the LORD](/god/father/name#yhwh), because this cause confusion with the other Lord.
 
-This prophecy is about a "messenger", who will prepare the people for YHVH's (the LORD's) "justice" (Malachi 2:17).  
+This prophecy is about a "messenger", who will prepare the people for YHWH's (the LORD's) "justice" (Malachi 2:17).  
 
 Then Malachi also mentions a second "Lord whom will come to his temple" which:
 * is not capitalized, and
-* unlike YHVH (the first LORD) who was speaking in first person, this Lord is referred as a second person. 
+* unlike YHWH (the first LORD) who was speaking in first person, this Lord is referred as a second person. 
 
-The second Lord is likely a reference to Jesus, which should not be confused with YHVH (the LORD).
+The second Lord is likely a reference to Jesus, which should not be confused with YHWH (the LORD).

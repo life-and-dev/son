@@ -62,7 +62,7 @@ and
 1. Jesus was also priced "thirty pieces of silver", and
 2. the price money was cast into the temple, which the chief priests used to buy the potter's field 
 
-... then these events align and it is considered a "fulfillment" as Matthew stated, which means Jesus is [the LORD (YHVH)](/god/father/name#yhvh) who is the Almighty God.
+... then these events align and it is considered a "fulfillment" as Matthew stated, which means Jesus is [the LORD (YHWH)](/god/father/name#yhwh) who is the Almighty God.
 
 There are a few problems with this prophecy:
 

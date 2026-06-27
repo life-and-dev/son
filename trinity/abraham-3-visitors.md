@@ -1,28 +1,28 @@
 ---
 description: Examines whether Abraham's three visitors in Genesis 18 were the Trinity or divine messengers acting under God's authority.
-keywords: Genesis 18 visitors, Abraham three men, Trinity debate, Angel of the LORD, divine messengers, Genesis 19 angels, theophany, YHVH appearance
+keywords: Genesis 18 visitors, Abraham three men, Trinity debate, Angel of the LORD, divine messengers, Genesis 19 angels, theophany, YHWH appearance
 ---
 
 # The 3 That Appeared To Abraham
 
 Genesis 18 has generated theological debate regarding whether the three men who appeared to Abraham represent the Trinity. God in three distinct persons. The argument appears compelling at first glance. The text says "the LORD appeared" (singular), yet three men showed up at Abraham's tent. This has led some to interpret the passage as an early revelation of [the Godhead](../../bible/concepts/godhead.md) in human form.
 
-> And the LORD ([YHVH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
+> And the LORD ([YHWH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
 
 A closer examination of the passage and its context reveals that this interpretation raises more questions than it answers. If Abraham truly saw God the Father in physical form, how does that harmonize with Jesus' statement that "no one has ever seen God" (John 1:18 (ESV))? Why does the very next chapter explicitly call two of these visitors "angels" (Genesis 19:1 (ESV))? 
 
-## Abraham recognized YHVH
+## Abraham recognized YHWH
 
-> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHVH](https://ofgod.info/name))*. — Genesis 18:22 (ESV)
+> So the men turned from there and went toward Sodom, but Abraham still stood before **the LORD** *([YHWH](https://ofgod.info/name))*. — Genesis 18:22 (ESV)
 
 However, if Abraham was physically standing before the Father, it could contradict Jesus' words:
 
 > [No one has ever seen God](https://eternal.family.net.za/god/father/appearance); the only God, who is at **the Father's side**, he has made him known. — John 1:18 (ESV)
 
-Some use these verses to prove that this "man" referred to as the LORD (YHVH) could be [an early incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation), and because the LORD (YHVH) is God, they argue that this proves that [Jesus is God](https://eternal.family.net.za/god/son/essence). Possible explanations:
+Some use these verses to prove that this "man" referred to as the LORD (YHWH) could be [an early incarnation of Jesus](https://eternal.family.net.za/god/son/essence/as-god/incarnation), and because the LORD (YHWH) is God, they argue that this proves that [Jesus is God](https://eternal.family.net.za/god/son/essence). Possible explanations:
 
 1. Some believe Abraham was dreaming or seeing a vision while sleeping under the "oaks of Mamre" during his midday nap. However, the text does not confirm this. Sodom was really destroyed. It was not Abraham's imagination.
-2. The "man" was most likely an angel (Genesis 19:1 (ESV)) appearing in the form of a "man" but speaking on behalf of the LORD (YHVH), just as prophets often did. When Abraham addressed "the LORD," he was speaking to the LORD because the messenger spoke His words with His authority. Similarly, when an ambassador speaks, we say "France announced" or "The President said." The ambassador physically stands before us, but represents someone else entirely. The messenger's physical presence doesn't make them the one they represent.
+2. The "man" was most likely an angel (Genesis 19:1 (ESV)) appearing in the form of a "man" but speaking on behalf of the LORD (YHWH), just as prophets often did. When Abraham addressed "the LORD," he was speaking to the LORD because the messenger spoke His words with His authority. Similarly, when an ambassador speaks, we say "France announced" or "The President said." The ambassador physically stands before us, but represents someone else entirely. The messenger's physical presence doesn't make them the one they represent.
 
 The reason why there is great confusion regarding this passage is because of the division between Genesis chapter 18 and 19 (that did not exist in the original text). In the next chapter we read:
 
@@ -30,12 +30,12 @@ The reason why there is great confusion regarding this passage is because of the
 
 This implies that the 3rd "man" stayed behind with Abraham to continue the conversation at the end of Genesis 18. No text clearly specifies what the 3rd "man" was. 
 
-Since Abraham addressed the 3rd "man" as the LORD (YHVH), it is commonly assumed that the 3rd man was YHVH Himself. However, several considerations challenge this assumption:
+Since Abraham addressed the 3rd "man" as the LORD (YHWH), it is commonly assumed that the 3rd man was YHWH Himself. However, several considerations challenge this assumption:
 
-* If this was true, then YHVH's full glory would have killed Abraham (Exodus 33:20 (ESV)).
-* There are also no other examples in the Bible where YHVH appeared as a "man" to anyone (Numbers 23:19 (ESV)).
-* YHVH is not a shape-shifter (Malachi 3:6 (ESV)).
-* Often YHVH communicated through [messengers](https://eternal.family.net.za/bible/concepts/angel) like angels, prophets, scripture and even nature, but the times when He "appears", He does not look like an ordinary man whom one can invite for dinner like Abraham did. For example:
+* If this was true, then YHWH's full glory would have killed Abraham (Exodus 33:20 (ESV)).
+* There are also no other examples in the Bible where YHWH appeared as a "man" to anyone (Numbers 23:19 (ESV)).
+* YHWH is not a shape-shifter (Malachi 3:6 (ESV)).
+* Often YHWH communicated through [messengers](https://eternal.family.net.za/bible/concepts/angel) like angels, prophets, scripture and even nature, but the times when He "appears", He does not look like an ordinary man whom one can invite for dinner like Abraham did. For example:
   * Genesis 3:8 (ESV): Adam and Eve only heard and experienced God's presence
   * Exodus 24:9-12 (ESV): Moses and the leaders of Israel only saw God's feet and heard His voice. Later Moses requested to see more of God, which was denied (Exodus 33:15-20 (ESV))
   * Daniel 7:10 (ESV): Daniel saw a vision of "the Ancient of Days" as someone with white garment and hair, but with fiery flames, burning wheels, and streams that came forth from Him. Definitely not an ordinary "man".
@@ -59,17 +59,17 @@ These angels were acting under the authority of the LORD, and they referred to t
 
 Even in modern English, we don't blame the individual soldier who attacks a country. We say something like "Russia attacked Ukraine" as the Russian soldiers acted under the command of the Russian government. In the same way, these angels acted under the command of "the LORD".
 
-Lot also never directly addressed these angels as "YHVH", but as "Lords" in lowercase (Genesis 19:2 (ESV)), which is a form of respect to someone important.
+Lot also never directly addressed these angels as "YHWH", but as "Lords" in lowercase (Genesis 19:2 (ESV)), which is a form of respect to someone important.
 
 ## Common Objections Addressed
 
 ### "Abraham worshiped them — you don't worship angels!"
 
-Some argue that Abraham's bowing and worship proves these were divine persons, citing Revelation 19:10 (ESV) and Revelation 22:8-9 (ESV) where angels reject worship. However, ancient Near Eastern culture practiced prostration before important visitors as respectful greeting, not necessarily worship. Abraham used the same gesture with ordinary men (Genesis 23:7 (ESV)) and the Hittites (Genesis 23:12 (ESV)). The Hebrew word *shachah* means "bow down" and indicates respect appropriate to the recipient. Abraham addressed them as *adonai* ("lord/master"), the same term servants used for human masters. This is not the divine name YHVH.
+Some argue that Abraham's bowing and worship proves these were divine persons, citing Revelation 19:10 (ESV) and Revelation 22:8-9 (ESV) where angels reject worship. However, ancient Near Eastern culture practiced prostration before important visitors as respectful greeting, not necessarily worship. Abraham used the same gesture with ordinary men (Genesis 23:7 (ESV)) and the Hittites (Genesis 23:12 (ESV)). The Hebrew word *shachah* means "bow down" and indicates respect appropriate to the recipient. Abraham addressed them as *adonai* ("lord/master"), the same term servants used for human masters. This is not the divine name YHWH.
 
-### "The text says YHVH stood before Abraham, not 'a messenger'"
+### "The text says YHWH stood before Abraham, not 'a messenger'"
 
-Genesis 18:22 (ESV) states Abraham stood before "the LORD" (YHVH), seemingly proving God's physical presence. Compare this to Exodus 3:2-6 (ESV). The text says "the angel of the LORD appeared" in the burning bush, yet immediately afterward "God called to him" and said "I am the God of your father." The angel represented God so completely that Scripture attributes the words directly to God. Similarly, Judges 6:11-14 (ESV) shows the angel of the LORD appearing to Gideon, yet verse 14 says "the LORD turned to him." This Old Testament pattern shows angels could speak with such complete divine authority that the text uses God's name directly, just as we say both "the ambassador said" and "France announced."
+Genesis 18:22 (ESV) states Abraham stood before "the LORD" (YHWH), seemingly proving God's physical presence. Compare this to Exodus 3:2-6 (ESV). The text says "the angel of the LORD appeared" in the burning bush, yet immediately afterward "God called to him" and said "I am the God of your father." The angel represented God so completely that Scripture attributes the words directly to God. Similarly, Judges 6:11-14 (ESV) shows the angel of the LORD appearing to Gideon, yet verse 14 says "the LORD turned to him." This Old Testament pattern shows angels could speak with such complete divine authority that the text uses God's name directly, just as we say both "the ambassador said" and "France announced."
 
 ### "Only God knows the future — angels can't predict it"
 

@@ -4,7 +4,7 @@ keywords: "Similarities between Jesus and God, god, son, essence, as-god, simila
 ---
 
 | Attribute                      | The Father                                                       | The Son                                                | Understanding                                                                                                              |
-|--------------------------------|------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Judge sin                      | Genesis 18:25                                                    | Matthew 10:32-33, John 5:22, 1 John 2:1                | The Father is the Judge, the Son choose (judge) whom he will confess/deny (Matthew 10:32-33, 1 John 2:1) before the Father |
 | "The Life"                     | Deuteronomy 30:20                                                | John 14:6                                              | [Jesus is the means to the life of God the Father.](/god/son/essence/as-god/claims/life)                                   |
 | Can heal                       | Exodus 15:26                                                     | John 4:46-54, 5:8-9                                    | Both can heal                                                                                                              |
@@ -15,8 +15,8 @@ keywords: "Similarities between Jesus and God, god, son, essence, as-god, simila
 | Carries our burden             | Psalm 55:22                                                      | Matthew 11:30                                          | Both are able to carry our burdens                                                                                         |
 | "The King"                     | Psalm 95:3                                                       | Matthew 21:5; John 1:49; 18:37                         | [Jesus rules as the King under the authority of God the Father](/god/son/essence/as-god/lord)                              |
 | "The First and the Last"       | Isaiah 41:4, 44:6, 48:12; Revelation 1:8, 21:5-8, 22:13          | Revelation 1:17                                        | [Both are called "First and the Last"](/god/son/essence/as-god/prophecies/john-from/patmos)                                |
-| Is our saviour                 | Isaiah 43:11; 1 Timothy 1:1, 2:3, 4:10; Titus 2:10, 3:4; Jude 25 | Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23 | [Jesus would not have been able to save us if the Father did not made it possible](/god/son/essence/as-god/saviour)        | 
-| Will return to judge the world | Matthew 16:27-28; Revelation 14:1; 19:11-16; 22:1-5              | Matthew 16:27-28; Revelation 22:1-5                    | Both the Father and the Son will return to judge the world                                                                 |  
+| Is our saviour                 | Isaiah 43:11; 1 Timothy 1:1, 2:3, 4:10; Titus 2:10, 3:4; Jude 25 | Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23 | [Jesus would not have been able to save us if the Father did not made it possible](/god/son/essence/as-god/saviour)        |
+| Will return to judge the world | Matthew 16:27-28; Revelation 14:1; 19:11-16; 22:1-5              | Matthew 16:27-28; Revelation 22:1-5                    | Both the Father and the Son will return to judge the world                                                                 |
 | Can raise people for the dead  | John 5:21, Acts 2:24; Romans 4:17; Galatians 1:1                 | John 5:21                                              | [The Son can only raises people from the dead with the power of the Father](/god/son/essence/of-man/limitations)           |
 | Glorify each other             | John 8:55, 13:32, 17:1, 17:5                                     | John 17:1; Philippians 2:11                            | The Father [glorify](/bible/concepts/glory) the Son so that the Son can [glorify](/bible/concepts/glory) the Father        |
 
@@ -46,15 +46,15 @@ and
 
 The prophet Isaiah wrote:
 
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
+> I am [the LORD *(YHWH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
 > I equip you, though you do not know me, that people may know, from the rising of the sun and from the west, that **there is none besides Me**;  
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**.
+> I am [the LORD *(YHWH)*](/god/father#name), and **there is no other**.
 >
 > ...
 > 
 > For thus says the LORD, Who created the heavens (He is God!), Who formed the earth and made it (He established it; He did not create it empty, He formed it to be inhabited!):
 >
-> "I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**."
+> "I am [the LORD *(YHWH)*](/god/father#name), and **there is no other**."
 > 
 > ...
 > 
@@ -69,19 +69,19 @@ The prophet Isaiah wrote:
 > 
 > --Isaiah 45:5-6,18;46:5,8-10
 
-Many scholars will look at this prophecy and reason that Isaiah was referring to the [Godhead](/bible/concepts/godhead) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](/bible/doctrines/trinitarian). However, Isaiah believed that [YHVH](/god/father#name) (translated as "the LORD") Who was speaking is [the Father](/god/father):
+Many scholars will look at this prophecy and reason that Isaiah was referring to the [Godhead](/bible/concepts/godhead) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](/bible/doctrines/trinitarian). However, Isaiah believed that [YHWH](/god/father#name) (translated as "the LORD") Who was speaking is [the Father](/god/father):
 
-> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O [LORD *(YHVH)*](/god/father#name), are **our Father**. -- Isaiah 63:16 (ESV)
+> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O [LORD *(YHWH)*](/god/father#name), are **our Father**. -- Isaiah 63:16 (ESV)
 
-> O [LORD *(YHVH)*](/god/father#name), you are our Father. -- Isaiah 64:8 (ESV)
+> O [LORD *(YHWH)*](/god/father#name), you are our Father. -- Isaiah 64:8 (ESV)
 
-Jeremiah also believed that [YHVH](/god/father#name) is the Father:
+Jeremiah also believed that [YHWH](/god/father#name) is the Father:
 
 > “I said, 'How I would **set you among My sons**, and give you a pleasant land, a heritage most beautiful of all nations.'
 > 
 > And I thought you would call Me, **'My Father'**, and would not turn from following Me.  
 > 
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHVH)*](/god/father#name).
+> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHWH)*](/god/father#name).
 > 
 > -- Jeremiah 3:19-20 (ESV)
 

@@ -358,7 +358,7 @@ When Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that 
 
 Some Christians claim that the 3 men who appeared to Abraham in Genesis 18 are the Godhead in 3 different persons:
 
-> And the LORD ([YHVH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](trinity/abraham-3-visitors.md) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
+> And the LORD ([YHWH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](trinity/abraham-3-visitors.md) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
 
 Some argue that these [3 men](trinity/abraham-3-visitors.md) were the 3 members of [the Godhead](godhead.md) that appeared to Abraham.
 

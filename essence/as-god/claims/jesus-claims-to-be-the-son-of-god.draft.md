@@ -33,7 +33,7 @@ Jesus was not the first "son" who called God "my Father":
 >
 > And I thought you would call Me, **'My Father'**, and would not turn from following Me.
 >
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHVH)*](/god/father#name).
+> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHWH)*](/god/father#name).
 >
 > -- Jeremiah 3:19-20 (ESV)
 

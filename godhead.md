@@ -111,9 +111,9 @@ This style of writing was not limited to Moses only. In the book of Judges we re
 
 > But Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? Whoever contends for him shall be put to death by morning. If he is **a god** *([elohim](https://biblehub.com/interlinear/judges/6-31.htm)*, let him contend for himself, because his altar has been broken down.” — Judges 6:31 (ESV)
 
-> Will you not possess what Chemosh your **god** *([elohim](https://biblehub.com/interlinear/judges/11-24.htm)* gives you to possess? And all that the LORD ([YHVH](https://ofgod.info/name#yhvh))) our **God** *([elohim](https://biblehub.com/interlinear/judges/11-24.htm)* has dispossessed before us, we will possess. — Judges 11:24 (ESV)
+> Will you not possess what Chemosh your **god** *([elohim](https://biblehub.com/interlinear/judges/11-24.htm)* gives you to possess? And all that the LORD ([YHWH](https://ofgod.info/name#yhwh))) our **God** *([elohim](https://biblehub.com/interlinear/judges/11-24.htm)* has dispossessed before us, we will possess. — Judges 11:24 (ESV)
 
-The same verse uses the same word "elohim" to refer to either Chemosh or [YHVH](/god/father/name#yhvh). Likewise, in 1 Samuel 5:7 the same verse uses the same word "elohim" to refer to either Dagon or [YHVH](https://ofgod.info/name#yhvh).
+The same verse uses the same word "elohim" to refer to either Chemosh or [YHWH](/god/father/name#yhwh). Likewise, in 1 Samuel 5:7 the same verse uses the same word "elohim" to refer to either Dagon or [YHWH](https://ofgod.info/name#yhwh).
 
 > And when the men of Ashdod saw how things were, they said, “The ark of **the God** *([elohim](https://biblehub.com/interlinear/1_samuel/5-7.htm))* of Israel must not remain with us, for his hand is hard against us and against Dagon our **god** *([elohim](https://biblehub.com/interlinear/1_samuel/5-7.htm))*.” — 1 Samuel 5:7 (ESV)
 

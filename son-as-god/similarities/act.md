@@ -126,7 +126,7 @@ Paul wrote:
 >
 > for it is written,
 >
->> “As I live, says *[the LORD](/god/father/name#yhvh)*, [every knee shall bow to me, and every tongue shall confess to God.](/god/son/essence/as-god/lord#quotes-from-isaiah-45-22-23)”
+>> “As I live, says *[the LORD](/god/father/name#yhwh)*, [every knee shall bow to me, and every tongue shall confess to God.](/god/son/essence/as-god/lord#quotes-from-isaiah-45-22-23)”
 >
 > So then each of us will give an account of himself to God.
 >
@@ -140,7 +140,7 @@ There are two issues with this reasoning:
 
 ### The Lord's Name
 
-People get confused because both God Almighty's name [YHVH](https://ofgod.info/name#yhvh) is replaced with "the Lord" which happens to be what Jesus is also called in the New Testament.
+People get confused because both God Almighty's name [YHWH](https://ofgod.info/name#yhwh) is replaced with "the Lord" which happens to be what Jesus is also called in the New Testament.
 
 Paul was quoting:
 
@@ -159,7 +159,7 @@ Paul was quoting:
 >
 > — Isaiah 45:18, 22-23 (NKJV)
 
-Therefore, "God" in Romans 14:10-12 does not refer to Jesus, but instead refers to [YHVH](https://ofgod.info/name#yhvh).
+Therefore, "God" in Romans 14:10-12 does not refer to Jesus, but instead refers to [YHWH](https://ofgod.info/name#yhwh).
 
 ### Difference in Judgment
 

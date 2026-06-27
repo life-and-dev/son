@@ -56,7 +56,7 @@ Again, God is distinct from Jesus Christ. A revelation to oneself is no revelati
 
 Both Revelation 4:8 and Revelation 11:17 "Who was and is and is to come" refers to "Lord God Almighty", and also Revelation 16:5 "O Holy One, Who is and Who was" which refers to "Lord God Almighty" in Revelation 16:7. 
 
-We know from Isaiah 41:4, 44:6, 48:12 that the LORD (YHVH) is the "The First and The Last". 
+We know from Isaiah 41:4, 44:6, 48:12 that the LORD (YHWH) is the "The First and The Last". 
 
 > And he said to me, “It is done! I am the Alpha and the Omega, **the beginning and the end**. To the thirsty I will give **from** the spring of the water of life without payment. **The one who conquers** will have this heritage, and I will be his God and he will be My son.” -- Revelation 21:6-7 (ESV)
 
@@ -83,20 +83,20 @@ However, the title "the first and the last and the living one" is **not** the sa
 Possible translations between Hebrew and Greek which is then translated again to English:
 
 | Hebrew transliteration               | Greek transliteration     |
-|--------------------------------------|---------------------------|
+| ------------------------------------ | ------------------------- |
 | [Aleph-Tav](/bible/symbolism/codes)? | Alpha and Omega           |
 | The first and the last               | The first and the last    |
 | The beginning and the end            | The beginning and the end |
 | I am what I am                       | who was and who is        |
 
-Titles given to God (YHVH) in context of the rest of [the Bible](/bible):
+Titles given to God (YHWH) in context of the rest of [the Bible](/bible):
 
 | Scripture        | "Alpha and Omega" | "first and last" | "beginning and end" | "who was and is" | Why its not Jesus                                    |
-|------------------|-------------------|------------------|---------------------|------------------|------------------------------------------------------|
+| ---------------- | ----------------- | ---------------- | ------------------- | ---------------- | ---------------------------------------------------- |
 | Genesis 3:14     | -                 | -                | -                   | Yes              | ID as God of forefathers                             |
-| Isaiah 41:4      | -                 | Yes              | Only "beginning"    | -                | ID as YHVH                                           |
-| Isaiah 44:6      | -                 | Yes              | -                   | -                | ID as YHVH                                           |
-| Isaiah 48:2-3,12 | -                 | Yes              | Only "beginning"    | -                | ID as YHVH                                           |
+| Isaiah 41:4      | -                 | Yes              | Only "beginning"    | -                | ID as YHWH                                           |
+| Isaiah 44:6      | -                 | Yes              | -                   | -                | ID as YHWH                                           |
+| Isaiah 48:2-3,12 | -                 | Yes              | Only "beginning"    | -                | ID as YHWH                                           |
 | Revelation 1:8   | Yes               | -                | Yes                 | Yes              | ID as the God and Father of Jesus (Revelation 1:4,6) |
 | Revelation 4:8   | -                 | -                | -                   | Yes              | ID as Lord God Almighty                              |
 | Revelation 11:17 | -                 | -                | -                   | Yes              | ID as Lord God Almighty                              |

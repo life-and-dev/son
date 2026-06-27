@@ -42,7 +42,7 @@ After reading, Jesus declared:
 
 > “Today this Scripture is fulfilled in your hearing.” — Luke 4:17-21 (NKJV)
 
-By announcing the prophecy's fulfillment, Jesus identified himself as its subject. This raises a question: if Jesus were the "Lord God" or "YHVH" of the Old Testament, it would imply that *he sent his own spirit to himself* and *anointed himself* to preach, heal, and proclaim.
+By announcing the prophecy's fulfillment, Jesus identified himself as its subject. This raises a question: if Jesus were the "Lord God" or "YHWH" of the Old Testament, it would imply that *he sent his own spirit to himself* and *anointed himself* to preach, heal, and proclaim.
 
 ### Daniel Prophesied Jesus's Distinction
 

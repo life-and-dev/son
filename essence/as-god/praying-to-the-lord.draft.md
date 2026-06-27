@@ -122,7 +122,7 @@ Some would also argue that Paul prayed to Jesus:
 > 
 > -- 2 Corinthians 12:8-10 (ESV)
 
-In the Greek New Testament, the word "Lord" is only a form of respect. It could refer to any person with authority like a human king, Jesus or God. God's name, [YHVH](/god/father/name#yhvh), was also replaced with "the Lord". Therefore, from this scripture alone it is not possible to determine whether Paul addressed ["the LORD" (YHVH) or "the Lord" (Jesus)](/god/father/name#yhvh). In this passage Paul address Jesus as "Christ" not as "the Lord", so in [this context](/bible/interpretations/rebuttals#context) Paul more likely meant the other LORD which is YHVH.
+In the Greek New Testament, the word "Lord" is only a form of respect. It could refer to any person with authority like a human king, Jesus or God. God's name, [YHWH](/god/father/name#yhwh), was also replaced with "the Lord". Therefore, from this scripture alone it is not possible to determine whether Paul addressed ["the LORD" (YHWH) or "the Lord" (Jesus)](/god/father/name#yhwh). In this passage Paul address Jesus as "Christ" not as "the Lord", so in [this context](/bible/interpretations/rebuttals#context) Paul more likely meant the other LORD which is YHWH.
 
 # Praying in the Name of Jesus
 

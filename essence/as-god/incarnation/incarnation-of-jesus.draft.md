@@ -3,7 +3,7 @@ description: "Incarnation of Jesus — Path: god / son / essence / as-god / inca
 keywords: "Incarnation of Jesus, god, son, essence, as-god, incarnation"
 ---
 
-> “You are My witnesses,” says the [LORD](/god/name#yhvh),  
+> “You are My witnesses,” says the [LORD](/god/name#yhwh),  
 > “And My servant whom I have chosen, that you may know and believe Me, and understand that I am He.  
 > **Before Me there was no God formed, nor shall there be after Me**.
 >
@@ -11,7 +11,7 @@ keywords: "Incarnation of Jesus, god, son, essence, as-god, incarnation"
 
 and
 
-> For I am the [LORD](/god/name#yhvh), **I do not change**. -- Malachi 3:6 (NKJV)
+> For I am the [LORD](/god/name#yhwh), **I do not change**. -- Malachi 3:6 (NKJV)
 
 However, some belief that:
 

@@ -181,13 +181,13 @@ In Luke 4:17 (NKJV) we read:
 
 Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern English bibles. A more accurate quote directly from the book of Isaiah 61:1-2 itself reads:
 
-> “The Spirit of **the Lord God** is upon me, because the **LORD** (YHVH) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
+> “The Spirit of **the Lord God** is upon me, because the **LORD** (YHWH) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
 
 > Then he *(Jesus)* closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him. And He began to say to them, “Today this Scripture is fulfilled in your hearing.”  — Luke 4:17-21 (NKJV)
 
 Here Jesus announced that this prophecy had been fulfilled in their presence, meaning that Isaiah 61 was referring to Him.
 
-If Jesus were the Lord God (YHVH) of the Old Testament, He would have been sending His own spirit to Himself and anointing Himself to preach, heal, and proclaim. Instead, the passage describes one person (the LORD God) anointing and sending another (the Messiah).
+If Jesus were the Lord God (YHWH) of the Old Testament, He would have been sending His own spirit to Himself and anointing Himself to preach, heal, and proclaim. Instead, the passage describes one person (the LORD God) anointing and sending another (the Messiah).
 
 #### The Holy Spirit Cannot Be Taught
 
@@ -247,7 +247,7 @@ Jesus states here that the Holy Spirit is another Helper and not Himself.
 
 > Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put **My Spirit upon him**; he will bring forth justice to the nations — Isaiah 42:1 (ESV)
 
-> I will mention the lovingkindnesses of ***the LORD*** *([YHVH](https://ofgod.info/name#YHVH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
+> I will mention the lovingkindnesses of ***the LORD*** *([YHWH](https://ofgod.info/name#YHWH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
 > 
 > For He said, “Surely they are My people, Children who will not lie.”
 > 
@@ -262,11 +262,11 @@ Jesus states here that the Holy Spirit is another Helper and not Himself.
 > “Where is **He who brought them up out of the sea** with the shepherd of His flock?
 > Where is **He who put His Holy Spirit** within them, **Who led them** by the right hand of Moses, with His glorious arm, **dividing the water before them** to make for Himself an everlasting name, **Who led them through the deep**, as a horse in the wilderness, that they might not stumble?”
 > 
-> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHVH](https://ofgod.info/name#YHVH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
+> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](https://ofgod.info/name#YHWH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
 > 
 >  — Isaiah 63:7-14 (NKJV)
 
-Here Isaiah states that the LORD (YHVH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea, which implies that the Holy Spirit is the aspect of the LORD that interacts with His creation.
+Here Isaiah states that the LORD (YHWH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea, which implies that the Holy Spirit is the aspect of the LORD that interacts with His creation.
 
 ##### By Paul
 
@@ -284,7 +284,7 @@ Jesus said:
 
 Jesus may have been referring to scriptures like Psalm 118:
 
-> Oh, give thanks to the LORD *([YHVH](https://ofgod.info/name))*, for He is good! For His mercy endures forever. — Psalm 118:1 (NKJV)
+> Oh, give thanks to the LORD *([YHWH](https://ofgod.info/name))*, for He is good! For His mercy endures forever. — Psalm 118:1 (NKJV)
 
 However, King David also wrote:
 
@@ -364,7 +364,7 @@ If the Holy Spirit were anyone or anything else, then Jesus' father would not be
 
 > The Holy Spirit was right in saying to your fathers through Isaiah the prophet: “Go to this people, and say, ‘You will indeed hear but never understand, and you will indeed see but never perceive.’ For this people's heart has grown dull...” — Acts 28:25-27 (ESV)
 
-This New Testament passage quotes Isaiah 6:8-10, where the speaker is explicitly identified as the LORD (YHVH) of hosts.
+This New Testament passage quotes Isaiah 6:8-10, where the speaker is explicitly identified as the LORD (YHWH) of hosts.
 
 ### Only a Person's Spirit Knows Their Own Thoughts
 
@@ -392,7 +392,7 @@ and
 > 
 >  — John 14:16,26 (KJV)
 
-### Paul Implies That the LORD (YHVH) Is the Spirit
+### Paul Implies That the LORD (YHWH) Is the Spirit
 
 > Yes, to this day whenever Moses is read a veil lies over their hearts. But when one turns to the LORD (Deuteronomy 30:10; Psalm 22:27), the veil is removed.
 >

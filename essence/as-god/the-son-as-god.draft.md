@@ -58,7 +58,7 @@ In addition, to proof that Jesus is God, some also belief:
 * [Jesus made the world](creation)
 * [Jesus is God who reincarnated](incarnation)
 
-But [the Bible](/bible) also clearly distinct [YHVH (the LORD), the Almighty God and Father](/god/father) from Jesus and other gods. Only the following attributes could be assigned to [God the Father](/god/father) which [disqualifies Jesus](../of-god) as the one and only Almighty God:
+But [the Bible](/bible) also clearly distinct [YHWH (the LORD), the Almighty God and Father](/god/father) from Jesus and other gods. Only the following attributes could be assigned to [God the Father](/god/father) which [disqualifies Jesus](../of-god) as the one and only Almighty God:
 
 * [There can only be one God](/bible/concepts/shema) (Deuteronomy 6:4; 2 Samuel 7:22; Mark 12:29; Ephesians 4:6)
 * [God would refer to Himself as God](../of-god/not-god) (Luke 4:17-20; Isaiah 61:1-2)

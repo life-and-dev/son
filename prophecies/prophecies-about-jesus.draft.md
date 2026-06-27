@@ -53,10 +53,10 @@ The following table contains a summary of known prophecies about the Christ whic
 
 Prophecies that are misunderstood or confused with Jesus.
 
-| Scripture       | Assumption                                          | Negation     | Truth                                                |
-| --------------- | --------------------------------------------------- | ------------ | ---------------------------------------------------- |
-| Jeremiah 23:5-6 | Jesus will save Judah and make Israel dwell safely. | -            | This never happened. Perhaps a future event?         |
-| Hosea 11:1      | Jesus would be released from Egypt.                 |              | Israel is mistaken for Jesus.                        |
+| Scripture       | Assumption                                          | Negation | Truth                                        |
+| --------------- | --------------------------------------------------- | -------- | -------------------------------------------- |
+| Jeremiah 23:5-6 | Jesus will save Judah and make Israel dwell safely. | -        | This never happened. Perhaps a future event? |
+| Hosea 11:1      | Jesus would be released from Egypt.                 |          | Israel is mistaken for Jesus.                |
 
 # Prophecy in Genesis
 
@@ -125,7 +125,7 @@ Jesus warned the Jews:
 
 And Moses wrote:
 
-> “[The LORD](/god/father/name#yhvh) your God will raise up for you **a Prophet like me** from your midst, from your brethren. Him you shall hear, according to all you desired of the LORD your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, nor let me see this great fire anymore, lest I die.’
+> “[The LORD](/god/father/name#yhwh) your God will raise up for you **a Prophet like me** from your midst, from your brethren. Him you shall hear, according to all you desired of the LORD your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, nor let me see this great fire anymore, lest I die.’
 >
 > “And the LORD said to me: What they have spoken is good. I will raise up for them **a prophet like you [from among their brethren](/god/son/essence/of-man)**, and will [put My words in his mouth](/bible/concepts/angel), and he shall speak to them all that [I command him](/god/son/essence/not-god/serve-god). And it shall be that whoever will not hear My words, which he speaks in My [name](/bible/concepts/name), I will require it of him.
 >
@@ -151,7 +151,7 @@ The Israelites expected the Christ to be an Israeli prophet like Moses. This was
 >
 > -- Acts 13:16, 32-33 (ESV)
 
-The prophecy is about the LORD ([YHVH](/god/father/name)) warning the kings about [His Son](/god/son/essence).
+The prophecy is about the LORD ([YHWH](/god/father/name)) warning the kings about [His Son](/god/son/essence).
 
 > Why do the nations rage and the peoples plot in vain?
 > 
@@ -234,14 +234,14 @@ Peter quoted David's "Miktam":
 > Jesus asked them a question, saying, “What do you think about the Christ? Whose son is he?”  
 > They said to him, “The son of David.”  
 > He said to them, “How is it then that David, in the Spirit, calls him Lord, saying,  
->> ‘The LORD ([YHVH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’?  
+>> ‘The LORD ([YHWH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’?  
 > If then David calls him Lord, how is he his son?”  
 >
 > And no one was able to answer him a word, nor from that day did anyone dare to ask him any more questions.
 >
 > -- Matthew 22:41-46 (ESV); Mark 12:35–37; Luke 20:40–44
 
-Jesus quoted Psalm 110 which implies that the LORD ([YHVH](/god/father/name)) was prophesying about him in that Psalm:
+Jesus quoted Psalm 110 which implies that the LORD ([YHWH](/god/father/name)) was prophesying about him in that Psalm:
 
 > The LORD says to my Lord:
 > 
@@ -354,7 +354,7 @@ Which Matthew confirms:
 
 > Because you have said, “We have made a covenant with death, and with Sheol we have an agreement, when the overwhelming whip passes through it will not come to us, for we have made lies our refuge, and in falsehood we have taken shelter”;
 >
-> Therefore thus says the Lord [GOD](/god/father/name#yhvh):
+> Therefore thus says the Lord [GOD](/god/father/name#yhwh):
 > 
 > "Behold, I am [the One](/bible/concepts/shema) Who has laid as **a foundation in Zion,
 a stone, a tested stone, a precious cornerstone, of a sure foundation**:

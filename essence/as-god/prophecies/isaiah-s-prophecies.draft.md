@@ -141,11 +141,11 @@ Then Isaiah mentions another child in contrast to Isaiah 8:3-4 who will propheti
 
 "us" in this context is not the modern Christians, but the Israelites in Isaiah's lifetime.
 
-Just as the first child (Maher-shalal-hash-baz) was not the cause of the judgement or the one who will bring the judgement, there is nothing in Isaiah that implies that the second child (Pele-joez-el-gibbor-Abi-ad-sar-shalom) will cause of the restoration or will be the one who does the restoration. All bible translators agree that the second child will be "called" all these wonderful titles that brings hope and peace. In other words, both the judgement and restoration cases are actions of the LORD ([YHVH](/god/father/name#yhvh)) God and in both cases these children were prophetic names or signs of what God will be doing.
+Just as the first child (Maher-shalal-hash-baz) was not the cause of the judgement or the one who will bring the judgement, there is nothing in Isaiah that implies that the second child (Pele-joez-el-gibbor-Abi-ad-sar-shalom) will cause of the restoration or will be the one who does the restoration. All bible translators agree that the second child will be "called" all these wonderful titles that brings hope and peace. In other words, both the judgement and restoration cases are actions of the LORD ([YHWH](/god/father/name#yhwh)) God and in both cases these children were prophetic names or signs of what God will be doing.
 
 ## Who calls who?
 
-> The phrase “he will call” is the translation of a third-person masculine singular verb in the Masoretic Hebrew text and the Qumran texts of Isaiah. The Septuagint has the verb in the passive voice, “he will be called.” However, since we have multiple witnesses in the Hebrew text of the reading of Isaiah, there is no reason to assume the Greek translation is correct. The most logical choice for who would name the child was [Yahweh, his Father](/god/father/name#yhvh). Young’s Literal [Translation](/bible/translations) has the verb in the active voice. Yahweh sent Gabriel to tell Joseph what to name the child in Matthew and Luke. Also, only God, the Father, could name His Son the names in Isaiah 9:6. -- [Spirit & Truth Fellowship International](https://www.revisedenglishversion.com/comm/Isa/9/6) 
+> The phrase “he will call” is the translation of a third-person masculine singular verb in the Masoretic Hebrew text and the Qumran texts of Isaiah. The Septuagint has the verb in the passive voice, “he will be called.” However, since we have multiple witnesses in the Hebrew text of the reading of Isaiah, there is no reason to assume the Greek translation is correct. The most logical choice for who would name the child was [Yahweh, his Father](/god/father/name#yhwh). Young’s Literal [Translation](/bible/translations) has the verb in the active voice. Yahweh sent Gabriel to tell Joseph what to name the child in Matthew and Luke. Also, only God, the Father, could name His Son the names in Isaiah 9:6. -- [Spirit & Truth Fellowship International](https://www.revisedenglishversion.com/comm/Isa/9/6) 
 
 ## Correlation with Jesus
 
@@ -219,7 +219,7 @@ When scholars mix up these 2 statements it is easy to come to false conclusions 
 
 It was prophesied:
 
-> All your sons will be taught of [Yahweh](/god/father/name#yhvh); And the peace of your sons will be great. -- Isaiah 54:13 (LSB)
+> All your sons will be taught of [Yahweh](/god/father/name#yhwh); And the peace of your sons will be great. -- Isaiah 54:13 (LSB)
 
 Then Jesus came and quote Isaiah:
 

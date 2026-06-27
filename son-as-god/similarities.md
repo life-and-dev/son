@@ -58,15 +58,15 @@ and
 
 The prophet Isaiah emphasized the uniqueness of God:
 
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
+> I am [the LORD *(YHWH)*](/god/father#name), and **there is no other, besides Me there is no God**;  
 > I equip you, though you do not know me, that people may know, from the rising of the sun and from the west, that **there is none besides Me**;  
-> I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**.
+> I am [the LORD *(YHWH)*](/god/father#name), and **there is no other**.
 >
 > ...
 > 
 > For thus says the LORD, Who created the heavens (He is God!), Who formed the earth and made it (He established it; He did not create it empty, He formed it to be inhabited!):
 >
-> "I am [the LORD *(YHVH)*](/god/father#name), and **there is no other**."
+> "I am [the LORD *(YHWH)*](/god/father#name), and **there is no other**."
 > 
 > ...
 > 
@@ -81,19 +81,19 @@ The prophet Isaiah emphasized the uniqueness of God:
 > 
 > — Isaiah 45:5-6,18;46:5,8-10
 
-Many scholars will look at this prophecy and reason that Isaiah was referring to the Godhead and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](../trinity.md). However, Isaiah believed that YHVH (translated as "the LORD") Who was speaking is [the Father](https://ofgod.info):
+Many scholars will look at this prophecy and reason that Isaiah was referring to the Godhead and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](../trinity.md). However, Isaiah believed that YHWH (translated as "the LORD") Who was speaking is [the Father](https://ofgod.info):
 
-> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O LORD *(YHVH)*, are **our Father**. — Isaiah 63:16 (ESV)
+> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O LORD *(YHWH)*, are **our Father**. — Isaiah 63:16 (ESV)
 
-> O LORD *(YHVH)*, you are our Father. — Isaiah 64:8 (ESV)
+> O LORD *(YHWH)*, you are our Father. — Isaiah 64:8 (ESV)
 
-Jeremiah also believed that YHVH is the Father:
+Jeremiah also believed that YHWH is the Father:
 
 > “I said, 'How I would **set you among My sons**, and give you a pleasant land, a heritage most beautiful of all nations.'
 > 
 > And I thought you would call Me, **'My Father'**, and would not turn from following Me.  
 > 
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares the LORD *(YHVH)*.
+> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares the LORD *(YHWH)*.
 > 
 > — Jeremiah 3:19-20 (ESV)
 

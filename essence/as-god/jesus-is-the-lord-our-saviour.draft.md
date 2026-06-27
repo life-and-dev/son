@@ -3,9 +3,9 @@ description: "Jesus' is the Lord our Saviour — Path: god / son / essence / as-
 keywords: "Jesus' is the Lord our Saviour, god, son, essence, as-god, saviour"
 ---
 
-> I, I am the LORD *([YHVH](/god/father/name#yhvh))*, and **besides me there is no savior**. -- Isaiah 43:11 (ESV)
+> I, I am the LORD *([YHWH](/god/father/name#yhwh))*, and **besides me there is no savior**. -- Isaiah 43:11 (ESV)
 
-And Jesus is "the Lord our Saviour" (Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23; Titus 1:4), therefore some argue, this proof Jesus is the Almighty God, [YHVH](/god/father/name#yhvh).
+And Jesus is "the Lord our Saviour" (Philippians 3:20; 2 Peter 1:11, 2:20, 3:18; Acts 13:23; Titus 1:4), therefore some argue, this proof Jesus is the Almighty God, [YHWH](/god/father/name#yhwh).
 
 However, Isaiah specifically refers to the instance where only the LORD was able to save Israel from Egypt (Exodus 14:21):
 

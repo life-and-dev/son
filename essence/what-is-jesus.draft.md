@@ -5,11 +5,11 @@ keywords: "What is Jesus?, god, son, essence"
 
 Isaiah prophesied:
 
-> “Thus says the LORD ([YHVH](/god/father/name#yhvh)), the King of Israel, and his Redeemer, [the LORD of hosts](/god/father): ‘**I** am the First and **I** am the Last; **Besides Me there is no God**. -- Isaiah 44:6 (NKJV)
+> “Thus says the LORD ([YHWH](/god/father/name#yhwh)), the King of Israel, and his Redeemer, [the LORD of hosts](/god/father): ‘**I** am the First and **I** am the Last; **Besides Me there is no God**. -- Isaiah 44:6 (NKJV)
 
 Note that a singular God "I am" is speaking. He did not say "we, [the Godhead](/bible/concepts/godhead), are...".
 
-Being the LORD ([YHVH](/god/father/name#yhvh)) is significant because He is:
+Being the LORD ([YHWH](/god/father/name#yhwh)) is significant because He is:
 * the Creator of our world (Genesis 2:4-9)
 * the most high God (Psalm 83:18)
 * the God that should be [worshipped](/bible/concepts/worship) (Psalm 118:27)
@@ -28,7 +28,7 @@ Being [the LORD of hosts](/god/father) is significant because He is:
 Jesus cannot be God together with another God, because [Polytheism](https://en.wikipedia.org/wiki/Polytheism) is forbidden for the Israelites who were commanded to worship only [one God](/bible/concepts/shema).
 
 This means: 
-* either Jesus **is** [YHVH](/god/father/name#yhvh), the Creator, the all-knowing, most high, eternal God who should be worshipped, or
+* either Jesus **is** [YHWH](/god/father/name#yhwh), the Creator, the all-knowing, most high, eternal God who should be worshipped, or
 * Jesus **is not** God
 
 Therefore, it is very important that we correctly understand who Jesus was so that we can worship God correctly.
@@ -67,7 +67,7 @@ Those who belief Jesus is not God come up with:
 
 and
 
-> “You are My witnesses,” says the [LORD](/god/name#yhvh),  
+> “You are My witnesses,” says the [LORD](/god/name#yhwh),  
 > “And My servant whom I have chosen, that you may know and believe Me, and understand that I am He.  
 > **Before Me there was no God formed, nor shall there be after Me**.
 >
@@ -75,7 +75,7 @@ and
 
 and
 
-> For I am the [LORD](/god/name#yhvh), **I do not change**. -- Malachi 3:6 (NKJV)
+> For I am the [LORD](/god/name#yhwh), **I do not change**. -- Malachi 3:6 (NKJV)
 
 These scriptures:
 * challenge Binitarianism because there was on previous god, nor any god after God
@@ -231,7 +231,7 @@ Jesus clear this confusion up by explaining his and our relationships with God i
 To summarize this prayer:
 
 | The Father                                                               | The Son                                                                        | Believers                                                                 |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Glorifies the Son                                                        | Glorifies the Father                                                           | Glorifies the Son                                                         |
 | Gives all authority to the Son                                           | Son uses authority to give eternal life to believers                           | May ask things in the authority of the Son                                |
 | Sent the Son                                                             | Sent by the Father                                                             | Sent by Jesus (John 20:21)                                                |
@@ -242,7 +242,7 @@ To summarize this prayer:
 | Omnipresent                                                              | Not in the world                                                               | Still in the world                                                        |
 | Keep (guard) believers under the Son's name (authority) in Jesus absence | Guard believers under the Son's name (authority) while Jesus was on earth      | Guarded by the Father                                                     |
 | Is One with the Son                                                      | Is One with the Father                                                         | Believers are one                                                         |
-| Sent the Son                                                             | Return to the Father                                                           | Believers may have joy                                                    | 
+| Sent the Son                                                             | Return to the Father                                                           | Believers may have joy                                                    |
 | Protect believers in the world against the evil one                      | Not of this world, therefore hated by the world                                | Not of this world, but protected by the Father against evil one           |
 | Sanctify believers in the truth (word)                                   | Consecrate himself for current and future believers                            | Should believe, repent and be baptized in the name (authority) of the Son |
 | Is in the Son                                                            | Is in the Father                                                               | Is in the Father and the Son; The Son is in believers                     |
