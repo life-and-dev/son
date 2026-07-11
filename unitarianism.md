@@ -35,7 +35,7 @@ Both fellowships describe the Spirit as God's own power or presence, not another
 
 **Critique**
 
-Critics argue that the Holy Spirit is a distinct, co-equal person in the Godhead, citingActs 5:3-4 (lying to the Holy Spirit is lying to God) and John 14:16,26 (referring to the Spirit as a masculine "Comforter" who teaches, speaks, and guides).
+Critics argue that the Holy Spirit is a distinct, co-equal person in the Godhead, citing Acts 5:3-4 (lying to the Holy Spirit is lying to God) and John 14:16,26 (referring to the Spirit as a masculine "Comforter" who teaches, speaks, and guides).
 
 **Defense**
 
