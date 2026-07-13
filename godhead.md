@@ -3,7 +3,7 @@ description: The concept of the Godhead in Christianity - the original Greek tra
 keywords: godhead,godhood,trinity,triune god,echad,elohim,pronouns
 ---
 
-# Godhead
+# The Godhead
 
 The term "Godhead" is an archaic English word synonymous with **"Godhood,"** which literally means the "state or quality of being God." Linguistically, these two words are etymological [doublets](https://www.etymonline.com/word/Godhead) sharing the same Middle English root.
 
