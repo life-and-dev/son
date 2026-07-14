@@ -3,7 +3,7 @@ description: An exploration of the term "God" as applied to Jesus, analyzing its
 keywords: Son of God, deity of Christ, Trinity, biblical terminology, monotheism, Christology, John 1:1, John 20:28, Elohim, Theos
 ---
 
-# The Son as God
+# The Son As God
 
 The question of whether Jesus should be called "God" has been a central and often contentious issue throughout Christian history. Centuries of theological debate, from the Arian controversy of the fourth century to the present day, have centered on how to define the nature of the Son in relation to the Father. This article explores the complexities of this issue by examining the biblical and historical use of the term "God."
 

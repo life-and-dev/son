@@ -1,18 +1,8 @@
-# The Sons of God
+# The Sons Of God
 
 [Christ](https://kingdom.ofgod.info/christ) is God's "only begotten" Son (John 3:16 (NKJV), John 3:18 (NKJV), 1 John 4:9(NKJV)).
 
 Note that some Bible translations like the ESV omits the word "begotten" and render only "God's only son". However, Jesus is not God's "only son", because the following people were also called "God's sons":
-
-- [The Sons of God](#the-sons-of-god)
-  - ["Angelic" beings](#angelic-beings)
-  - [Adam](#adam)
-  - [Israel](#israel)
-  - [King David](#king-david)
-  - [Adopted Children of God](#adopted-children-of-god)
-  - [Babylonian Deities](#babylonian-deities)
-  - [Christ](#christ)
-  - [Conclusion](#conclusion)
 
 ## "Angelic" beings
 
@@ -64,7 +54,7 @@ There is also the controversial verse in the "Song of Moses":
 Some claim this is [incorrectly translated](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1278&context=lts_fac_pubs):
 
 | Source                                | Translation                                                          |
-|---------------------------------------|----------------------------------------------------------------------|
+| ------------------------------------- | -------------------------------------------------------------------- |
 | Masoretic Text, Symmachus, Theodotion | sons of Israel                                                       |
 | Septuagint                            | angles of God / sons of Israel / sons of God (depending on revision) |
 | Dead Sea Scrolls                      | sons of God                                                          |

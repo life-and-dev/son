@@ -1,4 +1,4 @@
-# The Name of Jesus (Yeshua)
+# The Name Of Jesus (Yeshua)
 
 The English form "Jesus" reflects a chain of translations. In [Hebrew and Aramaic, the languages spoken in first-century Judea, the name was **Yeshua** (יֵשׁוּעַ)](https://en.wikipedia.org/wiki/Yeshua).
 
