@@ -39,6 +39,8 @@ Most modern scholars, including those in the [*International Standard Bible Ency
 
 Because there are so few verses about "Godhead", scholars and theologians have historically proposed different interpretations of [what the divine nature truly is](nature.md).
 
+Although, the English word "Godhead" is found in the King James Version (KJV) of the Bible, most other popular [translations](https://word.ofgod.info/translations) does not include that word like the ESV, NIV, NAS, AMP, LSB, NLT, NRSV, CSB, NET, REV and even the NKJV.
+
 The word "Godhead" is translated from different Greek words:
 
 ### Theios
@@ -85,7 +87,7 @@ However, this word is missing in the New King James Version (NKJV) from the same
 
 ## The "Unified" God
 
-Biblical Unitarians often argue that [there is only one God](shema.md). 
+Biblical Unitarians often argue that [there is only one God](shema.md).
 
 However, [Trinitarians](trinity.md) argue that "God is one" actually means "God is unified". This interpretation proposes that God is a unification of three united members.
 
@@ -259,7 +261,7 @@ For example:
 Based on Greek translations of these two verses it would mean:
 
 * The Spirit of truth (The Helper): the Spirit of truth is an "extension" of the Father that **flows out/spreads abroad** to the world (John 15:26 NKJV)
-* The Son: 
+* The Son:
   * Jesus was **coming from** God as a separate individual leaving God behind (John 16:27 NKJV), or
   * Jesus' coming was **proclaimed (prophesied)** by God
 

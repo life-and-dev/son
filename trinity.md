@@ -235,25 +235,11 @@ To consolidate these points the church attempted:
 - To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
 - To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
 
-To solve this problem, Trinitarians had to change the definition of the word 'one': "It’s not one person, it’s one substance shared by three persons".
+To solve this problem, Trinitarians had to [change the definition of the word 'one'](godhead.md#the-unified-god): "It’s not one person, it’s one substance shared by three persons".
 
-Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a complex deep spiritual mystery.
-
-Therefore they will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that we must trust "the mysteries of God".
+Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore they will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that we must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
 Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **you cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside our space and time with **your finite brain**.
-
-### The Godhead
-
-Also known as ["Godhood"](godhead.md).
-
-The term "Godhead" is an archaic English word synonymous with **"Godhood,"** which literally means the "state or quality of being God." Linguistically, these two words are etymological [doublets](https://www.etymonline.com/word/Godhead) sharing the same Middle English root.
-
-By the 14th century, [John Wycliffe](https://en.wikipedia.org/wiki/John_Wycliffe) [introduced the word "Godhead"](https://bibleresources.info/the-word-godhead/) to the English Bible to translate the Latin word "divinitas" (divinity) within the text.
-
-In its earliest Biblical sense, the word was used simply to refer to the **divine nature** of the Creator—defining *what* God is rather than *how many* persons He is. However, because there are only three instances of the word in the New Testament, its exact meaning became a subject of historical debate, leading to [various interpretations of the divine nature](nature.md).
-
- Over time, the meaning of Godhead has changed to mean a collection of three co-equal persons. Today, modern dictionaries and ministries often treat the terms "Godhead" and "Trinity" almost interchangeably.
 
 ## Witnesses
 
@@ -325,46 +311,23 @@ According to Paul, **the Father and the Son are not equal** in power and authori
 2. The Son is God (according to the Trinitarians [by a variety of reasons](son-as-god.md))
 3. The Holy Spirit is God (implied by Peter in Acts 5:3-4)
 
-However, Christians practise [Monotheism](#monotheism), which means there can only be 1 God. The purpose of the Trinity theology is to solve this paradox.
+However, Christians practise [Monotheism](#monotheism), which means there can only be 1 God. The purpose of the Trinity theology or ["Godhead"](godhead.md) is to solve this paradox.
 
-### "Elohim" is plural
+### The Godhead
 
-In general, the Hebrew word "Elohim" means gods in the plural. This led some to believe that the plural God refers to the members of [the Godhead](godhead.md).
+The term "Godhead" in the KJV is often quoted to proof the presence of the Trinity in the bible.
 
-However, in the Bible, the word "Elohim" could also [technically be considered a singular God](godhead.md#the-plural-god) for example:
-* Moses was considered "elohim" (Exodus 7:1)
-* A single idol was considered "elohim" (Exodus 22:20)
-* Baal was considered "elohim" (Judges 6:31)
-* Chemosh was considered "elohim" (Judges 11:24)
-* Dagon was considered "elohim" (1 Samuel 5:7)
+Although, the English word "Godhead" is found in the King James Version (KJV) of the Bible, most other popular [translations](https://word.ofgod.info/translations) does not include that word like the ESV, NIV, NAS, AMP, LSB, NLT, NRSV, CSB, NET, REV and even the NKJV.
 
-Bible-Truth-Files explain this very well in [this YouTube](https://youtu.be/Mb9aE6PAHDE?si=kNmLhw_-zNvbOJks).
+[The Godhead article](godhead.md) explore in more depth the evidence for and against the use of the word "Godhead".
 
-According to [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/why-bu), there are over 20,000 singular pronouns, like "I", "My", and "He" which refers to God. If God was a collection of different members, then these pronouns would not make sense.
+### Attemps To Proof the Trinity
 
-### God does godly things in partnership
-
-Often God partners with someone and uses the words "us" or "our" to do divine things. For example, Genesis 1:26; 3:22; 11:7.
-
-Unfortunately the scripture does not name God's partner(s) directly, which led Trinitarians to believe that God was referring to the members of [the Godhead](godhead.md). However, this is purely an assumption because [the LORD of hosts](https://ofgod.info) could also be [partnering with His angels ("hosts") or Cherubim](godhead.md#god-doing-divine-things-in-partnership), [mankind](godhead.md#people-make-people), and prophets (Isaiah 6:8, 48:16).
-
-### God is "unified"
-
-Trinitarians argue that "God is one" actually means ["God is unified"](godhead.md#god-is-unified) which is supposed to mean "God is made up of 3 united members". However, the same Hebrew and Greek words for "one" could also mean "only", "alone", "single" or even "united" depending on the context or interpretation.
-
-When Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that his understanding of "one" means "no other but Him" instead of "unified." Jesus did not correct him, but instead applauded him.
-
-### The 3 men that appeared to Abraham
-
-Some Christians claim that the 3 men who appeared to Abraham in Genesis 18 are the Godhead in 3 different persons:
-
-> And the LORD ([YHWH](https://ofgod.info/name)) appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, [three men](trinity/abraham-3-visitors.md) were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant." — Genesis 18:1-3 (ESV)
-
-Some argue that these [3 men](trinity/abraham-3-visitors.md) were the 3 members of [the Godhead](godhead.md) that appeared to Abraham.
-
-Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](https://eternal.family.net.za/bible/concepts/angel) to Abraham. Abraham was speaking to the LORD through the angel.
-
-Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
+* Trinitarians argue that "God is one" actually means ["God is unified"](godhead.md#god-is-unified) which is supposed to mean "God is made up of 3 united members". However, the same Hebrew and Greek words for "one" could also mean "only", "alone", "single" or even "united" depending on the context or interpretation. When Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that his understanding of "one" means "no other but Him" instead of "unified." Jesus did not correct him, but instead applauded him.
+* Trinitarians argue [God is plural](godhead.md#the-plural-god). In general, the Hebrew word "Elohim" means gods in the plural. However, in the Bible, the word "Elohim" could also [technically be considered a singular God](godhead.md#the-plural-god) for example: Moses (Exodus 7:1), a single idol (Exodus 22:20), Baal (Judges 6:31), Chemosh (Judges 11:24) and Dagon (1 Samuel 5:7) was also referred as "elohim".
+* Trinitarians argue that [plural pronounce often refer to God](godhead.md#singular-pronouns). According to [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/why-bu), there are over 20,000 singular pronouns, like "I", "My", and "He" which refers to God. If God was a collection of different members, then these pronouns would not make sense.
+* Trinitarians argue that [multiple "members" create man](godhead.md#god-created-in-partnership) (Genesis 1:26; 3:22; 11:7). This is purely an assumption because [the LORD of hosts](https://ofgod.info) often [partner with His angels ("hosts") or Cherubim](godhead.md#god-doing-divine-things-in-partnership), [mankind](godhead.md#people-make-people), and prophets (Isaiah 6:8, 48:16).
+* Trinitarians argue that [the Trinity appeared to Abraham](trinity/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](https://eternal.family.net.za/bible/concepts/angel) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
 
 ### Biased bible translations
 
