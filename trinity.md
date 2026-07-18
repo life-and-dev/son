@@ -337,7 +337,7 @@ Often modern Bible translators defend the Trinitarian doctrine with biased trans
 * [John 1:18](/son-as-god/john-1-18.md)
 * [1 John 5:7-8](trinity/3-witnesses.md)
 
-### Paul's blessing
+### Paul's Closing
 
 > 1. The grace of the Lord Jesus Christ and
 > 2. the love of God and
@@ -345,9 +345,17 @@ Often modern Bible translators defend the Trinitarian doctrine with biased trans
 >
 > be with you all.
 >
-> -- 2 Corinthians 13:14 (ESV)
+> — 2 Corinthians 13:14 (ESV)
 
-This verse does not list the Trinity members. Instead, Paul concludes with the 3 main topics of his letter and blesses his readers with the information thereof.
+This verse does not list the Trinity members. Instead, Paul concludes with the 3 main topics of his letter and blesses his readers with the information thereof. The structure of the letter itself supports that reading, because each of these themes is developed throughout 2 Corinthians:
+
+- Grace of the Lord Jesus Christ: 2 Corinthians 1:12; 4:15; 8:9; 12:9; 13:13-14.
+- Love of God: 2 Corinthians 2:4; 5:14-15; 6:6; 8:7-9; 13:11.
+- Fellowship of the Holy Spirit: 2 Corinthians 1:21-22; 3:3-6; 6:6; 8:4; 9:13; 13:13.
+
+In other words, Paul’s closing sounds less like a formal Trinitarian formula and more like a summary blessing that gathers together the major themes of the letter.
+
+Paul explicitly applies the title "God" (ho theos) to only one entity in the list, separating Him entirely from the Lord Jesus and the Holy Spirit. If Paul intended to show that all three were distinct persons within a single God, applying the word "God" to only the Father would logically exclude the other two. Rather than outlining a metaphysical Trinity, Paul is highlighting three distinct spiritual dynamics the believers desperately needed for unity.
 
 ### God is Love Argument
 
@@ -453,7 +461,7 @@ However, in the context of 1 Peter:1, "the Spirit" is complementing the "blood",
 > * for obedience to **Jesus Christ** and for sprinkling with ***his blood***:
 >   May grace and peace be multiplied to you.
 >
-> -- 1 Peter 1:1-2 (ESV)
+> — 1 Peter 1:1-2 (ESV)
 
 If the Spirit is proven to be "God" by this greeting, then the "blood" should also be a "god" making the Trinity 4 members not 3.
 
