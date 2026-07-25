@@ -5,13 +5,13 @@ keywords: Shema, Trinity, oneness of God, Deuteronomy 6:4, echad, monotheism, on
 
 # The Shema
 
-As a non-Jewish Christian, I struggled with a fundamental question: How can the Trinity be one? I was taught that God is three persons in one being. The Father is God, the Son is God, and [the Holy Spirit is God](/trinity/holy-spirit.md). Yet we proclaim there is only one God. This seemed contradictory. If three distinct persons are each fully God, how can we honestly say God is one? I needed to understand what Scripture actually teaches about the oneness of God.
+As a non-Jewish Christian, I struggled with a fundamental question: [How can the Trinity be one?](godhead.md) [I was taught that God is three persons](trinity.md) in one [Godhead](godhead.md). The Father is God, [the Son is God](son-as-god.md), and [the Holy Spirit is God](trinity/holy-spirit.md).
 
-The answer began with a prayer that every faithful Jew has recited for thousands of years.
+Yet we proclaim there is [only one God](unitarianism.md). This seemed contradictory. If three distinct persons are each fully God, how can we honestly say God is one? I needed to understand what Scripture actually teaches about the oneness of God.
+
+I found the answer began with a prayer that every faithful Jew has recited for thousands of years, called "The Shema".
 
 ## What the Shema Teaches
-
-The Shema is a Jewish prayer that teaches:
 
 > "Hear, O Israel: The [LORD](https://ofgod.info/name) our [God](https://eternal.family.net.za/god), the [LORD](https://ofgod.info/name) is **one**!" — Deuteronomy 6:4 (NKJV), Mark 12:29
 
