@@ -9,7 +9,7 @@ I grew up hearing people say "Jesus is God." But when I read the Bible, I notice
 
 ## What Does "Son of God" Mean?
 
-Throughout Scripture, "Son **of** God" consistently refers to Jesus' **relationship with the Father** and His **legal position** as the worthy heir appointed to rule. This is a Father-Son relationship involving:
+Throughout Scripture, when Jesus is called "the Son **of** God", it consistently refers to Jesus' **relationship with [the Father](https://ofgod.info)** and His **legal position** as the worthy heir appointed to rule. This is a Father-Son relationship involving:
 
 * **[Distinct identity](#gods-own-declaration)** — The Son is a separate person from the Father
 * **[Begotten](#translation-of-only-begotten-son)** — The Father has a special relationship with him as His beloved Son
@@ -26,28 +26,25 @@ The most powerful witness to Jesus' identity didn't come from human theology or 
 >
 > ***"This is My beloved Son***, with whom I am well pleased."***
 >
-> — Matthew 3:16-17 (ESV); Mark 1:9-11; Luke 3:21; John 1:51
+> — Matthew 3:16-17 (ESV); Mark 1:9-11; Luke 3:21; John 1:32–34
 
 At Jesus' transfiguration, God repeated this declaration in the presence of Peter, James, and John:
 
 > And a cloud overshadowed them, and a voice came out of the cloud, ***"This is my beloved Son; listen to him."*** — Mark 9:7 (ESV)
 
-Peter later testified as an eyewitness to this event:
-
-> For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but **we were eyewitnesses** of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, ***"This is my beloved Son, with whom I am well pleased***," **we ourselves heard this very voice borne from heaven**, for **we were with him** on the holy mountain. —2 Peter 1:16-18 (ESV)
-
-### What God's Declaration Reveals
-
-Notice what God said: "**This is My beloved Son**" — not "This is Me in human form" or "This is another member of the Godhead."
-
-The people present heard **another voice from heaven** while Jesus stood before them. This demonstrates two distinct persons: the Father in heaven and the Son on earth. If the Father and Son are both fully God with the same divine essence (as Trinity doctrine teaches), yet the Father declares the Son to be His "beloved Son," this creates a logical tension: How can God be both Father and Son simultaneously? How can one divine being have a Father-Son relationship within Himself?
-
 The voice could have said:
+- "This is Me in human form, listen to Me"
 - "This is a member of the Godhead, listen to him"
 - "This is your new God, listen to him"
 - "This is My human body, listen to it"
 
-But instead, God specifically said: "**This is My beloved Son**" — affirming a Father-Son relationship where the Father is pleased with the Son's obedience and character.
+But instead, God specifically said: "**This is My beloved Son**, listen to **him**" — affirming a Father-Son relationship where the Father appoints Jesus as the worthy but separate ruler.
+
+Peter later testified as an eyewitness to this event:
+
+> For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but **we were eyewitnesses** of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, ***"This is my beloved Son, with whom I am well pleased***," **we ourselves heard this very voice borne from heaven**, for **we were with him** on the holy mountain. — 2 Peter 1:16-18 (ESV)
+
+Furthermore, the people present heard **another voice from heaven** while Jesus stood before them. This demonstrates [two distinct persons](son-of-man/distinct.md), the Father in heaven and the Son on earth. If the Father and Son are both fully God with the same divine essence (as [Trinitarianism](trinity.md) teaches), yet the Father declares the Son to be His "beloved Son," this creates a logical tension: How can God be both Father and Son simultaneously? How can one divine being have a Father-Son relationship within Himself?
 
 ## Translation of "Only Begotten Son"
 
@@ -93,7 +90,7 @@ The literal translation seems to mean that Jesus was the only Son that was ever 
 
 Jesus was not referring to the physical birth of a person as he corrected Nicodemus. Instead, Jesus refers to the ["birth of water"](https://eternal.family.net.za/eternal/saved/baptize) and ["birth of the spirit"](https://eternal.family.net.za/eternal/saved/spirit) which modern Christians call ["baptism"](https://eternal.family.net.za/eternal/saved/baptize). Therefore, some would argue that "the only begotten Son of God" means "the only baptized Son of God"—since Jesus himself was baptized. 
 
-The context here is that Jesus was dealing with condemnation and everlasting life. John did not record the details of the entire conversation but concluded that it is necessary that we should believe that God sent His "only begotten Son" to save us, so that we ["should not perish, but have everlasting life"](https://eternal.family.net.za/eternal/death). It was very important for John to highlight multiple times in his book that Jesus was "the only begotten Son of God".
+The context here is that Jesus was dealing with condemnation and everlasting life. John did not record the details of the entire conversation but concluded that it is necessary that we should believe that God sent His "only begotten Son" to save us, so that we ["should not perish, but have everlasting life"](https://kingdom.ofgod.info/death). It was very important for John to highlight multiple times in his book that Jesus was "the only begotten Son of God".
 
 ### The only Son of God
 
@@ -151,7 +148,8 @@ Peter could have said: *"You are God"*, but he said *"You are the Christ, the So
 
 > For of a truth against **thy holy child** Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, for to do whatsoever thy hand and thy counsel determined before to be done. And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, by stretching forth thine hand to heal; and that signs and wonders may be done by the name of **thy holy child** Jesus. — Acts 4:27-30 (KJV)
 
-[(Some translations translate "child" as "servant".)](https://eternal.family.net.za/god/son/essence/not-god/serve-god#jesus-is-called-gods-servant)
+> [!NOTE]
+> Some translations like the ESV translate "child" as ["servant"](son-of-man/has-a-god.md).
 
 Paul testifies that God is Jesus' Father:
 
@@ -183,21 +181,21 @@ Beyond God's own declaration and Jesus' own testimony, many others recognized Je
 
 > And I have seen and have borne witness that this *(Jesus)* is **the Son of God**. — John 1:34 (ESV)
 
-> Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that **Jesus is [the Christ](https://eternal.family.net.za/god/son/christ), the Son of God**, and that by believing you may have life in his name. — John 20:30-31 (ESV)
+> Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that **Jesus is [the Christ](https://kingdom.ofgod.info/christ), the Son of God**, and that by believing you may have life in his name. — John 20:30-31 (ESV)
 
 #### Mark
 
-> The beginning of the gospel of Jesus [Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**. — Mark 1:1 (ESV)
+> The beginning of the gospel of Jesus [Christ](https://kingdom.ofgod.info/christ), **the Son of God**. — Mark 1:1 (ESV)
 
 #### Martha
 
-> She said to him *(Jesus)*, "Yes, Lord; I believe that you are [the Christ](https://eternal.family.net.za/god/son/christ), **the Son of God**, who is coming into the world." — John 11:27 (ESV)
+> She said to him *(Jesus)*, "Yes, Lord; I believe that you are [the Christ](https://kingdom.ofgod.info/christ), **the Son of God**, who is coming into the world." — John 11:27 (ESV)
 
 #### Paul
 
 > And immediately he *(Paul)* proclaimed Jesus in the synagogues, saying, "He is **the Son of God**." — Acts 9:20 (NKJV)
 
-> For **the Son of God, Jesus [Christ](https://eternal.family.net.za/god/son/christ)**, whom we proclaimed among you... — 2 Corinthians 1:19 (NKJV)
+> For **the Son of God, Jesus [Christ](https://kingdom.ofgod.info/christ)**, whom we proclaimed among you... — 2 Corinthians 1:19 (NKJV)
 
 #### Author of Hebrews
 
@@ -369,13 +367,9 @@ For a more detailed examination of [Trinity](trinity.md) theology and its histor
 
 From a scientific perspective, very little information is given about how Jesus came to exist in Mary's womb. The biblical account states:
 
-> And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus...
-> And Mary said to the angel, "How will this be, since I am a virgin?"
-> And the angel answered her, "**The Holy Spirit will come upon you, and the power of the Most High will overshadow you**; therefore the child to be born will be called holy — the Son of God.
->
-> — Luke 1:31-35 (ESV)
+> When his mother Mary had been betrothed to Joseph, before they came together she was found **to be with child from the Holy Spirit**. — Matthew 1:18 (ESV); Luke 1:31-35
 
-Mary had no husband, and the Holy Spirit impregnated her. This technically makes [the Holy Spirit](trinity/holy-spirit.md) Jesus' biological Father. This is a problem for [Trinitarians](trinity.md) who believe the Holy Spirit is a distinct person from "the Father"—yet throughout Scripture, Jesus consistently calls a different member of the Trinity "Father," not the Holy Spirit who actually conceived Him.
+Mary had no husband, and the Holy Spirit impregnated her. This technically makes [the Holy Spirit](trinity/holy-spirit.md) Jesus' biological Father. This is a problem for [Trinitarians](trinity.md) who believe the Holy Spirit is a distinct person from "the Father"; yet throughout Scripture, Jesus consistently calls a different member of the Trinity "Father", instead of the Holy Spirit.
 
 ### Adam: A Precedent for Divine Sonship
 
@@ -387,22 +381,13 @@ When God formed Adam from the dust of the earth (Genesis 2:7 (ESV)), Adam had no
 
 However, Jesus was not just **a** son of God. He was ***the*** Son of God.
 
-### Paul's Adam-Jesus Comparison
-
-The Apostle Paul draws a deliberate comparison between Adam and Jesus, both considered "sons of God":
-
-> For as in Adam all die, so also in Christ shall all be made alive. — 1 Corinthians 15:22 (ESV)
-
-> Thus it is written, "The first man Adam became a living being"; the last Adam became a life-giving spirit. — 1 Corinthians 15:45 (ESV)
-
 ### Incarnation Is Not a Biblical Concept
 
 The doctrine of incarnation — that God transformed Himself into human form or "took on flesh" — is not found in Scripture. The Bible never mentions:
 
-- God shape-shifting or changing forms
 - God becoming a different being
 - God "taking on" human nature through transformation
-- Any deity becoming human through metamorphosis
+- God shape-shifting or changing forms
 
 From a logical perspective, incarnation theology introduces unnecessary complexity. God, as the Creator, can create anything—including a seed in a woman's womb—without needing to transform Himself into a different form of being.
 

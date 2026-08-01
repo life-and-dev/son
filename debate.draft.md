@@ -11,8 +11,9 @@ This section looks at the beliefs and language of the surrounding world. It asks
 Debate Focus: Compare how Second Temple Judaism understood divine titles and monotheism with how the wider Roman world understood kingship, divinity, and honour.
 
 ### Trinitarian Arguments
-* Trinitarians say Jesus' claims stirred blasphemy accusations inside Jewish monotheistic culture (John 5:18; 10:33).
-  - **Objection**: Unitarians answer that accusations show controversy around agency and sonship, not proof Jesus was God (John 10:36; Acts 2:22).
+
+* Trinitarians argue that Jewish accusations of blasphemy show that some contemporaries heard Jesus' words and actions as **a claim to divine status** within a strictly monotheistic culture (John 5:18; 10:33).
+  - **Objection**: Unitarians answer that the accusations establish controversy over **Jesus' authority** ([Son of God](index.md)) rather than his divinity (John 10:36; Acts 2:22).
 * Some Trinitarian polemics say denying Jesus is God blasphemes against God.
   - **Objection**: Unitarians answer that Scripture can present Jesus as a human Messiah without blaspheming God.
 * Some Trinitarians warn that rejecting Jesus as God endangers salvation.
