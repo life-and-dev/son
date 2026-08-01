@@ -48,6 +48,10 @@ The apostles, who learned directly from Jesus, continued this understanding in t
 
 ### The Apostle Paul
 
+Christ cannot be God, because Christ also has a head:
+
+> But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and **the head of Christ is God** — 1 Corinthians 11:3 (ESV)
+
 The Apostle Paul frequently used this specific phrasing in his letters to the early churches.
 
 > Blessed be **the God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
