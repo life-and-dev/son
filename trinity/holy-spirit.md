@@ -115,17 +115,19 @@ But the angels are not omnipresent:
 
 > Then he said to me, "Fear not, Daniel, for from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words. The prince of the kingdom of Persia withstood me twenty-one days, but Michael, one of the chief princes, came to help me, for I was left there with the kings of Persia, and came to make you understand what is to happen to your people in the latter days. — Daniel 10:12-14 (ESV)
 
-### The Holy Spirit Cannot Be a Separate Agent of God
+### The Holy Spirit Cannot Be a Separate Person from the Father
 
 > When his mother Mary had been betrothed to Joseph, before they came together she was found **to be with child from the Holy Spirit**. — Matthew 1:18 (ESV)
 
-If the Holy Spirit were a separate agent from the Father, several theological issues would arise:
-* Jesus would be the son of the Holy Spirit rather than the Son of God, since she was with child by the Holy Spirit. Yet the scriptures consistently identify Jesus as the Son of God the Father (Matthew 3:16-17; Luke 3:21; John 1:51).
-* Jesus would have prayed to or addressed the Holy Spirit. However, throughout the Gospels, Jesus prays exclusively to the Father and instructs His disciples to do the same (Matthew 6:9; John 17).
+> And the angel answered her, “**The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy. The Son of God**.” — Luke 1:35 (ESV)
 
-> Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom. — 2 Corinthians 3:17 (ESV)
+If the Holy Spirit were a separate person from the Father then Jesus would be *the son of the Holy Spirit* rather than [the Son of God](../index.md), since Mary was *"with child from **the Holy Spirit**"*. Yet the scriptures consistently identify [God the Father](https://ofgod.info) as the Father of Jesus (Matthew 3:16-17; Luke 3:21; John 1:51).
 
-Although the English translation is unclear which "Lord" Paul was referring to, what is clear is that the Spirit is not a separate entity on its own.
+Furthermore, Jesus would have prayed to or addressed the Holy Spirit. However, throughout the Gospels, Jesus prays exclusively to the Father and instructs His disciples to do the same (Matthew 6:9; John 17).
+
+> Now **[the Lord](https://ofgod.info/name#lord) is the Spirit**, and where the Spirit of the Lord is, there is freedom. — 2 Corinthians 3:17 (ESV)
+
+Although [the English translation is unclear which "Lord"](https://ofgod.info/name#lord) Paul was referring to, what is clear is that the Spirit is not a separate entity on its own.
 
 ### The Holy Spirit Cannot Be Jesus Himself
 
@@ -310,6 +312,12 @@ And Nehemiah wrote:
 >
 >  — Joel 2:27-29 (KJV), Acts 2:17
 
+### The Holy Spirit Speaks God's Words
+
+> The Spirit of the LORD speaks by me; **His** word is on my tongue. **The God of Israel has spoken**; the Rock of Israel has said to me. — 2 Samuel 23:2-3 (ESV)
+
+David identifies the words of the **Spirit of the LORD** as the words of **the God of Israel**.
+
 ### The Holy Spirit Is the Source of Life
 
 Both God, the LORD, and the Spirit of God created and gave life:
@@ -319,6 +327,16 @@ Both God, the LORD, and the Spirit of God created and gave life:
 > **The Spirit of God** has made me, and the breath *(spirit)* of the Almighty **gives me life**. — Job 33:4 (ESV)
 
 > When you send forth your Spirit, they are created, and you renew the face of the ground. — Psalm 104:30 (ESV)
+
+### The Holy Spirit Is Presence of God Himself
+
+> Where shall I go from **Your Spirit**? Or where shall I flee from **Your presence**? If I ascend to heaven, **You** are there! If I make my bed in Sheol, **You** are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there **Your** hand shall lead me, and **Your** right hand shall hold me. — Psalm 139:7-10 (ESV)
+
+The psalm parallels **God’s Spirit** with **God’s presence**. Wherever the Spirit is, God Himself is present.
+
+> Do you not know that **you are God’s temple** and that **God’s Spirit dwells in you**? — 1 Corinthians 3:16 (ESV)
+
+Paul describes the Spirit’s dwelling as **God’s dwelling**.
 
 ### The Holy Spirit Made Mary Pregnant
 
@@ -356,11 +374,11 @@ If the Holy Spirit were anyone or anything else, then Jesus' father would not be
 
 > Therefore, as the Holy Spirit says,
 >
-> “Today, **if you hear his voice**, do not harden your hearts as in the rebellion, on the day of testing in the wilderness, where your fathers put me to the test and saw my works for forty years. Therefore **I** was provoked with that generation, and said, ‘They always go astray in their heart; they have not known my ways.’ As I swore in my wrath, ‘They shall not enter **my** rest.’ ” (Psalm 95:7-11)
+>> “Today, **if you hear His voice**, do not harden your hearts as in the rebellion, on the day of testing in the wilderness, where your fathers put **Me** to the test and saw **My** works for forty years. Therefore **I** was provoked with that generation, and said, ‘They always go astray in their heart; they have not known **My** ways.’ As **I** swore in **My** wrath, ‘They shall not enter **My** rest.’ ” — Psalm 95:7-11
 >
 > Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from **the living God**.
 >
->  — Hebrews 3:7-12 (ESV)
+> — Hebrews 3:7-12 (ESV)
 
 > The Holy Spirit was right in saying to your fathers through Isaiah the prophet: “Go to this people, and say, ‘You will indeed hear but never understand, and you will indeed see but never perceive.’ For this people's heart has grown dull...” — Acts 28:25-27 (ESV)
 
@@ -439,17 +457,20 @@ Jesus did not mention the Holy Spirit in his prayer, because fellowship is **wit
 
 ### Jesus Personifies the Holy Spirit
 
-> Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, ***[the Helper](https://biblehub.com/greek/3875.htm)*** will not come to you. But if I go, I will send ***him*** to you. And when ***he*** comes, ***he*** will convict the world concerning sin and righteousness and judgment:
+> Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, ***[the Helper](https://biblehub.com/greek/3875.htm)*** will not come to you. But if I go, I will send ***Him*** to you. And when ***He*** comes, ***He*** will convict the world concerning sin and righteousness and judgment:
 > 
 > * concerning sin, because they do not believe in me; 
 > * concerning righteousness, because I go to the Father, and you will see me no longer; 
 > * concerning judgment, because the ruler of this world is judged. 
 >  
-> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, ***he*** will guide you into all the truth, for ***he*** will not speak on ***his*** own authority, but whatever ***he*** hears ***he*** will speak, and ***he*** will declare to you the things that are to come. ***He*** will glorify me, for ***he*** will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that ***he*** will take what is mine and declare it to you. 
+> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, ***He*** will guide you into all the truth, for ***He*** will not speak on ***His*** own authority, but whatever ***He*** hears ***He*** will speak, and ***He*** will declare to you the things that are to come. ***He*** will glorify me, for ***He*** will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that ***He*** will take what is mine and declare it to you. 
 > 
-> — John 16:7-15 (ESV)
+> — John 16:7-15 (Capitalized ESV)
 
-The use of personal pronouns such as "he", "his", and "him" to refer to the Holy Spirit **suggests that the Holy Spirit is a person**. Furthermore, the Holy Spirit is described as having the ability to **think, reason, and act on his own authority**.
+> [!TIP]
+> The original Aramaic or Greek had no concept of lowercase/uppercase letters. The use of uppercase pronouns (He, His, Him) in many English translations is the translator's interpretation of the text.
+
+The use of personal pronouns such as "He", "His", and "Him" to refer to the Holy Spirit **suggests that the Holy Spirit is a person**. Furthermore, the Holy Spirit is described as having the ability to **think, reason, and act on His own authority**.
 
 However, in John 15:26, Jesus says the Spirit *“**proceeds** from the Father”*. This implies that the Spirit is not an independent person alongside God, but rather something coming from the Father.
 
