@@ -2,6 +2,7 @@
 description: This article explores the biblical passages where Jesus refers to God as "my God" and how the apostles described this relationship.
 keywords: Jesus, God, Father, Son of God, relationship between Jesus and God
 ---
+
 # Jesus Has A God
 
 The relationship between Jesus and God the Father is a central theme in Christian theology. While the divinity of Jesus is a cornerstone of faith for many, certain passages in the Bible describe a dynamic where Jesus himself refers to God. This article will explore those scriptures, examining the words of Jesus and his apostles to better understand this aspect of their relationship.
@@ -30,11 +31,11 @@ Jesus' prayers also reveal his relationship with the Father. He consistently pra
 
 > And Jesus lifted up his eyes and said, "**Father**, I thank you that you have heard me." — John 11:41 (ESV)
 
-> When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "**Father**, the hour has come..." — John 17:1 (ESV)
+> **Jesus spoke** these words, lifted up His eyes to heaven, and said:
+>
+> “Father, the hour has come. Glorify Your Son, that Your Son also may glorify You, as You have given him authority over all flesh, that he should give eternal life to as many as You have given him. And this is eternal life, **that they may know You, the only true God**, and Jesus [Christ](https://kingdom.ofgod.info/christ) **[whom You have sent](https://biblehub.com/greek/649.htm)** *(commission/sent on a mission)*." — John 17:1-3 (NKJV)
 
-In the Garden of Gethsemane, Jesus' submission to the Father's will is on full display.
-
-> And he (Jesus) went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt... He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done... — Matthew 26:39,42 (KJV)
+Jesus' prayer in Gethsemane records his [submission to the Father's will](serve-god.md#jesus-submits-to-god).
 
 Jesus even indicated that he could pray to his Father for angelic intervention.
 
@@ -48,11 +49,11 @@ The apostles, who learned directly from Jesus, continued this understanding in t
 
 ### The Apostle Paul
 
-Christ cannot be God, because Christ also has a head:
+Paul presents God as Christ’s head:
 
 > But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and **the head of Christ is God** — 1 Corinthians 11:3 (ESV)
 
-The Apostle Paul frequently used this specific phrasing in his letters to the early churches.
+The Apostle Paul frequently used the phrasing "the God and Father of our Lord Jesus Christ" in his letters to the early churches:
 
 > Blessed be **the God and Father of our Lord Jesus Christ**, Who has blessed us in Christ with every spiritual blessing in the heavenly places... — Ephesians 1:3 (ESV)
 
@@ -72,9 +73,7 @@ The Apostle Peter began his first epistle with a similar declaration.
 
 > Blessed be **the God and Father of our Lord Jesus Christ**, Who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead... — 1 Peter 1:3 (NKJV)
 
-In one of his first sermons after Jesus' ascension, Peter identifies Jesus as the servant of God.
-
-> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **His servant Jesus**, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. — Acts 3:13 (ESV)
+In one of his first sermons after Jesus' ascension, Peter identifies Jesus as God's servant (Acts 3:13). For the full passage and discussion, see [Jesus Is Called God's Servant](serve-god.md#jesus-is-called-gods-servant).
 
 ### The Apostle John
 

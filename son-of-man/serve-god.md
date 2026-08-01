@@ -11,21 +11,21 @@ This article shows that Jesus serves, obeys, and is subject to God.
 
 Psalm 83:18 identifies Yahweh as Most High. The following passages are presented as evidence that the Father has authority over Jesus during Jesus' mission.
 
-Jesus said that God had sent, or commissioned, him:
-
-> **Jesus spoke** these words, lifted up His eyes to heaven, and said:
->
-> “Father, the hour has come. Glorify Your Son, that Your Son also may glorify You, as You have given him authority over all flesh, that he should give eternal life to as many as You have given him. And this is eternal life, **that they may know You, the only true [God](/god)**, and Jesus Christ **[whom You have sent](https://biblehub.com/greek/649.htm)** *(commission/sent on a mission)*." — John 17:1-3 (NKJV)
+Jesus described the Father as the only true God and himself as the one sent on a mission (John 17:1-3). For the prayer and its direct statement, see [Jesus' prayers](has-a-god.md#jesus-prayers).
 
 ## Jesus Submits to God
 
 > And you are Christ’s, and **Christ is God’s**. — 1 Corinthians 3:23 (NKJV)
 
-> But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and **the head of Christ is God**. — 1 Corinthians 11:3 (ESV)
+Paul's statement that “the head of Christ is God” (1 Corinthians 11:3) is considered in [the Apostle Paul's testimony](has-a-god.md#the-apostle-paul).
 
 > Now when all things are made subject to him, then **the Son himself will also be subject to Him** who put all things under him, that God may be all in all. — 1 Corinthians 15:28 (NKJV)
 
-These texts describe Christ as belonging to God, having God as his head, and being subject to God. They support the view that [the Father](https://ofgod.info) holds higher authority than Jesus. Other Christians understand this authority as compatible with equality of divine nature, rather than as a denial of Jesus' divinity.
+In the Garden of Gethsemane, Jesus submitted his will to the Father's:
+
+> And he (Jesus) went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless **not as I will, but as thou wilt**... He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, **thy will be done**... — Matthew 26:39,42 (KJV)
+
+These texts describe Christ as belonging to God and being subject to God. They support the view that [the Father](https://ofgod.info) holds higher authority than Jesus. Other Christians understand this authority as compatible with equality of divine nature, rather than as a denial of Jesus' divinity.
 
 The argument also draws on the following passages:
 
