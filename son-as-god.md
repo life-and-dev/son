@@ -15,13 +15,13 @@ The word ["God" has many different meanings](https://eternal.family.net.za/bible
 
 The New Testament attributes extraordinary power and authority to Jesus. The majority of Christians agree that the scriptures affirm that Jesus:
 
-*   [Will judge humanity and forgive sins](https://eternal.family.net.za/son/essence/as-god/forgiveness) (Matthew 10:32-33; John 5:22; 1 John 2:1; Mark 2:10)
-*   [Will return with an army of angels](https://eternal.family.net.za/son/essence/as-god/return) (Matthew 16:27-28)
-*   Will rule over the world (Matthew 28:18; Psalm 2:8-12; Isaiah 42:1-4; Hebrews 2:7-8; Philippians 2:10-11)
-*   [Has the authority to heal](https://eternal.family.net.za/son/essence/as-god/miracles) (John 4:46-54, 5:8-9)
-*   [Has authority over death](https://eternal.family.net.za/son/essence/as-god/resurrected) (John 5:21; Revelation 1:17-18)
-*   Looks after his people (John 10:14)
-*   [Is eternal](https://eternal.family.net.za/son/essence/as-god/eternal) (Revelation 1:17-18)
+* [Will judge humanity and forgive sins](https://eternal.family.net.za/son/essence/as-god/forgiveness) (Matthew 10:32-33; John 5:22; 1 John 2:1; Mark 2:10)
+* [Will return with an army of angels](https://eternal.family.net.za/son/essence/as-god/return) (Matthew 16:27-28)
+* Will rule over the world (Matthew 28:18; Psalm 2:8-12; Isaiah 42:1-4; Hebrews 2:7-8; Philippians 2:10-11)
+* [Has the authority to heal](https://eternal.family.net.za/son/essence/as-god/miracles) (John 4:46-54, 5:8-9)
+* [Has authority over death](https://eternal.family.net.za/son/essence/as-god/resurrected) (John 5:21; Revelation 1:17-18)
+* Looks after his people (John 10:14)
+* [Is eternal](https://eternal.family.net.za/son/essence/as-god/eternal) (Revelation 1:17-18)
 
 These passages clearly establish a unique and exalted status for the Son. However, the question remains whether these affirmations equate to the title "God" in the absolute, monotheistic sense.
 
@@ -37,7 +37,7 @@ You will never find the phrase "the Son **as** God" in the Bible. What you will 
 
 The Bible bestows upon Jesus the highest honors and authority, yet it consistently distinguishes between him and God the Father. This distinction is crucial for maintaining clarity in monotheistic faith.
 
-*   The term "god" had a more [flexible meaning in the ancient world](#the-flexible-meaning-of-god) than it does today, and was sometimes used to refer to powerful human leaders.
-*   While the scriptures affirm the supreme authority of the Son, they do not use the phrase ["the Son as God"](#the-missing-phrase).
+* The term "god" had a more [flexible meaning in the ancient world](#the-flexible-meaning-of-god) than it does today, and was sometimes used to refer to powerful human leaders.
+* While the scriptures affirm the supreme authority of the Son, they do not use the phrase ["the Son as God"](#the-missing-phrase).
 
 By reserving the title "God" for the Almighty Father, it is possible to fully honor the Son and all that the scriptures affirm about him, while at the same time preserving the core principles of monotheism.

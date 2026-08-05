@@ -32,10 +32,12 @@ Today, the [majority](https://eternal.family.net.za/bible/interpretations/rebutt
 Popular Trinitarian biased bible translations include: All the Catholic bibles as well as the ASV, BSB, CEV, CSB, ERV, ESV, GNT, HCSB, ISV, KJV, LSV, NASB, NET, NIV, NKJV, NLT, SLT, WEB, WORD, YLT, and so forth.
 
 Less popular Arian-biased bible translations include:
+
 * NEV used by the Christadelphians
 * NWT used by the Jehovah's Witnesses
 
 Unpopular Unitarian-biased bible translations include: 
+
 * Belsham's Unitarian New Testament and Newcome's Translation used mainly for historical theological studies
 * [REV](https://www.revisedenglishversion.com/) used by Spirit & Truth Fellowship International
 
@@ -46,6 +48,7 @@ Fortunately, today we have access to interlinear bibles that provide word-by-wor
 Some [Trinitarian](https://eternal.family.net.za/bible/doctrines/trinitarian) traditions have historically labeled [Unitarian](https://eternal.family.net.za/bible/doctrines/unitarian) beliefs as ["heretical"](https://eternal.family.net.za/chuch/evolution#the-first-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://eternal.family.net.za/eternal/saved) without believing [Jesus](https://eternal.family.net.za/god/son/essence) is [God](https://eternal.family.net.za/god) Himself, as stated in certain church creeds.
 
 However, the Bible records:
+
 * Jesus converted a woman [without telling her that he is God](https://eternal.family.net.za/god/son/essence/not-god/salvation) (Luke 7:36-50).
 * Peter converted 3000 people [without telling them that Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation) (Acts 2:14-47).
 * Paul converted many people [without telling them that Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation) (Acts 13:13-44; 17:22-34).
@@ -92,6 +95,7 @@ Jesus quoted this prophecy himself:
 This interpretation of the prophecy was also confirmed by Peter (Acts 3:22-26). 
 
 In addition, it was also prophesied:
+
 * that the Christ would be a human as promised to Adam and Eve (Genesis 3:15) and Moses (Deuteronomy 18:15-19 & John 5:46-47, Acts 3:22-26) 
 * that the Christ would be a Jew (Jeremiah 30:21; Micah 5:2-5; Matthew 2:5-6) because his forefathers would be Judah (Genesis 49:10; Jeremiah 30:21; Micah 5:2-5 & Matthew 2:5-6) and Jesse (Isaiah 11:1)
 * that the Christ would be born (Psalm 2:7) and confirmed by (Acts 13:16, 32-33)
@@ -167,6 +171,7 @@ The phrase "God as the Son" does not exist in the Bible. However, many have iden
 | Author of Hebrews | the Son of God                        | Hebrews 1:1-2, 4:14                                                      |
 
 The way people interacted and treated Jesus also hint that they did not believe he was God, for example:
+
 * [Jesus's close disciples doubted Jesus.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 14:25-33; Mark 6:35-37)
 * [Judas Iscariot sold Jesus.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:14-16; Mark 14:10-11)
 * [Jesus's close disciples forsook him, which shows they did not believe he was in control as God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Matthew 26:34-35; Mark 14:27-29)
@@ -177,6 +182,7 @@ The way people interacted and treated Jesus also hint that they did not believe 
 * [The disciples were surprised to see Jesus alive, which shows they did not believe he was an immortal God.](son-of-man/human.md#jesus-own-disciples-treated-him-like-a-human) (Luke 24:13-32; John 20:25)
 
 Now, some argue that Jesus had a "dual-nature" as "the Son of Man" and "the Son of God". If this was true:
+
 * then Adam would also have a "dual-nature" as "the son of God" (Luke 3:38) and
 * Jesus would have been his own Father (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20)
 
@@ -286,6 +292,7 @@ God had given up His ***only*** and ***beloved*** Son, and God had to watch him 
 Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](https://eternal.family.net.za/god/son/essence/of-god/temptations).
 
 In short the devil was basically saying:
+
 1. That God is a bad God, because God "failed" to provide bread to Jesus.
 2. Then the devil offered an alternative plan to Jesus: authority, glory, and deliverance of all the kingdoms in exchange for worshipping the devil instead of God. When Jesus declined, 
 3. the devil tried to make Jesus doubt in God's protection.
@@ -293,6 +300,7 @@ In short the devil was basically saying:
 None of these temptations would make any sense if Jesus was God. Yet the devil did not make a mistake, but knew exactly who God was (James 2:19).
 
 If Jesus was God:
+
 * Jesus would have led the Spirit, instead of the Spirit leading Jesus (Matthew 4:1; Luke 4:1).
 * The devil would have asked Jesus to prove that he is God, instead the devil asked to only prove that he is the Son (Luke 4:3,9).
 * Jesus would have quoted the wrong scripture which are only applicable to man (Luke 4:4 quoting Deuteronomy 8:3).
@@ -347,9 +355,10 @@ Both perspectives magnify God's love, though in different ways. What matters mos
 **Don't rely solely on [creeds](https://church.ofgod.info/evolution), traditions, or even this article.** Examine the Scriptures yourself. Pray for wisdom (James 1:5). Consider the evidence with an open heart, even if it challenges what you've always believed. The truth is not afraid of investigation.
 
 Ask yourself:
-- Does your view of Jesus draw you closer to God or create theological confusion?
-- Does it help you follow Jesus's example, or make it an impossible task?
-- Does it align with the full counsel of Scripture, or only selected verses?
+
+* Does your view of Jesus draw you closer to God or create theological confusion?
+* Does it help you follow Jesus's example, or make it an impossible task?
+* Does it align with the full counsel of Scripture, or only selected verses?
 
 Ultimately, your relationship with [our Father God](https://ofgod.info) matters more than winning a theological debate. Whether you conclude Jesus is "God the Son" or "the Son of God", let your understanding lead you to worship God in spirit and truth (John 4:23-24) and to love others as the Christ set the example.
 
