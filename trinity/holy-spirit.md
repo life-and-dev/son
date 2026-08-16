@@ -5,7 +5,7 @@ keywords: Holy Spirit identity, biblical pneumatology, Spirit of the Father, Spi
 
 # The Holy Spirit
 
-The identity and nature of the Holy Spirit have been subjects of theological discussion for centuries. While the traditional [Trinity doctrine](../trinity.md) describes the Holy Spirit as a distinct, co-equal divine person within [the Godhead](../godhead.md), other perspectives suggest the Spirit is the direct presence and active power of God the Father. Understanding how the Bible describes the Holy Spirit is essential for understanding the relationship between God and humanity. This article examines the biblical evidence surrounding the Holy Spirit's identity to explore whether the Spirit is a separate divine entity, the presence of the Father, or Jesus Christ Himself.
+The identity and nature of the Holy Spirit have been discussed for centuries. Nicene Christianity understands the Holy Spirit as a distinct divine person who fully shares the one divine essence with the Father and Son—not a mode, creature, or divine part. This project understands the Holy Spirit as God's own active Spirit, power, presence, and way of acting, proceeding from the Father; it is not a separate coequal person and is not Jesus Himself. This article considers the biblical evidence for those views.
 
 ## Facts About the Holy Spirit
 

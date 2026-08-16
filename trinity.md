@@ -5,12 +5,12 @@ keywords: Trinity, Godhead, Tertullian, Nicene Creed, biblical unitarianism, Jes
 
 # The Trinity
 
-When I first studied [the Bible](https://word.ofgod.info) as a new believer, I accepted the Trinity as fundamental Christian truth. After all, nearly every church, seminary, and creed taught it as essential doctrine. But as I dug deeper into Scripture, historical documents, and early church writings, troubling questions emerged:
+When I first studied [the Bible](https://word.ofgod.info) as a new believer, I accepted the Trinity as a fundamental truth in Trinitarian Christianity. But as I dug deeper into Scripture, historical documents, and early church writings, troubling questions emerged:
 
-- If the Trinity is central to Christianity, why do [even Trinitarian scholars admit the doctrine isn't found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
-- How could the apostles preach salvation without ever mentioning it in their letters?
-- Why did it take over 300 years after Christ for the church to formalize this doctrine?
-- Why are there so [many variations of the Trinity doctrine](#the-development-of-the-trinity-theology) and which one is correct?
+* If the Trinity is central to Trinitarian Christianity, why do [even Trinitarian scholars admit the doctrine isn't found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
+* How could the apostles preach salvation without ever mentioning it in their letters?
+* Why did it take over 300 years after Christ for [the church](https://church.ofgod.info) to [formalize this doctrine](https://church.ofgod.info/evolution)?
+* Why are there so [many variations of the Trinity doctrine](#the-development-of-the-trinity-theology) and which one is correct?
 
 ## The Development of the Trinity Theology
 
@@ -58,7 +58,7 @@ The oldest Christian Creed states:
 >
 > And in **Christ Jesus, his only Son, our Lord**, who was **born of the Holy Spirit** of the virgin Mary, who was crucified under Pontius Pilate and was buried, the third day he rose from the dead...
 
-In those days Christians agreed that there is a distinction between "God, the Father almighty" and "Christ Jesus, his only Son, our Lord".
+Many Christians at that time agreed that there is a distinction between "God, the Father almighty" and "Christ Jesus, his only Son, our Lord".
 
 Although all Trinity members are named in the creed, the actual vocabulary used in the text aligns with Unitarian theology because the authors did not clarify the Trinity.
 
@@ -68,7 +68,7 @@ Around 180 AD, Theophilus of Antioch the 7th Bishop of Antioch penned a three-vo
 
 In Book II, Chapter XV, Theophilus provides a symbolic commentary on the Creation narrative in Genesis. When discussing the first three days of creation—which occurred before God created the sun, moon, and stars on the fourth day—Theophilus notes that these three days represent a ***divine triad***.
 
-This is universally recognized as **the earliest surviving use of the Greek word *Trias* (Τριάς)** in Christian literature. However, unlike modern Christians, Theophilus defines his triad as:
+This is universally recognized as **the earliest surviving use of the Greek word *Trias* (Τριάς)** in Christian literature. However, unlike many modern Trinitarian Christians, Theophilus defines his triad as:
 
 1. "God"
 2. "[His Word](word.md)" (*Logos*)
@@ -98,10 +98,10 @@ Modalism often compares God with water. Just as water has 3 modes (ice, water, g
 
 However, this theology fails when:
 
-- Jesus prays to the Father
-- Father loves the Son
-- Father sends the Spirit
-- Spirit points people to the Son
+* Jesus prays to the Father
+* Father loves the Son
+* Father sends the Spirit
+* Spirit points people to the Son
 
 According to Modalism, the *Father is His own son!*
 
@@ -115,17 +115,17 @@ However, Tertullian's version of the Trinity was different. According to him, Go
 
 It is often compared with a tree:
 
-- The Father is like the roots (origin)
-- The Son is like the branches (what we see)
-- The Spirit is like the fruit (what we enjoy)
-- Yet all 3 components are 1 tree
+* The Father is like the roots (origin)
+* The Son is like the branches (what we see)
+* The Spirit is like the fruit (what we enjoy)
+* Yet all 3 components are 1 tree
 
 Another popular example is:
 
-- The Father is like the sun (energy source)
-- The Son is like the rays (what we see)
-- The Spirit is like the warmth (what we feel)
-- Yet all 3 components are considered sunlight
+* The Father is like the sun (energy source)
+* The Son is like the rays (what we see)
+* The Spirit is like the warmth (what we feel)
+* Yet all 3 components are considered sunlight
 
 In the simplest terms, according to Subordinationism, the Father, Son, and Spirit are different parts of the same God.
 
@@ -135,9 +135,9 @@ For example ["On Prayer" (De Oratione)](https://ccel.org/ccel/origen/prayer/pray
 
 However, the Subordinationist theology fails because it leads to a chain of command:
 
-- The Father is the most important authority
-- The Son has lesser authority
-- The Spirit has the least authority
+* The Father is the most important authority
+* The Son has lesser authority
+* The Spirit has the least authority
 
 This subordination clashes with the modern Trinity theology that *all are equal*!
 
@@ -147,14 +147,14 @@ In 318 AD, Arius from Alexandria began preaching his theology that Jesus, [the S
 
 ### Mystic Trinity
 
-Because of Arianism, the church leaders gathered in 325 AD at [the council of Nicaea](https://www.historyskills.com/classroom/ancient-history/council-of-nicaea/) to prevent further church splits by:
+Because of Arianism, church leaders gathered in 325 AD at [the council of Nicaea](https://www.historyskills.com/classroom/ancient-history/council-of-nicaea/) to prevent further church splits by:
 
 * defining the *divinity* of Jesus;
 * [condemning Arianism as heretical](https://www.rca.org/about/theology/creeds-and-confessions/the-nicene-creed/);
 * establishing church hierarchy;
 * separating Christian practices from Jewish traditions;
 
-One of the council's challenges was to determine how to reconcile the *divinity* of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their [monotheistic beliefs](#monotheism) while also acknowledging the *divinity* of Jesus Christ.
+One of the council's challenges was to determine how to reconcile the *divinity* of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed the council's proponents to maintain their [monotheistic beliefs](#monotheism) while also acknowledging the *divinity* of Jesus Christ.
 
 Because many Christians initially rejected the Trinity doctrine for fear of polytheism (worship of multiple gods), the council had to carefully and clearly define the Trinity to avoid misunderstandings.
 
@@ -175,7 +175,7 @@ This led to the establishment of [the Nicene Creed](https://www.fourthcentury.co
 > * And in the Holy Spirit.
 > * The catholic and apostolic ***church condemns*** those who say concerning the Son of God that ***“there was a time when he was not”*** or ***“he did not exist before he was begotten”*** or ***“he came to be from nothing”*** or who claim that he is of another subsistence or essence, or a creation, or changeable, or alterable.
 
-Their version of the Trinity was:
+The council's version of the Trinity was:
 
 1. **"Homoousios"** (Of the Same Substance): The Son shares the exact same, identical divine substance. If the Father is the supreme, uncreated God, then the Son, sharing the same substance, is also the supreme, uncreated God.
 2. **"Begotten, Not Made"**: The Son was "not made" (not created), but instead was "begotten" (brought forth from the same kind, like humans delivering babies)
@@ -187,15 +187,15 @@ This theology is also not without problems:
 
 In 4th-century Greek philosophy, the word "ousia" (substance) was notoriously ambiguous:
 
-- Primary Substance (Individual): It could mean a specific, individual thing (e.g., this specific horse). If Nicaea meant this, then saying the Father and Son are the same individual substance implies they are the exact same person which inadvertently loops right back into [Modalism](#modalism) (Sabellianism).
-- Secondary Substance (Generic): It could mean a generic category or material class (e.g., Peter and Paul are both "human" because they share the same human nature). If Nicaea meant this, it solved the Modalism problem but opened the door to **Tritheism** (worshipping distinct Gods who happen to belong to the same "divine species").
+* Primary Substance (Individual): It could mean a specific, individual thing (e.g., this specific horse). If Nicaea meant this, then saying the Father and Son are the same individual substance implies they are the exact same person which inadvertently loops right back into [Modalism](#modalism) (Sabellianism).
+* Secondary Substance (Generic): It could mean a generic category or material class (e.g., Peter and Paul are both "human" because they share the same human nature). If Nicaea meant this, it solved the Modalism problem but opened the door to **Tritheism** (worshipping distinct Gods who happen to belong to the same "divine species").
 
 #### The Problem with "Begotten, Not Made"
 
 This analogy suffers from deep logical incoherence when applied to an immaterial, timeless God:
 
-- In the natural world, begetting is an event that requires a **change in state**. **A father exists before he begets a child**, and **the act occurs at a specific point in time**. Nicaea asserted that the Son was begotten **eternally** which turns it into a paradox.
-- Biological begetting involves a **physical separation or extraction** of matter from the parent to form a **new individual**. If the Son is begotten from the *ousia* of the Father, it implies that the divine essence is **divisible or material**, which contradicts the absolute **immateriality and simplicity** of God.
+* In the natural world, begetting is an event that requires a **change in state**. **A father exists before he begets a child**, and **the act occurs at a specific point in time**. Nicaea asserted that the Son was begotten **eternally** which turns it into a paradox.
+* Biological begetting involves a **physical separation or extraction** of matter from the parent to form a **new individual**. If the Son is begotten from the *ousia* of the Father, it implies that the divine essence is **divisible or material**, which contradicts the absolute **immateriality and simplicity** of God.
 
 #### The Problem with "True God from True God"
 
@@ -226,20 +226,20 @@ The most contested Trinitarians believes are:
 
 The Uniterian solution is to dismiss statement #4 and accept there is truly only 1 God, [the Father](https://ofgod.info), and that [Jesus is not God](nature.md), but [the Son of God](index.md), [the Christ](https://kingdom.ofgod.info/christ), a human Lord [glorified](https://word.ofgod.info/terms/glory) by [his God](son-of-man/has-a-god.md).
 
-Hoever, Trinitarian will never compromise on any of these statements so all 4 points must hold for the Trinity to stand.
+Hoever, some Trinitarians will never compromise on any of these statements so all 4 points must hold for the Trinity to stand.
 
-To consolidate these points the church attempted:
+To consolidate these points proponents of Nicene theology attempted:
 
-- To say all 3 Trinity Members are 1 God and 1 person, just different modes/names: is [Modalism](#modalism).
-- To say all 3 Trinity Members are parts of 1 God: is [Partialism](#subordinationism)
-- To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
-- To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
+* To say all 3 Trinity Members are 1 God and 1 person, just different modes/names: is [Modalism](#modalism).
+* To say all 3 Trinity Members are parts of 1 God: is [Partialism](#subordinationism)
+* To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
+* To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
 
-To solve this problem, Trinitarians had to [change the definition of the word 'one'](godhead.md#the-unified-god): "It’s not one person, it’s one substance shared by three persons".
+To solve this problem, some proponents of Nicene theology had to [change the definition of the word 'one'](godhead.md#the-unified-god): "It’s not one person, it’s one substance shared by three persons".
 
-Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore they will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that we must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
+Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
-Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **you cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside our space and time with **your finite brain**.
+Some Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
 
 ## Witnesses
 
@@ -265,11 +265,13 @@ There is no evidence that Jesus believed in the Trinity. Mark recorded:
 >
 > -- Mark 12:28-34 (ESV)
 
-The teacher confirmed that he agreed with Jesus that God is one, instead of triune, and even explained what is meant by "one," which is that ***"there is no other but Him"***.
+The scribe restated the Shema as the confession that God is one and that no other is beside Him. Jesus approved this answer.
 
 This would have been the perfect opportunity for Jesus to correct the teacher and explain to him that he misunderstood the Trinity, but instead he said: "Well said, teacher... You are not far from the kingdom of God".
 
-For the Trinity theology to stand, Jesus needs to admit his divinity, yet [Jesus denies being God](son-of-man/denies-being-god.md).
+The typical Trinitarian response is that the Shema identifies the one God but does not, by itself, exclude Jesus from that divine identity. However, Mark 12:29-34 does not explicitly address that claim. Yet its immediate language identifies God as the one to whom Israel gives exclusive devotion, and Mark continues to distinguish the Son from the Father (Mark 13:32).
+
+In Mark's Gospel, Jesus calls God “your Father” (Mark 11:25) and distinguishes himself from “the Father,” who alone knows the day and hour (Mark 13:32). In this context, the passage supports the Father-alone reading: the one God whom Jesus affirms is the Father.
 
 ### Did the Jews Believe in the Trinity?
 
@@ -295,7 +297,7 @@ However, Paul wrote about the end times:
 >
 > For he *[the Son]* must reign until he *[the Son]* has put all his *[the Son]* enemies under his *[the Son]* feet. The last enemy to be destroyed is death. For 
 >
->> “**God** has put all things in subjection under his [the Son] feet.” 
+>> “**God** has put all things in subjection under his [the Son] feet.”
 >
 > But when it says, “all things are put in subjection,” it is plain that He *[the Father]* is excepted Who put all things in subjection under him *[the Son]*. When all things are subjected to him *[the Son]*, then the Son himself will also be subjected to Him *[the Father]* Who put all things in subjection under him *[the Son]*, that **God** *[the Father]* may be all in all.
 >
@@ -303,7 +305,13 @@ However, Paul wrote about the end times:
 
 According to Paul, **the Father and the Son are not equal** in power and authority, even at the end times.
 
-## Why Christians believe in the Trinity
+## Proving the Trinity
+
+* Some Trinitarians argue that "God is one" actually means ["God is unified"](godhead.md#the-unified-god) which is supposed to mean "God is made up of 3 united members". However, the same Hebrew and Greek words for "one" could also mean "only", "alone", "single" or even "united" depending on the context or interpretation. When Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that his understanding of "one" means "no other but Him" instead of "unified." Jesus did not correct him, but instead applauded him.
+* Some Trinitarians argue [God is plural](godhead.md#the-plural-god). In general, the Hebrew word "Elohim" means gods in the plural. However, in the Bible, the word "Elohim" could also [technically be considered a singular God](godhead.md#the-plural-god) for example: Moses (Exodus 7:1), a single idol (Exodus 22:20), Baal (Judges 6:31), Chemosh (Judges 11:24) and Dagon (1 Samuel 5:7) was also referred as "elohim".
+* Some Trinitarians argue that [plural pronounce often refer to God](godhead.md#singular-pronouns). According to [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/why-bu), there are over 20,000 singular pronouns, like "I", "My", and "He" which refers to God. If God was a collection of different members, then these pronouns would not make sense.
+* Some Trinitarians argue that [multiple "members" create man](godhead.md#god-created-in-partnership) (Genesis 1:26; 3:22; 11:7). This is purely an assumption because [the LORD of hosts](https://ofgod.info) often [partner with His angels ("hosts") or Cherubim](godhead.md#god-doing-divine-things-in-partnership), [mankind](godhead.md#people-make-people), and prophets (Isaiah 6:8, 48:16).
+* Some Trinitarians argue that [the Trinity appeared to Abraham](trinity/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](https://eternal.family.net.za/bible/concepts/angel) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
 
 ### Father, Son and Spirit is God
 
@@ -311,7 +319,7 @@ According to Paul, **the Father and the Son are not equal** in power and authori
 2. The Son is God (according to the Trinitarians [by a variety of reasons](son-as-god.md))
 3. The Holy Spirit is God (implied by Peter in Acts 5:3-4)
 
-However, Christians practise [Monotheism](#monotheism), which means there can only be 1 God. The purpose of the Trinity theology or ["Godhead"](godhead.md) is to solve this paradox.
+However, Trinitarian Christians practise [Monotheism](#monotheism), which means there can only be 1 God. The purpose of the Trinity theology or ["Godhead"](godhead.md) is to solve this paradox.
 
 ### The Godhead
 
@@ -321,20 +329,12 @@ Although, the English word "Godhead" is found in the King James Version (KJV) of
 
 [The Godhead article](godhead.md) explore in more depth the evidence for and against the use of the word "Godhead".
 
-### Attemps To Proof the Trinity
-
-* Trinitarians argue that "God is one" actually means ["God is unified"](godhead.md#god-is-unified) which is supposed to mean "God is made up of 3 united members". However, the same Hebrew and Greek words for "one" could also mean "only", "alone", "single" or even "united" depending on the context or interpretation. When Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that his understanding of "one" means "no other but Him" instead of "unified." Jesus did not correct him, but instead applauded him.
-* Trinitarians argue [God is plural](godhead.md#the-plural-god). In general, the Hebrew word "Elohim" means gods in the plural. However, in the Bible, the word "Elohim" could also [technically be considered a singular God](godhead.md#the-plural-god) for example: Moses (Exodus 7:1), a single idol (Exodus 22:20), Baal (Judges 6:31), Chemosh (Judges 11:24) and Dagon (1 Samuel 5:7) was also referred as "elohim".
-* Trinitarians argue that [plural pronounce often refer to God](godhead.md#singular-pronouns). According to [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/why-bu), there are over 20,000 singular pronouns, like "I", "My", and "He" which refers to God. If God was a collection of different members, then these pronouns would not make sense.
-* Trinitarians argue that [multiple "members" create man](godhead.md#god-created-in-partnership) (Genesis 1:26; 3:22; 11:7). This is purely an assumption because [the LORD of hosts](https://ofgod.info) often [partner with His angels ("hosts") or Cherubim](godhead.md#god-doing-divine-things-in-partnership), [mankind](godhead.md#people-make-people), and prophets (Isaiah 6:8, 48:16).
-* Trinitarians argue that [the Trinity appeared to Abraham](trinity/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](https://eternal.family.net.za/bible/concepts/angel) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
-
 ### Biased bible translations
 
-Often modern Bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
+Some modern Bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
 
 * [Matthew 28:19](trinity/baptism-formula.md)
-* [John 1:18](/son-as-god/john-1-18.md)
+* [John 1:18](son-as-god/john-1-18.md)
 * [1 John 5:7-8](trinity/3-witnesses.md)
 
 ### Paul's Closing
@@ -349,9 +349,9 @@ Often modern Bible translators defend the Trinitarian doctrine with biased trans
 
 This verse does not list the Trinity members. Instead, Paul concludes with the 3 main topics of his letter and blesses his readers with the information thereof. The structure of the letter itself supports that reading, because each of these themes is developed throughout 2 Corinthians:
 
-- Grace of the Lord Jesus Christ: 2 Corinthians 1:12; 4:15; 8:9; 12:9; 13:13-14.
-- Love of God: 2 Corinthians 2:4; 5:14-15; 6:6; 8:7-9; 13:11.
-- Fellowship of the Holy Spirit: 2 Corinthians 1:21-22; 3:3-6; 6:6; 8:4; 9:13; 13:13.
+* Grace of the Lord Jesus Christ: 2 Corinthians 1:12; 4:15; 8:9; 12:9; 13:13-14.
+* Love of God: 2 Corinthians 2:4; 5:14-15; 6:6; 8:7-9; 13:11.
+* Fellowship of the Holy Spirit: 2 Corinthians 1:21-22; 3:3-6; 6:6; 8:4; 9:13; 13:13.
 
 In other words, Paul’s closing sounds less like a formal Trinitarian formula and more like a summary blessing that gathers together the major themes of the letter.
 
@@ -389,7 +389,7 @@ God does not need a recipient to possess the capacity of love. Just as God had t
 
 If the Son was an Immortal God, how did He [die](https://kingdom.ofgod.info/christ/crucifixion)?
 
-A typical response would be that the Son reincarnated from God to man and then back to God again. However, that reasoning also clashes with scripture that states that God does not change: Malachi 3:6; Numbers 23:19; Psalm 102:25–27.
+A typical response would be that the Son became man and then returned to God. However, that reasoning also clashes with scripture that states that God does not change: Malachi 3:6; Numbers 23:19; Psalm 102:25–27.
 
 Therefore it is essential that Christ should not be an immortal God otherwise his [crucifixion](https://kingdom.ofgod.info/christ/crucifixion) was only a show.
 
@@ -508,12 +508,12 @@ The author mentions:
 | Complexity: Complex to reason, witness or share the Gospel of God                                                                              | Clarity: Simple to explain and the Gospel is easy to understand                                                                                                                     |
 | Confusion: Cannot understand the "[mysteries of God](https://church.ofgod.info/terms/mystery)"                                                 | Clarity: No contradictions                                                                                                                                                          |
 | Idolatry: Potentially [worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                     | Clarity: Only [1 God to serve and worship](https://eternal.family.net.za/god/son/essence/as-god/worship)                                                                            |
-| Christianity: Live only for the [glory of Jesus](https://eternal.family.net.za/god/son/essence/as-god/claims/glory)                            | Purpose: [The Father is the purpose of our existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6)      |
-| Outsiders: [The Godhead is complete](godhead.md), we are outsiders (sinners)                                                                   | Adopted: As the Father accepted Jesus as His Son, [so can we be adopted](https://eternal.family.net.za/god/family) too                                                              |
-| No miracles: [A Jesus God does miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles), which is impossible for us | Miracles: [Jesus did miracles by God's Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) [which we can also receive](https://eternal.family.net.za/god/spirit) |
-| No sacrifice: A Jesus God could escape suffering (we won't know)                                                                               | Sacrifice: [Jesus was 100% human, therefore he earns our highest honour](https://eternal.family.net.za/god/son/essence/as-god/sacrifice)                                            |
-| Doubt: If Jesus was not really dead (immortal God), we have no proof of a resurrection                                                         | Assurance: If [God truly resurrected Jesus from the death](https://eternal.family.net.za/god/son/essence/as-god/resurrected), He can do the same for us                             |
-| Limited empathy: A Jesus God could not fully understand our suffering                                                                          | Real empathy: A human [Jesus understand our struggles 100%](https://eternal.family.net.za/god/son/essence#how-jesus-relates-to-his-father-and-disciples)                            |
+| Christianity: Some adherents live only for the [glory of Jesus](https://eternal.family.net.za/god/son/essence/as-god/claims/glory)             | Purpose: [The Father is the purpose of existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6)           |
+| Outsiders: [The Godhead is complete](godhead.md), adherents are outsiders (sinners)                                                            | Adopted: As the Father accepted Jesus as His Son, [people can be adopted](https://eternal.family.net.za/god/family) too                                                            |
+| No miracles: [A Jesus God does miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles), which is impossible for adherents | Miracles: [Jesus did miracles by God's Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) which people can also receive |
+| No sacrifice: A Jesus God could escape suffering (adherents will not know)                                                                      | Sacrifice: Jesus was 100% human, therefore he earns the highest honour                                            |
+| Doubt: If Jesus was not really dead (immortal God), adherents have no proof of a resurrection                                                  | Assurance: If [God truly resurrected Jesus from the death](https://eternal.family.net.za/god/son/essence/as-god/resurrected), He can do the same for people                        |
+| Limited empathy: A Jesus God could not fully understand human suffering                                                                         | Real empathy: A human [Jesus understand people's struggles 100%](https://eternal.family.net.za/god/son/essence#how-jesus-relates-to-his-father-and-disciples)                     |
 | Fake witness: A Jesus-Father who is the same person is no witness at all.                                                                      | True witness: Jesus with a distinct free will is a true witness with God (John 8:17-18)                                                                                             |
 | Unrealistic standards: It's impossible to live like a Jesus God                                                                                | Realistic standards: Jesus set a realistic standard to live by                                                                                                                      |
 | Obscure: Prevents monotheistic religions like Jews and Muslims from believing Christ                                                           | Accessible: Much more approachable to monotheistic religions like Jews and Muslims                                                                                                  |
@@ -522,7 +522,7 @@ The author mentions:
 
 Having examined the historical evidence, biblical references, and logical consistency of Trinitarian doctrine, you now face a choice.
 
-Will you accept tradition simply because "that's what the church teaches," or will you search the Scriptures yourself like the Bereans in Acts 17:11?
+Will you accept tradition simply because "that's what some churches teach," or will you search the Scriptures yourself like the Bereans in Acts 17:11?
 
 I'm not asking you to abandon your faith. I'm asking you to deepen it. Here's what you can do:
 

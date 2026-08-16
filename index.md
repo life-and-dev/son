@@ -51,10 +51,10 @@ At Jesus' transfiguration, God repeated this declaration in the presence of Pete
 
 The voice could have said:
 
-* *"This is Me in human form, listen to Me"*
-* *"This is a member of the Godhead, listen to him"*
-* *"This is your new God, listen to him"*
-* *"This is My human body, listen to it"*
+* *"This is your new God, listen to him"* (Bitheism)
+* *"This is My human body, listen to it"* (Partialism)
+* *"This is Me in human form, listen to Me"* (Incarnation)
+* *"This is a member of the [Godhead](godhead.md), listen to him"* ([Trinitarianism](trinity.md))
 
 But instead, God specifically said: "**This is My beloved Son**, listen to **him**" — affirming a Father-Son relationship where the Father appoints Jesus as the worthy but separate ruler and heir to [His kingdom](https://kingdom.ofgod.info). Peter also testified in 2 Peter 1:16-18 that this was his understanding.
 
@@ -401,7 +401,7 @@ God's first messianic prophecy points to this truth:
 
 > I will put enmity between you and the woman, and between **your offspring and her offspring**; he shall bruise your head, and you shall bruise his heel. — Genesis 3:15 (ESV)
 
-Notice the unusual wording: "**the seed of the woman**" — not the seed of a man. In ancient times, seed typically referred to the father's contribution. Yet this prophecy emphasizes the woman's offspring.
+Notice the unusual wording: "**the seed of the woman**" — not the seed of a man. In ancient times, seed typically referred to a human male’s contribution. Yet this prophecy emphasizes the woman's offspring.
 
 This could imply that the Christ would be formed from a woman's contribution without a man's seed, foreshadowing the virgin birth. However, we must be cautious about reading modern biology into ancient prophecy. The ancient Hebrews did not understand reproduction as we do today. What we can say with certainty is that the prophecy distinguished the Messiah's origin as unique — from the woman, defeating the serpent — which was fulfilled in Jesus' virgin birth through the Holy Spirit.
 

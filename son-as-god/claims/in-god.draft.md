@@ -1,11 +1,8 @@
----
-title: Jesus claim to be "in" God
-published: true
----
+# To Be "In" God
 
 > I will not leave you as orphans; I will come to you. Yet a little while and **the world will see me no more, but you will see me**. Because I live, you also will live. -- John 14:18-19 (ESV)
 
-Jesus will return one day to collect God's children so that they can live with him and their Father.
+Jesus promises to come to his disciples and says that because he lives, they also will live.
 
 > In that day you will know that **I am in my Father, and you in me, and I in you**. -- John 14:20 (ESV)
 
@@ -25,18 +22,10 @@ Jesus continue in the next chapter to explain how this relationship work:
 
 In other words, when believers "abide in" Jesus or Jesus "lives in" believers, that does not turn them into Jesus. Likewise, Jesus does not turn into God when God lives in him or when he submits under God's authority and do His will or when people get to know the Father through the way Jesus presented the Father to them.
 
-> When used in the sense of “in God,” or “in Christ,” the word “in” refers to a close communion, a tight fellowship. It was part of the covenant language of the day, when people spoke of being either “in” or “cut off from” the covenant.
->
-> -- Morgridge, pp. 116 and 117  
-> -- Racovian Catechism, pp. 142 and 143  
-> -- [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/verses/john-14-11) 
+# Jesus Claims to Be “In” God
 
-Jesus also prayed (not to Himself, but to the Father):
+Trinitarians read the Father and Son being “in” one another in John 14:10–11 and John 17:20–23 as mutual indwelling that points to their unique shared divine nature. This is a serious reading of language that describes an intimate relation between the Father and the Son.
 
-> I do not ask for these only, but also for those who will believe in me through their word, that **they may all be one, just as You, Father, are in me, and I in You, that they also may be in us**, so that the world may believe that You have sent me.
->
-> The glory that You have given me I have given to them, that **they may be one even as we are one, I in them and You in me, that they may become perfectly one**, so that the world may know that You sent me and loved them even as You loved me.
->
-> Father, I desire that they also, whom You have given me, **may be with me where I am, to see my glory that You have given me** because you loved me before the foundation of the world. O righteous Father, even though the world does not know You, **I know You**, and these know that You have sent me. **I made known to them Your name, and I will continue to make it known**, that the love with which You have loved me **may be in them, and I in them**.
->
-> -- John 17:20-26 (ESV)
+In its context, John 17:20–26 is a prayer for people who would later believe through the apostles’ message. Jesus asks that these believers may be one and may be in the Father and the Son, as the Father is in him and he is in the Father (John 17:20–23). Since the same relational unity is requested for human believers, “in” language by itself does not establish a shared divine identity.
+
+Jesus’ relation to the Father is unique because he is the Son sent and authorised by God (John 10:36; John 14:10). Yet these passages distinguish the Father who sends and the Son who obeys. They support profound unity without directly saying that Jesus is YHVH or a coequal person in God.

@@ -2,6 +2,7 @@
 description: Jesus made many claims that could be interpreted as divine. This page lists those claims and provides links to detailed articles about each claim.
 keywords: divine, divinity, Jesus is God
 ---
+
 # Jesus' "Divine" Claims
 
 * [Jesus claims that you receive God when you receive him](claims/receive-god.md)

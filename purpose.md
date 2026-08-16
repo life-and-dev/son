@@ -25,7 +25,11 @@ Therefore...
 
 ## The Way
 
-Jesus was not intended to be the final destination, but instead he is "the way" to God.
+Trinitarians commonly read John 14:6 and John 14:9-11 as grounding Jesus’ unique access to the Father in the Son’s [divine identity](son-as-god.md).
+
+In the immediate setting, however, Jesus comforts disciples before his departure, reveals the Father through his words and works, and says that the Father is greater than he is (John 14:1-11,28). John 14:6 therefore identifies Jesus as God’s unique [Messiah](https://kingdom.ofgod.info/christ).
+
+Jesus was not intended to be the final destination, but instead he is "the way" (mediating Messiah) to God.
 
 > This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth. For there is [one God](shema.md), and there is one **mediator between God and men**, the man [Christ](christ/christ.draft.md) Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time. — 1 Timothy 2:3-6 (ESV)
 
@@ -65,7 +69,7 @@ This was Nicodemus' witness:
 
 This was also confirmed by Paul:
 
-> To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of [Christ](christ/christ.draft.md), and **to bring to light for everyone what is the plan of the mystery hidden for ages in God** Who created all things, so that **through the church the manifold wisdom of God might now be made known** to the rulers and authorities in the heavenly places.
+> To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of [Christ](https://kingdom.ofgod.info/christ), and **to bring to light for everyone what is the plan of the mystery hidden for ages in God** Who created all things, so that **through the church the manifold wisdom of God might now be made known** to the rulers and authorities in the heavenly places.
 >
 > **This was according to the eternal purpose that He has realized in Christ Jesus our Lord**, in whom we have boldness and access with confidence through our faith in him.
 > 
@@ -132,4 +136,3 @@ Good deeds cannot save:
 ## Conclusion
 
 Jesus' life and ministry served a clear, unified purpose. He came as [the Way](#the-way) to reconcile humanity and provide access to the Father. As [the Truth](#the-truth) as he preached the good news of [the kingdom of God](https://kingdom.ofgod.info), bore witness to the truth, and fulfilled the scriptures. Finally, as [the Life](#the-life), he offered himself as a sacrifice to conquer [death](https://kingdom.ofgod.info/death) and give [life](https://kingdom.ofgod.info/life) to those who believe.
-

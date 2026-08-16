@@ -9,19 +9,20 @@ The question of whether Jesus should be called "God" has been a central and ofte
 
 ## The Flexible Meaning of "God"
 
-The word ["God" has many different meanings](https://eternal.family.net.za/bible/concepts/god). In ancient Hebrew and Greek, the words for "god" (`Elohim` and `Theos`) were used with a degree of flexibility that is unfamiliar to modern English speakers. These terms were not always reserved for the supreme, Almighty God. On several occasions in the Old Testament, the title `Elohim` is applied to human leaders, such as kings and judges, to signify their authority as representatives of God (Exodus 7:1; Psalm 45:6–7). This historical context is crucial for understanding how the early followers of Jesus might have understood titles of divinity. Consider that [human kings and heroes were often also called "gods" by both Hebrew and Greek speakers](https://eternal.family.net.za/bible/concepts/god).
+The word ["God" has many different meanings](https://word.ofgod.info/terms/god). In ancient Hebrew and Greek, the words for "god" (`Elohim` and `Theos`) were used with a degree of flexibility that is unfamiliar to modern English speakers. These terms were not always reserved for the supreme, Almighty God. On several occasions in the Old Testament, the title `Elohim` is applied to human leaders, such as kings and judges, to signify their authority as representatives of God (Exodus 7:1; Psalm 45:6–7). This historical context is crucial for understanding how the early followers of Jesus might have understood titles of divinity. Consider that [human kings and heroes were often also called "gods"](https://word.ofgod.info/terms/god) by both Hebrew and Greek speakers.
 
 ## What Scripture Affirms About the Son
 
 The New Testament attributes extraordinary power and authority to Jesus. The majority of Christians agree that the scriptures affirm that Jesus:
 
-* [Will judge humanity and forgive sins](https://eternal.family.net.za/son/essence/as-god/forgiveness) (Matthew 10:32-33; John 5:22; 1 John 2:1; Mark 2:10)
-* [Will return with an army of angels](https://eternal.family.net.za/son/essence/as-god/return) (Matthew 16:27-28)
+* Has the authority to forgive sins (Mark 2:5,10)
+* Has the authority to heal (John 4:46-54, 5:8-9)
+* Has the authority over death (John 5:21; Revelation 1:17-18)
+* Will judge humanity (John 5:22; 2 Corinthians 5:10)
+* Will return with an army of angels (Matthew 16:27-28)
 * Will rule over the world (Matthew 28:18; Psalm 2:8-12; Isaiah 42:1-4; Hebrews 2:7-8; Philippians 2:10-11)
-* [Has the authority to heal](https://eternal.family.net.za/son/essence/as-god/miracles) (John 4:46-54, 5:8-9)
-* [Has authority over death](https://eternal.family.net.za/son/essence/as-god/resurrected) (John 5:21; Revelation 1:17-18)
 * Looks after his people (John 10:14)
-* [Is eternal](https://eternal.family.net.za/son/essence/as-god/eternal) (Revelation 1:17-18)
+* Is eternal (Revelation 1:17-18)
 
 These passages clearly establish a unique and exalted status for the Son. However, the question remains whether these affirmations equate to the title "God" in the absolute, monotheistic sense.
 

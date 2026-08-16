@@ -12,19 +12,15 @@ keywords: "The Authority of Jesus, god, son, authority"
 
 He inherited the nations (Psalm 2:8), therefore He has great authority (Psalm 2:9; Isaiah 42:1-4; Philippians 2:10)
 
-With his authority he can destroy or protect people (Psalm 2:12, Matthew 10:34)
+With authority given to him by the Father, he will judge humanity and execute judgement (John 5:22,27; Acts 17:31).
 
 # Jesus as our Lord
 
-> God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord (Master), to the glory of God the Father -- Philippians 2:10
+Jesus Christ is Lord because God highly exalted him and gave him the name above every name (Philippians 2:9-11). Every confession that Jesus Christ is Lord is “to the glory of God the Father” (Philippians 2:11).
 
-* We should respect (translated as "kiss") our Lord (Psalm 2:11-12)
-* Jesus Christ = Lord (Philippians 2:11)
-* Different kinds of services: same Master / one body of Messiah (1 Corinthians 12:5,12-26)
-* Apostles and prophets is the foundation, Jesus Christ is chief corner stone (compared with building a holy temple in the Lord) (Ephesians 2:20)
-* Jesus should be loved more than his own life (Matthew 10:37-39)
+“Lord” gives Jesus real authority over his disciples and kingdom (Acts 2:36; Ephesians 1:20-22). It does not make him a rival to the Father, because that authority is received. At the end, the Son himself is subject to God, “that God may be all in all” (1 Corinthians 15:24-28).
 
-# Jesus as our Saviour 
+# Jesus as our Saviour
 
 * Confess/deny men (advocate) before the Father (Matthew 10:32-33, 1 John 2:1)
 * Abolished the Law of ordinances (Ephesians 2:15)
@@ -42,47 +38,14 @@ We must learn from Jesus (Matthew 11:29)
 
 # Jesus as the creator
 
-- Everything was created in/through the Son of God (John 1:10, Colossians 1:16-17, Hebrews 1:10, Hebrews 2:10)
-- the creation and maintenance of the universe (John 1:3; Colossians 1:16-17)
+The Father is the Creator and source of all things (Isaiah 44:24; Acts 17:24-25; 1 Corinthians 8:6). Jesus is the risen Lord through whom God now brings salvation and will judge the world (Acts 17:31; 1 Corinthians 8:6).
 
----
+John 1:1-3 and Colossians 1:16 are often read to mean that Jesus personally created the universe. John identifies the Word as being with God, while Colossians calls Christ the image of the invisible God and says that God reconciles through him (John 1:1; Colossians 1:15,19-20). These passages give Christ a central place in God’s purpose; they do not overturn the repeated confession that one God, the Father, is the source of all things (1 Corinthians 8:6).
 
-> Then Jesus told his disciples, “If anyone would come after me, let him wdeny himself and xtake up his cross and follow me. 25 For xwhoever would save his life7 will lose it, but whoever loses his life for my sake will find it. 26 For ywhat will it profit a man if he gains the whole world and forfeits his soul? Or zwhat shall a man give in return for his soul? 27 aFor the Son of Man is going to come with bhis angels in the glory of his Father, and cthen he will repay each person according to what he has done. -- Matthew 16:24-27 (ESV) 
+## Given Authority, Not Rival Authority
 
----
+Jesus has real universal authority, but Scripture repeatedly identifies its source. The Father “has given all judgment to the Son” (John 5:22,27), “has given all things into his hand” (John 3:35), and raised and seated him at His right hand (Ephesians 1:20-22). Jesus therefore acts as God’s appointed human Messiah, not as a rival to the one God.
 
-> Whoever has the Son has life; whoever does not have the Son of God does not have life. 1 John 5:12
+Philippians 2:6-11 is often read as proof that Jesus is God because every knee bows to him. Paul’s conclusion is decisive: God highly exalted Jesus and gave him the name, and every confession that Jesus Christ is Lord is “to the glory of God the Father” (Philippians 2:9-11). Isaiah 45:23 supplies the language of universal homage to God; Philippians shows the Father extending that honour through His obedient Son.
 
-How do you have the Son?
-
-Perhaps he meant "the testimony of the Son":
-
-> Whoever believes in the Son of God **has the testimony in himself**. Whoever does not believe God has made him a liar, because he has not believed in the testimony that God has borne concerning his Son. 1 John 5:10
-
----
-
-> God anointed Jesus of Nazareth with the Holy Spirit and with power Acts 10:38 (ESV)
-
----
-
-Prediction: Daniel 9:26-27
-
----
-
----
-
-> Behold, I am with you always, to the end of the age. -- Matthew 28:20 (ESV)
-
-> At that time Jesus declared, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will. All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him. -- Matthew 11:25-27 (ESV)
-
----
-
-Jesus, not Holy Spirit, taught Paul personally (Galatians 1:11-23)
-
----
-
-Jesus is called "eternal life" (1 John 1:1-2)
-
----
-
-Jesus is the only one who ever saw God: John 1:18 (NKJV); John 6:46; 1 John 3:6, 4:12; Exodus 33:20; Isaiah 64:4
+The final order remains clear. When every hostile authority has been subjected, the Son himself is subjected to the One who subjected all things to him, “that God may be all in all” (1 Corinthians 15:24-28).
