@@ -17,7 +17,7 @@ The first-century evidence therefore supplies language and texts later parties a
 
 ### Pre-Nicene writers
 
-Before Nicaea, Christian writers were already trying to describe the relation of God, God's Word or Son, and the Spirit. [Justin Martyr's *First Apology*](https://www.newadvent.org/fathers/0126.htm), a second-century primary text, speaks of Christian worship and teaching about the Father, Son, and prophetic Spirit. [Tertullian's *Against Praxeas*](https://www.tertullian.org/articles/evans_praxeas_eng.htm) uses triadic/Trinity language and distinguishes Father, Son, and Spirit before Nicaea.
+Before Nicaea, Christian writers were already trying to describe the relation of God, God's Word or Son, and the Spirit. [Justin Martyr's *First Apology*](https://www.newadvent.org/fathers/0126.htm), a second-century primary text, speaks of Christian worship and teaching about the Father, Son, and prophetic Spirit. [Tertullian's *Against Praxeas*](https://www.tertullian.org/articles/evans_praxeas_eng.htm) uses triadic language and his version of the Trinity distinguishes Father, Son, and Spirit before Nicaea.
 
 These texts are not a finished fourth-century Nicene system, and their authors did not all use later terms in the same way. They do show that disputes over divine identity, the Son, and the Spirit predated Constantine. The doctrines being contested at Nicaea were not created from nothing in 325.
 
@@ -27,13 +27,13 @@ These texts are not a finished fourth-century Nicene system, and their authors d
 
 Emperor Constantine convoked the Council of Nicaea in 325 after the controversy associated with Arius had divided Christians in the eastern empire. [The *Catholic Encyclopedia*'s account](https://www.newadvent.org/cathen/11044a.htm) reports more than 250 bishops in Eusebius's count, chiefly Greek attendees and a few named Latin representatives.
 
-The surviving canons and creed are available in a [New Advent hosted translation of the council's primary text](https://www.newadvent.org/fathers/3801.htm). This is a historical translation and source text, not neutral modern scholarship; it is useful for what the council's documents say.
+The surviving canons and creed are available in a [New Advent hosted translation of the council's primary text](https://www.newadvent.org/fathers/3801.htm). This is a historical translation and source text, not neutral modern scholarship. It is useful to understand what the council said.
 
 #### Creed and definition
 
 Nicaea's creed called the Son “true God from true God,” “begotten, not made,” and *homoousios*—of the same substance or being—with the Father, while condemning propositions such as “there was when he was not.” Its clause on the Holy Spirit was only “And in the Holy Spirit”; it did not yet provide the creed's later detailed Spirit language. The [hosted primary translation](https://www.newadvent.org/fathers/3801.htm) preserves those terms, and [Britannica's council article](https://www.britannica.com/event/First-Council-of-Nicaea-325) places them in the Arian controversy.
 
-For Nicene theology, this has a direct logical consequence: a Son who shares the Father's divine being and is “true God” is fully divine by definition. A doctrine that denies the Son's full divinity may be called Arian, subordinationist, Unitarian, or something else depending on its own claims, but it is not Nicene doctrine. That classification does not settle whether the Nicene reading of Scripture is correct; it states what the creed committed its adherents to.
+For Nicene theology, this has a direct logical consequence: a Son who shares the Father's divine being and is “true God” is fully divine by definition. A doctrine that denies the Son's full divinity may be called Arian, subordinationist, Unitarian, or something else depending on its own claims, but it is not Nicene doctrine. That classification does not settle whether the Nicene reading of Scripture is correct. It states what the creed committed its adherents to.
 
 ### Constantinople in 381
 

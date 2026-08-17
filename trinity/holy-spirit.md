@@ -22,9 +22,10 @@ Paul understood there is only one Holy Spirit:
 > For in **one** Spirit we were all baptized into one body (Jews or Greeks, slaves or free) and all were made to drink of **one** Spirit. — 1 Corinthians 12:13 (ESV)
 
 > There is
+>
 > * one body and **one Spirit** (just as you were called to the one hope that belongs to your call)
 > * one [Lord](https://kingdom.ofgod.info/christ),
-> * one [faith](https://eternal.family.net.za/eternal/saved/belief),
+> * one [faith](../shema.md),
 > * one [baptism](https://eternal.family.net.za/eternal/saved/baptize),
 > * one God and Father of all, who is over all and through all and in all.
 >
@@ -84,6 +85,7 @@ Some suggest that "one spirit" could mean a unity of members performing as "one"
 > Because there is one bread, **we who are many are one body**, for we all partake of the one bread. — 1 Corinthians 10:17 (ESV)
 
 However, Paul more likely meant the "unity of the Spirit" is the fellowship that the unified body of believers has with God's single, divine Spirit. The scriptures do not support the concept that believers are members of one spirit. Furthermore, believers (even when united) cannot:
+
 * Create life (Job 33:4)
 * Be the father of the Son of God (Matthew 1:18)
 * Proceed from the Father, as the Spirit does (John 15:26; Luke 24:49)
@@ -109,7 +111,7 @@ The Holy Spirit is omnipresent:
 > If I take the wings of the morning dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me.  
 > If I say, "Surely the darkness shall cover me, and the light about me be night," even the darkness is not dark to you; the night is bright as the day, for darkness is as light with you.
 >
->  — Psalm 139:7-12 (ESV)
+> — Psalm 139:7-12 (ESV)
 
 But the angels are not omnipresent:
 
@@ -250,23 +252,23 @@ Jesus states here that the Holy Spirit is another Helper and not Himself.
 > Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put **My Spirit upon him**; he will bring forth justice to the nations — Isaiah 42:1 (ESV)
 
 > I will mention the lovingkindnesses of ***the LORD*** *([YHWH](https://ofgod.info/name#YHWH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
-> 
-> For He said, “Surely they are My people, Children who will not lie.”
-> 
-> So He became their Savior. In all their affliction He was afflicted, and the Angel of His Presence saved them. In His love and in His pity He redeemed them; And He bore them and carried them. All the days of old. 
-> 
-> But they rebelled and grieved **His Holy Spirit**;
-> 
-> So He turned Himself against them as an enemy, and He fought against them. 
 >
-> Then he remembered the days of old, Moses and his people, saying: 
-> 
+> For He said, “Surely they are My people, Children who will not lie.”
+>
+> So He became their Savior. In all their affliction He was afflicted, and the Angel of His Presence saved them. In His love and in His pity He redeemed them; And He bore them and carried them. All the days of old.
+>
+> But they rebelled and grieved **His Holy Spirit**;
+>
+> So He turned Himself against them as an enemy, and He fought against them.
+>
+> Then he remembered the days of old, Moses and his people, saying:
+>
 > “Where is **He who brought them up out of the sea** with the shepherd of His flock?
 > Where is **He who put His Holy Spirit** within them, **Who led them** by the right hand of Moses, with His glorious arm, **dividing the water before them** to make for Himself an everlasting name, **Who led them through the deep**, as a horse in the wilderness, that they might not stumble?”
-> 
-> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](https://ofgod.info/name#YHWH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
-> 
->  — Isaiah 63:7-14 (NKJV)
+>
+> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](https://ofgod.info/name#YHWH))* causes him to rest, so You lead Your people, to make Yourself a glorious name.
+>
+> — Isaiah 63:7-14 (NKJV)
 
 Here Isaiah states that the LORD (YHWH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea, which implies that the Holy Spirit is the aspect of the LORD that interacts with His creation.
 
@@ -304,13 +306,13 @@ And Nehemiah wrote:
 > * And that I am the LORD your God, and none else,
 > * And my people shall never be ashamed,
 > * And it shall come to pass afterward, that I will pour out **My Spirit** upon all flesh;
->     * And your sons and your daughters shall prophesy,
->     * Your old men shall dream dreams,
->     * Your young men shall see visions.
+>   * And your sons and your daughters shall prophesy,
+>   * Your old men shall dream dreams,
+>   * Your young men shall see visions.
 > * And also upon the servants and upon the handmaids in those days will I pour out **My Spirit**.
 > * ...
 >
->  — Joel 2:27-29 (KJV), Acts 2:17
+> — Joel 2:27-29 (KJV), Acts 2:17
 
 ### The Holy Spirit Speaks God's Words
 
@@ -349,14 +351,14 @@ If the Holy Spirit were anyone or anything else, then Jesus' father would not be
 ### God Put His Spirit on Jesus
 
 > Yet He warned them not to make him known, that it might be fulfilled which was spoken by Isaiah the prophet, saying:
-> 
+>
 >> "Behold! My Servant whom I have chosen,
 >> My Beloved in whom My soul is well pleased!
 >> **I will put My Spirit upon him**"
->> 
->>  — Isaiah 42:1
-> 
->  — Matthew 12:16-18 (NKJV)
+>>
+>> — Isaiah 42:1
+>
+> — Matthew 12:16-18 (NKJV)
 
 ### Jesus Taught the Holy Spirit Comes From the Father
 
@@ -394,7 +396,7 @@ This New Testament passage quotes Isaiah 6:8-10, where the speaker is explicitly
 >
 > “For who has understood the **mind of the LORD** *(Isaiah 40:13)* so as to instruct him?”
 >
->  — 1 Corinthians 2:11-16 (ESV)
+> — 1 Corinthians 2:11-16 (ESV)
 
 ### Both God and the Holy Spirit Are Our Comforters
 
@@ -403,12 +405,12 @@ This New Testament passage quotes Isaiah 6:8-10, where the speaker is explicitly
 and
 
 > And I will pray the Father, and he shall give you another **Comforter**, that he may abide with you for ever.
-> 
+>
 > ...
-> 
+>
 > But **the Comforter, which is the Holy Ghost, whom the Father will send** in my name, He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
-> 
->  — John 14:16,26 (KJV)
+>
+> — John 14:16,26 (KJV)
 
 ### Paul Implies That the LORD (YHWH) Is the Spirit
 
@@ -418,14 +420,15 @@ and
 
 ### John Implies That the Spirit Is God
 
-> For there are three that **testify**: 
-> * **the Spirit** and 
-> * the water and 
-> * the blood; 
-> 
+> For there are three that **testify**:
+>
+> * **the Spirit** and  
+> * the water and  
+> * the blood;  
+>
 > and these three agree. If we receive the testimony of men, **the testimony of God** is greater.
-> 
->  — 1 John 5:7-9 (ESV)
+>
+> — 1 John 5:7-9 (ESV)
 
 God is not water or blood, which implies that the Spirit is God.
 
@@ -458,13 +461,13 @@ Jesus did not mention the Holy Spirit in his prayer, because fellowship is **wit
 ### Jesus Personifies the Holy Spirit
 
 > Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, ***[the Helper](https://biblehub.com/greek/3875.htm)*** will not come to you. But if I go, I will send ***Him*** to you. And when ***He*** comes, ***He*** will convict the world concerning sin and righteousness and judgment:
-> 
-> * concerning sin, because they do not believe in me; 
-> * concerning righteousness, because I go to the Father, and you will see me no longer; 
-> * concerning judgment, because the ruler of this world is judged. 
+>
+> * concerning sin, because they do not believe in me;
+> * concerning righteousness, because I go to the Father, and you will see me no longer;
+> * concerning judgment, because the ruler of this world is judged.
 >  
-> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, ***He*** will guide you into all the truth, for ***He*** will not speak on ***His*** own authority, but whatever ***He*** hears ***He*** will speak, and ***He*** will declare to you the things that are to come. ***He*** will glorify me, for ***He*** will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that ***He*** will take what is mine and declare it to you. 
-> 
+> I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, ***He*** will guide you into all the truth, for ***He*** will not speak on ***His*** own authority, but whatever ***He*** hears ***He*** will speak, and ***He*** will declare to you the things that are to come. ***He*** will glorify me, for ***He*** will take what is mine and declare it to you. **All that the Father has is mine**; therefore I said that ***He*** will take what is mine and declare it to you.
+>
 > — John 16:7-15 (Capitalized ESV)
 
 > [!TIP]
@@ -484,8 +487,8 @@ In John's own framework, he states a few verses later in the next chapter:
 
 So Jesus's message is not about knowing three persons, but about two persons:
 
-1. God the Father and 
-2. Jesus the Christ
+1. [God the Father](https://ofgod.info) and
+2. Jesus [the Christ](https://kingdom.ofgod.info/christ)
 
 ### Lying to the Holy Spirit
 
@@ -522,7 +525,7 @@ The reasoning is that God does not need an intercessor, and that the Spirit's in
 
 However, the Unitarian response is that in the context of the letter, Paul is speaking about the Spirit helping ["us", the believers] in our weakness, not about the Spirit's intercession before God. This is further eviden in verse 31:
 
-> What then shall we say to these things? 
+> What then shall we say to these things?
 > If God is for us, who can be against us?
 >
 > — Romans 8:31 (ESV)
@@ -538,11 +541,13 @@ This could be understood that it is God Himself, through His Spirit, helping our
 ### The Holy Spirit's Personality
 
 Often [Trinitarians](../trinity.md) point out that the Holy Spirit has attributes of personality, such as:
+
 * **A mind:** *"For the Spirit searches everything, even the depths of God."* (1 Corinthians 2:10)
 * **A will:** *"All these are empowered by one and the same Spirit, who apportions to each one individually as he wills."* (1 Corinthians 12:11 / 12:4-7)
 
 Unitarians respond that:
-* **The Spirit is God's own mind/will:** Just as a human's spirit has the thoughts and will of that human but is not a separate person, the Spirit of God is the Father's own mind and will at work. 
+
+* **The Spirit is God's own mind/will:** Just as a human's spirit has the thoughts and will of that human but is not a separate person, the Spirit of God is the Father's own mind and will at work.
 * **Personification:** Scripture frequently personifies non-personal things for literary effect. For example, Wisdom is described as having a voice and building a house (Proverbs 8-9). Similarly, Sin and Death are described as reigning like kings (Romans 5:14). Describing the Spirit as having a mind or will is simply a personification of God's active power.
 
 ### Fellowship With the Holy Spirit
@@ -562,7 +567,7 @@ There is no evidence that Paul meant fellowship should be "*with* the Holy Spiri
 ## Conclusion
 
 * Scriptural evidence indicates that there is [only one Holy Spirit](#there-can-only-be-one-holy-spirit) who has been active throughout history, [including the pre-ascension era](#was-active-before-jesus-ascended).
-* The Holy Spirit cannot be defined as a [unity of believers](#the-holy-spirit-cannot-be-a-unity-of-believers), a [created angel](#the-holy-spirit-cannot-be-an-angel), or a [separate agent](#the-holy-spirit-cannot-be-a-separate-agent-of-god) from God the Father.
+* The Holy Spirit cannot be defined as a [unity of believers](#the-holy-spirit-cannot-be-a-unity-of-believers), a [created angel](#the-holy-spirit-cannot-be-an-angel), or a [separate agent](#the-holy-spirit-cannot-be-a-separate-person-from-the-father) from God the Father.
 * Biblical accounts demonstrate that the Holy Spirit [is not Jesus Christ Himself](#the-holy-spirit-cannot-be-jesus-himself), as the Spirit led, anointed, and raised Him.
 * The scriptures identify the Holy Spirit as [God Himself](#the-holy-spirit-is-god)—specifically the Father's own presence and inner spirit that proceeds from Him.
 * Theological arguments regarding the Spirit's personality and fellowship can be explained through [personification](#jesus-personifies-the-holy-spirit).
