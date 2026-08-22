@@ -13,9 +13,9 @@ What troubles me most is how this question divides the body of Christ. Accusatio
 
 ## History of Christianity
 
-[The Church History](https://church.ofgod.info/evolution) indicates that initially [Christianity](https://church.ofgod.info/evolution/1st-c-christians) was considered [a minor sect](https://en.wikipedia.org/wiki/History_of_Christianity) among many pagan religions. However, by the fourth century, Christianity spread so much that the pagan Roman Emperor Constantine decided to support it. This enabled Christians to build [state-sponsored church structures](https://church.ofgod.info/evolution/312-constantine) and institutional hierarchies to establish order among the citizens. 
+[The Church History](https://church.ofgod.info/evolution) indicates that initially [Christianity](https://church.ofgod.info/evolution/1st-c-christians) was considered [a minor sect](https://en.wikipedia.org/wiki/History_of_Christianity) among many pagan religions. However, by the fourth century, Christianity spread so much that the pagan Roman Emperor Constantine decided to support it. This enabled Christians to build [state-sponsored church structures](https://church.ofgod.info/evolution/312-constantine) and institutional hierarchies to establish order among the citizens.
 
-However, to encourage Christianity and to restore peace in the empire, certain aspects were [merged with pagan religions](https://church.ofgod.info/evolution/312-constantine). For example, Jesus was considered the emperor's sun god so that both Christians and pagans have the freedom to continue their traditions. 
+However, to encourage Christianity and to restore peace in the empire, certain aspects were [merged with pagan religions](https://church.ofgod.info/evolution/312-constantine). For example, Jesus was considered the emperor's sun god so that both Christians and pagans have the freedom to continue their traditions.
 
 This led to [great debates about the divinity of Jesus](https://church.ofgod.info/evolution/325-nicaea-creed). Bishop Arius challenged the view that Jesus was co-eternal with God. These debates caused a split in the church such that Arius's less popular view was considered Arianism.
 
@@ -36,12 +36,12 @@ Less popular Arian-biased bible translations include:
 * NEV used by the Christadelphians
 * NWT used by the Jehovah's Witnesses
 
-Unpopular Unitarian-biased bible translations include: 
+Unpopular Unitarian-biased bible translations include:
 
 * Belsham's Unitarian New Testament and Newcome's Translation used mainly for historical theological studies
 * [REV](https://www.revisedenglishversion.com/) used by Spirit & Truth Fellowship International
 
-Fortunately, today we have access to interlinear bibles that provide word-by-word translations of Hebrew and Greek manuscripts that pre-dates the Vulgate and Nicene Creed. Some of these can be found online at websites like [Bible Hub](https://biblehub.com/interlinear/), [Blue Letter Bible](https://www.blueletterbible.org), [STEP Bible](https://www.stepbible.org) and [Bible Study Tools](https://www.biblestudytools.com) or downloaded from [Berean Bible](https://bereanbible.com), [MySword](https://www.mysword.info/) and [Scripture4All](https://www.scripture4all.org). 
+Fortunately, today we have access to interlinear bibles that provide word-by-word translations of Hebrew and Greek manuscripts that pre-dates the Vulgate and Nicene Creed. Some of these can be found online at websites like [Bible Hub](https://biblehub.com/interlinear/), [Blue Letter Bible](https://www.blueletterbible.org), [STEP Bible](https://www.stepbible.org) and [Bible Study Tools](https://www.biblestudytools.com) or downloaded from [Berean Bible](https://bereanbible.com), [MySword](https://www.mysword.info/) and [Scripture4All](https://www.scripture4all.org).
 
 ### Concerns
 
@@ -92,11 +92,11 @@ Jesus quoted this prophecy himself:
 
 > So Jesus said to them... "For if you believed Moses, you would believe me; for he wrote of me. But if you do not believe his writings, how will you believe my words?" — John 5:19,46-47 (ESV)
 
-This interpretation of the prophecy was also confirmed by Peter (Acts 3:22-26). 
+This interpretation of the prophecy was also confirmed by Peter (Acts 3:22-26).
 
 In addition, it was also prophesied:
 
-* that the Christ would be a human as promised to Adam and Eve (Genesis 3:15) and Moses (Deuteronomy 18:15-19 & John 5:46-47, Acts 3:22-26) 
+* that the Christ would be a human as promised to Adam and Eve (Genesis 3:15) and Moses (Deuteronomy 18:15-19 & John 5:46-47, Acts 3:22-26)
 * that the Christ would be a Jew (Jeremiah 30:21; Micah 5:2-5; Matthew 2:5-6) because his forefathers would be Judah (Genesis 49:10; Jeremiah 30:21; Micah 5:2-5 & Matthew 2:5-6) and Jesse (Isaiah 11:1)
 * that the Christ would be born (Psalm 2:7) and confirmed by (Acts 13:16, 32-33)
 * that the Christ would have a God (Psalm 110:1; Micah 5:2-5 confirmed by Matthew 2:5-6; Matthew 22:41-46 (ESV); Mark 12:35–37; Luke 20:40–44)
@@ -190,7 +190,7 @@ Instead:
 
 * Jesus said that [he is a man](son-of-man/human.md) (John 8:39-40)
 * Jesus said that [he is not God](https://eternal.family.net.za/god/son/essence/not-god#jesus-denies-being-god) (Matthew 19:17; John 5:19,43-47; 8:49-50,54; 17:1-3)
-* Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17) 
+* Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17)
 * Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
 
 The term ["only-begotten son"](index.md) comes from the Greek words [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) which could technically mean "the only offspring of God". Jesus was not just another ["son of God"](https://eternal.family.net.za/god/sons-of-god) like Adam, Israel and many others. Jesus was "the only-begotten son of God" (John 1:14; 3:16 (KJV); 1 John 4:9 (KJV)) which implies he must have inherited something directly from God at his conception. This is significant because:
@@ -256,7 +256,7 @@ Trinitarians believe that [the Son is "equal" to the Father](https://eternal.fam
 
 Now, some Trinitarians will argue that it was only the human-part of Jesus that served God and that it is no longer the case because Jesus is now exalted. If this was true, Jesus would not need to pray to God after he was exalted (​Luke 24:30).
 
-Paul who wrote his letters after Jesus' exaltation, teaches that even though Jesus is our Lord in his exalted state, Jesus still intercedes for believers (​Romans 8:34). This would not have been necessary if he was God himself. 
+Paul who wrote his letters after Jesus' exaltation, teaches that even though Jesus is our Lord in his exalted state, Jesus still intercedes for believers (​Romans 8:34). This would not have been necessary if he was God himself.
 
 In addition Paul also wrote that Jesus still submit and serve God (1 Corinthians 3:23; 11:3; 15:28; Romans 6:10). Even Peter confirms this (Acts 3:13; 4:27-30 ESV), although some translations translated ["servant" as "child"](https://eternal.family.net.za/god/son/essence/of-god/parent).
 
@@ -279,7 +279,7 @@ It would not be necessary for the Holy God to go through a ceremony of cleansing
 
 ### Jesus' purpose
 
-If Jesus was God, he would have recruited disciples for his own benefit, but instead [God sent Jesus](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (Galatians 4:4-5) to preach the good news of the kingdom of God (Luke 4:42-44). 
+If Jesus was God, he would have recruited disciples for his own benefit, but instead [God sent Jesus](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (Galatians 4:4-5) to preach the good news of the kingdom of God (Luke 4:42-44).
 
 Jesus identified himself as "[the way](https://eternal.family.net.za/god/son/essence/not-god/mediator)... to [the Father](https://eternal.family.net.za/god/father)" (John 14:6; 1 Timothy 2:5) which implies there is a bigger [God](https://eternal.family.net.za/god) (1 Corinthians 3:23; 11:3; 15:28).
 
@@ -287,14 +287,14 @@ God had given up His ***only*** and ***beloved*** Son, and God had to watch him 
 
 ### Jesus temptation
 
-**God cannot be tempted** (James 1:13), yet Jesus was tempted (Hebrews 4:15). 
+**God cannot be tempted** (James 1:13), yet Jesus was tempted (Hebrews 4:15).
 
 Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](https://eternal.family.net.za/god/son/essence/of-god/temptations).
 
 In short the devil was basically saying:
 
 1. That God is a bad God, because God "failed" to provide bread to Jesus.
-2. Then the devil offered an alternative plan to Jesus: authority, glory, and deliverance of all the kingdoms in exchange for worshipping the devil instead of God. When Jesus declined, 
+2. Then the devil offered an alternative plan to Jesus: authority, glory, and deliverance of all the kingdoms in exchange for worshipping the devil instead of God. When Jesus declined,
 3. the devil tried to make Jesus doubt in God's protection.
 
 None of these temptations would make any sense if Jesus was God. Yet the devil did not make a mistake, but knew exactly who God was (James 2:19).
@@ -326,7 +326,7 @@ Many people confuse:
 | [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) | Humbling oneself to pay respect to a very important person, like bowing or kneeling       | yes                    |
 | [sacrificial worship](https://word.ofgod.info/terms/worship#sacrificial-worship)   | Serving God with a sacrifice (valuable gift)                                              | no                     |
 
-All of the above are often referred to as ["worship"](https://word.ofgod.info/terms/worship) by modern English speakers which is the root cause of confusion and debates regarding the topic why the disciples 'worshipped' Jesus. 
+All of the above are often referred to as ["worship"](https://word.ofgod.info/terms/worship) by modern English speakers which is the root cause of confusion and debates regarding the topic why the disciples 'worshipped' Jesus.
 
 The disciples were [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) to Jesus as their king. This is indicated by their actions, but often translated described as "worship" in the Greek source text. The distinction is that this kind of worship is "worship" only without "serving" a sacrifice.
 
@@ -340,7 +340,7 @@ Yet, we have the examples of Stephen, Paul and John who [communicated with Jesus
 
 #### Jesus' name
 
-Praying or acting "in the name of Jesus" is no way of addressing Jesus. In modern English "name" means designation, but [the original Greek phrase](https://word.ofgod.info/terms/name) means to act in the authority of someone more important. For example, when the Roman officials taxed the Jews in the name of Caesar, it means they have his permission to act as delegates to do their job. Likewise, when Jesus' disciples act or pray in the name of Jesus, it means they are requesting God to do something so that they can act with the permission of Jesus. 
+Praying or acting "in the name of Jesus" is no way of addressing Jesus. In modern English "name" means designation, but [the original Greek phrase](https://word.ofgod.info/terms/name) means to act in the authority of someone more important. For example, when the Roman officials taxed the Jews in the name of Caesar, it means they have his permission to act as delegates to do their job. Likewise, when Jesus' disciples act or pray in the name of Jesus, it means they are requesting God to do something so that they can act with the permission of Jesus.
 
 ## What This Means for You
 

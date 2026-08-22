@@ -5,41 +5,46 @@ keywords: Son of Man, Messiah, Genesis 3:15, Jesus humanity, Son of God, Adam ty
 
 # The Son Of Man
 
-I've encountered countless discussions where Christians assume that calling Jesus "the Son of Man" means God came to earth as a man. This interpretation seems straightforward at first. After all, if Jesus is God, and Jesus calls himself "the Son of Man", then naturally God must have become a man. But then the Jews may point out:
+I've encountered countless discussions where Christians assume that calling Jesus "the Son of Man" means God came to earth as a man. This interpretation seems straightforward at first. After all, if Jesus is God, and Jesus calls himself "the Son of Man", then naturally God must have become a man. But then the [Unitarians](unitarianism.md) may point out:
 
 > "**God is not a man**, that He should lie, **nor a son of man**, that He should repent. — Numbers 23:19 (NKJV)
 
 What if the title "Son of Man" actually points to something completely different? What if we've been missing the deeper meaning all along?
 
-In Genesis the same Hebrew name that is often translated as ["Adam" also means "man"](https://biblehub.com/hebrew/120.htm).
+## Intepretations
+
+In general "son of man" refers to any general human in contrast to the spiritual realm or other creatures. This is evident from the book of Ezekiel where Ezekiel is repeatedly called "the son of man", Job 16:21, 25:6, 35:8; Psalm 8:4, 80:17, 144:3, 146:3, Isaiah 51:12, 56:2; Jeremiah 50:40, 51:43; Daniel 8:17; etc.
+
+
+
+### Son of Adam
+
+In Genesis the same Hebrew name that is often translated as ["Adam" also means "man"](https://biblehub.com/hebrew/120.htm). For example:
 
 > So God created **man** in his own image... — Genesis 1:27 (ESV)
 
-and
+Most Bible translations continue to use the term "the man" in Genesis 2 until Eve was created.
 
-> The LORD God formed **the man** of dust from the ground and breathed into his nostrils the breath of life, and **the man** became a living creature. And the LORD God planted a garden in Eden, in the east, and there he put **the man** whom he had formed. — Genesis 2:7-8 (ESV)
-
-and
-
-> The LORD God took **the man** and put him in the garden of Eden to work it and keep it.
->
-> And the LORD God commanded **the man**, saying, “You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”  
-> Then the LORD God said, “It is not good that **the man** should be alone; I will make him a helper fit for him.”
->
-> Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to **the man** to see what he would call them. And whatever **the man** called every living creature, that was its name. **The man** gave names to all livestock and to the birds of the heavens and to every beast of the field. But for *Adam* *(which also is the same word for "[Man](https://biblehub.com/hebrew/120.htm)")* there was not found a helper fit for him. So the LORD God caused a deep sleep to fall upon **the man**, and while he slept took one of his ribs and closed up its place with flesh. And the rib that the LORD God had taken from **the man** he made into a woman and brought her to **the man**.
->
-> Then **the man** said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of **Man**.”
->
-> — Genesis 2:15-23 (ESV)
-
-Then God gave [His Word](word.md) to Eve:
+God gave His [word](word.md) to Eve:
 
 > I *(God)* will put enmity between you *(the devil)* and the woman *(Eve)*, and between your offspring and **her offspring**;  
-> He *(Jesus)* shall bruise your head, and you shall bruise his heel.”
+> **He** shall bruise your head, and you shall bruise his heel.”
 >
 > — Genesis 3:15 (ESV, with interpretive notes added for clarity)
 
-The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, [He promised that Eve's offspring would bruise the devil's head](https://prophecies.ofgod.info/messianic/genesis-3-15).
+The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, [He promised that Eve's offspring would bruise the devil's head](https://prophecies.ofgod.info/messianic/genesis-3-15). Because this offspring could be considered the son of Adam (man) it potentially refer to Jesus would accomplish.
+
+A possible interpretations is that this was [God's word that given in the beginning](word.md) of which John 1 wrote. In that context the "He" in Genesis 3:15 would refer to Jesus.
+
+### Daniel's Prophecy
+
+Most commonly "the Son of Man" is understood as a Messianic title according to Daniel's prophecy:
+
+> “I saw in the night visions, and behold, with the clouds of heaven there came one like a **son of man**, and he came to the Ancient of Days and was presented before him. And to him was given **dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed**. — Daniel 7:13-14 (ESV)
+
+This means "the Son of Man" is a very important title.
+
+## Jesus Identity
 
 When Jesus asked the question:
 
@@ -50,8 +55,6 @@ The Jews did not answer *"God as a man"*, but instead...
 > they said, “Some say **John the Baptist**, others say **Elijah**, and others **Jeremiah** or **one of the prophets**.” — Matthew 16:14 (ESV)
 
 The Jews expected that "the Son of Man" means one of their prophets instead of an incarnated god.
-
-Eve was the wife of "Man". So when Jesus says he is the "son of Man" this indicates he is that promised "son of Man" that will bruise the head of the "snake".
 
 ## The authority of the Son of Man
 
