@@ -41,6 +41,7 @@ This article examines the Biblical account of Jesus's temptations in the wildern
 ## The Nature of the Temptations
 
 The devil's temptations challenged:
+
 1. Jesus's identity: "if you are the Son of God..."
 2. Jesus's faith in God's provision: instead of waiting for God, "command these stones to become loaves of bread"
 3. Jesus's faith in God's protection: "throw yourself down ... they will bear you"

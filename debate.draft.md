@@ -337,3 +337,134 @@ Unitarians understand God as Father alone, Jesus as fully human Messiah, and Spi
 - **Heresy labels grew through Ignatius, Irenaeus, and Nicaea — Unitarian argument:** [Heresy labels grew through Ignatius, Irenaeus, and Nicaea](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Development need not mean doctrine was invented](son-as-god/claims/good.md#addressing-counter-arguments).
 - **Trinitarians are antichrists — Unitarian argument:** [Trinitarians are antichrists](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Polemic label needs textual and historical justification](son-as-god/claims/good.md#addressing-counter-arguments).
 - **Trinitarians are heretics under earliest church criteria — Unitarian argument:** [Trinitarians are heretics under earliest church criteria](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Early sources are contested and cannot be reduced to slogan](son-as-god/claims/good.md#addressing-counter-arguments).
+
+---
+
+# Trinitarian Model
+
+```mermaid
+graph TD
+    subgraph Trinity
+        Father((God the Father)) <-- coequals\ndistinct person --> Son
+        Father <-- coequals\ndistinct person --> Spirit
+        Son(Jesus) <-- coequals\ndistinct person --> Spirit
+        Spirit(Holy Spirit)
+    end
+    subgraph Dual Nature of Jesus
+        Son -- Immortal\nand\nall mighty --> SonOfGod(Son of God)
+        Son -- Mortal\nand\nlimited --> SonOfMan(Son of Man)
+        SonOfGod <-- same person --> SonOfMan
+    end
+    Father ..-> 1God[/1 God\n=\n3 persons/]
+    Son ..-> 1God
+    Spirit ..-> 1God
+    1God -- exalted Himself,\nlove Himself,\nglorify Himself,\nmediate Himself --> 1God
+    subgraph No space in Trinity
+        Mankind((Mankind)) 
+    end
+    1God -- grace --> Mankind
+    Mankind -- faith --> 1God
+```
+
+# Trinitarian Argument
+
+```mermaid
+graph TD
+    subgraph Divinity of Jesus
+        Word(Word = Jesus) -- word = God\nso\nJesus = God --> JesusGod[/Jesus = God/]
+        Thomas(Thomas\ncalled Jesus\n'God') --> JesusGod
+        Hebrews1(Hebrews 1) --> JesusGod
+        Revelation4(Throne Room\nVision) -- interpret all\nworship\nthe Lamb --> JesusGod
+        ServeWorship((Sacrificial worship\nonly to God)) --> Worship{mix\n2 types of\nworship}
+        HonorWorship((Homage worship\nkings or God)) --> Worship
+        Worship --> JesusGod
+        JesusGod --> DualNature{Dual Natures\nof\nJesus}
+        DualNature -- John 1\n'word become flesh' =\nGod incarnated --> SonOfMan(Son of Man\n=\nhuman)
+        SonOfMan --> JesusMan
+        Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) -- incomplete\nrevelation --> JesusMan
+        Temptations((Jesus'\nTemptations)) -- Only human part\nwas tempted --> JesusMan
+        JesusMan((Jesus = Man)) -- limits himself --> JesusDied[/Only Jesus' body died/]
+        JesusDied --> JesusRose[/Jesus rose himself from dead/]
+        DualNature -- divine nature --> SonOfGod[/Son of God\n=\n'God' the Son/]
+        SonOfGod --> JesusSpirit(Paul mention\n'Spirit of Jesus')
+        JesusSpirit --> Miracles[/Miracles\ndemo Jesus' power/]
+        Miracles -- immortal\ndivine nature --> JesusRose
+    end
+
+    subgraph Persoonhood of Holy Spirit
+        Interchangable(('Spirit' and 'God'\nused interchangably\nin Acts)) --> SpiritGod(Spirit = God)
+        Provebs((Proverbs\nWisdom)) -- applied to HS --> SpiritPerson(Spirit = God)
+        Personification((personification\npronouns)) -- applied\nliterally --> SpiritPerson
+        SpiritGod --> SpiritPerson[/Spirit = distinct person/]
+    end
+    
+    subgraph Creed: Reconcile Trinity with Monotheism
+        SonOfGod -- see Jesus\n=\nsee Father --> JesusIsFather
+        JesusIsFather{Jesus = Father} --> CoEqual
+        FatherGod((Father = God = YHWH)) -- YHWH = LORD\nbut\nLord = Jesus --> JesusIsFather
+                
+        UsCreation(Pronoun 'us'\nused at Creation,\nbut 1 God) --> Trinity
+        Baptism(Baptism\n'Formula') -- 3 names --> Trinity[/God = 3\nTrinity Persons/]
+        3visitors((3 Lords\nvisited Abraham)) -- applies as\nTrinity members --> Trinity
+        Mystery((Mystery)) -- excuse\ncontradictions--> Trinity
+        JesusGod --> Trinity
+        SpiritPerson --> Trinity
+        Trinity --> Creed
+        Creed[/Creed/] --> CoEqual[/Father = Jesus = Spirit/]
+        
+        JesusSpirit --> CoEqual
+        CoEqual[/Father = Jesus = Spirit/] -- resolve\n3 = 1\ncontradiction --> 1God((1 God))
+        Shema((Shema\n=\nonly 1 God)) -- 1 is not 1\n1 = unity --> 1God
+        1God -- since Jesus = 1 God --> JesusRose
+    end 
+```
+
+# Unitarian Model
+
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    subgraph Mankind
+        Father -- send with\nGod's word\nand\nauthority --> Son((Son of Man\nas delegated\nking / mediator))
+        Father -- empower\nvia\nSpirit --> Son
+        Son -- send with\nGod's word\nand\nauthority --> Disciples((Disciples))
+        Disciples -- trust\nserve in love --> Father
+        Disciples -- serve in love --> Disciples
+        Disciples -- apply God's authority\nto\nspread God's word --> World((World))
+        World -- accept\nor\nreject\nGod's word --> Disciples
+        Father -- empower\nvia\nSpirit --> Disciples
+    end
+```
+
+# Unitarian Argument
+
+```mermaid
+graph TD
+    subgraph Only 1 God
+        Creator((1 Creator)) --> 1God
+        Pronouns((Single\npronounce)) --> 1God
+        ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) --> Shema
+        Shema((Shema)) --> 1God
+        NoOtherGod((God said\n'No Other God')) --> 1God
+    end
+
+    1God((Only 1 God)) --> FatherGod((God the Father))
+    YHWH((YHWH)) -- only Father,\nnot Jesus--> FatherGod
+    
+    ServeWorship((Sacrificial\nworship)) -- only God--> FatherGod
+    HonorWorship --> FatherGod
+    HonorWorship((Homage\nworship)) -- homage\nallowed --> Jesus((Jesus = Human Messiah))
+
+    FatherGod --> Prophecies((Prophecies about\nIsraeli Messiah)) -- John 1\n'word become flesh' \n=\nwitnessed prophetic fulfillment --> Birth
+    Birth((Jesus was born)) -- `Jesus increase` or `grow` --> Jesus
+    Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) --> Jesus
+    FatherGod -- empower via\nGod's Spirit --> Miracles((Miracles)) -- Proof\nGod authorized\nJesus --> Jesus
+    FatherGod <-- interaction:\nloves,\nglorifies,\nserve,\netc. --> Jesus
+    FatherGod --> Declaration((God publically declared\nJesus is His Son)) -- Proof God's love --> Jesus
+    FatherGod --> JesusRose((Jesus risen by God))
+    Jesus --> JesusDied((Jesus died\nfor real))
+    
+    JesusDied --> JesusRose
+```

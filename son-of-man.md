@@ -182,4 +182,3 @@ Applied by Jesus, it is also [Daniel's royal messianic title](#daniels-prophecy)
 [Paul’s Adam comparison](#jesus-compared-to-adam) calls Jesus a human representative counterpart to Adam.
 
 None of these makes the title a name for God or proof of divine incarnation.
-

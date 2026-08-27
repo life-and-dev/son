@@ -89,13 +89,7 @@ However, this word is missing in the New King James Version (NKJV) from the same
 
 Biblical Unitarians often argue that [there is only one God](shema.md).
 
-However, [Trinitarians](trinity.md) argue that "God is one" actually means "God is unified". This interpretation proposes that God is a unification of three united members.
-
-[Jason Dulle](https://www.onenesspentecostal.com/echad.htm) argues "echad" the Hebrew word in question:
-
-> [Echad](https://word.ofgod.info/semantics/echad) is used nearly 1000 times in the OT, and almost always refers to a single numerical entity.  There are times when it is used of a composite entity (Genesis 2:24).  It functions just like the English word “one,” which can be used of single or composite entities, although it most often refers to a single, solitary thing.  Only the context can determine how echad is being used.  Given the rarity with which echad is used to refer to a composite entity, we should understand echad as referring to a single entity unless there are good contextual clues that warrant the uncommon meaning.
-
-However, in the context of [the Shema](shema.md) nothing suggest a unified God.
+However, [Trinitarians](trinity.md) argue that "God is one" actually means "God is unified". This interpretation proposes that God is a unification of three united members. However, in the context of [the Shema](shema.md) [nothing suggest a unified God](https://word.ofgod.info/semantics/echad).
 
 Further more "echad" should also be [compared with the Greek word "heis"](https://word.ofgod.info/semantics/echad) when New Testament authors quote [the Shema](shema.md) in Greek.
 
@@ -142,11 +136,15 @@ However, Mike Leake from [Bible Study Tools](https://www.biblestudytools.com/bib
 
 ### God Created In Partnership
 
-> Then God said, “Let **us** make [man](https://biblehub.com/hebrew/120.htm) in **our** image, after **our** likeness. — Genesis 1:26 (ESV)
+> Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
+>
+> So God created man in his own image,
+>
+> in the image of God he created him;
+>
+> male and female he created them. — Genesis 1:26-27 (ESV)
 
 It is also unlikely that a Jewish Monotheistic religion would copy or translate the text incorrectly like this.
-
-Unfortunately the scripture does not name who or what the co-author is or was and what exactly was meant by this verse. So this is open for debate and different interpretations:
 
 #### The Trinity Co-Created
 
@@ -201,15 +199,23 @@ Children also reflect the image of their human parents, often physically but cou
 
 [Trinitarians](trinity.md) reason that members within the Godhead were having a meeting. However, the next verses read:
 
-> ... therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken. He drove out the man, and at the east of the garden of Eden he placed **the cherubim** and a flaming sword that turned every way to guard the way to the tree of life. — Genesis 3:23-24 (ESV)
+> ... therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken. **He** drove out the man, and at the east of the garden of Eden he placed **the cherubim** and a flaming sword that turned every way to guard the way to the tree of life. — Genesis 3:23-24 (ESV)
 
-God was more likely ordering "the cherubim" who was also in partnership with God.
+Note that God's pronoun is single "He" in the next sentence. God was more likely ordering "the cherubim" who were also in partnership with God.
 
 #### Genesis 11:7
 
 > Come, let **us** go down and there confuse their language, so that they may not understand one another’s speech. — Genesis 11:7 (ESV)
 
 God as [the LORD of hosts](https://ofgod.info) was possibly speaking to His angels ("hosts") to "confuse their language".
+
+### Isaiah 6:8
+
+> And I heard the voice of the Lord saying, “Whom shall I send, and who will go for **us**?” Then I said, “Here I am! Send me.” — Isaiah 6:8 (ESV)
+
+The relevant Hebrew is *lānû* (לָנוּ), "for us". It is the preposition *lǝ* ("for") with a first-person common-plural pronominal suffix. The preceding verbs are singular: *ʾešlaḥ* (אֶשְׁלַח, "shall I send") and *yēleḵ* (יֵלֶךְ, "will go"). The verse therefore combines singular and plural forms without specifying the addressee of "us".
+
+Isaiah 6 places the plural within a throne-room vision attended by seraphim (Isaiah 6:1-7), making a divine-council comparison especially natural. Trinitarians may instead understand the wording as compatible with intra-divine speech, and self-deliberation is also proposed. The verse does not specify the addressee or define divine persons. It therefore cannot, by itself, establish co-equal, co-eternal persons or disprove a Trinitarian reading.
 
 ## Singular Pronouns
 
@@ -267,4 +273,4 @@ Based on Greek translations of these two verses it would mean:
 
 ## Conclusion
 
-The concept of the Godhead represents a recurring theme of inquiry throughout historical and modern theology. Examining the [translations](#translations) reveals a nuance in how English terms map to original Greek concepts concerning God's nature. Grammatically, the use of [singular pronouns](#singular-pronouns) supports an understanding of God as a singular entity. Furthermore, the analysis of the words [*echad*](#the-unified-god) and [*elohim*](#the-plural-god) helps clarify the contextual applications of unity and plurality when used for the Creator. Finally, studying the [Greek lexicon](#greek-lexicon) showcases how distinct actions are attributed to the Father, the Son, and the Spirit, providing deeper clarity into the nature of the Godhead.
+The concept of the Godhead represents a recurring theme of inquiry throughout historical and modern theology. Examining the [translations](#translations) reveals a nuance in how English terms map to original Greek concepts concerning God's nature. Grammatically, the use of [singular pronouns](#singular-pronouns) supports an understanding of God as a singular entity. Furthermore, the analysis of the words [*echad*](https://word.ofgod.info/semantics/echad) and [*elohim*](#the-plural-god) helps clarify the contextual applications of unity and plurality when used for the Creator. Finally, studying the [Greek lexicon](#greek-lexicon) showcases how distinct actions are attributed to the Father, the Son, and the Spirit, providing deeper clarity into the nature of the Godhead.

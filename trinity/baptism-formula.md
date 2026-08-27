@@ -108,6 +108,7 @@ The biblical example illustrates this usage:
 ## Conclusion
 
 This analysis demonstrates that the controversy over Matthew 28:19's textual validity and interpretation may miss the broader theological point. Whether the trinitarian formula is original or represents a later development, baptism theologically involves the Father, Son, and Holy Spirit. Baptism cannot be accomplished without:
+
 * the Father, because he has to permit us to be adopted as His children (Psalm 68:5; Romans 8:14; Galatians 3:26; Ephesians 1:5),
 * God's Son, because he reconciled us by his blood so that we could be forgiven (Matthew 26:26-28; 1 John 1:7; Acts 20:28; Colossians 1:20; Ephesians 1:7; Hebrews 9:14,22; Hebrews 10:19; Hebrews 13:12; Luke 22:20) which allows us to become a new creation (John 3:3; 2 Corinthians 5:17; 1 Peter 1:23)
 * [the Holy Spirit](holy-spirit.md), because the Holy Spirit gives birth (life) to our spirit (John 3:5-6; John 6:63; Titus 3:5)

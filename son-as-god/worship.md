@@ -11,17 +11,23 @@ The evidence must be read in its wording, setting, recipient, and response. [Lex
 
 ## Two Biblical Concepts Hidden by “Worship”
 
-Modern English commonly uses “worship” only for devotion offered to God. Biblical vocabulary is more precise. The Greek verbs proskyneō and latreuō overlap in religious settings, but they do not describe the same thing.
+Modern English commonly uses “worship” only for devotion offered to God. Biblical vocabulary is more precise. The Greek verbs **proskyneō** and **latreuō** overlap in religious settings, but they do not describe the same thing.
 
 ### Proskyneō: Bowing and Homage
 
-Proskyneō describes bowing, prostration, or homage. Its meaning depends on recipient and context. It can describe worship of God, legitimate honour toward a ruler, or forbidden homage toward an idol.
+*Proskyneō* describes bowing, prostration, or homage. Its force depends on recipient and context. It can describe worship of God, legitimate honour towards a ruler, or forbidden homage towards an idol.
 
-Biblical translators often render [*proskyneō*](https://biblehub.com/greek/4352.htm) “worship.” Its lexical range includes bowing, prostration, and homage; the word does not specify by itself whether the recipient receives divine service.
+The lexical source used here is *A Greek-English Lexicon*, compiled by Henry George Liddell and Robert Scott, revised and augmented by Henry Stuart Jones with assistance from Roderick McKenzie, 9th edition (Oxford: Clarendon Press, 1940). The publicly accessible [Logeion entry for **proskyneō**](https://logeion.uchicago.edu/%CF%80%CF%81%CE%BF%CF%83%CE%BA%CF%85%CE%BD%CE%AD%CF%89) provides access to LSJ; Logeion is not LSJ’s publisher or source edition.
 
-In Jesus’ parable, “the servant **fell on his knees, imploring him**, ‘Have patience with me, and I will pay you everything.’” (Matthew 18:26).
+LSJ gives the sense “make obeisance”. It also records religious worship and acts of reverence. This range supports a limited point: **the verb itself does not automatically identify its recipient as Almighty God**. It does not by itself determine the theological significance of a particular occurrence.
 
-Likewise in the book of Revelation is written:
+In Jesus’ parable, “So the servant fell on his knees, imploring him, ‘Have patience with me, and I will pay you everything.’” (Matthew 18:26). The servant performs *proskyneō* before the king in the story. Matthew 20:20 uses the verb for a mother’s deferential approach and petition to Jesus.
+
+Other uses require a stronger reading from their settings. After Jesus walks on the sea, the disciples *proskyneō* him and confess, “Truly you are the Son of God” (Matthew 14:33). After the resurrection, the women take hold of his feet and *proskyneō* him; the disciples then *proskyneō* him in Galilee, though some doubt (Matthew 28:9, 17). These are contextually weightier Jesus-directed cases than ordinary court etiquette.
+
+The same verb can also mark an act that is refused or religious worship in Jerusalem. Cornelius falls at Peter’s feet and *proskyneō* him, but Peter raises him, saying, “Stand up; I too am a man” (Acts 10:25–26). Paul says he went to Jerusalem “to worship” (*proskyneō*) there (Acts 24:11).
+
+Likewise, Revelation says:
 
 > Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie⁠ — behold, I will make them come and **bow down before your feet** [*proskyneō*](https://biblehub.com/greek/4352.htm), and they will learn that I have loved you. — Revelation 3:9 (ESV)
 
@@ -36,13 +42,17 @@ The Hebrew bowing verb *hishtachawah* likewise describes homage, for example:
 
 ### Latreuō: Sacred Service
 
-Latreuō normally describes religious or cultic service. In the Septuagint, Israel must serve YHWH rather than other gods (Deuteronomy 6:13; Joshua 24:14–15). In the New Testament, it describes service offered to God in worship and priestly life (Philippians 3:3; Hebrews 9:14; Revelation 7:15).
+*Latreuō* normally describes religious or cultic service. The publicly accessible [Logeion entry for *latreuō*](https://logeion.uchicago.edu/%CE%BB%CE%B1%CF%84%CF%81%CE%B5%CF%8D%CF%89) provides access to LSJ, identified above. LSJ includes hired or servile service and service to gods with prayers and sacrifices. In the New Testament, the word is religious or cultic service, not a demonstrated ordinary usage for service to a human superior.
 
-Matthew 4:10 brings both concepts together: “You shall proskyneō the Lord your God, and him only shall you latreuō.” Proskyneō names the act of bowing or homage; latreuō names sacred service and allegiance that rightfully belong to God alone.
+Relevant New Testament uses include Matthew 4:10; Luke 1:74; Acts 7:7, 42; Acts 24:14; Romans 1:9, 25; Romans 12:1; and Philippians 3:3. These uses concern service offered to God or claimed to be offered to God. Acts 7:42 and Romans 1:25 also show wrongly directed service to created objects. Romans 12:1 calls believers’ bodies a *thysia* (“sacrifice”), while *latreia* describes their service.
 
-Latreuō can still describe idolatrous service as a condemned act. Romans 1:25 says people “served [latreuō] the creature rather than the Creator.” Therefore, the verb does not make idolatry legitimate; it identifies sacred service that was wrongly transferred from God to a creature.
+Matthew 4:10 and Luke 4:8 read: “κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις.” The two verbs are coordinated, but *monō* (“alone”) agrees with *autō* (“to him”) and directly restricts the recipient of *latreuseis* (“you shall serve”). It does not directly scope the preceding *proskynēseis* (“you shall worship”). Thus the grammar establishes exclusive *latreuō* for God; it does not by itself make an identical grammatical claim about every use of *proskyneō*.
 
-Matthew 4:8–10 supplies the stronger boundary. Satan seeks Jesus' allegiance, and Jesus answers from Deuteronomy: “You shall worship the Lord your God and him only shall you serve.” The verb [*latreuō*](https://biblehub.com/greek/3000.htm) commonly concerns religious or sacred service. Its range and frequent cultic use support a distinction between homage and God-exclusive service, but a lexicon cannot decide every passage without context. Sacrifice, priestly service, exclusive allegiance, prayers, and a narrative's approval or rebuke are relevant evidence.
+The allusion is related to, but not identical with, the Septuagint wording of Deuteronomy 6:13. The verified Swete text reads: “Κύριον τὸν θεόν σου φοβηθήσῃ καὶ αὐτῷ λατρεύσεις ...” It has no *monō*. The Gospel wording differs from this LXX wording.
+
+The Peshitta of Matthew 4:10 reads: “ܠܡܪܝܐ ܐܠܗܟ ܬܣܓܘܕ ܘܠܗ ܒܠܚܘܕܘܗܝ ܬܦܠܘܚ.” It is a Syriac translation witness, not evidence that determines the Greek syntax. Its “him alone” is likewise placed with “serve”.
+
+The immediate setting remains important. Satan seeks Jesus’ allegiance, and Jesus rejects him by invoking exclusive allegiance to the Lord God. For this reason, a Trinitarian reading that takes the *proskyneō* in Matthew 4 as divine worship is contextually serious despite the word’s range. A qualified Unitarian response is that the syntax and semantic range prevent the English pairing, or *proskyneō* alone, from proving that all Jesus-directed cases are worship of Almighty God. Those cases must be examined in their own contexts.
 
 ## Comparing Views
 

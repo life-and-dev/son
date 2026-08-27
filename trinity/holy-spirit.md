@@ -63,11 +63,11 @@ Paul understood there is only one Holy Spirit:
 
 ### While Jesus Was on Earth
 
-> When Jesus came into the region of Caesarea Philippi, he asked his disciples, saying,
-> "Who do men say that I, the Son of Man, am?"
-> So they said, "Some say John the Baptist, some Elijah, and others Jeremiah or one of the prophets."
-> He said to them, "But who do you say that I am?"
-> Simon Peter answered and said, "You are [the Christ](https://kingdom.ofgod.info/christ), the Son of the living God."
+> When Jesus came into the region of Caesarea Philippi, he asked his disciples, saying,  
+> "Who do men say that I, the Son of Man, am?"  
+> So they said, "Some say John the Baptist, some Elijah, and others Jeremiah or one of the prophets."  
+> He said to them, "But who do you say that I am?"  
+> Simon Peter answered and said, "You are [the Christ](https://kingdom.ofgod.info/christ), the Son of the living God."  
 > Jesus answered and said to him, "Blessed are you, Simon Bar-Jonah, for **flesh and blood has not revealed this to you, but my Father who is in heaven**. And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it. And I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 >
 > — Matthew 16:13-19 (NKJV)
