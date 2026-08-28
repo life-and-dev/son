@@ -5,7 +5,7 @@ keywords: Son of Man, Messiah, Genesis 3:15, Jesus humanity, Son of God, Adam ty
 
 # The Son Of Man
 
-I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *God incarnated as a man* or *the human part of God*. But then the [Unitarians](unitarianism.md) may point out:
+I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *[God incarnated as a man](son-of-man/human.md)* or *[the human part of God](son-of-man/human.md)*. But then the [Unitarians](unitarianism.md) may point out:
 
 > "**God is not a man**, that He should lie, **nor a son of man**, that He should repent. — Numbers 23:19 (NKJV)
 
@@ -120,7 +120,7 @@ The Jews did not answer *"God as a man"*, but instead...
 
 > they said, “Some say **John the Baptist**, others say **Elijah**, and others **Jeremiah** or **one of the prophets**.” — Matthew 16:14 (ESV)
 
-The Jews expected that "the Son of Man" means one of their prophets instead of an incarnated god.
+The Jews expected that "the Son of Man" means one of their prophets instead of an *incarnated god*.
 
 ## Jesus Authority
 
@@ -152,7 +152,7 @@ The list is incomplete and there are many such references about Jesus in the Gos
 
 ## Jesus Compared To Adam
 
-Although Paul does not use the title “Son of Man”, he does call Jesus “a man” and sets him as the representative counterpart to Adam:
+Although Paul does not use the title “Son of Man”, he does call Jesus “[a man](son-of-man/human.md)” and sets him as the representative counterpart to Adam:
 
 > For as by a man *(Adam)* came death, by **a man** *(Jesus)* has come also the resurrection of the dead.
 >
@@ -181,4 +181,6 @@ Applied by Jesus, it is also [Daniel's royal messianic title](#daniels-prophecy)
 
 [Paul’s Adam comparison](#jesus-compared-to-adam) calls Jesus a human representative counterpart to Adam.
 
-None of these makes the title a name for God or proof of divine incarnation.
+None of these makes the title a name for God or proof of divine incarnation. [Jesus was not an angelic being](son-as-angel.md), [nor divine superhuman](son-as-god.md), but a [genuine 100% human like one of us](son-of-man/human.md). This is not to be confused with [his role](purpose.md) and [authority](#jesus-authority) which are clearly above any other human leader that ever lived.
+
+Jesus is the [most important](https://kingdom.ofgod.info/christ#the-king) king and [he still reigns](https://kingdom.ofgod.info).
