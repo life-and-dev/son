@@ -340,32 +340,6 @@ Unitarians understand God as Father alone, Jesus as fully human Messiah, and Spi
 
 ---
 
-# Trinitarian Model
-
-```mermaid
-graph TD
-    subgraph Trinity
-        Father((God the Father)) <-- coequals\ndistinct person --> Son
-        Father <-- coequals\ndistinct person --> Spirit
-        Son(Jesus) <-- coequals\ndistinct person --> Spirit
-        Spirit(Holy Spirit)
-    end
-    subgraph Dual Nature of Jesus
-        Son -- Immortal\nand\nall mighty --> SonOfGod(Son of God)
-        Son -- Mortal\nand\nlimited --> SonOfMan(Son of Man)
-        SonOfGod <-- same person --> SonOfMan
-    end
-    Father ..-> 1God[/1 God\n=\n3 persons/]
-    Son ..-> 1God
-    Spirit ..-> 1God
-    1God -- exalted Himself,\nlove Himself,\nglorify Himself,\nmediate Himself --> 1God
-    subgraph No space in Trinity
-        Mankind((Mankind)) 
-    end
-    1God -- grace --> Mankind
-    Mankind -- faith --> 1God
-```
-
 # Trinitarian Argument
 
 ```mermaid
@@ -417,25 +391,6 @@ graph TD
         Shema((Shema\n=\nonly 1 God)) -- 1 is not 1\n1 = unity --> 1God
         1God -- since Jesus = 1 God --> JesusRose
     end 
-```
-
-# Unitarian Model
-
-```mermaid
-graph TD
-    subgraph God
-        Father(((The Father)))
-    end
-    subgraph Mankind
-        Father -- send with\nGod's word\nand\nauthority --> Son((Son of Man\nas delegated\nking / mediator))
-        Father -- empower\nvia\nSpirit --> Son
-        Son -- send with\nGod's word\nand\nauthority --> Disciples((Disciples))
-        Disciples -- trust\nserve in love --> Father
-        Disciples -- serve in love --> Disciples
-        Disciples -- apply God's authority\nto\nspread God's word --> World((World))
-        World -- accept\nor\nreject\nGod's word --> Disciples
-        Father -- empower\nvia\nSpirit --> Disciples
-    end
 ```
 
 # Unitarian Argument

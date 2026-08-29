@@ -42,13 +42,26 @@ Jesus quoted [the Shema](shema.md) that Moses declared according to Mark 12:29.
 
 According to 1 Corinthians 8:6, Paul also taught that only one God existed.
 
-#### ~96 AD: The Epistle of Clement
+Paul presents God as Christ’s head:
 
-A letter found where the Bishop of Rome states:
+> But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and **the head of Christ is God** — 1 Corinthians 11:3 (ESV)
 
-> The Apostles received the Gospel for us from the Lord Jesus Christ, Jesus the Christ was **sent from God**. **The Christ therefore is from God and the Apostles from the Christ**. In both ways, then, they were in accordance with the appointed order of God’s will. Having therefore received their commands, and being fully assured by the resurrection of our Lord Jesus Christ, and with faith confirmed by the word of God, they went forth in the assurance of the Holy Spirit preaching the good news that the Kingdom of God is coming... — [The Epistle of Clement to the Corinthians](https://lexundria.com/i_clem/42/lk)
+The Apostle Paul frequently used the phrasing "the God and Father of our Lord Jesus Christ" in his letters to the early churches: Ephesians 1:3; Ephesians 1:17, Romans 15:6; 2 Corinthians 1:3; 2 Corinthians 11:31
 
-Clement believed only one God exists, and he made a clear distinction between God and "the Lord Jesus Christ" and even "the Holy Spirit." However, Clement called neither Jesus nor the Holy Spirit "God." Instead, he implied they were God's agents.
+Paul's model:
+
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    Father -- power --> Christ
+    Father -- authority --> Christ
+    Father -- power --> Believers
+    Christ -- authority --> Believers
+```
+
+> For though He was crucified in weakness, yet **he lives by the power of God**. For we also are weak in Him, but **we shall live with Him by the power of God toward you**. — 2 Corinthians 13:4 (ESV)
 
 #### ~150 AD: The Apostle's Creed
 
@@ -60,6 +73,16 @@ The oldest Christian Creed states:
 
 Many Christians at that time agreed that there is a distinction between "God, the Father almighty" and "Christ Jesus, his only Son, our Lord".
 
+Early Apostle's Creed model:
+
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    Father -- Holy Spirit --> Christ[Christ]
+```
+
 Although all Trinity members are named in the creed, the actual vocabulary used in the text aligns with Unitarian theology because the authors did not clarify the Trinity.
 
 ### Divine Triad
@@ -70,9 +93,14 @@ In Book II, Chapter XV, Theophilus provides a symbolic commentary on the Creatio
 
 This is universally recognized as **the earliest surviving use of the Greek word *Trias* (Τριάς)** in Christian literature. However, unlike many modern Trinitarian Christians, Theophilus defines his triad as:
 
-1. "God"
-2. "[His Word](word.md)" (*Logos*)
-3. "His Wisdom" (*Sophia*)
+```mermaid
+graph TD
+    subgraph Traid
+        Father(((God)))
+        Word("Logos (Word)")
+        Wisdom("Sophia (Wisdom)")
+    end
+```
 
 > "In like manner also the three days which were before the luminaries, are types of *Trias*, **of God, and His Word, and His wisdom**. And the fourth is the type of man, who needs light, that so there may be God, the Word, wisdom, man. Wherefore also on the fourth day the lights were made." -- [Book II, Chapter XV of "To Autolycus"](https://ccel.org/ccel/theophilus/autolycus_ii/anf02.iv.ii.ii.xv.html)
 
@@ -93,6 +121,11 @@ Praxeas brought these ideas to Rome and North Africa. He famously drew the ire o
 [Sabellius was a Christian priest](https://en.wikipedia.org/wiki/Sabellius), the most famous proponent of this theology, and was therefore excommunicated by Pope Callixtus I. Sabellius wrote:
 
 > "Father, Son and Holy Ghost are **three names for the same God**"
+
+```mermaid
+graph TD
+    Father(((Father = Son = Holy Ghost)))
+```
 
 Modalism often compares God with water. Just as water has 3 modes (ice, water, gas), they believe God has 3 modes (Father, Son, Spirit).
 
@@ -129,6 +162,14 @@ Another popular example is:
 
 In the simplest terms, according to Subordinationism, the Father, Son, and Spirit are different parts of the same God.
 
+```mermaid
+quadrantChart
+    title God
+    quadrant-1 Father
+    quadrant-2 Son
+    quadrant-3 Spirit
+```
+
 This theology influenced Origen of Alexandria, who laid massive structural foundations for Christian theology.
 
 For example ["On Prayer" (De Oratione)](https://ccel.org/ccel/origen/prayer/prayer) in Chapter XV (15), Section 1–4, Origen systematically **argues against praying directly to the Son or the Holy Spirit as distinct final recipients**, maintaining instead that the ultimate object of worship and prayer must be God the Father alone (Case, 2006). However, because of the distinct roles within the Trinity, this prayer is offered by means of **the mediation of the Son** and is **empowered within the context of the Holy Spirit** (Rambo, n.d.).
@@ -144,6 +185,15 @@ This subordination clashes with the modern Trinity theology that *all are equal*
 ### Arianism
 
 In 318 AD, Arius from Alexandria began preaching his theology that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
+
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    Father -- authority --> Christ(The Son)
+    Christ -- authority --> Christians
+```
 
 ### Mystic Trinity
 
@@ -240,6 +290,45 @@ To solve this problem, some proponents of Nicene theology had to [change the def
 Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
 Some Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
+
+The Trinitarian model:
+
+```mermaid
+graph TD
+    subgraph "Trinity: 1 God = 3 Persons"
+        Father((The Father)) <-- coequals\ndistinct person --> Son
+        Father <-- coequals\ndistinct person --> Spirit
+        Son((The Son)) <-- coequals\ndistinct person --> Spirit
+        Spirit((Holy Spirit))
+    end
+    subgraph Dual Nature of Jesus
+        Son -- immortal\nand\nall mighty --> SonOfGod(Son of God)
+        Son -- mortal\nand\nlimited --> SonOfMan(Son of Man)
+        SonOfGod <-- same person --> SonOfMan
+    end
+    subgraph Mankind
+        Father -- grace --> Christians
+        Son -- grace --> Christians
+        Spirit -- grace --> Christians
+        Christians -- preach Christ --> World[Non-Christians]
+    end
+```
+
+The Biblical Model:
+
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    subgraph Mankind
+        Father -- send with\nGod's word\nand\nauthority --> Son[Son of Man\nas delegated\nking / mediator]
+        Father -- empowerd\nby\nSpirit --> Son
+        Son -- send with\nGod's word\nand\nauthority --> Disciples
+        Disciples -- send with\nGod's word\nand\nauthority --> World
+        Father -- empowerd\nby\nSpirit --> Disciples
+    end
+```
 
 ## Witnesses
 
