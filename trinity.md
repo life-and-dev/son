@@ -55,62 +55,57 @@ graph TD
     subgraph God
         Father(((The Father)))
     end
-    Father -- power --> Christ
-    Father -- authority --> Christ
-    Father -- power --> Believers
-    Christ -- authority --> Believers
+    Father -.->|power| Christ
+    Father -- lord --> Christ
+    Father -.->|power| Believers
+    Christ -- lord --> Believers
 ```
 
 > For though He was crucified in weakness, yet **he lives by the power of God**. For we also are weak in Him, but **we shall live with Him by the power of God toward you**. — 2 Corinthians 13:4 (ESV)
 
-#### ~150 AD: The Apostle's Creed
+### 165 AD: Justin Martyr’s Hierarchical Model
 
-The oldest Christian Creed states:
+[Justin Martyr](https://www.britannica.com/biography/Saint-Justin-Martyr) did not describe the later Nicene model of three coequal persons sharing one essence. His surviving writings present a **hierarchical order**:
 
-> I believe in **God, the Father almighty**.
->
-> And in **Christ Jesus, his only Son, our Lord**, who was **born of the Holy Spirit** of the virgin Mary, who was crucified under Pontius Pilate and was buried, the third day he rose from the dead...
+1. **The Father** is the only unbegotten God and Maker of everything.
+2. **The Son** is also called Logos and Wisdom. The Father begot him before all creatures. He is numerically distinct from and subject to the Father.
+3. **The prophetic Spirit** occupies third place. Justin associates the Spirit with prophecy but does not clearly explain the Spirit’s origin or ontological nature.
 
-Many Christians at that time agreed that there is a distinction between "God, the Father almighty" and "Christ Jesus, his only Son, our Lord".
+Justin calls the Father:
 
-Early Apostle's Creed model:
+> “the only unbegotten God” — Justin Martyr, [*First Apology* 14](https://www.newadvent.org/fathers/0126.htm#14)
+
+He places the Son and Spirit in an explicit order:
+
+> “He is the Son of the true God Himself, and holding Him in the second place, and the prophetic Spirit in the third” — Justin Martyr, [*First Apology* 13](https://www.newadvent.org/fathers/0126.htm#13)
+
+Justin identifies **Wisdom with the Son and Logos**, rather than treating Sophia as another divine member:
+
+> “the Son, again Wisdom … and then Lord and Logos” — Justin Martyr, [*Dialogue with Trypho* 61](https://www.newadvent.org/fathers/01285.htm#P61_2360)
+
+He says that the Father begot this Logos before creation:
+
+> “God begot before all creatures a Beginning, [who was] a certain rational power [proceeding] from Himself” — Justin Martyr, [*Dialogue with Trypho* 61](https://www.newadvent.org/fathers/01285.htm#P61_2360)
+
+Justin describes the Logos as distinct from the Father without being separated from the Father’s substance:
+
+> “this power … is indeed something numerically distinct” and was “begotten from the Father, by His power and will, but not by abscission” — Justin Martyr, [*Dialogue with Trypho* 128](https://www.newadvent.org/fathers/01289.htm#128)
+
+He also calls the Logos:
+
+> “another God and Lord subject to the Maker of all things” — Justin Martyr, [*Dialogue with Trypho* 56](https://www.newadvent.org/fathers/0128.htm#56)
 
 ```mermaid
 graph TD
-    subgraph God
-        Father(((The Father)))
-    end
-    Father -- Holy Spirit --> Christ[Christ]
+    Father((("Father\n(unbegotten God)")))
+    Logos["Son\n(Logos)"]
+    Spirit("Prophetic Spirit\n(Wisdom)")
+
+    Father -.-> |begets| Logos
+    Father --> |authorize| Logos 
+
+    Logos --> Spirit
 ```
-
-Although all Trinity members are named in the creed, the actual vocabulary used in the text aligns with Unitarian theology because the authors did not clarify the Trinity.
-
-### Divine Triad
-
-Around 180 AD, Theophilus of Antioch the 7th Bishop of Antioch penned a three-volume Greek defense of Christianity titled "Ad Autolycum" (To Autolycus). The work was written to his friend Autolycus, a highly educated, non-Christian pagan philosopher who had routinely mocked Christianity and criticized its monotheistic tenets.
-
-In Book II, Chapter XV, Theophilus provides a symbolic commentary on the Creation narrative in Genesis. When discussing the first three days of creation—which occurred before God created the sun, moon, and stars on the fourth day—Theophilus notes that these three days represent a ***divine triad***.
-
-This is universally recognized as **the earliest surviving use of the Greek word *Trias* (Τριάς)** in Christian literature. However, unlike many modern Trinitarian Christians, Theophilus defines his triad as:
-
-```mermaid
-graph TD
-    subgraph Traid
-        Father(((God)))
-        Word("Logos (Word)")
-        Wisdom("Sophia (Wisdom)")
-    end
-```
-
-> "In like manner also the three days which were before the luminaries, are types of *Trias*, **of God, and His Word, and His wisdom**. And the fourth is the type of man, who needs light, that so there may be God, the Word, wisdom, man. Wherefore also on the fourth day the lights were made." -- [Book II, Chapter XV of "To Autolycus"](https://ccel.org/ccel/theophilus/autolycus_ii/anf02.iv.ii.ii.xv.html)
-
-However, Theophilus also considered "God's Word" to be "His Son":
-
-> "The Divine Scriptures teach us that Adam had heard a voice. And what else is this voice, but **[the Word of God](https://word.ofgod.info), which is also His Son**... the Word which always existed eternally with God."
-
-And "Wisdom" is "the Holy Spirit":
-
-> He, then, being **Spirit of God**, and governing principle, and **wisdom**, and power of the Highest, came down upon the prophets, and through them spoke of the creation of the world..."
 
 ### Modalism
 
@@ -184,15 +179,15 @@ This subordination clashes with the modern Trinity theology that *all are equal*
 
 ### Arianism
 
-In 318 AD, Arius from Alexandria began preaching his theology that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
+In 318 AD, Arius from Alexandria began preaching [his theology](https://www.britannica.com/topic/Arianism) that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
 
 ```mermaid
 graph TD
-    subgraph God
+    subgraph God["God: sole unbegotten God"]
         Father(((The Father)))
     end
-    Father -- authority --> Christ(The Son)
-    Christ -- authority --> Christians
+    Father -->|"creates"| Christ["The Son\n(preexistent, created, subordinate)"]
+    Father -.->|"grants authority"| Christ
 ```
 
 ### Mystic Trinity
@@ -230,6 +225,19 @@ The council's version of the Trinity was:
 1. **"Homoousios"** (Of the Same Substance): The Son shares the exact same, identical divine substance. If the Father is the supreme, uncreated God, then the Son, sharing the same substance, is also the supreme, uncreated God.
 2. **"Begotten, Not Made"**: The Son was "not made" (not created), but instead was "begotten" (brought forth from the same kind, like humans delivering babies)
 3. **"True God from True God"**: The Son was not merely a "Second God" or a reflection of the true light.
+The Trinitarian model:
+
+```mermaid
+graph TD
+    subgraph "Trinity: 1 God = 3 Persons"
+        Father(("The Father\n(Almighty\nMake of All)")) -- "begotton" --> Son((The Son of God))
+        Father <-- "same being (essence)" --> Son
+        Father <-- distinct person --> Son
+        Spirit((Holy Spirit))
+    end
+    Son -- made flesh --> Jesus(Jesus Christ)
+    Jesus -- ascended --> Son
+```
 
 This theology is also not without problems:
 
@@ -285,50 +293,34 @@ To consolidate these points proponents of Nicene theology attempted:
 * To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
 * To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
 
-To solve this problem, some proponents of Nicene theology had to [change the definition of the word 'one'](godhead.md#the-unified-god): "It’s not one person, it’s one substance shared by three persons".
+To solve this problem, Trinitarians:
 
-Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
-
-Some Trinitarians will assert that the fundamental flaw in the Nicene reasoning is that they attempted to use finite, material language to define an infinite, immaterial reality. They argue **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
-
-The Trinitarian model:
+* [Change the definition of the word 'one'](godhead.md#the-unified-god): "It’s not one person, it’s one substance shared by three persons". This satisfy [the Shema](shema.md), every singular pronoun referring to God and the monotheistic belief while accommodating 3 distinct divine persons.
+* Define a **Dual-Nature** for Jesus Christ such that he can **simultaneous**:
+  1. be *the divine immortal allmighty omniscient omnipresent* "Son of God" to satisfy the Trinity doctrine, and
+  2. be the human "Son of Man" whenever a scripture require a human Jesus. Therefore Trinitarians have no problem to acknoledge that Jesus was a human even when the concept of a human Jesus contradict the Trinity.
 
 ```mermaid
 graph TD
     subgraph "Trinity: 1 God = 3 Persons"
-        Father((The Father)) <-- coequals\ndistinct person --> Son
-        Father <-- coequals\ndistinct person --> Spirit
-        Son((The Son)) <-- coequals\ndistinct person --> Spirit
+        Father((The Father)) <-- coequals --> Son
+        Father <-- distinct person --> Son
+        Father <-- coequals --> Spirit
+        Father <-- distinct person --> Spirit
+        Son((Jesus Christ)) <-- coequals --> Spirit
+        Son <-- distinct person --> Spirit
         Spirit((Holy Spirit))
     end
     subgraph Dual Nature of Jesus
-        Son -- immortal\nand\nall mighty --> SonOfGod(Son of God)
+        Son -- immortal\nand\nalmighty --> SonOfGod(Son of God)
         Son -- mortal\nand\nlimited --> SonOfMan(Son of Man)
         SonOfGod <-- same person --> SonOfMan
     end
-    subgraph Mankind
-        Father -- grace --> Christians
-        Son -- grace --> Christians
-        Spirit -- grace --> Christians
-        Christians -- preach Christ --> World[Non-Christians]
-    end
 ```
 
-The Biblical Model:
+Often abstract Greek philosophy and words like *hypostasis* and *consubstantiality* are used to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
-```mermaid
-graph TD
-    subgraph God
-        Father(((The Father)))
-    end
-    subgraph Mankind
-        Father -- send with\nGod's word\nand\nauthority --> Son[Son of Man\nas delegated\nking / mediator]
-        Father -- empowerd\nby\nSpirit --> Son
-        Son -- send with\nGod's word\nand\nauthority --> Disciples
-        Disciples -- send with\nGod's word\nand\nauthority --> World
-        Father -- empowerd\nby\nSpirit --> Disciples
-    end
-```
+Trinitarians find it hard to explain when Jesus is God and when Jesus is human and how these incompatible attributes could both be applied to the same person. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
 
 ## Witnesses
 

@@ -9,6 +9,20 @@ This document outlines the theological common ground and key distinctions betwee
 
 *Note: This comparison is specifically focused on these two fellowships and is not intended as an exhaustive survey of the wider Unitarian movement.*
 
+```mermaid
+graph TD
+    subgraph God
+        Father(((The Father)))
+    end
+    subgraph Mankind
+        Father -- sends to proclaim\nGod's word --> Son["Jesus\n('Lord' = King of Kings\n'Son of God' = Heir\n'Son of Man' = Messiah"]
+        Father -.-> |Spirit / power| Son
+        Son -- sends to proclaim\nGod's word --> Disciples
+        Disciples -- proclaim\nGod's word --> World
+        Father -.-> |Spirit / power| Disciples
+    end
+```
+
 ## One God
 
 Both fellowships point to one God, identified as the Father.
