@@ -3,7 +3,7 @@ description: The meaning of Jesus’ statement that he and the Father are one, c
 keywords: John 10:30, Jesus and the Father are one, Son of God, John 17 oneness, Psalm 82:6, biblical unity
 ---
 
-# One with the Father
+# Jesus Claims To Be One with the Father
 
 Jesus told His disciples:
 

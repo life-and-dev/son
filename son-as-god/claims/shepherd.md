@@ -3,7 +3,7 @@ description: An examination of whether Jesus calling himself the good shepherd i
 keywords: good shepherd, John 10, Ezekiel 34, divine title, biblical shepherd metaphor
 ---
 
-# The Good Shepherd
+# Jesus Claims To Be The Good Shepherd
 
 Scripture repeatedly applies shepherd imagery to God: Genesis 48:15, 49:24; Psalm 23:1, 28:9, 80:1; Isaiah 40:11; Jeremiah 31:10; Ezekiel 34:11-16; Micah 7:14.
 

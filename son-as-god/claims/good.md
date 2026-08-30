@@ -2,7 +2,7 @@
 description: Explore whether Jesus' claim to be the good shepherd implies he is God. This article examines the biblical distinction between intrinsic and noble goodness.
 keywords: Jesus good shepherd, Mark 10:18, Agathos, Kalos, divine nature, Jesus identity, biblical Greek goodness
 ---
-# Jesus is Good
+# Jesus Claim To Be Good
 
 The question of whether Jesus is God often centers on his own words and how he described himself. In a famous encounter with a rich young ruler, Jesus asked why he was being called good, stating that only God is good. Does this mean Jesus was denying his own goodness, or was he making a deeper point about his nature? By examining the original Greek terms and the role of Rabbis in the first century, we can uncover a more nuanced perspective on this classic theological debate.
 

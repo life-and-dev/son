@@ -3,7 +3,7 @@ description: Whether Matthew 11:27-30 and Jesus’ yoke imply divinity, explored
 keywords: Matthew 11:27-30, Jesus' yoke, Jesus' divinity, Trinity, Father and Son knowledge, rest for your souls, delegated authority, Matthew 10 context
 ---
 
-# Jesus’ Yoke and Authority
+# Jesus Claim His Yoke Is Easy
 
 > “**All things** have been handed over to me by My Father, and no one knows the Son except the Father, and no one knows the Father **except the Son** and anyone to whom **the Son chooses** to reveal him. **Come to me**, all who labor and are heavy laden, and **I will give you rest**. Take **my yoke** upon you, and learn from me, for I am gentle and lowly in heart, and **you will find rest for your souls**. For **my yoke** is easy, and my burden is light.” — Matthew 11:27-30 (ESV)
 

@@ -3,7 +3,7 @@ description: An exploration of the biblical claims regarding the omnipresence of
 keywords: Jesus, omnipresence, Matthew 18:20, Matthew 28:20, biblical interpretation, Christology, spiritual presence
 ---
 
-# Jesus Claims to Be Omnipresent
+# Jesus Claims To Be Omnipresent
 
 Many Christians believe that Jesus is omnipresent, pointing to his promises to
 be with his followers always. This article examines the scriptures often used to

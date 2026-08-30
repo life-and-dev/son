@@ -3,7 +3,7 @@ description: Examines the biblical significance of Jesus' throne and whether it 
 keywords: Jesus throne, Son of Man, God's throne, Revelation 3:21, Matthew 25:31, 1 Chronicles 29:23, David's throne, Solomon's throne
 ---
 
-# Jesus Sitting on the Glorious Throne
+# Jesus Claims The Throne
 
 The biblical description of Jesus sitting on a glorious throne is often used to support the argument for his divinity. However, a broader examination of
 scripture reveals that sitting on a throne, even the throne of God, is not an honor exclusive to God alone. This article explores how the Bible uses throne

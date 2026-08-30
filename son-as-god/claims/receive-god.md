@@ -3,7 +3,7 @@ description: This article explores Jesus' statement that receiving him is equiva
 keywords: Jesus, receive God, representation, divine agency, Matthew 10:40, envoy, biblical unity
 ---
 
-# Receiving God When Receiving Jesus
+# Jesus Claims That You Receiving God When Receiving Him
 
 Many readers of the New Testament encounter passages where Jesus appears to equate himself with God. One such example is his statement that receiving him is equivalent to receiving the one who sent him. While some interpret this as a claim to divinity, others see it as a clear expression of the biblical principle of agency. This article explores how the context of representation and the role of an envoy help clarify the meaning of Jesus' words.
 

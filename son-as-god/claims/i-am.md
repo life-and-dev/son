@@ -3,7 +3,7 @@ description: Exploring the meaning of Jesus' "I am" statement in John 8:58 and i
 keywords: John 8:58, Exodus 3:14, ego eimi, ho on, Septuagint, pre-existence, deity of Christ, I AM WHO I AM, biblical interpretation
 ---
 
-# Jesus Said "I Am"
+# Jesus Claims To Be The "I Am"
 
 Could Jesus’ words, “before Abraham was, I am,” settle the claim that John 8:58 equals Exodus 3:14 and therefore identifies Jesus as YHWH? The verbal connection deserves serious attention. Yet the question also requires care about Hebrew and Greek wording, literary context, and the difference between a text’s wording and a later theological conclusion.
 

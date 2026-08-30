@@ -3,7 +3,7 @@ description: Explore the biblical distinction between the Father as the source o
 keywords: Jesus the Life, John 5:26, Eternal Life, Source of Life, Son of God, Biblical Christology
 ---
 
-# Jesus Claim to Be the Life
+# Jesus Claim To Be The Life
 
 The Gospel of John features several "I am" statements from Jesus, including his assertion that he is "the life." This claim invites an examination of how Jesus relates to the Father and the role he plays in granting eternal life to humanity. Understanding whether Jesus is the ultimate source of life or the channel through which God gives it provides a clearer perspective on his mission.
 

@@ -2,7 +2,7 @@
 description: Explore the biblical meaning of Jesus' claim to be the "light of the world" and how it compares to God being called light in the Old and New Testaments.
 keywords: Jesus the light, light of the world, John 8:12, God is light, biblical metaphors, christology, unitarianism, lamp of God
 ---
-# Jesus' Claim to Be the Light
+# Jesus' Claim To Be The Light
 
 Many people find the metaphor of light to be a powerful description of divinity. When Jesus said he was the light of the world, does it mean he was claiming to be God? This article explores how the Bible uses the metaphor of light for God, for Jesus, and even for his followers.
 
