@@ -1,15 +1,15 @@
 ---
 description: This article explores the biblical evidence of the relationship between Jesus and God, examining prophecies, Jesus's words, and apostolic witness.
 keywords: Jesus, God, distinct beings, trinity, kenosis, son of God, bible study, theology
-reviewed: true
 ---
+
 # Jesus Interacted With God
 
 The Bible depicts numerous interactions between Jesus and God, raising questions about their distinct identities. This article explores the biblical evidence of their relationship, examining prophecies, Jesus's own words, and the witness of the apostles to shed light on their divine connection.
 
 Jesus and God interacted with each other in various ways, for example:
 
-* [God anointed Jesus](#john-the-baptist-s-testimony) (Acts 10:38)
+* [God anointed Jesus](#john-the-baptists-testimony) (Acts 10:38)
 * [God publicly declared His love for Jesus](../index.md) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21)
 * [God publicly glorified Jesus](#god-publicly-glorified-jesus) (John 12:27-28)
 * [God commands Jesus](#jesus-have-less-authority-than-god) (Matthew 20:22-23; John 12:49-50)
@@ -17,11 +17,11 @@ Jesus and God interacted with each other in various ways, for example:
 * [God separated Himself from Jesus](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus cried to God](#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus grew in favour with God](#jesus-grew-in-favour) (Luke 2:52)
-* [Jesus mediates between man and God](#paul-s-explanation-of-jesus-s-role) (1 Timothy 2:5)
-* [Jesus prayed to God](https://eternal.family.net.za/life/prayer) (Matthew 6:9, 26:53)
-* [Jesus returned to God](#mark-s-testimony-of-jesus-s-ascension) (Mark 16:19)
-* [Jesus served God](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
-* [Jesus stood next to God](#stephen-s-vision) (Acts 7:55-56)
+* [Jesus mediates between man and God](#pauls-explanation-of-jesuss-role) (1 Timothy 2:5)
+* [Jesus prayed to God](has-a-god.md#jesus-prayers) (Matthew 6:9, 26:53)
+* [Jesus returned to God](#marks-testimony-of-jesuss-ascension) (Mark 16:19)
+* [Jesus served God](serve-god.md) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
+* [Jesus stood next to God](#stephens-vision) (Acts 7:55-56)
 * [Jesus witness with God](#jesus-as-a-distinct-witness) (John 8:17-18)
 * [Jesus worshipped God](#jesus-worshipped-god) (Luke 2:41-42; Matthew 26:17-20; John 7:1-10)
 
@@ -121,6 +121,10 @@ Jesus said this while is was on earth. Jesus never referred to himself as "the F
 > For **I have not spoken on my own authority, but the Father who sent me** has **Himself given me a commandment** — what to say and what to speak. And I know that His commandment is eternal life. What I say, therefore, **I say as the Father has told me**.
 >
 > — John 12:49-50 (ESV)
+
+## Jesus Has Different Will Than His God
+
+Jesus prayed to his God: "... not what I will, but what you will." (Matthew 36:39,42; Mark 14:36; Luke 22:42). Therefore Jesus had a different will than his God. If they have the same essence, then they should have the same will.
 
 ## The Samaritan Woman's Belief
 
@@ -278,4 +282,4 @@ Some also suggest these interactions were symbolic prophecies. But [prophets in 
 
 ## Conclusion
 
-The Bible provides substantial evidence that Jesus and God are distinct beings who interacted in various ways. [Prophecies foretold their separate roles](#Prophecies), and Jesus's actions and words consistently pointed to a relationship with a separate God. [Jesus grew in favor with God](#Jesus-grew-in-favour), [acted as a distinct witness](#Jesus-as-a-distinct-witness), and [prayed to a separate God](#Jesus-prays-to-a-distinct-God). Furthermore, [Jesus was publicly glorified by God](#God-publicly-glorified-Jesus) and [emphasized the need to believe in both of them separately](#separate-belief-in-jesus-and-god). Even in his suffering, [Jesus cried out to God](#Jesus-and-God-were-separated), and after his resurrection, he was [seen at God's right hand](#mark-s-testimony-of-jesus-s-ascension). The [apostles' testimonies](#the-apostles-witnesses) and his [worship of God](#jesus-worshipped-god) consistently supported this view. While some offer alternative interpretations, the biblical accounts strongly suggest a clear distinction between Jesus and God.
+The Bible provides substantial evidence that Jesus and God are distinct beings who interacted in various ways. [Prophecies foretold their separate roles](#prophecies), and Jesus's actions and words consistently pointed to a relationship with a separate God. [Jesus grew in favor with God](#jesus-grew-in-favour), [acted as a distinct witness](#jesus-as-a-distinct-witness), and [prayed to a separate God](#jesus-prays-to-a-distinct-god). Furthermore, [Jesus was publicly glorified by God](#god-publicly-glorified-jesus) and [emphasized the need to believe in both of them separately](#separate-belief-in-jesus-and-god). Even in his suffering, [Jesus cried out to God](#jesus-and-god-were-separated), and after his resurrection, he was [seen at God's right hand](#marks-testimony-of-jesuss-ascension). The [apostles' testimonies](#the-apostles-witnesses) and his [worship of God](#jesus-worshipped-god) consistently supported this view. While some offer alternative interpretations, the biblical accounts strongly suggest a clear distinction between Jesus and God.

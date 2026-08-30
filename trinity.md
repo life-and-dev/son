@@ -355,7 +355,7 @@ graph TD
     end
 ```
 
-Even the "Dual-Nature" still does not resolve all problems. Therefore the final solution it to use abstract Greek philosophy and words like *hypostasis* and *consubstantiality* to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
+The final solution is to use abstract Greek philosophy and words like *hypostasis* and *consubstantiality* to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
 Despite the definition of the "Dual-Nature" it is still hard to explain how it is possible that Jesus could be both God and have an [incompatible human nature](nature.md) simultaneous. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
 
@@ -514,6 +514,10 @@ Therefore it is essential that Christ should not be an immortal God otherwise hi
 ### Jesus was not God
 
 [Scripture shows that Jesus had a God](son-of-man/has-a-god.md), [denies being God](son-of-man/denies-being-god.md), but instead he was considered [the Son of God](index.md). Therefore, he could not have qualified to be a member of the Trinity.
+
+### Jesus Has Different Will Than His God
+
+Jesus prayed to his God: "... not what I will, but what you will." (Matthew 36:39,42; Mark 14:36; Luke 22:42). According to the Trinity they have the same essence, yet clearly Jesus had a different will than his God. If they have the same essence, then they should have the same will.
 
 ### The apostle's greetings
 
