@@ -415,17 +415,9 @@ The difference between Adam and Jesus is not the method of creation. Both were d
 
 This explanation requires no complex theology. It requires only what Scripture already demonstrates: God is the Creator who can create life in any way He chooses.
 
-## Your Response
+## Conclusion
 
-You have now seen the evidence from Scripture:
-
-* **God Himself** declared at Jesus' baptism and transfiguration: "This is My beloved Son"
-* **Jesus consistently** called God His Father and prayed to Him, demonstrating they are distinct persons
-* **Demons** who knew spiritual truth firsthand called Him "Son of God," never "God Himself"
-* **The apostles** testified uniformly that Jesus is the Son **of** God, not "God the Son"
-* **Jesus' sinlessness** qualified Him as THE worthy heir appointed to rule
-
-The question before you is deeply personal: What does it mean to follow Scripture?
+In Scripture, “Son of God” identifies Jesus as **God’s [distinct](#distinct-identity) son**: agent sent by Him, [acting under His authority](#delegated-authority), and appointed as the [worthy heir](#inheritance-rights) and [Lord of His kingdom](#chosen-firstborn). The title describes Jesus’ [relationship to God](#close-relationship) and the position God gave Him.
 
 For centuries, church tradition has taught the [Trinity](trinity.md) doctrine. Councils formulated creeds to systematize theology. But the apostle John didn't write his gospel so we would believe in the Trinity. He wrote it with a clear purpose:
 
@@ -435,7 +427,7 @@ John didn't say "believe Jesus is God the Son" or "believe in the Trinity." He s
 
 ### An Invitation, Not a Demand
 
-I'm not asking you to abandon your faith or reject Jesus' authority. I'm inviting you to examine what Scripture **actually says** about [who Jesus is](nature.md). Consider these questions:
+I'm not asking you to reject Jesus' authority. I'm inviting you to examine what Scripture **actually says** about [who Jesus is](nature.md). Consider these questions:
 
 * If "God the Son" never appears in the Bible, why has it become central to Christian confession?
 * If Jesus' entire ministry demonstrated dependence on the Father, why do we insist He **is** the Father?
