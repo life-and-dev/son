@@ -28,10 +28,11 @@ This website exists to help Christians understand separating manmade tradition f
 
 1. **How to worship God correctly** — recognizing the Father in His proper position
 2. **How to obey (follow) Christ correctly** — recognizing the Son in his unique role as Lord and Christ
+3. **How to argue and defend the faith correctly** — recognizing the distinctions between the Father, the Son, and the Holy Spirit
 
 By returning to the biblical foundations, we can resolve the [myterious](https://church.ofgod.info/terms/mystery) confusion and gain clarity on passages that seem contradictory when the Father, Son, and Holy Spirit are not properly distinguished.
 
-You'll find here careful attention to biblical texts, exploration of themes that address these distinctions, and honest wrestling with questions that many of us have wondered about. 
+You'll find here careful attention to biblical texts, exploration of themes that address these distinctions, and honest wrestling with questions that many of us have wondered about.
 
 ### Full Transparency
 

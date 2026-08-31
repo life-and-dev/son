@@ -342,6 +342,8 @@ Unitarians understand God as Father alone, Jesus as fully human Messiah, and Spi
 
 # Trinitarian Argument
 
+No single argument proof the Trinity doctrine. This complex collection of arguments are required to support the Trinitarian view. As seen on the diagram below, the Trinitarian case hedge on certain unbiblical assumptions which are complicated to proof. For example the "divinity of Jesus", the "Dual Natures of Jesus", the "Personhood of the Holy Spirit", and the "Reconciliation of the Trinity with Monotheism".
+
 ```mermaid
 graph TD
     subgraph Divinity of Jesus
@@ -395,31 +397,73 @@ graph TD
 
 # Unitarian Argument
 
+To proof the Unitarian case is biblical you only need the Shema, written by Moses in the Old Testament, quoted by Jesus himself in the New Testament, and affirmed by the apostles.
+
 ```mermaid
 graph TD
+    
+    ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) -->|confirms| Shema
+    Shema((Shema = Only 1 God)) -->|confirms| FatherGod(((God is YHWH\na.k.a.\n'God the Father')))
+    Shema -->|proofs| JesusNotGod((Jesus is not God))
+```
+
+Still not convinced? Unlike the Trinitarian case that require all arguments to be true, the Unitarian case require any of the follow arguments to be true to disprove the Trinity:
+
+```mermaid
+graph TD
+    
     subgraph Only 1 God
         Creator((1 Creator)) --> 1God
         Pronouns((Single\npronounce)) --> 1God
-        ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) --> Shema
+        
         Shema((Shema)) --> 1God
         NoOtherGod((God said\n'No Other God')) --> 1God
     end
 
-    1God((Only 1 God)) --> FatherGod((God the Father))
-    YHWH((YHWH)) -- only Father,\nnot Jesus--> FatherGod
-    
-    ServeWorship((Sacrificial\nworship)) -- only God--> FatherGod
-    HonorWorship --> FatherGod
-    HonorWorship((Homage\nworship)) -- homage\nallowed --> Jesus((Jesus = Human Messiah))
+    ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) --> Shema
 
-    FatherGod --> Prophecies((Prophecies about\nIsraeli Messiah)) -- John 1\n'word become flesh' \n=\nwitnessed prophetic fulfillment --> Birth
-    Birth((Jesus was born)) -- `Jesus increase` or `grow` --> Jesus
-    Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) --> Jesus
-    FatherGod -- empower via\nGod's Spirit --> Miracles((Miracles)) -- Proof\nGod authorized\nJesus --> Jesus
-    FatherGod <-- interaction:\nloves,\nglorifies,\nserve,\netc. --> Jesus
-    FatherGod --> Declaration((God publically declared\nJesus is His Son)) -- Proof God's love --> Jesus
-    FatherGod --> JesusRose((Jesus risen by God))
-    Jesus --> JesusDied((Jesus died\nfor real))
+    1God((Only 1 God)) --> FatherGod(((God is YHWH\na.k.a.\n'God the Father')))
+    FatherGod --> Prophecies((Prophecies about\nIsraeli Messiah))
+    Prophecies --> interaction
+    Prophecies --> Distinct
+    Prophecies --> Birth
+    Prophecies --> Blood((Blood needed\nfor\nNew Covenant))
+
+    subgraph Jesus is Distinct from God
+        interaction((Interaction between\nGod and Jesus:\nGod send, authorize, exalt, etc.\nJesus serve, obey, pray, etc.)) --> Distinct
+        Parables((Jesus own parables)) --> Distinct
+        Declaration((God's public declarations\nseparate voice heard)) --> Distinct
+        Stephen((Stephen's Vision)) --> Distinct
+        Distinct((Jesus\nis distinct from\nGod))
+
+        subgraph Jesus is Human
+            FamilyLine((Jesus had tracable\nfamily line)) --> Birth
+            Birth(("Jesus was born\nHad beginning\n(genesis)")) --> Increase((Jesus increase`\nor\n`grow`)) 
+            Increase --> Jesus((Jesus = Human))
+            Serve((Jesus\nserved & obeyed\nGod)) --> Jesus
+            Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) --> Jesus
+            Witness((Apostles witness\nhuman Messiah)) --> Jesus
+
+            subgraph Jesus Died
+                Limitations --> JesusDied
+                Jesus --> JesusDied((Jesus died\nfor real))
+                
+                Blood --> JesusDied
+                JesusDied --> JesusRose
+                
+            end
+        end
+    end
+
+    Distinct --> Jesus
+
     
-    JesusDied --> JesusRose
+    Limitations((Jesus had real\nhuman limitations)) --> Jesus
+
+    
+
+    FatherGod --> JesusRose((Jesus risen by God))
+
+    
+    
 ```
