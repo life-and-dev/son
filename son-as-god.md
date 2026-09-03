@@ -28,7 +28,7 @@ These passages clearly establish a unique and exalted status for the Son. Howeve
 
 ## The Missing Phrase
 
-You will never find the phrase "the Son **as** God" in the Bible. What you will find is "the Son **of** God," which has a completely different meaning.
+You will never find the phrase *"the Son **as** God"* or *"God the Son"* in the Bible. What you will find is ["the Son **of** God"](index.md), which has a completely different meaning.
 
 "The Son of God" indicates relationship and origin. It describes Jesus's unique connection to the Father. This phrase appears throughout Scripture (Matthew 4:3; Mark 1:1; John 1:34; Romans 1:4; and dozens of other passages).
 
