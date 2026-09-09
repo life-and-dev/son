@@ -7,11 +7,18 @@ keywords: logos, John 1, Word of God, Greek linguistics, biblical interpretation
 
 I was taught that "the Word" is another name for Jesus. That Jesus existed as "the Word" before he was born. That John 1:1 proves Jesus is God himself.
 
-But something didn't sit right. If "the Word" is Jesus, why does John 1:1 say "the Word was with God" AND "the Word was God"? How can Jesus be with God and be God at the same time? Why did John never use "the Word" to refer to Jesus anywhere else in his gospel? And if Jesus is God, why did John write "no one has seen God" after describing how people saw and touched Jesus?
+But something didn't sit right. John 1:1 says:
 
-I started digging deeper. I looked at how the Greek word "logos" is actually used in Scripture. I examined how the apostles understood "the Word of God." I traced John's usage throughout his gospel. What I discovered challenged everything I had been taught.
+> In the beginning was *the Word*, and  
+> *the Word* was **with** God, and  
+> *the Word* **was** God.
+>
+> — John 1:1 (ESV)
 
-This article shares what I found. I'll present the evidence objectively. The linguistic data, the biblical usage patterns, the verse by verse analysis of John 1. Then readers can decide for themselves whether "the Word" is Jesus himself or something else entirely.
+- If John believed that only 1 God existed, how can the Word be **with** God and also **be** that same God?
+- If people saw Jesus, how should John 1:18's statement that "no one has ever seen God" be understood?
+- If "the Word" is Jesus' personal title, why does John never use that title for Jesus again in his Gospel?
+- Why does no other bible author ever call Jesus "the Word" or use that title for him?
 
 If this confusion sounds familiar, keep reading. The solution may be simpler than expected.
 
@@ -213,6 +220,7 @@ Based on John's consistent usage throughout his gospel, "the Word" is **not a pe
 - God's truth revealed through Scripture
 
 This understanding perfectly aligns with:
+
 - Strong's Concordance and standard Greek lexicons
 - How Peter, Stephen, and Paul used "the Word of God"
 - John's stated purpose: to testify that Jesus is the Christ, the Son of God
@@ -258,59 +266,57 @@ Let's now examine John 1 verse by verse.
 
 ### If "The Word" = Jesus
 
-If we read "the Word" (logos) as "Jesus," John 1 becomes confusing and contradictory:
+If we read "the Word" (logos) as "Jesus" John 1 becomes confusing and contradictory:
 
-> In the beginning was *Jesus*, and *Jesus* was with God, and *Jesus* was God. The same *(Jesus)* was in the beginning with God. All things were made by Him *(Jesus)*; and without Him *(Jesus)* was not any thing made that was made. In Him *(Jesus)* was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.
+> In the beginning was *Jesus*, and *Jesus* was with God, and *Jesus* was God. The same *(Jesus)* was in the beginning with God...
 >
-> There was a man sent from God, whose name was John. The same came for a witness, to bear witness of the Light *(Jesus)*, that all men through him might believe. He was not that Light *(Jesus)*, but was sent to bear witness of that Light *(Jesus)*. That was the true Light *(Jesus)*, which lighteth every man that cometh into the world.
+> *(Jesus)* was in the world, and the world was made by *Jesus*, and the world knew *Jesus* not...
 >
-> He *(Jesus)* was in the world, and the world was made by Him *(Jesus)*, and the world knew Him *(Jesus)* not. He *(Jesus)* came unto His *(Jesus)* own, and His *(Jesus)* own received Him *(Jesus)* not. But as many as received Him *(Jesus)*, to them gave He *(Jesus)* power to become the sons of God *(Jesus)*, even to them that believe on His name *(Jesus)*: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God *(Jesus)*. And *Jesus* was made flesh, and dwelt among us, (and we beheld His *(Jesus)* glory, the glory as of the only begotten of **the Father**) full of grace and truth.
+> And *Jesus* was made flesh, and dwelt among us, (and we beheld *Jesus'* glory, the glory as of the only begotten of **the Father**) full of grace and truth...
 >
-> John bare witness of Him *(Jesus)*, and cried, saying,
->
-> This was He of Whom I spake, He that cometh after me is preferred before me: for He was before me.
->
-> And of His fulness *(Jesus)* have all we received, and grace for grace. For the law was given by Moses, but grace and truth came by Jesus Christ.
->
-> No man hath seen God *(Jesus)* at any time; the only begotten Son, which is in the bosom of the Father, He *(Jesus)* hath declared Him *(Jesus)*.
+> No man hath seen *Jesus* at any time; the only begotten Son, which is in the bosom of **the Father**, he hath declared Him.
 >
 > — John 1 with "Word" replaced by "Jesus"
-
-**Problems with this reading:**
-
-- Jesus was with God AND was God? (Contradiction in v1)
-- People saw Jesus, but "no one has seen God"? (Contradiction in v18)
-- Jesus created all things, but the Father is the creator? (Inconsistent with rest of Scripture)
-- Jesus declared himself? (Makes no sense in v18)
-- "Only begotten of the Father" but also IS the Father? (Contradiction in v14)
-
-Even many Trinitarians admit this direct substitution doesn't work. They argue it requires years of theological study to understand the "mystery" of the Trinity.
 
 ### If "The Word" = God's Plan
 
 John more likely intended this message (paraphrased with "Word" = God's plan/promise):
 
-> In the beginning, God already had a plan. This plan was for God's benefit and was divine in nature. God used this plan in the beginning to create everything according to it — nothing exists that was not part of God's plan.
+All checks complete: revised wording now preserves article’s plan theology and makes each referent shift explicit.
+## Proposed Paraphrase
+
+> ### John 1:1–18
 >
-> This plan includes the solution to life (the gospel of salvation), which is "the light" that shines into "the darkness" (deception), exposing lies.
+> In the beginning was *God’s plan*, and *God’s plan* was with God *[as his purpose]*, and *God’s plan* was *divine in nature*. *This plan* was in the beginning with God. All things were made *according to it* *[by God’s command]*, and without *it* was not any thing made that was made. In *this plan* was life *[that is, salvation]*, and the life was the light of men. The light *[of the gospel]* shines in the darkness *[of deception]*, and the darkness has not overcome it.
 >
-> John the Baptist was sent by God to testify about this "light" (the gospel), so that through his witness all might believe. John was not the light himself, but came to bear witness to it. The true light that gives light to everyone was coming into the world.
+> There was a man sent from God, whose name was John. He came as a witness, to bear witness about the light *[of the gospel]*, that all might believe through *John’s testimony*. *John* was not the light, but came to bear witness about the light. The true light *[of the gospel]*, which gives light to everyone, was coming into the world *[through Jesus, who revealed it]*.
 >
-> He came to the world that was made through God's plan, yet the world did not know him. He came to his own people, and his own people rejected him. But to those who received him, he gave the right to become children of God — those who believe in his authority, that he was not born of human will, but according to God's plan.
+> *Jesus* was in the world, and *people who received him were made God’s children* through him, yet the world did not know him. He came to his own *[people]*, and his own people did not receive him. But to all who did receive him, who believed in his *authority*, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 >
-> This plan became reality when our savior was born among us. We have seen God's glory — the glory of the Father pleased with his only begotten Son, in whom grace and truth are fully revealed.
+> And *God’s plan was fulfilled in the human life of Jesus, who* dwelt among us, and we have seen *God’s* glory *[revealed through him]*, glory as of the only *[begotten]* Son from the Father, full of grace and truth.
 >
-> John the Baptist testified: "This is the one I spoke about: 'He who comes after me ranks above me, because he was before me [in status].'"
+> John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me *[in rank and status]*.’”
 >
-> From his fullness we have all received grace upon grace. The law was given through Moses, but grace and truth came through Jesus Christ.
+> For from his fullness *[of God’s grace]* we have all received, grace upon grace. For the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God; *the only begotten Son*, who is at the Father’s side, he has made *the Father* known.
 >
-> Although no one has ever seen (fully understood) God, the only begotten Son, who is intimately close to the Father, has made him known.
->
-> — John 1 (Paraphrased with "Word" = Plan/Promise)
+> — John 1:1–18 (interpretive paraphrase based on the ESV)
+
+> [!NOTE]
+> This is an interpretive paraphrase, not an ESV quotation. Unmarked wording remains from the ESV. *Italics* identify replacements and *[italic square brackets]* identify added clarifications.
+
+The reading treats the Word as God’s plan, promise, and command, following the article’s [analysis of John 1:1](#john-11---in-the-beginning-was-the-word) and [divine source and authority](#what-makes-the-word-divine).
 
 This interpretation aligns with Paul's summary:
 
 > The gospel of God, which He **promised** beforehand through His prophets in the holy Scriptures, concerning His Son, who was descended from David according to the flesh... — Romans 1:1-3 (ESV)
+
+#### Notes on This Paraphrase
+
+- John 1:1: “with God” is read as God’s purpose, and “divine” as describing its source and authority.
+- John 1:3: Instead of pre-existent Son materially creating the world,creation is attributed to [God acting by His plan](#john-13---all-things-were-made-through-it).
+- John 1:10–13: Verse 10 explicitly shifts to Jesus. “Made” is read spiritually: people who receive him are made God’s children, as explained in [rejection and acceptance](#john-110-13---rejection-and-acceptance) and [the world made by him](#what-does-the-world-was-made-by-him-mean).
+- John 1:14: “The Word became flesh” is not a literal divine incarnation, but instead the [fulfilment or materialisation of God’s plan](#john-114---the-word-became-flesh) in Jesus.
+- John 1:18 has two Greek textual readings and is a textual and translation dispute, not proof for doctrine. The “only God” (`μονογενὴς θεός`, *monogenēs theos*) contains the Greek word for God, but not Son. The ESV selects `μονογενὴς θεός` (unique/only God) but add "Son" so that it renders *“God the only **Son**”*. The alternative Greek variant “the only Son” (`ὁ μονογενὴς υἱός`, *ho monogenēs huios*) contains the Greek word for "Son", but not "God". [Neither exact Greek reading](#john-118---no-one-has-seen-god) says *“God the only Son”*. This paraphrase follows the latter reading: the distinct Son makes the unseen Father known.
 
 ## Analyzing John 1
 
@@ -406,11 +412,13 @@ The Greek preposition "pros" is translated "with" in most English versions:
 God's plan existed **with God** (in God's mind and purpose) from the beginning. This is exactly how Peter describes it: "the **definite plan and foreknowledge** of God" (Acts 2:23). A plan exists with the one who makes it.
 
 **Additional nuance**: The preposition ["pros"](https://biblehub.com/greek/4314.htm) can carry meanings like:
+
 - "toward" (direction)
 - "for the benefit of" (purpose)
 - "in the presence of" (proximity)
 
 So "the plan was pros God" could mean:
+
 - The plan was **with** God (standard reading) ✅
 - The plan was **for** God's benefit/purpose ✅
 - The plan was **in the presence of** God ✅
@@ -461,6 +469,7 @@ Jesus himself affirmed this as the first and greatest commandment:
 **The problem with "the Word = divine Jesus":**
 
 If "the Word was God" means Jesus is God Almighty, and the Father is God Almighty, then either:
+
 1. Jesus = the Father (contradicts "the Word was with God")
 2. Jesus ≠ the Father, but both are God (contradicts "the LORD is one")
 
@@ -667,9 +676,15 @@ Scholars interpret this differently:
 
 This connects to "the word became flesh" - God's plan to bring grace was fulfilled in Jesus.
 
-### John 1:18 - No One Has Seen God
+### John 1:18 - God the Son
 
-This section provides detailed analysis of how modern translations add words to John 1:18 that aren't in the original Greek.
+> No one has ever seen God; **God the only *Son***, who is at the Father’s side, he has made him known. — John 1:18 (ESV)
+
+John 1:18 has two Greek textual readings and is a textual and translation dispute, not proof for doctrine. For example KJV renders "the only *begotten* Son", NASB renders "the only *begotten* God". The Greek text actually translates “only God” (`μονογενὴς θεός`, *monogenēs theos*) and does not the word "Son". The ESV selects `μονογενὴς θεός` (only God) but add "Son" so that it renders *“God the only **Son**”*.
+
+The alternative Greek variant “the only Son” (`ὁ μονογενὴς υἱός`, *ho monogenēs huios*) contains the Greek word for "Son", but not "God".
+
+No Greek reading says *“God the only Son”* or *"the only begotten God"*.
 
 > No one has ever seen God, but the one and only Son, ***who is himself God*** and is in closest relationship with the Father, has made him known. — John 1:18 (NIV)
 
@@ -679,35 +694,16 @@ This section provides detailed analysis of how modern translations add words to 
 
 Compare with older translation:
 
-> No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. — John 1:18 (KJV)
+> No man hath seen God at any time; the only begotten Son, *[no divine qualifier added]* which is in the bosom of the Father, he hath declared him. — John 1:18 (KJV)
 
-#### Direct Translation from Greek
+### John 1:18 - No One Has Seen God
 
-[The Interlinear Bible](https://biblehub.com/interlinear/john/1-18.htm) reads:
-
-> God no one has seen ever yet [the] only begotten [god](https://word.ofgod.info/terms/god) the one being in the bosom of the Father he has made [Him] known.
-
-#### The Greek Word "Theos"
-
-The Greek word "[theos](https://biblehub.com/greek/2316.htm)" can mean:
-
-- **God Almighty** (capital "G")
-- [**A god or important person**](https://word.ofgod.info/terms/god) (small "g")
-
-Depending on the translator's theological view, the same Greek text is translated differently.
-
-#### The Contradiction
-
-If John truly meant "God" (capital "G"), it creates a contradiction:
+If John truly meant "God the only Son", it creates a contradiction:
 
 - John 1:14 - Jesus was SEEN
 - John 1:18 - No one has SEEN God
 
-#### What About Jesus's Teachings?
-
-If the "only begotten Son" made God known, did Jesus teach about the triune God (Father, Son, Holy Spirit)?
-
-**NO.** Jesus consistently taught that **the Father alone is God**:
+Jesus never teached about the triune God (Father, Son, Holy Spirit). Instead, Jesus consistently taught that **the Father alone is God**:
 
 - John 17:3; 20:17
 - Mark 12:29; 15:34
@@ -720,8 +716,6 @@ If the "only begotten Son" made God known, did Jesus teach about the triune God 
 - **Disciples** (Matt 16:17-20) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), reinforced that God the Father revealed this
 - **Blind man** (John 9:35-38) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), not God
 - **Rich young ruler** (Mark 10:17-18) - Jesus corrected him: "Only God is good" (implying Jesus is not God)
-
-#### The Key Point
 
 Regardless of translation, the verse says "**he has made Him known**" or "**he has declared Him**."
 
