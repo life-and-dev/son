@@ -5,15 +5,17 @@ keywords: Godhead, "Jesus Christ", "Holy Spirit", "Gospel of John", "Greek prepo
 
 # Godhead according to Jesus
 
-The Gospel of John contains profound dialogues where Jesus explains his relationship with the Father and the Holy Spirit. 
+The Gospel of John contains profound dialogues where Jesus explains his relationship with the Father and the Holy Spirit.
 
-However, many readers find these passages confusing or rely on traditional interpretations that might obscure Jesus' original meaning. Could a single Greek preposition change how we understand the very nature of God and Christ's mission? 
+However, many readers find these passages confusing or rely on traditional interpretations that might obscure Jesus' original meaning. Could a single Greek preposition change how we understand the very nature of God and Christ's mission?
 
 By examining the context of the Last Supper and the specific language used, we can gain a clearer perspective on the Godhead as Jesus himself described it.
 
 ## The Greek Preposition *En*
 
-The Gospel of John is often misunderstood due to the translation of the Greek word *en* as "in" by some [trinitarian][../trinity.md] translators. This choice often supports the doctrine of Jesus' divinity by suggesting a physical or mystical indwelling. While *en* can mean "in" (denoting location), it also frequently means "on", "at", "by", "with" or "among".
+The Gospel of John is often misunderstood due to the translation of the Greek word *en* as "in" by some [trinitarian](../trinity.md) translators. This choice often supports the doctrine of Jesus' divinity by suggesting a divine indwelling.
+
+The Greek word ἐν usually means **in**. But depending on the sentence, English may translate it as **on**, **at**, **among**, **with**, or sometimes **by**. For example, it may describe being on a mountain, among a group, with someone, or by a means. The correct translation depends on nearby words and the whole sentence. Therefore, ἐν by itself does not prove that someone or something is physically or mystically inside another person.
 
 Considering these alternative meanings radically changes the tone of John 13 through 17. Instead of a focus on metaphysical essence, the text may emphasize partnership and representation.
 
@@ -82,18 +84,18 @@ In the context of the Last Supper, Jesus spoke extensively about his departure a
 
 Then Jesus provide analogies to explain what he just taught:
 
-> I am the *[true vine (vine of truth)](https://biblehub.com/interlinear/john/15-1.htm)* and my Father is the [vinedresser (farmer)](https://biblehub.com/greek/1092.htm). 
-> 
-> Every branch *in* me that does not bear fruit He takes away;   
+> I am the *[true vine (vine of truth)](https://biblehub.com/interlinear/john/15-1.htm)* and my Father is the [vinedresser (farmer)](https://biblehub.com/greek/1092.htm).
+>
+> Every branch *in* me that does not bear fruit He takes away;
 > and every branch that bears fruit He [prunes (cleanse/purify)](https://biblehub.com/greek/2508.htm), that it may bear more fruit. You are already clean because of the word which I have spoken to you.
-> 
+>
 > *[Abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and I *with* you. As the branch cannot bear fruit of itself, unless it *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *in (with)* the vine, neither can you, unless you *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me.
-> 
-> I am the vine, you are the branches. He who *[Abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and I *with* him, bears much fruit;   
+>
+> I am the vine, you are the branches. He who *[Abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and I *with* him, bears much fruit;
 > for without me you can do nothing. If anyone does not *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, he is cast out as a branch and is withered; and they gather them and throw them into the fire, and they are burned.
-> 
-> If you *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and my [words](https://word.ofgod.info) *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* you, you will ask what you desire, and it shall be done for you. By this my Father is [glorified](https://eternal.family.net.za/god/son/essence/as-god/claims/glory), that you bear much fruit; so you will be my disciples. 
-> 
+>
+> If you *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and my [words](https://word.ofgod.info) *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* you, you will ask what you desire, and it shall be done for you. By this my Father is [glorified](https://eternal.family.net.za/god/son/essence/as-god/claims/glory), that you bear much fruit; so you will be my disciples.
+>
 > -- John 15:1-8 (NKJV but ἐν restored)
 
 To summarize:
@@ -110,38 +112,38 @@ To summarize:
 Then Jesus summarizes what he meant with his analogy:
 
 > “As the Father loved me, I also have loved you; abide in my love. If you keep my commandments, you will abide in my love, just as I have kept my Father’s commandments and abide in His love.
-> 
-> These things I have spoken to you, that my joy may remain *with* you, and that your joy may be full. 
-> 
+>
+> These things I have spoken to you, that my joy may remain *with* you, and that your joy may be full.
+>
 > This is my commandment, that you love one another as I have loved you.
-> 
+>
 > -- John 15:9-12 (NKJV)
- 
+
 Then Jesus continue to explain what he means by "love":
 
-> Greater love has no one than this, than to lay down one’s life for his friends. You are my friends if you do whatever I command you. No longer do I call you servants, for a servant does not know what his master is doing; but I have called you friends, for all things that I heard from My Father I have made known to you. 
-> 
+> Greater love has no one than this, than to lay down one’s life for his friends. You are my friends if you do whatever I command you. No longer do I call you servants, for a servant does not know what his master is doing; but I have called you friends, for all things that I heard from My Father I have made known to you.
+>
 > You did not choose me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in my [name](https://word.ofgod.info/terms/name) He may give you. These things I command you, that you love one another.
-> 
+>
 > -- John 15:13-17 (NKJV)
 
 Then Jesus contrast his disciples with the people of the world:
 
-> If the world hates you, you know that it hated me before it hated you. If you were of the world, the world would love its own. Yet because you are not of the world, but I chose you out of the world, therefore the world hates you. 
-> 
-> Remember the word that I said to you, "A servant is not greater than his master." 
-> 
-> If they persecuted me, they will also persecute you.   
-> If they [kept (guard/heed)](https://biblehub.com/greek/5083.htm) my [word](/bible/concepts/word), they will [kept (guard/heed)](https://biblehub.com/greek/5083.htm) yours also. 
-> 
-> But all these things they will do to you for my [name](https://word.ofgod.info/terms/name)’s sake, because they do not know [Him who sent me](/god/son/essence/not-god/serve-god). 
-> 
-> If I had not come and spoken to them, they would have no sin, but now they have no excuse for their sin. 
-> 
-> He who hates me hates my Father also. If I had not done among them the works which no one else did, they would have no sin; but now they have seen and also hated both me and my Father. But this happened that the word might be fulfilled which is written in their law: 
-> 
-> "They hated Me without a cause." 
-> 
+> If the world hates you, you know that it hated me before it hated you. If you were of the world, the world would love its own. Yet because you are not of the world, but I chose you out of the world, therefore the world hates you.
+>
+> Remember the word that I said to you, "A servant is not greater than his master."
+>
+> If they persecuted me, they will also persecute you.
+> If they [kept (guard/heed)](https://biblehub.com/greek/5083.htm) my [word](/bible/concepts/word), they will [kept (guard/heed)](https://biblehub.com/greek/5083.htm) yours also.
+>
+> But all these things they will do to you for my [name](https://word.ofgod.info/terms/name)’s sake, because they do not know [Him who sent me](/god/son/essence/not-god/serve-god).
+>
+> If I had not come and spoken to them, they would have no sin, but now they have no excuse for their sin.
+>
+> He who hates me hates my Father also. If I had not done among them the works which no one else did, they would have no sin; but now they have seen and also hated both me and my Father. But this happened that the word might be fulfilled which is written in their law:
+>
+> "They hated Me without a cause."
+>
 > -- John 15:18-25 (NKJV)
 
 | Scripture                                                                                                                                                                                                         | John   | Simplified                                                                  |
@@ -161,58 +163,58 @@ Then Jesus contrast his disciples with the people of the world:
 
 The Jesus closed with:
 
-> “I still have many things to say to you, but you cannot bear them now. 
-> 
-> However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify me, for He will take of what is mine and declare it to you. All things that the Father has are mine. Therefore I said that He will take of mine and declare it to you. 
-> 
-> A little while, and [you will not see me](../son-of-man/limitations.md);      
-> and again   
+> “I still have many things to say to you, but you cannot bear them now.
+>
+> However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify me, for He will take of what is mine and declare it to you. All things that the Father has are mine. Therefore I said that He will take of mine and declare it to you.
+>
+> A little while, and [you will not see me](../son-of-man/limitations.md);
+> and again
 > a little while, and you will see me, because I go to the Father.
-> 
+>
 > -- John 16:12-16 (NKJV)
 
 These words caused some confusion among the disciples:
 
 > Then some of His disciples said among themselves, “What is this that He says to us, ‘A little while, and you will not see Me; and again a little while, and you will see Me’; and, ‘because I go to the Father’?”  
-> They said therefore, “What is this that He says, ‘A little while’? We do not know what He is saying.” 
-> 
+> They said therefore, “What is this that He says, ‘A little while’? We do not know what He is saying.”
+>
 > -- John 16:17-18 (NKJV)
 
 Then Jesus explain what he meant:
 
 > Now Jesus knew that they desired to ask him, and He said to them, “Are you inquiring among yourselves about what I said, ‘A little while, and you will not see Me; and again a little while, and you will see Me’?  
-> 
-> Most assuredly, I say to you that you will weep and lament, but the world will rejoice; and you will be sorrowful, but your sorrow will be turned into joy. A woman, when she is in labor, has sorrow because her hour has come; but as soon as she has given birth to the child, she no longer remembers the anguish, for joy that a human being has been born into the world. 
-> 
+>
+> Most assuredly, I say to you that you will weep and lament, but the world will rejoice; and you will be sorrowful, but your sorrow will be turned into joy. A woman, when she is in labor, has sorrow because her hour has come; but as soon as she has given birth to the child, she no longer remembers the anguish, for joy that a human being has been born into the world.
+>
 > Therefore you now have sorrow; but I will see you again and your heart will rejoice, and your joy no one will take from you. And in that day you will ask me nothing.
 >
-> Most assuredly, I say to you, whatever you ask the Father in my [name](https://word.ofgod.info/terms/name) He will give you. 
-> 
-> Until now you have asked nothing in my [name](https://word.ofgod.info/terms/name). Ask, and you will receive, that your joy may be full. 
+> Most assuredly, I say to you, whatever you ask the Father in my [name](https://word.ofgod.info/terms/name) He will give you.
 >
-> These things I have spoken to you in figurative language; but the time is coming when I will no longer speak to you in figurative language, but I will tell you plainly about the Father. In that day you will ask in my [name](https://word.ofgod.info/terms/name), and I do not say to you that I shall pray the Father for you; 
-> 
+> Until now you have asked nothing in my [name](https://word.ofgod.info/terms/name). Ask, and you will receive, that your joy may be full.
+>
+> These things I have spoken to you in figurative language; but the time is coming when I will no longer speak to you in figurative language, but I will tell you plainly about the Father. In that day you will ask in my [name](https://word.ofgod.info/terms/name), and I do not say to you that I shall pray the Father for you;
+>
 > for the Father Himself loves you, because you have loved me, and have believed that [I came forth from God. I came forth from the Father and have come into the world](https://eternal.family.net.za/god/son/essence/as-god/incarnation). Again, I leave the world and go to the Father.
-> 
+>
 > -- John 16:19-28 (NKJV)
 
 Then Jesus disciples respond that they finally understood what he had meant:
 
 > His disciples said to Him, “See, now You are speaking plainly, and using no figure of speech! Now we are sure that you know all things, and have no need that anyone should question you. By this we believe that you came forth from God.”
-> 
+>
 > Jesus answered them, “Do you now believe? Indeed the hour is coming, yes, has now come, that you will be scattered, each to his own, and will leave me alone. And yet I am not alone, because the Father is with me. These things I have spoken to you, that in me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world.”
-> 
+>
 > -- John 16:29-33 (NKJV)
 
 Then Jesus prays to his Father:
 
 > "[Father](https://ofgod.info), the hour has come;
 >
->* **[glorify](https://eternal.family.net.za/bible/concepts/glory) Your [Son](https://son.ofgod.info) that the Son may glorify You**,
->  * since **You have given him authority over all flesh**,
->  * **to give eternal life to all whom You have given him**. And this is eternal life, that **they know You, [the only true God](../shema.md)**, and Jesus [Christ](https://kingdom.ofgod.info/christ) whom You have sent.
->  * **I glorified You on earth**, having accomplished the work that You gave me to do.
->  * And now, Father, glorify me in Your own presence with **the glory that I had with You before the world existed**.
+> * **[glorify](https://eternal.family.net.za/bible/concepts/glory) Your [Son](https://son.ofgod.info) that the Son may glorify You**,
+>   * since **You have given him authority over all flesh**,
+>   * **to give eternal life to all whom You have given him**. And this is eternal life, that **they know You, [the only true God](../shema.md)**, and Jesus [Christ](https://kingdom.ofgod.info/christ) whom You have sent.
+>   * **I glorified You on earth**, having accomplished the work that You gave me to do.
+>   * And now, Father, glorify me in Your own presence with **the glory that I had with You before the world existed**.
 > * **I have manifested Your name to the people** whom You gave me out of the world.
 > * **Yours they were, and You gave them to me**, and they have kept Your word. Now they know that everything that You have given me is from You.
 > * For **I have given them the words that You gave me**, and they have received them and have come to know in truth that
@@ -243,40 +245,38 @@ Then Jesus prays to his Father:
 >
 > -- John 17:1-26 (ESV but ἐν restored)
 
-To summarize this prayer:
+Jesus teaching and prayer makes it clear there are interaction between him, the Father and the believers.
 
-| The Father                                                               | The Son                                                                        | Believers                                                                 |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| Glorifies the Son (even before the world existed)                        | Glorifies the Father                                                           | Glorifies the Son                                                         |
-| Gives all authority to the Son                                           | Son uses authority to give eternal life to believers                           | May ask things in the authority of the Son                                |
-| Sent the Son                                                             | Sent by the Father                                                             | Sent by Jesus (John 20:21)                                                |
-| The only God                                                             | Manifested God's name (authority) to the people                                | -                                                                         |
-| Gave the people to the Son, yet still own everything given to the Son    | Received the people from the Father                                            | Believers are owned by the Father                                         |
-| Gave the word to the Son                                                 | Gave the word of the Father to the people                                      | Keep the word of the Father                                               |
-| -                                                                        | Pray for the believers, not the world                                          | Should pray to the Father                                                 |
-| Omnipresent                                                              | Not in the world                                                               | Still in the world                                                        |
-| Keep (guard) believers under the Son's name (authority) in Jesus absence | Guard believers under the Son's name (authority) while Jesus was on earth      | Guarded by the Father                                                     |
-| Is One with the Son                                                      | Is One with the Father                                                         | Believers are one                                                         |
-| Sent the Son                                                             | Return to the Father                                                           | Believers may have joy                                                    |
-| Protect believers in the world against the evil one                      | Not of this world, therefore hated by the world                                | Not of this world, but protected by the Father against evil one           |
-| Sanctify believers in the truth (word)                                   | Consecrate himself for current and future believers                            | Should believe, repent and be baptized in the name (authority) of the Son |
-| Is *with* the Son                                                        | Is *with* the Father                                                           | Is *with* the Father and the Son; The Son is *with* believers             |
-| Loves the Son and believers                                              | Loved by the Father even before the world existed; Desire to be with believers | Loved by the Father                                                       |
-| -                                                                        | Knows the Father                                                               | Knows that Jesus knows the Father                                         |
+```mermaid
+graph TD
+    subgraph God["Only true God"]
+        Father(((The Father)))
+    end
+    Son["The Son"]
+    Father <-->|glorifies| Son
+    Father -->|authority<br/>word| Son
+    Father -->|send| Son
+    Father -->|keep| Believers
+    Son -->|appoint| Believers
+    Son -->|pray for<br/>disciples| Father
+    Son -->|know| Father
+    Son -->|consecrate| Son
+    Son -->|Father's<br/>word, glory| Believers
+    Son -->|made<br/>Father<br/>known| Believers
+    Son -->|sanctify<br/>salvation| Believers
+    Son -->|with| Believers
+    Believers -->|belief<br/>obey| Son
+    Believers -->|know| Father
+```
 
-### Addressing Common Critiques
+The **one** relation is the unity Jesus requests for those given to him.
 
-Critiques of this interpretation often argue that the standard translation "in" is essential for the doctrine of the mystical union between Christ and the believer. They point to passages like 2 Corinthians 5:17 where "in Christ" signifies a new spiritual state. 
-
-However, proponents of the "with" or "by" translation argue that in the context of the Gospel of John, Jesus is
-emphasizing his functional unity with the Father. If *en* were strictly locational, it would imply a physical containment that contradicts the clear distinction of persons Jesus maintains throughout his prayer in John 17. By acting "by" the Father's authority and remaining "with" Him in purpose, Jesus demonstrates a oneness of mission rather than just a metaphysical status.
+John does not mention a [separate Holy Spirit person](../trinity/holy-spirit.md) nor define [the Godhead](../godhead.md) as 3 persons.
 
 ## Conclusion
 
-The Godhead, as described by Jesus in the Gospel of John, is characterized by a profound unity of purpose, love, and representation. 
+The Godhead, as described by Jesus in the Gospel of John, is characterized by a profound unity of purpose, love, and representation.
 
-The Greek preposition *en* suggests that this relationship is one of being "with" or "by" one another rather than a physical indwelling. Jesus' relationship with the Father is defined by his role as the Father's perfect representative on earth. The role of the Helper is to continue Jesus' mission by teaching and reminding disciples of his words. 
-
-Through the analogy of the vine, Jesus illustrates that believers must obey him to live. 
+The Greek preposition *en* suggests that this relationship is one of being "with" or "by" one another rather than a physical indwelling. Jesus' relationship with the Father is defined by his role as the Father's perfect representative on earth. The role of the Helper is to continue Jesus' mission by teaching and reminding disciples of his words.
 
 Finally, the High Priestly Prayer reveals that the ultimate goal is for all believers to share in the same unity that exists between the Father and the Son.

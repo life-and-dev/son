@@ -199,7 +199,7 @@ Because of Arianism, church leaders gathered in 325 AD at [the council of Nicaea
 * establishing church hierarchy;
 * separating Christian practices from Jewish traditions;
 
-The council primarily defined the relationship between the Father and the Son. Its creed mentioned belief in the Holy Spirit but did explain the Spirit’s divinity, procession, or relationship to the Father and the Son. 
+The council primarily defined the relationship between the Father and the Son. Its creed mentioned belief in the Holy Spirit but did explain the Spirit’s divinity, procession, or relationship to the Father and the Son.
 
 Because many Christians initially rejected the Trinity doctrine for fear of polytheism (worship of multiple gods), the council had to carefully and clearly define the Trinity to avoid misunderstandings.
 
