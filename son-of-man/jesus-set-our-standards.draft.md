@@ -1,0 +1,11 @@
+## Strongest Trinitarian Reading and Reply
+
+A strong Trinitarian reading observes that Jesus teaches with striking authority. In Matthew 5:22,28, he says, “But I say to you,” and in Mark 2:5-12 he forgives sins while opponents ask who can forgive sins but God alone. John 5:22-23 also gives the Son universal judgement and calls for honour for the Son as for the Father. These texts can support the view that the divine Son exercises God’s own authority. The fact that Jesus receives authority or serves the Father does not automatically disprove an incarnate, two-natures account.
+
+The Unitarian case begins with Jesus’ own description of that authority. The Son “can do nothing of his own accord” but does what he sees the Father doing (John 5:19). The Father “has given all judgment to the Son” (John 5:22), and Jesus says that the Father gave him the command he speaks (John 12:49). Matthew’s risen Jesus likewise says, “All authority in heaven and on earth has been **given** to me” (Matthew 28:18). These statements make divine commissioning, rather than self-originating deity, central to the text.
+
+Jesus’ command that disciples love one another as he loved them remains binding (John 13:34). His authority is therefore neither ordinary nor optional. Yet delegated authority can be genuine and comprehensive within its appointed sphere. The Father’s giving, commanding, and authorising distinguish source from authorised Messiah.
+
+Luke’s language also describes the Spirit as God’s active presence and power: the Holy Spirit will come upon Mary and “the power of the Most High” will overshadow her (Luke 1:35); disciples receive power when the Holy Spirit comes upon them (Acts 1:8). A Trinitarian may read the Father, Son, and Spirit together in Matthew 28:19 as personal triune naming. A Unitarian may read it as a baptismal confession of God, His exalted Messiah, and His Spirit. Threefold wording alone does not decide that dispute.
+
+*The warranted conclusion is that Jesus sets God’s standard with unique God-given authority; these texts leave competing explanations of his identity open.* See [Jesus serving God](serve-god.md#jesus-serves-god) and [Jesus’ humanity](human.md#jesus-is-human).

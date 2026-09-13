@@ -1,14 +1,16 @@
-# Prophetic Fulfilment
+# Why Jesus Is the Christ
 
-The Scriptures identify the Christ as God’s anointed human king from David’s line. Jesus’ life, death, resurrection, and exaltation fit that promise while preserving the Bible’s distinction between the one God, the Father, and His Messiah.
+The case that Jesus is the Christ rests on God’s promises, Jesus’ ministry, death, resurrection, and exaltation. Prophetic correspondence supports that case, but each claim must be read in its literary and historical context.
 
 ## The Messiah Will Be Cut Off
 
 > “And after the sixty-two weeks, an anointed one shall be cut off and shall have nothing.” — Daniel 9:26 (ESV)
 
-Daniel foretells that an anointed one would be cut off. Jesus was executed before the destruction of Jerusalem and its sanctuary in AD 70, the destruction described later in the same verse. The New Testament presents his death as the death of the Christ: Jesus told his disciples that “the Christ should suffer” (Luke 24:26), and Philip preached Jesus from Isaiah 53 to the Ethiopian official (Acts 8:32-35).
+Daniel 9:26 is often read as a prophecy of Jesus’ death before Jerusalem and the sanctuary were destroyed in AD 70. The New Testament independently presents Jesus’ death as the suffering of the Christ (Luke 24:26; Acts 8:32-35). That correspondence may support a Christian reading, but it is not a simple chronological proof.
 
-This prophecy does not call the anointed one God. “Messiah” and “Christ” mean “anointed one.” In the Bible, God anoints and sends His servant. Peter therefore calls Jesus “a man attested to you by God” and says that God raised him from the dead (Acts 2:22-24).
+The passage’s seventy-weeks chronology is disputed, as are the starting point, the identification of the “anointed one,” and the relation of the coming ruler and destruction to the verse. Jewish and Christian interpreters have proposed different referents and timetables. A responsible argument therefore says that the Jesus reading is one historically influential interpretation of Daniel, not that Daniel 9:26 alone demonstrably predicts a dated crucifixion.
+
+“Messiah” and “Christ” mean anointed one. The larger case for Jesus as Messiah rests on the apostolic testimony to his Davidic descent, ministry, death, resurrection, and exaltation (Acts 2:22-36; Romans 1:3-4), not on a disputed calculation. See [Apostolic Preaching](apostolic-preaching.draft.md#pauls-gospel-summaries-in-letters).
 
 ## Messiah will enter Jerusalem on a donkey
 
@@ -50,8 +52,12 @@ After his exaltation, Jesus received the promised Holy Spirit from the Father an
 
 ## Strongest Trinitarian Readings
 
-Trinitarians reasonably point to passages that use striking language about Jesus. John opens by saying, “the Word was God,” and says that the Word became flesh in Jesus (John 1:1,14). Thomas says to the risen Jesus, “My Lord and my God!” (John 20:28). Paul says that Christ existed “in the form of God” before humbling himself (Philippians 2:6-8). Hebrews addresses the Son with the words, “Your throne, O God, is forever and ever” (Hebrews 1:8). These texts are the strongest basis for the Trinitarian conclusion that the Son shares the divine identity.
+Trinitarians reasonably point to John 1:1, Thomas’s **“My Lord and my God!”** (John 20:28), Philippians 2:6-11, and Hebrews 1:8. Classical Trinitarian interpretation reads these together with the incarnation: the eternal Son shares the Father’s divine nature while truly becoming human. Jesus’ prayers, obedience, suffering, and exaltation are therefore not treated as evidence against deity merely because they are human or relational.
 
-A direct reply must retain all of their context. John 1:1 distinguishes the Word from God by saying that the Word was “with God.” John also has Jesus distinguish himself from the Father as “the only true God” (John 17:3) and tell Mary, “I am ascending to my Father and your Father, to my God and your God” (John 20:17). John then states his purpose: that readers may believe “that Jesus is the Christ, the Son of God” (John 20:31). Thomas’s confession should therefore be read with both its force and this stated purpose. It is a confession made to the risen Jesus, but John does not present it as replacing the Father as Jesus’ God.
+A fair Unitarian reply grants that John 1:1, John 20:28, Philippians 2, and Hebrews 1 are difficult and cannot be neutralised by citing Jesus’ humanity. It argues instead that each must be read beside John’s stated aim, “that Jesus is the Christ, the Son of God” (John 20:31), Jesus’ “my God” (John 20:17), and the repeated pattern of God exalting and anointing Christ (Philippians 2:9-11; Hebrews 1:8-9). *The question is whether the high language identifies Jesus with the one God or describes God’s uniquely commissioned Messiah.*
 
-Philippians 2 affirms Christ’s extraordinary pre-existence language and humble obedience. Yet its climax distinguishes God from Christ: God highly exalted him, and every tongue confesses Jesus Christ as Lord “to the glory of God the Father” (Philippians 2:9-11). Hebrews 1 likewise calls the Son “God” in its quotation, but immediately says, “God, your God, has anointed you” (Hebrews 1:8-9). The passages require careful interpretation, but their own wording continues to show God acting toward, exalting, and anointing the Son. This is consistent with Jesus as God’s supreme Messiah and does not require identifying Jesus as God alongside the Father.
+The central case for Jesus as Christ remains public and positive: God’s promises, Davidic descent, kingdom ministry, death, resurrection, and exaltation (Acts 2:22-36; Romans 1:3-4). The further identity question deserves its own evidence review in [Textual Variants and Direct-Deity Texts](textual-variants.draft.md#how-disputed-texts-should-be-weighed) and [Personal Preexistence and Foreordination](preexistence.draft.md#comparative-synthesis).
+
+## Conclusion
+
+God’s promises, Jesus’ ministry, resurrection, and exaltation establish the positive case that Jesus is the Christ. The further identity debate is addressed in [The Son of God](the-son-of-god.draft.md#sonship-and-the-fathers-god).

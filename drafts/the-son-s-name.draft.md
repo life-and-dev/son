@@ -3,11 +3,9 @@ description: "The Son's Name — Path: god / son / name"
 keywords: "The Son's Name, god, son, name"
 ---
 
-# The origin of the name "Jesus"
+# The Son’s Name
 
-The New Testament writes Jesus’ name in Greek as *Iēsous* (Ἰησοῦς). It corresponds to the Hebrew and Aramaic name forms Yehoshua and Yeshua, also used for Joshua and Jeshua (Nehemiah 8:17; Ezra 3:2). Greek has no “sh” sound, and its masculine names commonly end in *-s*.
-
-The English form “Jesus” came through Greek and Latin. It is a faithful English form of the name, not a different person. The name’s meaning fits the angel’s explanation: “he will save his people from their sins” (Matthew 1:21).
+The names Jesus and Christ carry biblical meaning, but Scripture directs faith to the person God sent and raised. This study avoids treating reconstructed Hebrew or Aramaic pronunciation as a requirement; the New Testament’s Greek form is Ἰησοῦς (*Iēsous*).
 
 ## The correct pronunciation of the name of the Son of God
 
@@ -23,8 +21,12 @@ Jesus is the Christ because God anointed him with the Holy Spirit and power (Act
 
 ## Name and Authority
 
-The name Jesus does not require a particular English pronunciation for salvation. The angel explains its meaning by saying, “he will save his people from their sins” (Matthew 1:21). Peter likewise directs attention to the person and authority God has given His Messiah: “there is salvation in no one else” (Acts 4:12).
+The New Testament writes Jesus’ name in Greek as *Iēsous* (Ἰησοῦς). That spelling records the Greek form used by the New Testament; spelling itself does not establish doctrinal identity, determine salvation, or require a reconstructed pronunciation.
 
-Some argue that only a reconstructed Hebrew pronunciation preserves God’s name, or that calling Jesus by a form of the divine name proves that Jesus is the Father. The New Testament itself was written in Greek and consistently uses *Iēsous* for Jesus. More importantly, the Father remains the God whom Jesus addresses and obeys (John 17:1-3; John 20:17). A name may testify that the God of Israel saves through His Son without identifying the Son as the Father.
+Matthew explains the name through the mission: **“he will save his people from their sins”** (Matthew 1:21). Romans 10:9-13 directs confession and faith toward the risen Lord, and Acts 4:12 concerns the saving person and authority of Jesus, not an exclusive sound sequence. A sacred-name argument may value Hebrew background, but phonetics are not made a saving test by these texts.
 
-“Christ” is a title, not a surname. It means the anointed one: God anointed Jesus with the Holy Spirit and power (Acts 10:38), and Peter concludes that God made this Jesus “both Lord and Christ” (Acts 2:36).
+“Christ” is a title, not a surname. It means anointed one. God anointed Jesus with the Holy Spirit and power (Acts 10:38), and Peter declares that God made him **“both Lord and Christ”** (Acts 2:36). See [Why Jesus Is the Christ](proof-that-jesus-is-the-christ.draft.md#one-god-and-his-messiah).
+
+## Conclusion
+
+Jesus is a faithful English form of the name used for God’s saving Messiah, and Christ names his anointed office. Neither pronunciation nor name-elements replace faith in [Jesus the Christ](proof-that-jesus-is-the-christ.draft.md#one-god-and-his-messiah).

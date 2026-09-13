@@ -5,23 +5,23 @@ keywords: apostolic preaching, Acts sermons, Peter preaching, Paul preaching, Je
 
 # Apostolic Preaching
 
-This page gathers recorded preaching and gospel summaries without turning every narrative summary into a verbatim sermon. Its project view is that the Father alone is God, and Jesus is God's raised and exalted human Messiah. For the broader claims, see [The Son Of God](../index.md), [The Word With God](../word.md), and [Unitarian Views](../unitarianism.md).
+Recorded apostolic preaching centres on the one God, the Father, and His crucified, raised, and exalted Messiah. This study distinguishes what Acts and the letters explicitly say from theological inferences drawn from their high claims about Jesus.
 
 ## How This Evidence Is Read
+
+This study uses “Acts sermon” narrowly: a substantially reported public address or speech in Acts, including Peter’s Pentecost address, Stephen’s defence, Paul’s synagogue and Areopagus addresses, and comparable trial speeches. It does not treat a travel notice, “preaching Jesus,” or a one-line response as a complete transcript. Acts 20:28 is Paul’s charge to Ephesian elders, not a public evangelistic sermon; it remains relevant evidence for Paul’s Christology and is considered directly below.
 
 Three claims must remain separate.
 
 | Category | What it can establish | What it cannot establish |
 |---|---|---|
-| **Recorded statement** | Words actually reported in a speech, prayer, confession, or letter. | More than the words say. |
-| **Inference** | A conclusion drawn by joining statements, titles, allusions, or a larger theology. | A statement that the speaker expressly made. |
-| **Omission** | A limit on claims about the recorded content. | What hearers privately believed, understood, or later learned. |
+| **Recorded statement** | Words reported in a speech, prayer, confession, or letter. | More than the words say. |
+| **Inference** | A conclusion drawn from statements, titles, allusions, or wider theology. | An express statement by a speaker. |
+| **Omission** | A limit on claims about preserved content. | What hearers privately believed or later learned. |
 
-No recorded Acts sermon states that Jesus is God.
+The limited claim is that no substantially reported public address in Acts contains the exact proposition “Jesus is God.” That observation neither disproves divine Christology nor settles every high text. It only prevents a later conclusion from being presented as the explicit wording of every recorded sermon.
 
-That is a statement about the available recorded sermon content, not about every hearer's internal belief. Omission only limits claims about recorded content; it never proves that hearers lacked an internal belief.
-
-Acts also contains travel reports, trial scenes, visions, and narrative summaries such as “preaching Jesus” or “reasoning from the Scriptures.” Those are evidence of proclamation, but they are not treated here as full verbatim sermons. This page does not claim completeness beyond recorded Acts material.
+Acts 20:28 has two questions. The reading “church of God” is widely supported, though “church of the Lord” appears in witnesses. With “God,” the phrase *dia tou haimatos tou idiou* may be rendered “through his own blood” or, as some take *tou idiou* substantivally, “through the blood of his own [one].” Classical Trinitarians reasonably read the first as incarnational language: God the Son has blood according to his human nature. Unitarians reply that the wording and its relation to the Son remain disputed, so the verse cannot alone decide ontology. See [Textual Variants and Direct-Deity Texts](textual-variants.draft.md#acts-2028).
 
 ## Peter's Recorded Witness in Acts
 
@@ -143,7 +143,7 @@ The following are the strongest commonly offered readings from Acts and the lett
 | Romans 9:5 | Christ is “God over all.” | **Punctuation**: Greek manuscripts did not supply the modern sentence division; the blessing may address God separately. See [Romans 9:5](textual-variants.md#romans-95). |
 | Titus 2:13 | “Our great God and Savior Jesus Christ” directly names Jesus God. | **Greek article/grammar**: whether the construction requires one referent or permits God's glory and Jesus as Savior is disputed. See [Titus 2:13](../essence/as-god/incarnation/did-god-appear-as-jesus.md#titus-213). |
 | 2 Peter 1:1 | “Our God and Savior Jesus Christ” directly names Jesus God. | **Greek article/grammar**: the construction and translation are disputed; compare [Peter's Witness](../essence/as-god/witnesses/peter-s-witness.md). |
-| Hebrews 1:8–12 | The Son is addressed as God and receives creation language from Psalm 102. | **Referent**: the application and scope of the quoted Psalm language to the Son is disputed; Hebrews also says God appoints, anoints, and calls the Son's God (1:2, 9). See [The Creator](../son-as-god/creator.md). |
+| Hebrews 1:8-12 | The author addresses the Son as “God” in Psalm 45 and continues by applying Psalm 102’s **Creator** language, “You, Lord, laid the foundation of the earth,” to the Son. | The Greek heading *pros de ton huion* (“but concerning the Son,” Hebrews 1:8) governs the quotation through verse 12; the natural reading does not shift the Psalm 102 words to another referent. The debate concerns how this application fits the Father-Son distinction and doctrine of God, not whether the continuation is addressed to the Son. |
 
 ### Preexistence, Creation, and Worship
 
@@ -152,10 +152,11 @@ The following are the strongest commonly offered readings from Acts and the lett
 | Philippians 2:6–11 | Existing in God's form, Christ did not exploit equality with God; universal homage echoes Isaiah 45. | **Greek article/grammar** concerns “form,” “equality,” and “grasped/exploited”; the passage explicitly says God highly exalted him and the confession glorifies God the Father. See [Philippians 2:9–11](../essence/as-god/lord.md#philippians-29-11). |
 | Colossians 1:15–20 | All things were created through, for, and in Christ; he is before all things. | **Scope**: “all things” may be read as the whole original creation or as the new creation/order described in the reconciliation context. See [The Creator](../son-as-god/creator.md) and [Similarities Between Jesus and God](../essence/as-god/similarities/similarities-between-jesus-and-god.md#philippians-26). |
 | 1 Corinthians 8:6 | One God, the Father, and one Lord, Jesus Christ, “through whom are all things.” | **Scope**: “all things” can be read as original creation or as the believers' life and new covenant world; Paul's wording explicitly distinguishes the one God, the Father, from the one Lord. See [The Creator](../son-as-god/creator.md). |
+| Hebrews 1:8-12 | The author addresses the Son as “God” and applies Psalm 102’s **Creator** language to him. | The Greek syntax continues *pros de ton huion* from verse 8 through the Psalm 102 quotation in verses 10-12. The natural reading is that the author applies the Creator text to the Son. A Unitarian response must therefore explain this application within the Father-Son distinction; it cannot make an alternative referent equally likely. |
 | 1 Corinthians 10:4, 9 | Christ was the wilderness rock and was tested by Israel. | **Referent**: whether “Christ” identifies the prehuman Jesus as Israel's God, or identifies God's promised Messiah in typological reading, is disputed. See [Jesus Is the Rock](../essence/as-god/incarnation/jesus-is-the-rock.md). |
 | Acts 7:59–60 | Stephen prays to Jesus and gives him worship due only to God. | **Referent**: “Lord Jesus” addresses the exalted Son of Man Stephen sees beside God; see [Worshipping Jesus](../son-as-god/worship.md). |
 
-The Nicene case gains force by combining these texts: divine titles, creation language, preexistence, Scripture allusions, and worship. The project response is not that these readings are impossible; it is that each requires a disputed grammatical, textual, scope, or referent decision, while the direct preaching pattern repeatedly names God as the one who sends, anoints, raises, exalts, and judges through Jesus. On this project view, Jesus receives unique God-given lordship and honour as God's human Messiah, not identity as the Father who alone is God.
+Hebrews 1:8-12 is a central counterweight to a purely agency-based account: its natural reading places the Son within language reserved in Psalm 102 for the Creator. The strongest Trinitarian explanation is that the eternal Son shares the divine identity while remaining distinct from the Father. The Unitarian task is not to deny the addressee but to explain why the author applies this language to God’s exalted Son while also calling the Father the Son’s God in Hebrews 1:9. That explanation remains theological and contested; the direct application is not.
 
 ## Result
 
@@ -169,8 +170,12 @@ The recorded proclamations nevertheless identify the acting God as the Father. P
 
 ## Apostolic Pattern and Its Strongest Challenge
 
-The strongest Trinitarian reading does not depend on a sermon containing later creedal formulae. In **Acts 2**, Peter gives Jesus the Davidic Lordship of **Psalm 110:1**; in **Acts 7:59–60**, Stephen addresses the exalted Jesus; and Paul can apply the confession “Jesus is Lord” to salvation in **Romans 10:9–13**. Together with high passages in the letters, these are reasonably read as apostolic worship and divine Christology.
+The strongest Trinitarian case does not rest on expecting Acts to use later creedal wording. Peter applies Psalm 110:1 to Jesus (Acts 2:34-36); Stephen addresses the exalted “Lord Jesus” (Acts 7:59); and Paul places confession of Jesus as Lord beside Joel’s salvation language (Romans 10:9-13). In Israel’s monotheistic setting, these are substantial data for a high Christology.
 
-The direct project reply concerns the message actually proclaimed. Peter calls Jesus “a man attested to you by God,” says “God raised him,” and says “God has made him both Lord and Christ” (**Acts 2:22, 24, 32, 36**). The church prays to God concerning “your holy servant Jesus, whom you anointed” (**Acts 4:24, 27, 30**). Paul identifies God as judge and Jesus as “a man whom he has appointed,” whose resurrection supplies assurance (**Acts 17:30–31**). These are not minor omissions. They identify the God who acts and the human Messiah through whom he acts.
+The Unitarian case should not answer that evidence by silence. It observes that the same texts identify **God** as the one who raised and exalted Jesus, and identify Jesus as the Messiah at God’s right hand. Peter calls him “**a man attested to you by God**” and says **“God has made him both Lord and Christ”** (Acts 2:22,36). Paul calls him “**a man whom he has appointed**” for judgment (Acts 17:31). *This reading treats lordship, prayer, and saving agency as the authority God grants to His Messiah, rather than as an explicit statement of shared divine essence.*
 
-The Spirit fits the same preaching pattern: God gives the promised Holy Spirit (**Acts 2:33**), and God anointed Jesus “with the Holy Spirit and with power” (**Acts 10:38**). Thus the Spirit is presented as God's promised gift and power in Father–Son interaction, not as a separately defined coequal person. The recorded gospel therefore supports Jesus’ unique, exalted authority while retaining the Father alone as God.
+Neither conclusion follows from omission in a sermon. The warranted result is narrower: apostolic preaching openly demands allegiance to the risen Lord Jesus while repeatedly distinguishing him from the God who sent, raised, and exalted him. Compare [Personal Preexistence and Foreordination](preexistence.draft.md#testing-the-personal-preexistence-reading) and [Textual Variants and Direct-Deity Texts](textual-variants.draft.md#control-texts-and-cumulative-limits).
+
+## Conclusion
+
+Acts and apostolic summaries proclaim Jesus as risen Lord, Messiah, Saviour, and appointed judge while naming God as the one who raised and exalted him. The high-Christology evidence remains substantial; its implications belong with [Personal Preexistence](preexistence.draft.md#comparative-synthesis) and [Direct-Deity Texts](textual-variants.draft.md#control-texts-and-cumulative-limits).

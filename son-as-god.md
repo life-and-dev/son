@@ -24,7 +24,7 @@ The New Testament attributes extraordinary power and authority to Jesus. The maj
 * Looks after his people (John 10:14)
 * Is eternal (Revelation 1:17-18)
 
-These passages clearly establish a unique and exalted status for the Son. However, the question remains whether these affirmations equate to the title "God" in the absolute, monotheistic sense.
+These passages clearly establish a unique and exalted status for the Son. However, the question remains whether [Jesus claimed to be divine?](claims.md)
 
 ## The Missing Phrase
 
@@ -32,7 +32,7 @@ You will never find the phrase *"the Son **as** God"* or *"God the Son"* in the 
 
 "The Son of God" indicates relationship and origin. It describes Jesus's unique connection to the Father. This phrase appears throughout Scripture (Matthew 4:3; Mark 1:1; John 1:34; Romans 1:4; and dozens of other passages).
 
-"The Son as God," by contrast, claims Jesus is God himself, not merely related to God. This phrase was invented by theologians to support [the Trinity doctrine](/trinity.md), but you will never find it in Scripture.
+"The Son as God," by contrast, claims Jesus is God himself, not merely related to God. This phrase was invented by theologians to support [the Trinity doctrine](trinity.md), but you will never find it in Scripture.
 
 ## Conclusion
 

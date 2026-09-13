@@ -3,11 +3,9 @@ description: "The Son of God — Path: god / son"
 keywords: "The Son of God, god, son"
 ---
 
-# Identity
+# The Son of God
 
-Jesus is known as the Messiah, Son of God, Son of Man, Lamb of God, faithful witness, and King of kings (Matthew 16:16; John 1:29; Revelation 1:5; 19:16). These titles describe God’s appointed human king and servant.
-
-Isaiah 9:1-7 announces light and joy for Zebulun, Naphtali, and Israel after oppression. Within that royal oracle, the promised child receives the throne of David and reigns with justice, while “the zeal of the LORD of hosts” accomplishes this (Isaiah 9:6-7). “Mighty God” is therefore one of the child’s throne names in a passage that distinguishes him from the LORD who establishes his kingdom. The strongest Trinitarian reading takes the title in its ordinary divine sense and regards its application to the child as identifying Jesus with the one God. A Unitarian reading holds that Isaiah gives the Messiah an exalted royal title while the immediate context still presents the LORD of hosts as the God who grants and secures the child’s rule. Jesus likewise calls the Father “the only true God” and himself the one sent by Him (John 17:3).
+Jesus’ sonship, humanity, obedience, and exaltation are central to the gospel. This study weighs how those themes relate to the strongest Trinitarian claims about his identity.
 
 # Attributes
 
@@ -35,8 +33,14 @@ Jesus served because he came to do the Father’s will, not his own (John 4:34; 
 
 ## Sonship and the Father’s God
 
-“Son of God” identifies Jesus as the Father’s uniquely begotten and appointed Messiah. At his baptism and transfiguration, the voice from heaven distinguishes God from Jesus: “This is my beloved Son” (Matthew 3:17; 17:5). The title does not make the Son the Father. After his resurrection Jesus still speaks of “my Father and your Father, my God and your God” (John 20:17), and Revelation calls the Father “his God” (Revelation 3:12).
+“Son of God” identifies Jesus as the Father’s unique Son and Messiah. The baptismal and transfiguration voice says, **“This is my beloved Son”** (Matthew 3:17; 17:5). These scenes distinguish Father and Son, but distinction alone does not decide whether the Son shares divine nature.
 
-A Trinitarian reading may treat titles such as “Mighty God” in Isaiah 9:6 or “the image of the invisible God” in Colossians 1:15 as declarations that Jesus is the one God. The immediate biblical evidence preserves distinction: Isaiah’s child receives his rule from the God of Israel (Isaiah 9:6-7), and an image represents another rather than being that other. Paul calls Jesus the image of God and then says that God was pleased to work through him (Colossians 1:15,19-20).
+Classical Trinitarian eternal-Sonship and two-natures reading engages the hard texts directly. John 1:1 presents the Word with God and using divine language; John 17:5 speaks of glory with the Father before the world; John 20:28 records Thomas’s **“My Lord and my God!”**; Hebrews 1:8 addresses the Son as God; and Philippians 2:6-8 is read as the preexistent Son taking servant form. In this account, the eternal Son truly assumes human nature. His growth, prayer, obedience, death, and “my God” language (John 20:17) belong to his incarnate mission and do not refute deity.
 
-Jesus’ humanity is essential to his mediating work. He is “the man Christ Jesus” between the one God and humanity (1 Timothy 2:5), obeyed the Father (John 5:19; 6:38), and was raised by God (Acts 2:24).
+The Unitarian reply must meet those texts rather than repeat a distinction argument. *It reads John’s Word language through God’s self-expression, John 17:5 through foreknown glory, Philippians 2 through obedient messianic humility, and Hebrews 1:8-9 within a quotation that also says “God, your God.”* These are interpretive proposals, not automatic results of Jesus’ humanity. The positive Unitarian case is that Scripture explicitly names the Father as the one God, names Jesus as the human mediator (1 Timothy 2:5), and repeatedly says God raised and exalted him (Acts 2:24,36).
+
+The hard texts remain weighty. Their textual and grammatical questions are assessed in [Textual Variants and Direct-Deity Texts](textual-variants.draft.md#new-testament-passages), and preexistence is assessed in [Personal Preexistence and Foreordination](preexistence.draft.md#testing-foreordination-against-personal-language).
+
+## Conclusion
+
+Jesus is the Father’s Son, human Messiah, mediator, and exalted Lord. Competing conclusions about his divine identity must weigh [preexistence](preexistence.draft.md#testing-foreordination-against-personal-language) and [direct-deity texts](textual-variants.draft.md#new-testament-passages).

@@ -1,96 +1,123 @@
 # Jesus (Yeshua)
 
+Jesus, also called Yeshua, is presented in the New Testament as God’s uniquely commissioned Messiah. This article considers his name, mission, and identity while distinguishing textual claims from theological conclusions.
+
 ## The Real Name
 
-“Jesus” is the English form of the Greek New Testament name *Iēsous* (Ἰησοῦς). It corresponds to Hebrew and Aramaic forms such as Yehoshua and Yeshua, names also used for Joshua and Jeshua in Scripture (Nehemiah 8:17; Ezra 3:2). Greek has no “sh” sound, so the Greek form does not reproduce every Hebrew sound.
+“Jesus” is English form of Greek Ἰησοῦς (*Iēsous*), name written in surviving Greek New Testament manuscripts. It represents Semitic name tradition behind Joshua/Jeshua: Hebrew *Yehoshua* and shorter *Yeshua* occur in Scripture (for example, Nehemiah 8:17; Ezra 3:2). Greek lacks Hebrew *shin* /ʃ/, and Greek case endings account for final *-s* in nominative Ἰησοῦς. [Logeion’s Greek entry](https://logeion.uchicago.edu/%E1%BC%B8%CE%B7%CF%83%CE%BF%E1%BF%A6%CF%82) and [Sefaria’s Hebrew text of Nehemiah 8:17](https://www.sefaria.org/Nehemiah.8.17?lang=bi) document those forms.
 
-The name points to God’s saving work. The angel says, “he will save his people from their sins” (Matthew 1:21). Using “Jesus” in English does not change the person named or make one pronunciation necessary for salvation (Acts 4:12).
+First-century Judea used Aramaic and Hebrew as well as Greek. It is reasonable to say that Jesus bore a Semitic name related to *Yeshua*; the Greek New Testament itself does not preserve a verbatim Aramaic pronunciation for him. [Britannica’s overview of Aramaic](https://www.britannica.com/topic/Aramaic-language) provides historical language context. Thus “Yeshua” may be a useful historical form, but neither “Yeshua” nor “Jesus” settles his ontology, and Scripture makes no pronunciation a condition of salvation (Acts 4:12). The spelling difference is transliteration, not a textual variant, translation error, or doctrinal proof. See also [the origin of the name Jesus](name.md#the-origin-of-the-name-jesus) and [retained Semitic forms in the Gospels](terms.draft.md#retained-and-explained-semitic-forms-in-the-gospels).
+
+Matthew connects the name with God’s saving purpose: “he will save his people from their sins” (Matthew 1:21). That is narrative explanation and theological wordplay. It does not prove a particular etymology beyond dispute or establish whether Jesus is God.
 
 ## Historic Facts
 
-Yeshua was a Jewish man, born in Judea and raised in Nazareth (Matthew 2:1-6; Luke 2:39-40). He was baptised by John, taught in Galilee and Judea, and gathered disciples (Matthew 3:13-17; Mark 1:14-20).
+Jesus was a Jewish man, born in Judea and raised in Nazareth (Matthew 2:1-6; Luke 2:39-40). The Gospels portray him as baptised by John, teaching in Galilee and Judea, and gathering disciples (Matthew 3:13-17; Mark 1:14-20).
 
-He was arrested in Jerusalem, condemned under Pontius Pilate, and crucified (Matthew 27:1-2,11-26; John 19:16-18). His followers proclaimed that God raised him from the dead (Acts 2:32; 1 Corinthians 15:3-8). Their message was that Jesus is the Christ, God’s appointed king and saviour (Acts 2:36; 5:31).
+He was arrested in Jerusalem, condemned under Pontius Pilate, and crucified (Matthew 27:1-2,11-26; John 19:16-18). His followers proclaimed that God raised him from the dead (Acts 2:32; 1 Corinthians 15:3-8). Their message identified Jesus as the Christ, God’s appointed king and saviour (Acts 2:36; 5:31). These are claims of the New Testament witnesses, not an attempt to infer identity from a name.
 
 ## What Makes Yeshua Unique
 
-### The only man who was ever born of a virgin
+The New Testament presents Jesus as uniquely born, faithful, crucified, raised, and exalted. These claims matter for Christian faith, while their implications for his ontology remain disputed between Trinitarian and Unitarian Christians. The following sections distinguish what a text states from conclusions drawn from it.
 
-Matthew and Luke state that Mary became pregnant through God’s Spirit, without a human father (Matthew 1:18-25; Luke 1:35). This makes Yeshua’s birth unique and identifies him as God’s Son.
+### Virgin Birth and Sonship
 
-“Son of God” does not mean that Yeshua is the Father. The same accounts present God as the One acting by His Spirit, while Yeshua is born as a human child. He is also called the Son of Man, a title that emphasises his human role and authority (John 5:27).
+Matthew and Luke state that Mary conceived through God’s Spirit, without a human father (Matthew 1:18-25; Luke 1:35). The accounts make Jesus’ birth singular within their narratives and identify him as God’s Son. They do not state a universal comparison with every person in religious history.
 
-### The only man called "the Last Adam"
+“Son of God” does not mean that Jesus is the Father. These accounts distinguish God, God’s Spirit, and the child born as a human being. Trinitarians agree that Father and Son are distinct persons. Their doctrine is one God in three persons and holds that the eternal Son assumed a complete human nature; person and nature are not interchangeable. The birth narratives themselves neither set out that later formula nor rule it out. A Unitarian reading takes their plain distinction and Jesus’ human birth as positive evidence that he is God’s human Messiah.
 
-Paul gives Yeshua the title **“the last Adam”** (1 Corinthians 15:45). Luke’s genealogy ends with Adam as “the son of God” because God created him directly (Luke 3:38). Adam is the first head of the human family.
+### Last Adam
 
-Paul contrasts Adam’s disobedience with Christ’s obedience. Through one man sin and death entered; through one man’s righteous act comes the prospect of life (Romans 5:12-19). The argument rests on Yeshua’s real humanity and faithful obedience, not on an unspoken claim that he was directly created like Adam. God appointed the obedient human Messiah to reverse Adam’s ruin.
+Paul calls Jesus “**the last Adam**” (1 Corinthians 15:45). Adam is the first head of the human family; Luke’s genealogy calls him “the son of God” because God created him directly (Luke 3:38).
 
-The comparison does not erase the Father-Son distinction. The last Adam receives life from God and finally hands the kingdom to God, “that God may be all in all” (1 Corinthians 15:22-28).
+Paul contrasts Adam’s disobedience with Christ’s obedience: through one man sin and death entered, and through one man’s righteous act comes life (Romans 5:12-19). The argument requires Jesus’ real humanity and faithful obedience. It does not say that he was created as Adam was.
 
-### The only man who had perfect faith in God and lived a sinless life
+A Trinitarian may read the title alongside pre-existence texts and maintain that the incarnate Son is the last Adam. That reading cannot be rejected merely because Adamic and agency language is compatible with a human Messiah. The Unitarian inference is narrower: Paul’s sustained Adam-Christ comparison supplies affirmative evidence for Jesus as the obedient human representative, while it does not explicitly identify him as God.
 
-The New Testament states that although fully human, Yeshua never sinned (1 Peter 2:22; 1 John 3:5). He says he always does what pleases his Father (John 8:29). Hebrews 4:15 notes that he was **"tempted in every way, just as we are,"** and the texts depict him as genuinely tested, hungry, afraid, and in pain.
+### Faithful and Sinless Life
 
-Adam, created without an innate pull toward sin (a "sin nature"), chose disobedience anyway.
+The New Testament states that Jesus did not sin (1 Peter 2:22; 1 John 3:5). He says that he always does what pleases his Father (John 8:29). Hebrews confirms this portrait by saying that he “**has been in all points tempted like we are**, yet **without sin**” (Hebrews 4:15, WEB). The accounts portray real testing, hunger, fear, suffering, and obedience.
 
-Yeshua never yielded, which the texts present as the basis for his unique qualification to represent humanity before God.
+Scripture does not use the later phrase “sin nature” for Adam, so it should not bear this argument. Romans 5 contrasts Adam’s disobedience and Christ’s obedience without explaining every mechanism of temptation.
 
-### The only man who died as the perfect sacrifice for our sins
+Trinitarians hold that Christ’s sinlessness coheres with the incarnate Son’s two natures, not that his humanity was unreal. Unitarians can affirm the same sinlessness as the faithful obedience of God’s human Messiah. Sinlessness alone does not decide between those accounts.
 
-Yeshua gave himself once for sins. Hebrews says that he offered himself once for all, unlike repeated animal sacrifices (Hebrews 9:12-14; 10:10-12). God sent His Son in love, and the Son freely gave his life (1 John 4:10; John 10:17-18).
+### Once-for-All Sacrifice
 
-This sacrifice does not make Yeshua the God to whom the sacrifice is offered. He is the faithful human high priest and offering, while God is the One who accepts and saves through him (Hebrews 2:17; 5:1-10; 1 Timothy 2:5).
+Jesus gave himself for sins. Hebrews contrasts his once-for-all offering with repeated animal sacrifices (Hebrews 9:12-14; 10:10-12). God sent his Son in love, and the Son freely gave his life (1 John 4:10; John 10:17-18). Isaiah’s servant provides the Old Testament foundation: “he was **pierced** for our transgressions” (Isaiah 53:5, WEB).
 
-### The only man God ever raised from the dead to everlasting life
+This sacrifice does not by itself identify Jesus with God, to whom prayer and sacrifice are directed. Hebrews presents him as a high priest appointed in relation to God (Hebrews 2:17; 5:1-10), and 1 Timothy 2:5 calls him the human mediator. Trinitarians answer that the one person of the Son offers himself in his human nature. That account directly addresses the objection that God cannot die; therefore Jesus’ death is not a simple disproof of divinity. The Unitarian case rests instead on the texts’ repeated God-Christ distinction and appointed priesthood.
 
-The resurrection is the central event of Christian proclamation. Acts 17:31 states that God has given proof to all by raising Yeshua from the dead. Romans 1:4 says he was **"declared to be the Son of God"** by that resurrection. Acts 2:32 and 1 Corinthians 15:3-8 record the witnesses to his resurrection.
+### Resurrection and Everlasting Life
 
-### The only man God has highly exalted as Lord, Head of the Church, and ruler of all
+The resurrection is central to Christian proclamation. Acts 17:31 says that God gave assurance by raising the appointed judge from the dead. Romans 1:4 says that Jesus was “**declared to be the Son of God**” by resurrection, and Acts 2:32 and 1 Corinthians 15:3-8 report the witnesses.
 
-Several New Testament texts (Philippians 2:9; Acts 2:36; Ephesians 1:22; Colossians 1:18; Matthew 28:18) state that after the resurrection God the Father exalted Yeshua and gave him **"all authority in heaven and on earth."** He is called **"Lord"** (Greek [*Kyrios*](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/), a title that can mean "lord" or "master" and is also used for Yahweh in the Greek Old Testament) and **"Head of the Church,"** the worldwide community of his followers. Daniel 7:13-14 pictures a human-like figure coming **"with the clouds of heaven"** to receive an everlasting kingdom, and Joseph's elevation to second-in-command over Egypt (Genesis 41:37-46) parallels Yeshua as the once-rejected man now at God's right hand (Ephesians 1:20).
+The New Testament calls Jesus “the first fruits” of those who have died (1 Corinthians 15:20-23), not the only person God will raise to everlasting life. This correction matters: the claim is about order and representative significance, not an argument from exclusivity.
 
-### The only man who is now the Mediator between God and mankind
+### Exalted Lord and Ruler
 
-There is “one God, and one mediator between God and men, the man Christ Jesus” (1 Timothy 2:5). A mediator stands between parties. Jesus can mediate precisely because he is the obedient human Messiah whom God raised and appointed.
+After the resurrection, God exalted Jesus and granted him authority. Jesus says, “**All authority** has been given to me in heaven and on earth” (Matthew 28:18, ESV). Acts says, “God has made him both **Lord and Christ**, this Jesus whom you crucified” (Acts 2:36, WEB). He is head of the church (Ephesians 1:22; Colossians 1:18).
 
-Hebrews presents him as high priest who intercedes for his people (Hebrews 7:25; 8:1-6). The strongest Trinitarian reading may treat his heavenly intercession as proof that he is God. The text instead distinguishes the mediator from God: Jesus speaks to God on behalf of humanity.
+The title *kyrios* can mean lord, master, or Lord; in the Greek Old Testament it also commonly renders the divine name YHWH. That range prevents a lexical shortcut in either direction. Calling Jesus *Lord* does not automatically deny divinity, nor does it automatically identify him as YHWH. Context must decide.
 
-### The only man who will gather all Christians to meet him "in the air"
+A major Trinitarian reading joins Philippians 2:9-11 to Isaiah 45:23, where the LORD says every knee will bow to him. It sees Jesus’ reception of universal homage as participation in YHWH’s identity. The passage also says God highly exalted Jesus and that his confession as Lord is “to the glory of God the Father” (Philippians 2:9-11). A Unitarian reading therefore sees God granting the Messiah Danielic rule (Daniel 7:13-14). This is a contested interpretation, not a translation error or a settled result of the word *kyrios*.
 
-1 Thessalonians 4:17 describes a future event in which Yeshua will return and his followers will be **"caught up … to meet the Lord in the air,"** often called "the rapture" by Christians. The wording is vivid, and the biblical context connects it to the Lord's visible return in glory, as seen in passages such as Daniel 7:13-14, Matthew 24:30, Acts 1:9-11, and Revelation 1:7. In that setting, **"the air"** and **"the clouds"** are not meant to suggest a literal scene of people drifting around in the sky; rather, they describe the moment when believers are gathered into the Lord's presence at his appearing. In the wider biblical story, this belongs to the sequence of resurrection, transformation, and final judgment, and the fuller picture of judgment and kingdom comes later in passages such as Matthew 25, Acts 17:31, and Revelation 20.
+### Mediator Between God and Humanity
 
-### The only man who will return, destroy evil, and rule the earth for a thousand years
+“There is **one God**, and one mediator between God and men, the **man Christ Jesus**” (1 Timothy 2:5, WEB). A mediator stands between parties. Hebrews also presents Jesus as high priest who intercedes for his people (Hebrews 7:25; 8:1-6).
 
-Revelation 19:11-16 and 20:1-6 contain a vision in which Yeshua returns as a warrior-king on a white horse, defeats his enemies, imprisons the devil ("Satan") and evil spirits, and rules for a thousand years, the **Millennium** (Latin for "a thousand years"). John the Baptist identifies Yeshua as **"the Lamb of God, who takes away the sin of the world"** (John 1:29), the sacrificial figure. Christian theology holds that Yeshua is both.
+A Trinitarian can read this mediatorial work as the incarnate Son’s human office, rather than as a denial of his divine nature. Person and nature must be kept distinct in that view. The text nevertheless distinguishes God and the mediator and explicitly calls Christ human. For Unitarians, that is affirmative evidence for Jesus as God’s appointed human Messiah. It is not a silence argument, nor does mediation language by itself disprove divinity.
 
-### The only man who will judge all men and women of all time
+### Return and Gathering of Believers
 
-John 5:22, 27 states that the Father has handed **all judgment to the Son.** Acts 17:31 says God has appointed a day on which he will judge the world, with Yeshua's resurrection as the proof. 2 Corinthians 5:10 and Acts 10:42 affirm that Christ will judge the living and the dead. John 5:28-29 distinguishes two outcomes: some will rise **"to the resurrection of life,"** and some **"to the resurrection of judgment."**.
+1 Thessalonians 4:17 says believers will be “**caught up** … to meet the Lord in the air” (ESV). Christians differ about the timing and sequence of this event, often using “rapture” for it. The text should not be reduced to a claim that the imagery is non-literal; it gives no such explanation.
 
-### The only man who will restore the Paradise the first Adam lost
+Daniel 7:13-14 supplies Old Testament background for the Son of Man receiving authority. Matthew 24:30 and Acts 1:9-11 connect Jesus’ future appearing with clouds. Revelation 1:7 confirms this expectation, but is not its sole basis. These texts teach return and gathering; they do not, by themselves, settle whether the returning Messiah is God.
 
-Genesis opens with Eden, a garden of peace and unbroken fellowship between God and humanity. Adam and Eve's rebellion ended that state, and the creation has since **"groaned"** under the loss (Romans 8:22). In 1 Corinthians 15:24-28, Paul describes the end, when Yeshua delivers the completed kingdom to his Father, having **"put all his enemies under his feet,"** with death as the last enemy destroyed. Revelation 21:1-4 depicts a renewed creation in which God dwells with his people, and crying, pain, and death are no more.
+### Defeat of Evil and the Thousand Years
 
-### Yeshua and the One God
+Revelation 19:11-16 and 20:1-6 portray the returning Christ as warrior-king, the defeat of his enemies, Satan’s restraint, and a thousand-year reign. Christians differ over whether the thousand years is a future chronological period or symbolic apocalyptic imagery. The passage itself should not be made to settle that debate.
 
-Yeshua’s unique titles and exalted office do not make him the Father. Jesus identifies the Father as “the only true God” and himself as the one sent by that God (John 17:3). After rising, he calls the Father “my God” (John 20:17). The New Testament therefore presents one God, the Father, and Yeshua as His human Son and Christ (1 Corinthians 8:6; 1 Timothy 2:5).
+John calls Jesus “the **Lamb of God**, who takes away the sin of the world” (John 1:29, ESV). His sacrificial role and royal role belong together in Christian proclamation. Revelation confirms the wider biblical hope of God’s victory; Daniel 7:13-14 and Psalm 110:1 provide earlier foundations for a human figure receiving rule at God’s right hand.
 
-The strongest Trinitarian reading points to Jesus’ Lordship, worship, and language about existing before Abraham (John 8:58; Philippians 2:9-11). Yet God raised, exalted, and gave authority to Jesus (Acts 2:32-36; Matthew 28:18). In Philippians, every confession that Jesus Christ is Lord is “to the glory of God the Father.” Jesus is God’s appointed Messiah, not the Father who appointed him.
+### Appointed Judge
 
-The Holy Spirit preserves the distinction. God anointed Yeshua with the Holy Spirit and power, and God gives His Spirit to believers (Acts 10:38; Galatians 4:6). The Spirit is God’s power and presence at work, bringing the Son’s message and life to His people.
+Jesus says that the Father “has given him authority to execute judgment, because he is **the Son of Man**” (John 5:27, ESV). Acts 17:31 says that God appointed a day to judge the world by a man whom he appointed, giving assurance by raising him from the dead. Acts 10:42 and 2 Corinthians 5:10 likewise identify Christ as judge of living and dead.
 
-## Yeshua's Titles
+A Trinitarian may connect universal judgment with divine prerogative. The strongest counterpoint is that the Father expressly gives judgment to the Son. Delegated authority is compatible with a high Christology and so is not, by itself, proof of non-divinity. For the Unitarian reading, the appointment of the Son of Man is positive evidence that God judges through his Messiah.
 
-Christian tradition applies many titles to Yeshua, each highlighting a different aspect of his role.
+### Renewed Creation
 
-- **Savior**: he rescues from the consequences of sin and death (Romans 5:10; Titus 2:13).
-- **Redeemer**: he paid the price to set free (Galatians 3:13; Titus 2:14).
-- **Mediator**: he stands between humanity and God and keeps the relationship open (1 Timothy 2:5).
-- **Lord**: he is the one obeyed, holding final authority (Romans 10:9; Philippians 2:11).
-- **Best Friend**: in John 15:14-15, he calls his followers friends, not servants (John 15:14-15).
-- **Big Brother**: he is the firstborn of a new human family; those who trust in him become his younger siblings (Hebrews 2:11).
-- **Light of our lives**: he shows the way when everything is dark (John 8:12).
-- **Peace**: he calms the guilty conscience before God (Philippians 4:7; John 14:27).
-- **Joy**: he is the reason his followers can be glad in hardship (Romans 14:17; John 15:11).
-- **Mentor in the art of faith**: he is watched, listened to, and learned from, so believers may grow to be like him (John 13:13; 1 Peter 2:21).
+Genesis opens with Eden, and humanity’s rebellion brings alienation and death (Genesis 2:15-17; 3:17-19). Psalm 110:1 provides the Old Testament pattern of the LORD placing the Messiah at his right hand. Paul describes the end when Christ delivers the kingdom to God the Father, “that God may be **all in all**” (1 Corinthians 15:24-28, ESV).
+
+Revelation 21:1-4 confirms the hope of renewed creation, where God dwells with his people and death is no more. The texts present Christ’s victorious service within God’s final purpose. They do not require the conclusion that Christ is identical with the God who receives the kingdom.
+
+### Jesus and the One God
+
+Israel’s confession begins, “Hear, Israel: **Yahweh** is our God. Yahweh is one” (Deuteronomy 6:4, WEB). Jesus cites this confession as the foremost command (Mark 12:29). In John 17:3, Jesus calls the Father “the only true God” and identifies himself as the one sent by him. After his resurrection he says, “I am ascending to my Father and your Father, to my God and your God” (John 20:17, ESV).
+
+Paul writes, “to us there is **one God, the Father** … and one Lord, Jesus Christ” (1 Corinthians 8:6, WEB). Unitarians, who are Christians, read these recurring distinctions as cumulative positive evidence that the one God is the Father and Jesus is God’s human Messiah. See [one God](unitarianism.md#one-god) and [the Son of God and God the Son](index.md#son-of-god-vs-god-the-son).
+
+Trinitarians do not normally say that Jesus is the Father. They confess one God in three distinct persons, Father, Son, and Holy Spirit, and understand Jesus as the incarnate Son with both divine and human natures. Their strongest relevant reading joins Philippians 2:9-11 to Isaiah 45:23 and reads John 8:58 as more than ordinary self-identification. Those are serious interpretive claims, not mere agency language.
+
+The Unitarian reply should remain limited. Jesus’ exaltation, worship, authority, and agency-compatible language do not alone prove that he lacks divinity. Yet the repeated pattern of God raising, sending, anointing, giving authority to, and being distinguished from Jesus (Acts 2:32-36; 10:38; Matthew 28:18) is best read here as God working through his appointed Messiah. This is an interpretive conclusion, not a claim that any disputed translation, name form, or isolated text has settled the question.
+
+## Titles of Jesus
+
+Christian tradition uses titles for Jesus that describe his roles in God’s saving purpose.
+
+- **Saviour**: God saves through him from sin and death (Acts 5:31; Romans 5:10).
+- **Redeemer**: he gives himself to set people free (Galatians 3:13; Titus 2:14).
+- **Mediator**: he stands between God and humanity (1 Timothy 2:5).
+- **Lord**: he is the exalted ruler to whom believers owe obedience (Acts 2:36; Philippians 2:11).
+- **Friend**: he calls obedient disciples friends (John 15:14-15).
+- **Firstborn among many brothers**: he leads God’s renewed human family (Romans 8:29; Hebrews 2:11).
+- **Light of the world**: he reveals God’s way and life (John 8:12).
+
+Titles may carry profound theological claims, but titles and name meanings require contextual interpretation. They do not alone settle ontology.
+
+## Conclusion
+
+The name “Yeshua” supports a Jewish and Semitic setting, not a conclusion about Jesus’ ontology. [His faithful human obedience](#last-adam), [sacrificial death](#once-for-all-sacrifice), [resurrection](#resurrection-and-everlasting-life), and [God-given exaltation](#exalted-lord-and-ruler) together provide a positive cumulative Unitarian case: God raised and commissioned Jesus as the human Messiah and Lord.
+
+This conclusion has stated limits. [Trinitarian readings of incarnation, pre-existence, and YHWH texts](#jesus-and-the-one-god) remain substantive interpretations; agency, titles, and name etymology do not settle them alone. For related examination, see [the Son of God](index.md#son-of-god-vs-god-the-son), [Unitarian views](unitarianism.md#the-identity-of-jesus), and [debate terms](debate.draft.md#what-do-person-nature-godhead-and-incarnation-mean).

@@ -1,26 +1,26 @@
-# The purpose of mankind
+# The Crucifixion and Reconciliation
 
-According to Paul:
-
-> Blessed be [the God and Father](/god/father) of [our Lord Jesus Christ](/god/son/christ), who has blessed us in Christ with every spiritual blessing in the heavenly places, even as He chose us in Him before the foundation of the world, that we should be holy and blameless before Him. In love He predestined us **[for adoption to Himself as sons](/god/sons-of-god)** through Jesus Christ, according to **the purpose of His will to [the praise](/bible/concepts/praise) of His [glorious](/bible/concepts/glory) grace**, with which He has blessed us in the Beloved. -- Ephesians 1:3-6 (ESV)
-
-According to a Psalmist:
-
-> All nations whom You have made shall come and [worship](/god/worship) before You, O [Lord](/god/father/name), and shall [glorify](/bible/concepts/glory) Your [name](/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](/bible/concepts/shema). -- Psalm 86:9-10 (NKJV)
+The New Testament presents Jesus’ death as God’s saving act through His obedient Son. This study examines ransom, sacrifice, covenant, reconciliation, and competing accounts of the cross without overstating any one image.
 
 ## The problem with mankind
 
-Genesis 3 [explains how mankind choose to disobey (sin) God's commands](/eternal) and consequently God had to separate Himself form us.
+Genesis 3 describes human disobedience to God’s command and its consequences.
 
-> Therefore, just as [sin came into the world through one man](/eternal) (Genesis 3), and [death](/eternal/death) through [sin](/bible/concepts/sin), and so **death spread to all men because all sinned**. -- Romans 5:12 (ESV)
+> “Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned.”
+>
+> — Romans 5:12 (ESV)
 
-Therefore, mankind is incapable to fulfill [their purpose](#the-purpose-of-mankind):
+Therefore, humankind cannot fulfil its calling before God.
 
-> For there is no distinction: for **all have [sinned](/bible/concepts/sin) and fall short of the glory of God**. -- Romans 3:22-23 (ESV)
+> “For all have sinned and fall short of the glory of God.”
+>
+> — Romans 3:23 (ESV)
 
-Sin causes division between God and the world:
+Sin brings alienation from God.
 
-> Behold, [the LORD](/god/father#lord)'s hand is not shortened, that it cannot save, or His ear dull, that it cannot hear; but **your [iniquities](/bible/concepts/iniquity) have made a separation between you and your God**, and **your sins have hidden His face from you** so that he does not hear. -- Isaiah 59:1-2 (ESV)
+> “Your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.”
+>
+> — Isaiah 59:2 (ESV)
 
 ## The solution for mankind
 
@@ -88,78 +88,29 @@ These witnesses testify that Jesus had to "pour out" his "blood" to establish th
 
 # The purpose of the new covenant
 
-> For while we were still weak, at the right time Christ died for the ungodly. For one will scarcely die for a righteous person (though perhaps for a good person one would dare even to die) but
-> 
-> 1. **God shows his love for us** in that while we were still sinners, Christ died for us.
-> 2. Since, therefore, we have now been justified by his blood, much more shall we be **saved by him from the wrath of God**. 
-> 3. For if while we were enemies **we were reconciled to God** by the death of His Son, much more, now that we are reconciled, shall we be saved by his life. 
-> 4. More than that, we also **rejoice in God** through our Lord Jesus Christ, through whom we have now received reconciliation.
-> 
-> -- Romans 5:6-11 (ESV)
+> “For while we were still weak, at the right time Christ died for the ungodly. ... but God shows his love for us in that while we were still sinners, Christ died for us. ... For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.”
+>
+> — Romans 5:6,8,10-11 (ESV)
+
+Paul presents Christ’s death as God’s loving action for sinners and the Son’s death as the means through which believers receive reconciliation. Its emphasis is Christ’s death, reconciliation to God, salvation by Christ’s life, and rejoicing in God through the Lord Jesus Christ.
 
 ## Meaning of reconciliation to God
 
-Often people mistakenly think that God can only forgive us if Jesus blood "paid" the penalty of our sin. However, there are many scriptures that state that God forgave people's sin before Jesus was crucified (Isaiah 43:25; Daniel 9:19; Matthew 6:14-15). Even Jesus himself proclaimed that people were forgiven before he was crucified (Mark 2:6-12 (ESV); Matthew 9:2-8).
+Scripture records God forgiving before the crucifixion (Isaiah 43:25; Daniel 9:19; Mark 2:5-12), and the New Testament presents the cross as God’s reconciling action in Christ (Romans 5:6-11; 2 Corinthians 5:18-19).
 
-The Greek word translated as "reconciliation" is "katallássō":
+In Romans 5, Paul says that **“Christ died for the ungodly”** and that believers were **“reconciled to God by the death of his Son”** (Romans 5:6,10, ESV). In 2 Corinthians 5, God is the reconciling agent: **“God was in Christ reconciling the world to himself”** (2 Corinthians 5:19). These statements establish divine initiative, Christ’s self-giving death, forgiveness, and restored relation.
 
-> 2644 katallássō (from 2596 /katá, "down to an exact point," intensifying 236 /allássō, "to change") – properly, decisively change, as when two parties reconcile when coming ("changing") to the same position.
-> 
-> 2644 /katallássō ("decisively changed, reconciled") is applied to marriage partners (1 Corinthians 7:11), but usually in the redemptive sense of a sinner reconciling to the Lord. 
->
-> [2644 (katallássō) was originally used for the exchange of coins; "properly, to change, exchange (especially of money); hence, of persons, to change from enmity to friendship, to reconcile" (A-S).]
-> 
-> -- [HELPS Word-studies](https://biblehub.com/greek/2644.htm)
+Classical Trinitarians may understand reconciliation as the incarnate Son’s voluntary self-offering, preserving both God’s justice and mercy. Unitarians may understand it as God’s saving work through His obedient human Messiah. Both readings must account for the texts’ shared sequence: God acts in love, Christ dies and gives himself, believers receive reconciliation, and God raises Christ (Romans 5:8-11; Acts 2:22-24).
 
-Obviously forgiveness is necessary for reconciliation. However, forgiveness alone only neutralizes the relationship. Reconciliation take it further from "enmity to friendship" or from "divorced" to "married".
-
-It is not okay, to be barely forgiven and saved. The purpose of the new covenant is to establish an intimate [fellowship](/bible/concepts/fellowship) with God which is [often compared with a "marriage"](/bible/metaphors/bride-of-christ).
+Reconciliation includes forgiveness but is broader than acquittal. It is restored relation with God through Christ. See [The New Covenant](#the-purpose-of-the-new-covenant) and [Ransom](#the-purpose-of-ransom).
 
 ## Explanation of the new covenant
 
-> *And it is needed* for this reason:
->
-> just as
-> 1. through one man sin entered the world *(Romans 5:12)* and
-> 2. death through sin, and
-> 3. so death spread to all humankind for all sinned (for sin was in the world before the law, but sin is not charged to one's account when there is no law).
->
-> Nevertheless, death reigned from Adam to Moses, even over those who did not sin in a similar way to the transgression of Adam, who is a type of the Coming One. But the *free* gift is not like the transgression.
->
-> |                                                                                                                                                          Adam | Jesus Christ                                                                                                                                                              |
-> |--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-> |                                                             For if many died through **the transgression of one *man***, *we can be* much more *certain that* | the grace of God and the gift *that came* by **the grace of the one man**, Jesus Christ, overflowed to the many.                                                          |
-> | And the gift is not like what came through the one who sinned. For on the one hand, judgment came from **one *transgression*** resulting in **condemnation**, | but on the other hand, **the *free* gift** came after many transgressions resulting in **righteousness**.                                                                 |
-> |                                                                       For if by the transgression of the one *man*, **death reigned through that one *man***, | *we can be* much more *certain that* those who receive the overflow of grace and the gift of **righteousness will reign in life through the one *man**** -- Jesus Christ. |
-> |                                                                So then, just as through **one transgression** the result was **condemnation for all people**, | so also through **one righteous act** the result was righteousness that brings **life for all people**.                                                                   |
-> |                                                                                For just as through the **one man's disobedience** the many were made sinners, | so also through the **obedience of the one *man*** the many will be made righteous.                                                                                       |
->
-> -- Romans 5:12-19 (REV)
+Paul compares Adam’s disobedience and Christ’s obedience. Through Adam’s trespass, sin and death spread; through Christ, God’s grace and gift lead toward righteousness and life (Romans 5:12-19). The comparison identifies Christ as the obedient human representative through whom God’s grace addresses the consequences of sin.
 
-The result of Adam's transgression is "condemnation" with requires "death". God "paid" for this condemnation by the "death" of His only-begotten son which cost him his blood (life) to enable an alternative outcome: righteousness with God is eternal "life".
+Romans 6 describes the believer’s participation in Christ’s death and life. Christ “died to sin, once for all,” and now “lives to God” (Romans 6:10, ESV). Believers are to consider themselves dead to sin and alive to God in Christ (Romans 6:11).
 
-> For **the death that he died, he died to [sin](/bible/concepts/sin) once for all**;   
-> but **the life that he lives, he lives to God**.
->
-> -- Romans 6:10 (NKJV)
-
-God did not cancel "the reign of death" that Adam established. He provided an alternative. Like Adam and all our ancestors, we still have the option to choose our master and destiny:
-
-> Do you not know that if you present yourselves to anyone as obedient slaves, **you are slaves of the one whom you obey**?
->
-> |                                                                                                                                                                                                                     Sin | God                                                                                                                                                                                                                                           |
-> |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-> |                                                                                                                                                                   either of **sin *(trespass)*, which leads to death**, | or of **obedience *(compliance)*, which leads to righteousness**                                                                                                                                                                              |
-> |                                                                                                                                                          But thanks be to God, that you who were **once slaves of sin** | have become obedient from the heart to the standard of teaching to which you were committed, and, having been set free from sin, have become **slaves of righteousness** (I am speaking in human terms, because of your natural limitations). | 
-> |                                                                                               For just as you once **presented your members as slaves to impurity** and to lawlessness **leading to more lawlessness**, | so now **present your members as slaves to righteousness leading to sanctification**.                                                                                                                                                         |
-> | For when you were **slaves of sin**, you were **free in regard to righteousness**. But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is **death**. | But now that you have been set **free from sin** and have become **slaves of God**, the fruit you get leads to sanctification and its end, **eternal life**.                                                                                  |
-> |                                                                                                                                                                                      For **the wages of sin is death**, | but **the free gift of God is eternal life** in Christ Jesus our Lord.                                                                                                                                                                        | 
->
-> -- Romans 6:16-23 (ESV)
-
-Jesus was sacrificed to establish a blood covenant. If this covenant did not happen, then we would had to pay with our own blood for our own sin.
-
-Therefore, Jesus blood could also be considered a ransom payment for our sins.
+These passages establish the contrast between sin and death, Christ’s obedience and life, and God’s gracious gift of righteousness. They should be read with the covenant sayings, which identify Jesus’ blood with the new covenant and forgiveness (Matthew 26:28; Luke 22:20).
 
 ## The new covenant prophecy
 
@@ -189,47 +140,29 @@ Then Jesus said that he was fulfilling the prophecy:
 >
 > -- Luke 22:17-20 (ESV)
 
-# The purpose of the ransom payment
+# The Purpose of Ransom
 
-Jesus contrasts rulers who exercise authority over others with the service expected of his disciples:
+Jesus contrasts oppressive rule with the service expected of his disciples.
 
-> Jesus called them and said, “You know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. It shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be your slave, even as [the Son of Man](/god/son/essence/of-man) came not to be served but to serve, and to give his life as **a ransom for many**.”
+> “For even the Son of Man came not to be served but to serve, and to give his life as a **ransom for many**.”
 >
-> -- Matthew 20:25-28 (ESV); Mark 10:42-45 (ESV)
+> — Mark 10:45 (ESV); compare Matthew 20:25-28
 
-In this context, Jesus describes his life given in service as the ransom. The following passages identify that ransom with his blood and describe its atoning effect.
+In context, ransom language names Jesus’ self-giving life and its liberating result. It belongs with New Testament statements about redemption and forgiveness through Christ’s blood.
 
 ## Definition of ransom
 
-> the purchasing money for manumitting slaves, a ransom, the price of ransoming; especially the sacrifice by which expiation is effected, an offering of expiation. -- [Strong's Concordance](https://biblehub.com/greek/3083.htm)
+The Greek word *lytron* in Mark 10:45 is ransom or release language. In Jesus’ saying, the stated action is that the Son of Man gives his life **“as a ransom for many.”** The text establishes costly self-giving and liberation.
 
-> literally, the ransom-money (price) to free a slave -- [HELPS Word-studies](https://biblehub.com/greek/3083.htm)
-
-> λύτρον, λύτρου, τό (λύω), the Sept. passim for כֹּפֶר, גְּאֻלָּה, פִּדְיון, etc.; the price for redeeming, ransom (paid for slaves, Leviticus 19:20; for captives, Isaiah 45:13; for the ransom of a life, Exodus 21:30; Numbers 35:31f) -- [Thayer's Greek Lexicon](https://biblehub.com/greek/3083.htm)
+Other New Testament passages state the result in complementary terms. Believers have “redemption, the forgiveness of sins” in God’s beloved Son (Colossians 1:13-14), and are ransomed “with the precious blood of Christ” (1 Peter 1:18-19). These claims support redemption and forgiveness through Christ’s death.
 
 ## The aspects of the redemption
 
-In simple terms:
+The New Testament uses ransom and redemption language to describe liberation through Christ’s death. Peter says believers were ransomed from futile ways **“with the precious blood of Christ”** (1 Peter 1:18-19, ESV). John calls Christ the propitiation for sins and says God sent His Son so that believers might live through him (1 John 2:2; 4:9-10).
 
-| Aspect      | Subject                            |
-|-------------|------------------------------------|
-| Payer       | God the Father                     |
-| Price       | The blood (life) of the Son of God |
-| Beneficiary | Us (the world)                     |
+These passages identify God’s love, the Son’s sending and self-giving, Christ’s blood, forgiveness, and the liberation of believers. Their imagery belongs alongside reconciliation, covenant, cleansing, victory over sin, and adoption.
 
-> You were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with **the precious blood of [Christ](/god/son/christ)**, like that of a lamb without blemish or spot. -- 1 Peter 1:18-19 (ESV)
-
-and
-
-> He ***(Jesus Christ)* is the propitiation** for our sins, and not for ours only but also for the sins of the whole world.
->
-> ...
->
-> In this **the love of God was made manifest among us, that God sent his only Son** into the world, so that we might live through him. In this is love, not that we have loved God but that He loved us and **sent His Son to be the propitiation** for our sins.
->
-> -- 1 John 2:2,4:9-10 (ESV)
-
-The benefits of this redemption was:
+Classical Trinitarians can understand the Son’s voluntary self-offering as divine self-giving in the incarnation. Unitarians can understand God saving through His obedient human Messiah. Both readings affirm what the cited texts say about Christ’s death and its saving result. See [Questions About Crucifixion Sacrifice](criticizing-the-crucifixion.draft.md#was-jesus-a-fragrant-offering).
 
 ### To restore righteousness with God
 
@@ -243,33 +176,11 @@ The benefits of this redemption was:
 
 ### Adoption by God
 
-God do not just make peace with us. He also adopts believers as his children and makes us heirs of God's promises.
+God adopts believers as His children and makes them heirs of His promise. Paul says that God sent His Son, “born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons” (Galatians 4:4-5, ESV). He also says that believers have “redemption, the forgiveness of sins” in the beloved Son (Colossians 1:13-14).
 
-> Christ **redeemed us from the curse of the law** by becoming a curse for us — for it is written,
->
->> “Cursed is everyone who is hanged on a tree” -- Deuteronomy 21:23
->
-> ...
->
-> We also, when we were children, were enslaved to the elementary principles of the world. But when the fullness of time had come, **God sent forth His Son**, born of woman, born under the law, **to redeem** those who were under the law, so that we might **receive adoption as [sons](/god/sons-of-god)**. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So **you are no longer a slave, but a son, and if a son, then an heir** through God. Formerly, when you did not know God, **you were enslaved** to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to **the weak and worthless *[elementary (beggarly or poor)](https://biblehub.com/greek/4434.htm)* principles of the world**, whose **slaves** you want to be once more? -- Galatians 3:13, 4:3-9 (ESV)
+Ephesians joins redemption and forgiveness to Christ’s blood: “In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace” (Ephesians 1:7, ESV). These texts establish God’s grace, Christ’s redemptive death, forgiveness, and adoption.
 
-and
-
-> May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy, giving thanks to **the Father, Who has qualified you to share in the inheritance of the saints in light. He has delivered us from the domain of darkness and transferred us to the kingdom of His beloved Son**, in whom we have **redemption, the forgiveness of sins**. -- Colossians 1:11-14 (ESV)
-
-and
-
-> In love He *(God our Father)* predestined us for [adoption as sons](/god/sons-of-god) through Jesus Christ, according to the purpose of His will, to the praise of His glorious grace, with which He has blessed us in the beloved: In him we have **redemption through his *(the beloved's)* blood**, the forgiveness of our [trespasses](/bible/concepts/transgressions), according to the riches of His grace. -- Ephesians 1:7 (ESV)
-
-This payment was not limited to the Jews, but Jesus also paid for the gentiles:
-
-> Therefore, remember that at one time you, the Gentiles in the flesh, who are called "uncircumcision" by those who are called "circumcision" (*which is* done in the flesh by *human* hands); *remember* that at that time you were without Christ, excluded from the citizenship of Israel, and strangers to the covenants based on the promise, having no hope and without God in the world.
->
-> But now in Christ Jesus you who at one time were far away have been **brought near by the blood of Christ**. For he is our peace, who made both *groups into* one and has broken down the dividing wall, the partition *between us*. He made the hostility (the law consisting of commands *expressed* in regulations) of no effect by his flesh, so that in himself he could create one new man from the two *groups, thus* making peace, and *so* he could reconcile both *groups* to God in one body by means of the cross, having put to death the hostility by it. And when he came he proclaimed good news of peace to you who were far away and peace to those who were near, 18 because through him we both have access by one spirit to the Father.
->
-> So then you are no longer strangers and foreigners, but you are **fellow citizens with the holy ones and members of the household of God**, having been built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole building, being fitted together, grows into a holy sanctuary in the Lord, in whom you also are being built together by means of the spirit into a dwelling place of God.
->
-> -- Ephesians 2:12-22 (REV)
+The result is restored belonging: God sends His Son, forgives sins through Christ, and gives believers the Spirit of His Son as children and heirs (Galatians 4:4-7).
 
 # Explanations of the crucifixion
 
@@ -279,22 +190,8 @@ This payment was not limited to the Jews, but Jesus also paid for the gentiles:
 
 # Conclusion
 
-God created us to [glorify](/god/concepts/glory) His authority with our service ([worship](/god/worship)) and [praise](/bible/concept/praise).
+God’s saving purpose addresses sin, death, and alienation through the obedient death and risen life of His Son. [The problem of sin](#the-problem-with-mankind) and [God’s reconciling action](#meaning-of-reconciliation-to-god) belong together.
 
-Sadly, because of our choice to disobey God, we all became sinners condemned to death [which seperated us from God](#the-purpose-of-mankind) so that we are no longer capable to fulfill our purpose.
+The New Testament uses complementary images: [new covenant](#the-purpose-of-the-new-covenant), [ransom](#the-purpose-of-ransom), sacrifice, reconciliation, victory over sin and death, forgiveness, and adoption. These texts establish that Christ died for sinners, his blood secures redemption and forgiveness, and God reconciles through Christ.
 
-However, [God the Father](/god/father) established a [new covenant](#the-purpose-of-the-new-covenant), with the blood of [His son](/god/son), to restore [righteousness](/bible/concepts/righteousness) to us. Reconciliation would not have been possible without removing the division (cleansing of [sin](/bible/concepts/sin)) between God and us. Therefore, [the Son of God](https://son.ofgod.info) voluntarily offered himself as hero to provide [the way to eternal life with the Father](/god/son/purpose) Who loves to [adopt us as His children](/god/sons-of-god) so that we can inherit as fellow heirs with [His Son](/god/son), Jesus [Christ](/god/son/christ), whom He had resurrected like [He would also resurrect us one day](/eternal/death).
-
-[Salvation](/eternal/saved) just happen to be a by-product of God's love for us. It is a gift and not an achievement.
-
-Our purpose and goal should be
-
-1. to live in [righteousness](/bible/concepts/righteousness) with God,
-2. serve ([worship](/god/worship)) Him in love, and
-3. testify the truth to others,
-4. to the glory of God, and
-5. under the authority of our Lord Jesus Christ,
-6. which would only be possible if we trust ([belief](/life/faith)) God with everything,
-7. in gratitude for His grace and mercy,
-
-[like Jesus demonstrated to us](/god/son/essence/of-man/standards).
+Classical Trinitarians see the cross as the self-giving of the incarnate Son; Unitarians see God saving through His sinless human Messiah. Both readings must account for the Father sending the Son, the Son giving himself, and God raising him (Romans 5:6-11; Acts 2:22-24). Compare [Questions About Crucifixion Sacrifice](criticizing-the-crucifixion.draft.md#inconsistencies-regarding-the-passover-lamb) and [The Son of God](the-son-of-god.draft.md#jesus-as-a-human).

@@ -3,16 +3,9 @@ description: "The Authority of Jesus — Path: god / son / authority"
 keywords: "The Authority of Jesus, god, son, authority"
 ---
 
-# What Jesus will do
+# The Authority of Jesus
 
-* Come with the clouds (Revelation 1:7)
-* Every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him (Revelation 1:7)
-
----
-
-He inherited the nations (Psalm 2:8), therefore He has great authority (Psalm 2:9; Isaiah 42:1-4; Philippians 2:10)
-
-With authority given to him by the Father, he will judge humanity and execute judgement (John 5:22,27; Acts 17:31).
+Jesus exercises universal authority as Lord, judge, teacher, and saviour. This study asks how Scripture relates that authority to the Father who sends, raises, and exalts him.
 
 # Jesus as our Lord
 
@@ -38,14 +31,22 @@ We must learn from Jesus (Matthew 11:29)
 
 # Jesus as the creator
 
-The Father is the Creator and source of all things (Isaiah 44:24; Acts 17:24-25; 1 Corinthians 8:6). Jesus is the risen Lord through whom God now brings salvation and will judge the world (Acts 17:31; 1 Corinthians 8:6).
+The Father is the Creator and source of all things (Isaiah 44:24; Acts 17:24-25; 1 Corinthians 8:6). The question is how John 1:1-3 and Colossians 1:16 relate the Son or Word to that confession.
 
-John 1:1-3 and Colossians 1:16 are often read to mean that Jesus personally created the universe. John identifies the Word as being with God, while Colossians calls Christ the image of the invisible God and says that God reconciles through him (John 1:1; Colossians 1:15,19-20). These passages give Christ a central place in God’s purpose; they do not overturn the repeated confession that one God, the Father, is the source of all things (1 Corinthians 8:6).
+John 1:1-3 says all things came to be **through** the Word. Classical Trinitarians read the Word as the preexistent Son and *di’ autou* as real divine creation agency: the Father creates through the Son without introducing a second god. Unitarians note that John first speaks of the Word, that *logos* can denote God’s self-expression or wisdom, and that “through” can describe God acting by His word. The passage gives the Word an indispensable role, but identification of that Word as a personally preexistent Son before verse 14 is the disputed step.
+
+Colossians 1:16 says **“all things were created through him and for him,”** specifying things in heaven and earth, visible and invisible, including thrones and powers. Classical reading takes the catalogue as comprehensive original creation and Christ as its preexistent agent and goal. A Unitarian new-creation or dominion reading observes the immediate themes of image, kingdom, reconciliation, and rule; it must nevertheless explain the cosmic catalogue and “before all things” rather than merely assert a restricted scope.
+
+The warranted conclusion is that both texts give Christ or the Word a uniquely high relation to creation. The Father’s sole sourcehood in 1 Corinthians 8:6 is not cancelled by creation through Christ in the classical reading; in the Unitarian reading, it guides how that agency is understood. See [Personal Preexistence and Foreordination](preexistence.draft.md#john-1).
 
 ## Given Authority, Not Rival Authority
 
-Jesus has real universal authority, but Scripture repeatedly identifies its source. The Father “has given all judgment to the Son” (John 5:22,27), “has given all things into his hand” (John 3:35), and raised and seated him at His right hand (Ephesians 1:20-22). Jesus therefore acts as God’s appointed human Messiah, not as a rival to the one God.
+Jesus has real universal authority, and Scripture repeatedly identifies its source. The Father **“has given all judgment to the Son”** (John 5:22,27), has given all things into his hand (John 3:35), and raised and seated him at His right hand (Ephesians 1:20-22). The Son judges, saves, rules, and receives obedience. These are not merely honorary roles.
 
-Philippians 2:6-11 is often read as proof that Jesus is God because every knee bows to him. Paul’s conclusion is decisive: God highly exalted Jesus and gave him the name, and every confession that Jesus Christ is Lord is “to the glory of God the Father” (Philippians 2:9-11). Isaiah 45:23 supplies the language of universal homage to God; Philippians shows the Father extending that honour through His obedient Son.
+Classical Trinitarians read the Son’s received authority within the incarnation and eternal Sonship. The Son is eternally divine, yet as the incarnate Messiah willingly obeys the Father; therefore, passages about being sent, given authority, and finally subjected do not, in that view, deny shared divine nature. Philippians 2:6-11 and Isaiah 45:23 are central because Paul applies universal homage to Jesus.
 
-The final order remains clear. When every hostile authority has been subjected, the Son himself is subjected to the One who subjected all things to him, “that God may be all in all” (1 Corinthians 15:24-28).
+The Unitarian reading does not infer “not God” from agency alone. *It argues that the repeated grant-and-exaltation pattern is the Bible’s positive explanation of Jesus’ authority.* “God highly exalted him” and every confession of Jesus as Lord is **“to the glory of God the Father”** (Philippians 2:9-11). At the end the Son is subjected to God, “that God may be all in all” (1 Corinthians 15:24-28). This supports a supreme, God-given messianic lordship. See [Apostolic Preaching](apostolic-preaching.draft.md#apostolic-pattern-and-its-strongest-challenge).
+
+## Conclusion
+
+Jesus’ authority is universal and saving, and Scripture repeatedly presents it as God-given. Its relation to identity requires the wider evidence in [Personal Preexistence](preexistence.draft.md#comparative-synthesis).

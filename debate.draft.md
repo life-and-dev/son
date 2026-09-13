@@ -5,465 +5,64 @@ keywords: Jesus, God, Messiah, Father, Holy Spirit, Gospels, salvation, worship,
 
 # Is Jesus God?
 
-## Key Terms
-
-Nicene Trinitarian wording defines one divine essence in three distinct persons; popular shorthand says God became man.
-
-Unitarians understand God as Father alone, Jesus as fully human Messiah, and Spirit as God's active power and presence.
-
-### What do person, nature, Godhead, and incarnation mean?
-
-- **Romans 9:5 calls Christ God over all in human incarnation — Trinitarian argument:** [Romans 9:5 calls Christ God over all in human incarnation](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Punctuation can make Paul's words a doxology to God](son-of-man/human.md#jesus-is-human).
-- **Jesus dies, fitting God's mortal servant rather than God — Unitarian argument:** [Jesus dies, fitting God's mortal servant rather than God](son-of-man/human.md#jesus-is-human). **Trinitarian response:** [Son assumes humanity and can die in human nature](son-of-man/human.md#jesus-is-human).
-- **Jesus repeatedly calls himself Son of Man — Unitarian argument:** [Jesus repeatedly calls himself Son of Man](son-of-man/human.md#jesus-is-human). **Trinitarian response:** [Son of Man can carry Danielic heavenly authority](son-of-man/human.md#jesus-is-human).
-- **Luke's Son of Man texts present Jesus as human — Unitarian argument:** [Luke's Son of Man texts present Jesus as human](son-of-man/human.md#jesus-is-human). **Trinitarian response:** [Son of Man can carry exalted authority](son-of-man/human.md#jesus-is-human).
-- **Jesus as God's image shares divine nature — Trinitarian argument:** [Jesus as God's image shares divine nature](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Image can describe representative likeness](son-of-man/human.md#jesus-is-human).
-- **If Jesus is LORD, Malachi's unchanging God proves his — Trinitarian argument:** [If Jesus is LORD, Malachi's unchanging God proves his immutability](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Identifying Jesus with Malachi's speaker is disputed](son-of-man/human.md#jesus-is-human).
-- **Jesus' appearance to Saul shows risen divine presence — Trinitarian argument:** [Jesus' appearance to Saul shows risen divine presence](son-of-man/human.md#jesus-is-human). **Unitarian response:** [A risen, exalted human Messiah can appear by God's power](son-of-man/human.md#jesus-is-human).
-- **Jesus' final judgment from glorious throne proves deity — Trinitarian argument:** [Jesus' final judgment from glorious throne proves deity](son-of-man/human.md#jesus-is-human). **Unitarian response:** [God grants Messiah judgment and throne](son-of-man/human.md#jesus-is-human).
-- **God defeated devil while living a truly human life — Trinitarian argument:** [God defeated devil while living a truly human life](son-of-man/human.md#jesus-is-human). **Unitarian response:** [God acted through human Messiah rather than becoming human](son-of-man/human.md#jesus-is-human).
-- **Jesus' obedience glorified God within incarnation — Trinitarian argument:** [Jesus' obedience glorified God within incarnation](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Obedience shows Jesus is subordinate to God](son-of-man/human.md#jesus-is-human).
-- **Trinitarians differ over how incarnation works — Trinitarian argument:** [Trinitarians differ over how incarnation works](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Internal disagreement weakens claimed clarity](son-of-man/human.md#jesus-is-human).
-- **Jesus' exaltation restores divine status — Trinitarian argument:** [Jesus' exaltation restores divine status](son-of-man/human.md#jesus-is-human). **Unitarian response:** [God exalted obedient Jesus](son-of-man/human.md#jesus-is-human).
-
-### Which incarnation claims need closer comparison?
-
-- **Jesus is the Father — Trinitarian argument:** [Jesus is the Father](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Father and Son are distinct in prayer and sending](son-of-man/human.md#jesus-is-human).
-- **God's omnipotence applies to Jesus — Trinitarian argument:** [God's omnipotence applies to Jesus](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Jesus' dependence and limits distinguish him from God](son-of-man/human.md#jesus-is-human).
-- **God's incomprehensible wisdom applies to Jesus — Trinitarian argument:** [God's incomprehensible wisdom applies to Jesus](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Jesus learns and receives knowledge](son-of-man/human.md#jesus-is-human).
-- **God's omnipresence applies to Jesus — Trinitarian argument:** [God's omnipresence applies to Jesus](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Jesus' presence language is not omnipresence](son-of-man/human.md#jesus-is-human).
-- **Jesus alone has immortality — Trinitarian argument:** [Jesus alone has immortality](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Paul's immediate referent is God](son-of-man/human.md#jesus-is-human).
-- **God tasted death through incarnation — Trinitarian argument:** [God tasted death through incarnation](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Jesus shared flesh as human high priest](son-of-man/human.md#jesus-is-human).
-- **Incarnation strains God's immensity and non-change — Unitarian argument:** [Incarnation strains God's immensity and non-change](son-of-man/human.md#jesus-is-human). **Trinitarian response:** [Two natures preserve divine immutability](son-of-man/human.md#jesus-is-human).
-- **Adam-Christ and image language fit representation — Unitarian argument:** [Adam-Christ and image language fit representation](son-of-man/human.md#jesus-is-human). **Trinitarian response:** [Image language can express shared divine nature](son-of-man/human.md#jesus-is-human).
-
-### What does John 20:28 say about Thomas's confession?
-
-- **Thomas called Jesus my Lord and my God — Trinitarian argument:** [Thomas called Jesus my Lord and my God](son-of-man/human.md#jesus-is-human). **Unitarian response:** [Thomas spoke after Jesus called Father his God](son-of-man/human.md#jesus-is-human).
-
-### What do God, Son of God, Messiah, and man of God mean?
-
-- **Hebrews says Son reflects God's nature and receives worship — Trinitarian argument:** [Hebrews says Son reflects God's nature and receives worship](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Reflection can distinguish Son from God and show agency](son-of-man/distinct.md#jesus-interacted-with-god).
-
-## Messiah Expectations and Cultural Context
-
-### What did people expect Messiah to be?
-
-- **Prophet like Moses fits a human Messiah — Unitarian argument:** [Prophet like Moses fits a human Messiah](../prophecies/messianic/psalm-2.md#interpretations). **Trinitarian response:** [Greater-than-Moses language can support divine Messiah](../prophecies/messianic/psalm-2.md#interpretations).
-- **Isaiah's servant is God's empowered servant, not God — Unitarian argument:** [Isaiah's servant is God's empowered servant, not God](../prophecies/messianic/psalm-2.md#interpretations). **Trinitarian response:** [Divine readings see servant texts with LORD passages cumulatively](../prophecies/messianic/psalm-2.md#interpretations).
-- **Jesus calls himself man and grows before God — Unitarian argument:** [Jesus calls himself man and grows before God](../prophecies/messianic/psalm-2.md#interpretations). **Trinitarian response:** [Growth belongs to incarnate human nature](../prophecies/messianic/psalm-2.md#interpretations).
-- **Ransom and covenant texts fit human Messiah — Unitarian argument:** [Ransom and covenant texts fit human Messiah](../prophecies/messianic/psalm-2.md#interpretations). **Trinitarian response:** [Divine Son can offer ransom in human nature](../prophecies/messianic/psalm-2.md#interpretations).
-
-## Jesus with the Father and Holy Spirit
-
-### How are Jesus and the Father related?
-
-- **God witnesses to and glorifies himself through Jesus — Trinitarian argument:** [God witnesses to and glorifies himself through Jesus](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Giver and recipient remain distinct](son-of-man/distinct.md#jesus-interacted-with-god).
-- **God's self-glorification supports glorifying Jesus — Trinitarian argument:** [God's self-glorification supports glorifying Jesus](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Jesus receives glory from God](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Nicodemus called Jesus a teacher sent from God, implying more — Trinitarian argument:** [Nicodemus called Jesus a teacher sent from God, implying more](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Sent teacher language distinguishes Jesus from God](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Jesus speaks with divine authority in Psalm and Gospel — Trinitarian argument:** [Jesus speaks with divine authority in Psalm and Gospel parallels](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Agency can explain God's word through Messiah](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Sabbath, sonship, and unity claims prompted divine-identity — Trinitarian argument:** [Sabbath, sonship, and unity claims prompted divine-identity charge](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Opponents' charge does not settle Jesus' meaning](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Receiving Jesus means receiving Father — Trinitarian argument:** [Receiving Jesus means receiving Father](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Representation explains receiving sender through sent one](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Jesus has all authority — Trinitarian argument:** [Jesus has all authority](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Authority is received from Father](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Jesus committed himself obediently to God — Unitarian argument:** [Jesus committed himself obediently to God](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Obedience belongs to incarnate Son's mission](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Father and Jesus are equal — Trinitarian argument:** [Father and Jesus are equal](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Jesus receives authority and remains subject](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Granted authority and final subjection fit human Messiah — Unitarian argument:** [Granted authority and final subjection fit human Messiah](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Economic roles and incarnation explain subjection](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Father saves through Son he sent, so they remain distinct — Unitarian argument:** [Father saves through Son he sent, so they remain distinct](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Sending reflects personal distinction and economic role](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Father is greater and saves through sent Son — Unitarian argument:** [Father is greater and saves through sent Son](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Incarnate Son can be subordinate in mission](son-of-man/distinct.md#jesus-interacted-with-god).
-
-### Which Father-Son claims need closer comparison?
-
-- **Philippians says Jesus is equal with God — Trinitarian argument:** [Philippians says Jesus is equal with God](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [God exalts obedient Jesus and remains distinct](son-of-man/distinct.md#jesus-interacted-with-god).
-
-### What is the Holy Spirit?
-
-- **Rock language links Jesus and Holy Spirit with God — Trinitarian argument:** [Rock language links Jesus and Holy Spirit with God](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Spirit is God's power and presence, not another person](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Spirit-anointed miracles show divine identity — Trinitarian argument:** [Spirit-anointed miracles show divine identity](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Anointing shows God empowers Messiah](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Messiah receives God's Spirit and depends on God — Unitarian argument:** [Messiah receives God's Spirit and depends on God](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Spirit anointing fits Son's incarnate mission](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Christ's eternal Spirit makes offering eternal — Trinitarian argument:** [Christ's eternal Spirit makes offering eternal](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Eternal Spirit need not identify Jesus as God](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Jesus had human blood while God is Spirit — Unitarian argument:** [Jesus had human blood while God is Spirit](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Incarnation permits divine Son to assume human blood](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Spirit of Christ acts as personal divine Spirit — Trinitarian argument:** [Spirit of Christ acts as personal divine Spirit](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Spirit is God's own active power and presence](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Believers share God's triune life — Trinitarian argument:** [Believers share God's triune life](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Spirit's activity need not establish triune personhood](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Holy Spirit is God's own Spirit active in creation — Unitarian argument:** [Holy Spirit is God's own Spirit active in creation](son-of-man/distinct.md#jesus-interacted-with-god). **Trinitarian response:** [Personal speech and will indicate distinct person](son-of-man/distinct.md#jesus-interacted-with-god).
-
-## Jesus and the Gospel Authors
-
-### How do the Gospels present Jesus' identity?
-
-- **Blasphemy accusations show Jesus claimed divine identity — Trinitarian argument:** [Blasphemy accusations show Jesus claimed divine identity](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Accusations can concern Messiahship, authority, or representation](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Denying Jesus is God is blasphemy — Trinitarian argument:** [Denying Jesus is God is blasphemy](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus' God remains the Father; denial of deity is not blasphemy](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Later church language shifts focus from God to Jesus — Unitarian argument:** [Later church language shifts focus from God to Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [High Christology is present before later formulations](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Psalm 2's Son points to Christ before birth — Trinitarian argument:** [Psalm 2's Son points to Christ before birth](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Royal sonship need not mean personal preexistence](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Stone prophecy applied to Jesus supports divine identity — Trinitarian argument:** [Stone prophecy applied to Jesus supports divine identity](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Messianic application does not make Messiah God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **God teaches in Isaiah and Jesus teaches in John — Trinitarian argument:** [God teaches in Isaiah and Jesus teaches in John](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus teaches as God's sent representative](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Colossians 2:9 says divine fullness dwells bodily in Jesus — Trinitarian argument:** [Colossians 2:9 says divine fullness dwells bodily in Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Fullness can describe God's presence in Messiah](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Demons recognized Jesus' divine significance — Trinitarian argument:** [Demons recognized Jesus' divine significance](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Recognition of Messiah's authority need not identify God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **1 Timothy 3:16 presents Jesus as God's manifestation — Trinitarian argument:** [1 Timothy 3:16 presents Jesus as God's manifestation](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Textual reading and referent are disputed](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Psalm 82 shows Jesus is God — Trinitarian argument:** [Psalm 82 shows Jesus is God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Psalm 82 concerns human judges and agency context](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Trust in Jesus despite curse on trusting man shows Jesus is God — Trinitarian argument:** [Trust in Jesus despite curse on trusting man shows Jesus is God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Trust in God's appointed Messiah differs from trusting mere man](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Peter makes Jesus source of faith and hope as God — Trinitarian argument:** [Peter makes Jesus source of faith and hope as God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God works through Christ and remains distinct](son-as-god/claims/good.md#addressing-counter-arguments).
-
-### Which Gospel identity claims need closer comparison?
-
-- **1 John 5:20 calls Jesus true God — Trinitarian argument:** [1 John 5:20 calls Jesus true God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Pronoun referent may be Father](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Nicodemus said Jesus came from God — Trinitarian argument:** [Nicodemus said Jesus came from God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Sent-from-God language distinguishes Jesus from God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Father made world through Jesus — Trinitarian argument:** [Father made world through Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Through-language can be agency or new creation](son-as-god/claims/good.md#addressing-counter-arguments).
-- **LORD as husband and Christ as bridegroom show divine identity — Trinitarian argument:** [LORD as husband and Christ as bridegroom show divine identity](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Bridegroom imagery can be messianic and representative](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus calls disciples children like a Father — Trinitarian argument:** [Jesus calls disciples children like a Father](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Pastoral address does not identify Jesus as Father-God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus loves as Father loves — Trinitarian argument:** [Jesus loves as Father loves](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Shared love can reflect mission and obedience](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Father and Jesus dwell in believers and each other — Trinitarian argument:** [Father and Jesus dwell in believers and each other](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Mutual indwelling can be relational unity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Serving Jesus means serving him as God — Trinitarian argument:** [Serving Jesus means serving him as God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Service to Messiah can be obedience to God's agent](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Father and Jesus carry burdens alike — Trinitarian argument:** [Father and Jesus carry burdens alike](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus can mediate God's care without being God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **First-and-Last language identifies Jesus as God — Trinitarian argument:** [First-and-Last language identifies Jesus as God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Revelation speaker and title application need context](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus shares divine rule, glory, and throne — Trinitarian argument:** [Jesus shares divine rule, glory, and throne](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God grants Messiah authority and exaltation](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus and Father are one — Trinitarian argument:** [Jesus and Father are one](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Believers are also one; context permits unity of purpose](son-as-god/claims/good.md#addressing-counter-arguments).
-
-### Which Gospel identity claims need closer comparison?
-
-- **Jesus adopts children like a Father — Trinitarian argument:** [Jesus adopts children like a Father](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Fatherhood imagery need not make Jesus the Father](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus and God share judgment seat — Trinitarian argument:** [Jesus and God share judgment seat](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God gives judgment authority to Messiah](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus heals as God heals — Trinitarian argument:** [Jesus heals as God heals](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Miracles show God works through Jesus](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus and God share mercy and wrath language — Trinitarian argument:** [Jesus and God share mercy and wrath language](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Shared attributes can be delegated royal language](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus and Father are both called King — Trinitarian argument:** [Jesus and Father are both called King](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Messianic kingship is granted by God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus is good shepherd as only God is good — Trinitarian argument:** [Jesus is good shepherd as only God is good](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Goodness and shepherd title need not establish identity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus shares Father's glory — Trinitarian argument:** [Jesus shares Father's glory](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus receives glory from Father](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus can solve everyone's problems — Trinitarian argument:** [Jesus can solve everyone's problems](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus invites burdened people as God's appointed Messiah](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus rules from glorious throne — Trinitarian argument:** [Jesus rules from glorious throne](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God grants Messiah throne and rule](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus knows all things — Trinitarian argument:** [Jesus knows all things](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Knowledge can be granted or contextual](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus is omnipresent — Trinitarian argument:** [Jesus is omnipresent](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Presence promises need not assert omnipresence](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Acts says Jesus is omnipresent — Trinitarian argument:** [Acts says Jesus is omnipresent](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Jesus' presence can be visionary or representative](son-as-god/claims/good.md#addressing-counter-arguments).
-
-### Which Gospel identity claims need closer comparison?
-
-- **Jesus raised himself from death — Trinitarian argument:** [Jesus raised himself from death](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God raised Jesus; self-raising texts need context](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Psalm 2's Son rules all nations — Trinitarian argument:** [Psalm 2's Son rules all nations](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God's anointed king can rule by delegated authority](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Father is called Jesus' God, distinguishing them — Unitarian argument:** [Father is called Jesus' God, distinguishing them](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Incarnation and personal distinction explain this language](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Paul calls Jesus the man mediator — Unitarian argument:** [Paul calls Jesus the man mediator](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Mediator can be divine Son acting in human nature](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Matthew's origin language concerns Jesus' human beginning — Unitarian argument:** [Matthew's origin language concerns Jesus' human beginning](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Origin wording can include preexistent Son's coming](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Nicodemus calls Jesus sent teacher, not God — Unitarian argument:** [Nicodemus calls Jesus sent teacher, not God](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Sending language may describe preexistent Son's mission](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Slain Lamb fits God's eternal plan — Trinitarian argument:** [Slain Lamb fits God's eternal plan](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Eternal plan does not require preexistent Lamb](son-as-god/claims/good.md#addressing-counter-arguments).
-- **God proved love by suffering in Jesus — Trinitarian argument:** [God proved love by suffering in Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [God proved love by sending human Son](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Real human Jesus models obedient faith under trial — Unitarian argument:** [Real human Jesus models obedient faith under trial](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Incarnate Son models human obedience](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus showed God's standards are fair and obeyable — Unitarian argument:** [Jesus showed God's standards are fair and obeyable](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [His unique obedience can reflect divine Son's mission](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus commanded disciples to follow his example — Unitarian argument:** [Jesus commanded disciples to follow his example](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Exemplary obedience does not exclude deity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Believers conform to Christ's image — Unitarian argument:** [Believers conform to Christ's image](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Participation in Christ does not make him merely human](son-as-god/claims/good.md#addressing-counter-arguments).
-
-### Which Gospel identity claims need closer comparison?
-
-- **God limits testing, showing standards humans can meet — Unitarian argument:** [God limits testing, showing standards humans can meet](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Christ's sinlessness need not deny divine nature](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus is believers' example — Unitarian argument:** [Jesus is believers' example](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Example does not settle his nature](son-as-god/claims/good.md#addressing-counter-arguments).
-- **God showed love by sending Son, not becoming Son — Unitarian argument:** [God showed love by sending Son, not becoming Son](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Sending can be preexistent Son's mission](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Christ became curse under law, fitting human Messiah — Unitarian argument:** [Christ became curse under law, fitting human Messiah](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Son bears curse in assumed humanity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **God sent Son in flesh, so sender and sent differ — Unitarian argument:** [God sent Son in flesh, so sender and sent differ](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Personal distinction allows Father to send Son](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus serves as priest before God — Unitarian argument:** [Jesus serves as priest before God](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Son's priesthood follows incarnate mediating role](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus died and now lives by God's exaltation — Unitarian argument:** [Jesus died and now lives by God's exaltation](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Risen life does not exclude divine identity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **LORD appearances may be pre-incarnate Jesus — Trinitarian argument:** [LORD appearances may be pre-incarnate Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Old Testament appearances do not name Jesus](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus is believers' brother and friend under God — Unitarian argument:** [Jesus is believers' brother and friend under God](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Incarnate Son can call believers brothers and friends](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus is way while God is destination — Unitarian argument:** [Jesus is way while God is destination](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Jesus can be destination within worship of one God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Jesus was baptized in obedience and approval — Unitarian argument:** [Jesus was baptized in obedience and approval](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Baptism can reveal Son's divine identity and mission](son-as-god/claims/good.md#addressing-counter-arguments).
-
-### Did Jesus create the world?
-
-- **Creation is ordered toward serving Jesus — Trinitarian argument:** [Creation is ordered toward serving Jesus](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Creation belongs to Father; Jesus may be God's agent](son-of-man/human.md#god-is-not-a-human).
-- **John 1 and First-and-Last language show divine eternity — Trinitarian argument:** [John 1 and First-and-Last language show divine eternity](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Shared language needs context and does not prove identity](son-of-man/human.md#god-is-not-a-human).
-- **John 1 identifies Jesus the Word as existing before world — Trinitarian argument:** [John 1 identifies Jesus the Word as existing before world](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Word can be God's wisdom and plan embodied in Jesus](son-of-man/human.md#god-is-not-a-human).
-- **John 1:1-3 says Jesus the Word created all things — Trinitarian argument:** [John 1:1-3 says Jesus the Word created all things](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Word may be God's plan, not a prehuman person](son-of-man/human.md#god-is-not-a-human).
-- **Jesus is Author of life — Trinitarian argument:** [Jesus is Author of life](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Title can mean God-appointed source of life](son-of-man/human.md#god-is-not-a-human).
-- **Jesus created through Father's command — Trinitarian argument:** [Jesus created through Father's command](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Father alone is source and creator](son-of-man/human.md#god-is-not-a-human).
-- **Creator psalms and John/Colossians identify Jesus as creator — Trinitarian argument:** [Creator psalms and John/Colossians identify Jesus as creator](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Cosmic language may be agency or new creation](son-of-man/human.md#god-is-not-a-human).
-- **Colossians 1 says Jesus created world — Trinitarian argument:** [Colossians 1 says Jesus created world](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Firstborn and through-language allow delegated agency](son-of-man/human.md#god-is-not-a-human).
-- **Jesus existed before time and created world — Trinitarian argument:** [Jesus existed before time and created world](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Preexistence and creation readings are disputed](son-of-man/human.md#god-is-not-a-human).
-- **Jesus created time — Trinitarian argument:** [Jesus created time](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Genesis does not name Jesus as time's creator](son-of-man/human.md#god-is-not-a-human).
-
-### Does Jesus exist before his birth?
-
-- **The Eden LORD was the preexistent Jesus — Trinitarian argument:** [The Eden LORD was the preexistent Jesus](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [The passage does not identify the LORD as Jesus](son-of-man/human.md#god-is-not-a-human).
-- **Daniel 7 shows Jesus before birth — Trinitarian argument:** [Daniel 7 shows Jesus before birth](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Daniel's vision can concern Messiah's future authority](son-of-man/human.md#god-is-not-a-human).
-- **Jesus' childhood wisdom implies preexistence — Trinitarian argument:** [Jesus' childhood wisdom implies preexistence](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Wisdom and growth describe a human child](son-of-man/human.md#god-is-not-a-human).
-- **Jesus saw Satan fall, showing heavenly preexistence — Trinitarian argument:** [Jesus saw Satan fall, showing heavenly preexistence](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [The saying may be vision or prophetic speech](son-of-man/human.md#god-is-not-a-human).
-- **Jesus descended from heaven before coming to earth — Trinitarian argument:** [Jesus descended from heaven before coming to earth](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Descent language can express God's plan or mission](son-of-man/human.md#god-is-not-a-human).
-- **John 8:58 places Jesus before Abraham — Trinitarian argument:** [John 8:58 places Jesus before Abraham](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [The saying may express foreordination or disputed divine-name inference](son-of-man/human.md#god-is-not-a-human).
-- **Jesus shared glory with Father before world existed — Trinitarian argument:** [Jesus shared glory with Father before world existed](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Glory can be granted in God's foreknown plan](son-of-man/human.md#god-is-not-a-human).
-- **Philippians 2 places Jesus in God's form before self-emptying — Trinitarian argument:** [Philippians 2 places Jesus in God's form before self-emptying](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Form language can concern status or Adamic contrast](son-of-man/human.md#god-is-not-a-human).
-- **Micah's ruler has eternal origins — Trinitarian argument:** [Micah's ruler has eternal origins](son-of-man/human.md#god-is-not-a-human). **Unitarian response:** [Origins can mean ancient Davidic lineage or God's plan](son-of-man/human.md#god-is-not-a-human).
-
-### What does John 1 say about the Word?
-
-- **Jesus came from God, implying preexistence — Trinitarian argument:** [Jesus came from God, implying preexistence](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Coming from God can describe divine sending](son-of-man/human.md#a-man-who-told-the-truth).
-- **John 1 and Hebrews present Jesus as God's manifestation — Trinitarian argument:** [John 1 and Hebrews present Jesus as God's manifestation](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [God's word is embodied in Messiah without personal preexistence](son-of-man/human.md#a-man-who-told-the-truth).
-- **John 1 and Titus identify Jesus as God's image — Trinitarian argument:** [John 1 and Titus identify Jesus as God's image](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Image language can describe representative likeness](son-of-man/human.md#a-man-who-told-the-truth).
-- **1 John presents Jesus as God's embodied life — Trinitarian argument:** [1 John presents Jesus as God's embodied life](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [The letters identify Jesus as sent Son, not God himself](son-of-man/human.md#a-man-who-told-the-truth).
-- **God's only Son must be God by nature — Trinitarian argument:** [God's only Son must be God by nature](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Son of God can mean Messiah and agent](son-of-man/human.md#a-man-who-told-the-truth).
-- **John 1:10's him is Jesus, its creator — Trinitarian argument:** [John 1:10's him is Jesus, its creator](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Word's referent and creation reading are disputed](son-of-man/human.md#a-man-who-told-the-truth).
-- **Son and begotten language proves Jesus is God — Trinitarian argument:** [Son and begotten language proves Jesus is God](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Son language can describe God's Messiah](son-of-man/human.md#a-man-who-told-the-truth).
-- **Divine light imagery applied to Jesus proves deity — Trinitarian argument:** [Divine light imagery applied to Jesus proves deity](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Light imagery may be symbolic and delegated](son-of-man/human.md#a-man-who-told-the-truth).
-- **John's logos is God's word, wisdom, and plan embodied in Jesus — Unitarian argument:** [John's logos is God's word, wisdom, and plan embodied in Jesus](son-of-man/human.md#a-man-who-told-the-truth). **Trinitarian response:** [Word was personally with God and became flesh](son-of-man/human.md#a-man-who-told-the-truth).
-- **John calls Jesus Son of God — Unitarian argument:** [John calls Jesus Son of God](son-of-man/human.md#a-man-who-told-the-truth). **Trinitarian response:** [Son of God can denote divine eternal Son](son-of-man/human.md#a-man-who-told-the-truth).
-- **Invisible God differs from seen Jesus — Unitarian argument:** [Invisible God differs from seen Jesus](son-of-man/human.md#a-man-who-told-the-truth). **Trinitarian response:** [Jesus makes invisible God known as incarnate Word](son-of-man/human.md#a-man-who-told-the-truth).
-- **No one has seen God, but people saw Jesus — Unitarian argument:** [No one has seen God, but people saw Jesus](son-of-man/human.md#a-man-who-told-the-truth). **Trinitarian response:** [Son uniquely reveals unseen God without ceasing to be divine](son-of-man/human.md#a-man-who-told-the-truth).
-
-### Which Word claims need closer comparison?
-
-- **Begotten Son implies a time before Jesus existed — Unitarian argument:** [Begotten Son implies a time before Jesus existed](son-of-man/human.md#a-man-who-told-the-truth). **Trinitarian response:** [Eternal generation need not imply temporal beginning](son-of-man/human.md#a-man-who-told-the-truth).
-- **Hypostatic union makes Jesus fully God and fully man — Trinitarian argument:** [Hypostatic union makes Jesus fully God and fully man](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Two-natures language does not explain one God versus Jesus](son-of-man/human.md#a-man-who-told-the-truth).
-- **Gospel titles identify Jesus as God — Trinitarian argument:** [Gospel titles identify Jesus as God](son-of-man/human.md#a-man-who-told-the-truth). **Unitarian response:** [Titles can identify God's human Messiah](son-of-man/human.md#a-man-who-told-the-truth).
-
-### Do shared titles identify Jesus as God?
-
-- **Immanuel means Jesus is God with us — Trinitarian argument:** [Immanuel means Jesus is God with us](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [The title can express God's presence through Messiah](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Psalm 97 identifies Jesus as God — Trinitarian argument:** [Psalm 97 identifies Jesus as God](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Applying LORD imagery to Messiah may be representative](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Psalm 102 identifies Jesus as God — Trinitarian argument:** [Psalm 102 identifies Jesus as God](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [New Testament application need not erase distinction from Father](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Isaiah 9:6 calls Jesus eternal Father — Trinitarian argument:** [Isaiah 9:6 calls Jesus eternal Father](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Royal title need not collapse Son into Father](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Zechariah's LORD and Matthew's Jesus share payment imagery — Trinitarian argument:** [Zechariah's LORD and Matthew's Jesus share payment imagery](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Parallel imagery does not prove same identity](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Zechariah foretells God pierced, fulfilled in Jesus — Trinitarian argument:** [Zechariah foretells God pierced, fulfilled in Jesus](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Translation and referent are disputed](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Revelation 1:8 calls Jesus Alpha and Omega — Trinitarian argument:** [Revelation 1:8 calls Jesus Alpha and Omega](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Speaker identification in Revelation is disputed](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Shepherd imagery shared by LORD and Jesus identifies Jesus as God — Trinitarian argument:** [Shepherd imagery shared by LORD and Jesus identifies Jesus as God](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Shared shepherd imagery can mark appointed Messiah](son-of-man/distinct.md#jesus-interacted-with-god).
-- **I AM language links Jesus to Exodus 3:14 — Trinitarian argument:** [I AM language links Jesus to Exodus 3:14](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Greek expression and context do not require divine-name claim](son-of-man/distinct.md#jesus-interacted-with-god).
-- **Aleph-Tav in Genesis secretly identifies Jesus — Trinitarian argument:** [Aleph-Tav in Genesis secretly identifies Jesus](son-of-man/distinct.md#jesus-interacted-with-god). **Unitarian response:** [Hebrew letters do not identify Jesus in Genesis](son-of-man/distinct.md#jesus-interacted-with-god).
-
-### Which identity texts have textual or grammatical disputes?
-
-- **Titus 2:13 grammar identifies Jesus as God — Trinitarian argument:** [Titus 2:13 grammar identifies Jesus as God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Grammar can distinguish God and Jesus](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Romans 9:5 punctuation identifies Christ as God — Trinitarian argument:** [Romans 9:5 punctuation identifies Christ as God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Punctuation can yield a doxology to God](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Manuscripts read God manifested in flesh — Trinitarian argument:** [Manuscripts read God manifested in flesh](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Critical text favors `ὃς` ("who"); `θεός` ("God") is disputed](son-as-god/claims/good.md#addressing-counter-arguments).
-- **John 1's Word is preexistent and embodied in Jesus — Trinitarian argument:** [John 1's Word is preexistent and embodied in Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Word can be God's plan embodied in Jesus](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Isaiah 9:6 translations give divine titles to Jesus — Trinitarian argument:** [Isaiah 9:6 translations give divine titles to Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Divine titles may be royal titles expressing God's authority, not identity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Zechariah 12:10 translation says God was pierced — Trinitarian argument:** [Zechariah 12:10 translation says God was pierced](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [First-person `me`, third-person `him`, version differences, and God–Messiah referent are disputed](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Acts 20:28 says God bought church with blood — Trinitarian argument:** [Acts 20:28 says God bought church with blood](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [`God`/`Lord` textual variant and possible "blood of his own Son" syntax are disputed](son-as-god/claims/good.md#addressing-counter-arguments).
-- **2 Peter 1:1 grammar calls Jesus God and Savior — Trinitarian argument:** [2 Peter 1:1 grammar calls Jesus God and Savior](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [One-article grammar favors one referent but alone does not establish full Nicene inference](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Translations connect Jesus with divine titles — Trinitarian argument:** [Translations connect Jesus with divine titles](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [`οὗτός` may refer to Jesus or Father](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Philippians says God emptied himself in Jesus — Trinitarian argument:** [Philippians says God emptied himself in Jesus](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [`μορφή`, `ἁρπαγμός`, emptying, and Adamic human-Messiah reading are disputed](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Variant readings keep God and Jesus distinct — Unitarian argument:** [Variant readings keep God and Jesus distinct](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Direct-deity readings remain supported by other variants and grammar](son-as-god/claims/good.md#addressing-counter-arguments).
-
-## Salvation
-
-### Is belief that Jesus is God required for salvation?
-
-- **Rejecting Jesus as God endangers salvation — Trinitarian argument:** [Rejecting Jesus as God endangers salvation](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Salvation requires faith in God's raised Messiah, not deity confession](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God bore sin in flesh — Trinitarian argument:** [God bore sin in flesh](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God saved through a human Messiah's obedient sacrifice](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Trinitarian devotion risks idolising Jesus — Unitarian argument:** [Trinitarian devotion risks idolising Jesus](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Honouring Son belongs within worship of one God](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **High priest condemned Jesus for divine claim — Trinitarian argument:** [High priest condemned Jesus for divine claim](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Trial language may concern Messiahship and authority](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Titus 2:13 calls Jesus our great God and Savior — Trinitarian argument:** [Titus 2:13 calls Jesus our great God and Savior](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Grammar can distinguish God from Jesus](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Acts 20:28 says God bought church with his blood — Trinitarian argument:** [Acts 20:28 says God bought church with his blood](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Manuscript wording and subject are disputed](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **2 Peter 1:1 calls Jesus our God and Savior — Trinitarian argument:** [2 Peter 1:1 calls Jesus our God and Savior](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Greek grammar is contested](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Shared Savior language identifies Jesus as God — Trinitarian argument:** [Shared Savior language identifies Jesus as God](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God can save through an appointed Savior](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus shares God's role as judge and advocate — Trinitarian argument:** [Jesus shares God's role as judge and advocate](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God judges through appointed Messiah and mediator](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus forgives sins as God does — Trinitarian argument:** [Jesus forgives sins as God does](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God can authorize Messiah to pronounce forgiveness](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Genealogies and Bethlehem show Jesus is Davidic human Messiah — Unitarian argument:** [Genealogies and Bethlehem show Jesus is Davidic human Messiah](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Divine Son can truly enter David's line](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God sacrificed his Son without committing child sacrifice — Trinitarian argument:** [God sacrificed his Son without committing child sacrifice](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [A human son offered by God raises moral concern](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-
-### Which salvation claims need closer comparison?
-
-- **John 3:16 does not make God sadistic — Trinitarian argument:** [John 3:16 does not make God sadistic](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Divine demand for sacrifice raises moral question](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God remained holy while becoming flesh and bearing sin — Trinitarian argument:** [God remained holy while becoming flesh and bearing sin](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [A holy immutable God cannot become contaminated or die](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus survived hell — Trinitarian argument:** [Jesus survived hell](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Text and descent interpretation are disputed](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **One human sacrifice cannot pay for all sin — Trinitarian argument:** [One human sacrifice cannot pay for all sin](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Scripture calls Messiah's human ransom sufficient](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus' prehuman divinity gives sacrifice infinite value — Trinitarian argument:** [Jesus' prehuman divinity gives sacrifice infinite value](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Recorded texts do not state infinite-value requirement](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus forgave sins, a prerogative challenged as God's — Trinitarian argument:** [Jesus forgave sins, a prerogative challenged as God's](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God can authorize Messiah to forgive](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God alone is Savior, so Jesus as Savior is God — Trinitarian argument:** [God alone is Savior, so Jesus as Savior is God](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God saves through appointed Savior Jesus](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Finite human life lacks intrinsic worth for universal — Trinitarian argument:** [Finite human life lacks intrinsic worth for universal atonement](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [Human Messiah's ransom is scripturally sufficient](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God solved sin without violating his laws — Trinitarian argument:** [God solved sin without violating his laws](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [The claim does not require divine incarnation](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God paid with Jesus' blood to establish covenant — Trinitarian argument:** [God paid with Jesus' blood to establish covenant](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God establishes covenant through Christ's human ransom](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God establishes new covenant through Christ's ransom blood — Unitarian argument:** [God establishes new covenant through Christ's ransom blood](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Divine Son's sacrifice also establishes covenant](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **High priest had to share flesh and blood, so Jesus is human — Unitarian argument:** [High priest had to share flesh and blood, so Jesus is human](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Son shares flesh without surrendering divine nature](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-
-### Which salvation claims need closer comparison?
-
-- **Humans can be called saviors, so Jesus' Savior title is not — Unitarian argument:** [Humans can be called saviors, so Jesus' Savior title is not deity](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Jesus' saving role is uniquely divine](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Covenant blood belongs to Messiah's human service — Unitarian argument:** [Covenant blood belongs to Messiah's human service](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Covenant sacrifice can be divine Son's human offering](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Jesus pronounced forgiveness without requiring deity — Unitarian argument:** [Jesus pronounced forgiveness without requiring deity confession](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Jesus' authority to forgive supports high Christology](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Holy God cannot be Jesus who bore sins — Unitarian argument:** [Holy God cannot be Jesus who bore sins](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Son bears sins in human nature without divine corruption](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Immutable divine being could not be cursed and die — Unitarian argument:** [Immutable divine being could not be cursed and die](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Incarnation distinguishes divine and human natures](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Blood, not abstract divinity, seals covenant — Unitarian argument:** [Blood, not abstract divinity, seals covenant](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Divine Son's human blood is the offered blood](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Christ's precious blood functions as ransom — Unitarian argument:** [Christ's precious blood functions as ransom](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Ransom can be offered by divine Son incarnate](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **God chiefly names Father while Jesus is Messiah and Lord — Unitarian argument:** [God chiefly names Father while Jesus is Messiah and Lord](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [High titles and worship imply Jesus shares divine identity](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-
-## Relationship with God
-
-### Who receives worship and sacred service?
-
-- **Believers should serve Jesus — Trinitarian argument:** [Believers should serve Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [Sacred service belongs only to God](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Gospel people worship Jesus — Trinitarian argument:** [Gospel people worship Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [Proskynesis can be homage rather than God-exclusive worship](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Angels worship Jesus — Trinitarian argument:** [Angels worship Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [The text's worship language can be homage or is context-dependent](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Every creature worships Jesus with God — Trinitarian argument:** [Every creature worships Jesus with God](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [The Lamb receives honor while God remains ultimate source](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus worshiped God under temptation — Unitarian argument:** [Jesus worshiped God under temptation](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Son worships Father in incarnate mission](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **People gave Jesus obeisance, not service as God — Unitarian argument:** [People gave Jesus obeisance, not service as God](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Honour to Son belongs within worship of one God](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus receives heavenly worship and messianic homage — Trinitarian argument:** [Jesus receives heavenly worship and messianic homage](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [Homage differs from God-exclusive sacred service](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Worship can mean respect and service can mean obedience — Unitarian argument:** [Worship can mean respect and service can mean obedience](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Sacred worship of Son belongs within one God's worship](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Only YHWH receives sacred service — Unitarian argument:** [Only YHWH receives sacred service](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Jesus shares YHWH's divine identity and worship](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus fasted — Unitarian argument:** [Jesus fasted](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Fasting belongs to Son's human life](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Revelation gives sacrificial worship to God; Lamb receives — Unitarian argument:** [Revelation gives sacrificial worship to God; Lamb receives honor](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Lamb shares heavenly worship with God](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-
-### What does baptism say about Father, Son, and Spirit?
-
-- **Isaiah's LORD-way text applied to John supports Jesus' deity — Trinitarian argument:** [Isaiah's LORD-way text applied to John supports Jesus' deity](son-of-man/distinct.md#prophecies). **Unitarian response:** [Preparation for God's action can occur through his agent](son-of-man/distinct.md#prophecies).
-- **Baptism and dedication center on Jesus with God — Trinitarian argument:** [Baptism and dedication center on Jesus with God](son-of-man/distinct.md#prophecies). **Unitarian response:** [Naming or allegiance does not prove nature](son-of-man/distinct.md#prophecies).
-- **Jesus' baptism marked God's approval and consecration — Unitarian argument:** [Jesus' baptism marked God's approval and consecration](son-of-man/distinct.md#prophecies). **Trinitarian response:** [Baptism also reveals coordinated Father, Son, Spirit](son-of-man/distinct.md#prophecies).
-- **Jesus was dedicated for God's work — Unitarian argument:** [Jesus was dedicated for God's work](son-of-man/distinct.md#prophecies). **Trinitarian response:** [Consecration can belong to incarnate divine Son](son-of-man/distinct.md#prophecies).
-- **Baptism publicly marked Jesus as God's approved servant — Unitarian argument:** [Baptism publicly marked Jesus as God's approved servant](son-of-man/distinct.md#prophecies). **Trinitarian response:** [Father, Son, Spirit scene supports triune distinction](son-of-man/distinct.md#prophecies).
-- **Matthew's baptismal name coordinates Father, Son, Spirit — Trinitarian argument:** [Matthew's baptismal name coordinates Father, Son, Spirit](son-of-man/distinct.md#prophecies). **Unitarian response:** [Naming alone proves neither equality nor one essence](son-of-man/distinct.md#prophecies).
-
-### Who should believers pray to?
-
-- **Believers address risen Jesus in prayer — Trinitarian argument:** [Believers address risen Jesus in prayer](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [Prayer is directed to Father in Jesus' name](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Risen Jesus is personally present to believers in prayer — Trinitarian argument:** [Risen Jesus is personally present to believers in prayer](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Unitarian response:** [Prayer remains directed to Father through mediator](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Father and Son are distinct in voice, prayer, and sending — Unitarian argument:** [Father and Son are distinct in voice, prayer, and sending](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Distinct persons can share one divine nature](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus teaches prayer to Father as destination — Unitarian argument:** [Jesus teaches prayer to Father as destination](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Prayer to Father and invocation of Son coexist](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Believers should pray to Father instead of Jesus — Unitarian argument:** [Believers should pray to Father instead of Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Believers also call on risen Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Ezra prayed to LORD, not Jesus — Unitarian argument:** [Ezra prayed to LORD, not Jesus](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Old Testament prayer does not settle Christian invocation](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus taught disciples to pray to Father — Unitarian argument:** [Jesus taught disciples to pray to Father](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Father-prayer does not rule out calling on Son](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-- **Jesus directs prayer to Father in his name — Unitarian argument:** [Jesus directs prayer to Father in his name](son-of-man/serve-god.md#jesus-teaches-service-to-god). **Trinitarian response:** [Mediation does not rule out invocation of Son](son-of-man/serve-god.md#jesus-teaches-service-to-god).
-
-## Apostolic Preaching
-
-### What did the apostles preach about Jesus?
-
-- **Father and Jesus both raise dead — Trinitarian argument:** [Father and Jesus both raise dead](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Unitarian response:** [God raises through or authorizes Jesus](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Prophecy places Messiah in God's plan without preexistence — Unitarian argument:** [Prophecy places Messiah in God's plan without preexistence](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Foreordination does not exclude personal preexistence](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Pentecost converts were won without deity preaching — Unitarian argument:** [Pentecost converts were won without deity preaching](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Sermon implications may exceed explicit wording](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-- **Cornelius received message without deity confession — Unitarian argument:** [Cornelius received message without deity confession](son-of-man/serve-god.md#jesus-is-called-gods-servant). **Trinitarian response:** [Recorded message need not state every implication](son-of-man/serve-god.md#jesus-is-called-gods-servant).
-
-## Trinity Development and Politics
-
-### How did Trinity doctrine and its enforcement develop?
-
-- **Ignatius and Irenaeus condemned views denying Christ's deity — Trinitarian argument:** [Ignatius and Irenaeus condemned views denying Christ's deity](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Early labels show boundary making, not proof of doctrine](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Nicaea made Son's status a church boundary — Trinitarian argument:** [Nicaea made Son's status a church boundary](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Council boundary does not prove original apostolic doctrine](son-as-god/claims/good.md#addressing-counter-arguments).
-- **1 John treats denial of Christ in flesh as boundary issue — Trinitarian argument:** [1 John treats denial of Christ in flesh as boundary issue](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Text opposes denial of real flesh, not necessarily denial of deity](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Fathers and Nicaea used heresy labels for deity denial — Trinitarian argument:** [Fathers and Nicaea used heresy labels for deity denial](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Heresy labels are historical claims, not final proof](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Early fathers judged deity deniers heretical — Trinitarian argument:** [Early fathers judged deity deniers heretical](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Their judgment does not settle biblical interpretation](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Nicaea condemned those denying Jesus is God — Trinitarian argument:** [Nicaea condemned those denying Jesus is God](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [Nicaea's terms and enforcement require historical precision](son-as-god/claims/good.md#addressing-counter-arguments).
-- **1 John calls denial that Jesus is God in flesh antichrist — Trinitarian argument:** [1 John calls denial that Jesus is God in flesh antichrist](son-as-god/claims/good.md#addressing-counter-arguments). **Unitarian response:** [The text concerns confession of Christ come in flesh](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Heresy labels grew through Ignatius, Irenaeus, and Nicaea — Unitarian argument:** [Heresy labels grew through Ignatius, Irenaeus, and Nicaea](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Development need not mean doctrine was invented](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Trinitarians are antichrists — Unitarian argument:** [Trinitarians are antichrists](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Polemic label needs textual and historical justification](son-as-god/claims/good.md#addressing-counter-arguments).
-- **Trinitarians are heretics under earliest church criteria — Unitarian argument:** [Trinitarians are heretics under earliest church criteria](son-as-god/claims/good.md#addressing-counter-arguments). **Trinitarian response:** [Early sources are contested and cannot be reduced to slogan](son-as-god/claims/good.md#addressing-counter-arguments).
-
----
-
-# Trinitarian Argument
-
-No single argument proof the Trinity doctrine. This complex collection of arguments are required to support the Trinitarian view. As seen on the diagram below, the Trinitarian case hedge on certain unbiblical assumptions which are complicated to proof. For example the "divinity of Jesus", the "Dual Natures of Jesus", the "Personhood of the Holy Spirit", and the "Reconciliation of the Trinity with Monotheism".
-
-```mermaid
-graph TD
-    subgraph Divinity of Jesus
-        Word(Word = Jesus) -- word = God\nso\nJesus = God --> JesusGod[/Jesus = God/]
-        Thomas(Thomas\ncalled Jesus\n'God') --> JesusGod
-        Hebrews1(Hebrews 1) --> JesusGod
-        Revelation4(Throne Room\nVision) -- interpret all\nworship\nthe Lamb --> JesusGod
-        ServeWorship((Sacrificial worship\nonly to God)) --> Worship{mix\n2 types of\nworship}
-        HonorWorship((Homage worship\nkings or God)) --> Worship
-        Worship --> JesusGod
-        JesusGod --> DualNature{Dual Natures\nof\nJesus}
-        DualNature -- John 1\n'word become flesh' =\nGod incarnated --> SonOfMan(Son of Man\n=\nhuman)
-        SonOfMan --> JesusMan
-        Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) -- incomplete\nrevelation --> JesusMan
-        Temptations((Jesus'\nTemptations)) -- Only human part\nwas tempted --> JesusMan
-        JesusMan((Jesus = Man)) -- limits himself --> JesusDied[/Only Jesus' body died/]
-        JesusDied --> JesusRose[/Jesus rose himself from dead/]
-        DualNature -- divine nature --> SonOfGod[/Son of God\n=\n'God' the Son/]
-        SonOfGod --> JesusSpirit(Paul mention\n'Spirit of Jesus')
-        JesusSpirit --> Miracles[/Miracles\ndemo Jesus' power/]
-        Miracles -- immortal\ndivine nature --> JesusRose
-    end
-
-    subgraph Persoonhood of Holy Spirit
-        Interchangable(('Spirit' and 'God'\nused interchangably\nin Acts)) --> SpiritGod(Spirit = God)
-        Provebs((Proverbs\nWisdom)) -- applied to HS --> SpiritPerson(Spirit = God)
-        Personification((personification\npronouns)) -- applied\nliterally --> SpiritPerson
-        SpiritGod --> SpiritPerson[/Spirit = distinct person/]
-    end
-    
-    subgraph Creed: Reconcile Trinity with Monotheism
-        SonOfGod -- see Jesus\n=\nsee Father --> JesusIsFather
-        JesusIsFather{Jesus = Father} --> CoEqual
-        FatherGod((Father = God = YHWH)) -- YHWH = LORD\nbut\nLord = Jesus --> JesusIsFather
-                
-        UsCreation(Pronoun 'us'\nused at Creation,\nbut 1 God) --> Trinity
-        Baptism(Baptism\n'Formula') -- 3 names --> Trinity[/God = 3\nTrinity Persons/]
-        3visitors((3 Lords\nvisited Abraham)) -- applies as\nTrinity members --> Trinity
-        Mystery((Mystery)) -- excuse\ncontradictions--> Trinity
-        JesusGod --> Trinity
-        SpiritPerson --> Trinity
-        Trinity --> Creed
-        Creed[/Creed/] --> CoEqual[/Father = Jesus = Spirit/]
-        
-        JesusSpirit --> CoEqual
-        CoEqual[/Father = Jesus = Spirit/] -- resolve\n3 = 1\ncontradiction --> 1God((1 God))
-        Shema((Shema\n=\nonly 1 God)) -- 1 is not 1\n1 = unity --> 1God
-        1God -- since Jesus = 1 God --> JesusRose
-    end 
-```
-
-# Unitarian Argument
-
-To proof the Unitarian case is biblical you only need the Shema, written by Moses in the Old Testament, quoted by Jesus himself in the New Testament, and affirmed by the apostles.
-
-```mermaid
-graph TD
-    
-    ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) -->|confirms| Shema
-    Shema((Shema = Only 1 God)) -->|confirms| FatherGod(((God is YHWH\na.k.a.\n'God the Father')))
-    Shema -->|proofs| JesusNotGod((Jesus is not God))
-```
-
-Still not convinced? Unlike the Trinitarian case that require all arguments to be true, the Unitarian case require any of the follow arguments to be true to disprove the Trinity:
-
-```mermaid
-graph TD
-    
-    subgraph Only 1 God
-        Creator((1 Creator)) --> 1God
-        Pronouns((Single\npronounce)) --> 1God
-        
-        Shema((Shema)) --> 1God
-        NoOtherGod((God said\n'No Other God')) --> 1God
-    end
-
-    ShemaQuote((Jesus quote Shema:\nRabbi confirm it means 1)) --> Shema
-
-    1God((Only 1 God)) --> FatherGod(((God is YHWH\na.k.a.\n'God the Father')))
-    FatherGod --> Prophecies((Prophecies about\nIsraeli Messiah))
-    Prophecies --> interaction
-    Prophecies --> Distinct
-    Prophecies --> Birth
-    Prophecies --> Blood((Blood needed\nfor\nNew Covenant))
-
-    subgraph Jesus is Distinct from God
-        interaction((Interaction between\nGod and Jesus:\nGod send, authorize, exalt, etc.\nJesus serve, obey, pray, etc.)) --> Distinct
-        Parables((Jesus own parables)) --> Distinct
-        Declaration((God's public declarations\nseparate voice heard)) --> Distinct
-        Stephen((Stephen's Vision)) --> Distinct
-        Distinct((Jesus\nis distinct from\nGod))
-
-        subgraph Jesus is Human
-            FamilyLine((Jesus had tracable\nfamily line)) --> Birth
-            Birth(("Jesus was born\nHad beginning\n(genesis)")) --> Increase((Jesus increase`\nor\n`grow`)) 
-            Increase --> Jesus((Jesus = Human))
-            Serve((Jesus\nserved & obeyed\nGod)) --> Jesus
-            Jews((Disciples, apostles, enemies\ntreated Jesus like\na human)) --> Jesus
-            Witness((Apostles witness\nhuman Messiah)) --> Jesus
-
-            subgraph Jesus Died
-                Limitations --> JesusDied
-                Jesus --> JesusDied((Jesus died\nfor real))
-                
-                Blood --> JesusDied
-                JesusDied --> JesusRose
-                
-            end
-        end
-    end
-
-    Distinct --> Jesus
-
-    
-    Limitations((Jesus had real\nhuman limitations)) --> Jesus
-
-    
-
-    FatherGod --> JesusRose((Jesus risen by God))
-
-    
-    
-```
+This article tests the biblical case for identifying Jesus with God against the Unitarian reading that the one God is the Father and Jesus is God’s human Messiah. It gives Trinitarian claims their strongest plausible form, then asks what each text establishes and what it does not.
+
+## A Biblical Unitarian Case
+
+Biblical Unitarians are Christians who confess Jesus as the Messiah, Lord, Saviour, mediator, and risen Son of God. They do not deny his unique authority. The disputed claim is narrower: whether Scripture identifies Jesus as the one God, or identifies the Father as that one God and Jesus as the Father's appointed Messiah. For definitions and recurring title questions, see the [debate glossary](terms.draft.md#biblical-titles-and-agency).
+
+### Terms and Method
+
+Nicene Trinitarian doctrine says that the one God eternally exists as three distinct persons: Father, Son, and Holy Spirit, sharing one divine nature or essence. The incarnation claim is not that the Father became Jesus, nor that Jesus' humanity merely appeared human. It says the eternal Son, one person, assumed a complete human nature. Therefore, a Trinitarian can consistently say that Jesus was hungry, prayed, suffered, and died according to his human nature without saying that the divine nature changed or died. Person and nature are not interchangeable terms.
+
+The Unitarian reading says that God is one personal being, the Father; that Jesus is the genuinely human Messiah begotten by God's power; and that the Holy Spirit is God's own active presence and power. This article does not treat Jesus' dependence, suffering, or agency as a logical disproof of the incarnation. Those facts are compatible with the two-natures model if that model is granted. The question is evidential: does the biblical pattern require that model?
+
+A quotation, title, delegated authority, or shared activity must be read in context. Agency is a real biblical category, but agency compatibility alone does not disprove divinity. Conversely, a title or activity shared with God does not by itself prove personal identity with God. The argument must weigh the whole pattern. The [discussion of Jesus' recognised authority](son-as-god.md#what-scripture-affirms-about-the-son) provides useful context.
+
+### One God and the Father
+
+The Old Testament foundation is Israel's exclusive worship of the LORD, YHWH. “Hear, O Israel: The **LORD** our God, the **LORD is one**.” Deuteronomy 6:4 (ESV). Isaiah makes the exclusion explicit: “I am the LORD, and there is **no other**, besides me there is **no God**.” Isaiah 45:5 (ESV). These texts establish monotheism, but they do not by themselves decide whether God is one person or three persons. Using *echad* as if it either proves or forbids a triunity asks one Hebrew word to settle a larger question. See the [Shema’s biblical setting](shema.md#what-the-shema-teaches).
+
+Jesus repeats the Shema in Mark 12:29-34 and accepts the scribe's summary that God is one and that “there is no other besides him.” The strongest Unitarian point is not silence about a later formula. It is the New Testament's regular identification of the one God as the Father. Jesus addresses the Father as “the **only true God**” and identifies himself as the one “whom you have **sent**.” John 17:3 (ESV). Paul likewise writes, “for us there is **one God, the Father**, from whom are all things ... and one Lord, Jesus Christ, through whom are all things.” 1 Corinthians 8:6 (ESV).
+
+Trinitarians reasonably answer that 1 Corinthians 8:6 includes Jesus within a reworked Jewish confession of one God: the Father is source and Jesus is the divine agent “through” whom all things exist. That is a substantial reading, not a contradiction made by confusing person with nature. Yet the wording still distinguishes the one God, the Father, from the one Lord, Jesus Christ, and assigns their roles differently. A Unitarian may therefore find it more natural to read Jesus as the exalted Lord under the one God, rather than as a second person who is equally that God.
+
+### Jesus as God's Human Messiah
+
+The Old Testament anticipates God's anointed king and servant. Psalm 2 calls the king God's son in royal covenant language. Isaiah presents the servant as the one upheld and empowered by the LORD. These foundations fit a Messiah who represents God without being identical to God. Daniel 7's Son of Man receives everlasting dominion from the Ancient of Days. The vision gives the Messiah extraordinary, heavenly authority, but its giver-recipient structure remains significant.
+
+The Gospels and Acts continue this pattern. Jesus calls himself the Son of Man. Peter proclaims that “God has **made him** both Lord and Christ, this Jesus whom you crucified.” Acts 2:36 (ESV). God “**exalted him** at his right hand as Leader and Savior.” Acts 5:31 (ESV). Paul calls him “the **man** Christ Jesus” between “one God” and humankind. 1 Timothy 2:5 (ESV). Jesus says after the resurrection, “I am ascending to ... **my God** and your God.” John 20:17 (ESV).
+
+These passages positively describe a human Messiah who obeys, mediates, receives authority, is raised, and is exalted by God. They are not merely arguments from what a text fails to say. Still, they do not make the incarnation impossible. The best Trinitarian response is that the Son's mission includes willing obedience and that “my God” can be spoken from his incarnate human life. That response explains each passage within its system. The Unitarian judgment is that the repeated God-and-Jesus distinction is the simpler reading and needs no further metaphysical qualification. Related evidence appears in [Unitarian views of Jesus' identity](unitarianism.md#the-identity-of-jesus).
+
+### Strong Texts for Jesus' Deity
+
+A sound Unitarian case must not dismiss the texts that most strongly support Trinitarian belief.
+
+#### John, Thomas, and the Word
+
+John 20:28 records Thomas addressing the risen Jesus: “**My Lord and my God!**” John 20:28 (ESV). This is direct address, not a casual exclamation. John 1:1-18 also presents the Word as existing “**with God**,” as God, and as becoming flesh. A reading in which *logos* is God's self-expression, wisdom, or purpose can account for the Word becoming embodied in Jesus, but it must explain John’s personal language and the Word's role in creation. It is an interpretation, not a translation correction. The text does not use the later Nicene terms, but it supplies important material from which Trinitarians reason.
+
+A Unitarian response should begin with John’s own distinctions: Jesus calls the Father “the **only true God**” and identifies himself as the one sent by that God. John 17:3 (ESV). The Gospel’s stated purpose is belief that Jesus is “the **Christ, the Son of God**.” John 20:31 (ESV). Thomas's confession may recognise God's definitive presence and action in the risen Messiah, but that is less explicit than the Trinitarian reading. The passage is genuine pressure on a Unitarian account; it cannot be settled by saying that people sometimes receive divine titles.
+
+#### Explicit God Language
+
+Titus 2:13 and 2 Peter 1:1 are often translated as applying both “God” and “Saviour” to Jesus. The commonly cited Greek grammatical construction strongly favours one referent in each phrase, especially in Titus. A Unitarian should not claim that grammar simply separates God from Jesus. Even if both titles refer to Jesus, however, the remaining question is semantic and contextual: does *theos* here identify Jesus with the one God of Israel, or can it function as an exalted divine title for God's uniquely authorised Messiah? Grammar can resolve a referent; it cannot by itself supply a complete later doctrine of three coequal persons.
+
+The textual issue in 1 Timothy 3:16 is different. It is a **textual variant**, not merely a translation choice: later manuscripts read “God was manifested in the flesh,” while critical editions read “He who was manifested in the flesh.” The [NET Bible textual note](https://netbible.org/bible/1+Timothy+3) documents the manuscript question. Either reading concerns Christ, but only the former explicitly calls him God.
+
+Hebrews 1 is also weighty. It calls the Son “the radiance of the glory of God and the **exact imprint of his nature**.” Hebrews 1:3 (ESV). It cites Psalm 45:6 with “Your throne, **O God**, is forever and ever.” Hebrews 1:8 (ESV). It also applies Psalm 102's creator language to the Son. The royal setting of Psalm 45 may illuminate its address to the king, but Psalm 102 is a stronger challenge because it addresses the LORD as creator. A representative reading can note that the Son is distinct from “God” in Hebrews 1:8-9 and functions as God's appointed heir, but it must account for the writer's bold reuse of LORD language. This is an interpretative debate, not a demonstrated mistranslation.
+
+### Worship, Spirit, and Baptism
+
+Jesus receives honour, homage, prayerful invocation, and heavenly acclamation. Revelation 5 places the Lamb with the One on the throne. This confirmatory vision cannot be the sole foundation of a doctrine, but it makes a merely ordinary-human account inadequate. A Unitarian response distinguishes homage and royal honour from worship and sacred service owed uniquely to God, while acknowledging that Revelation gives the Lamb exceptional honour because he was slain and authorised by God. The scene alone does not define the Lamb's metaphysical nature.
+
+The Holy Spirit also speaks, teaches, sends, and distributes gifts, especially in Acts 13:2 and 1 Corinthians 12:11. These are the strongest grounds for the Trinitarian claim that the Spirit is a distinct person, not just an impersonal force. A Unitarian cannot answer by merely calling all such language personification. Scripture can portray God's own Spirit personally because God acts and speaks by his Spirit. Yet that explanation must account for the recurring personal language. Conversely, personal language, Father-Son-Spirit coordination, and Matthew 28:19 do not explicitly state one essence or coequality. They support a Trinitarian synthesis, but do not compel it without further inference.
+
+### What the Evidence Supports
+
+The evidence supports more than a negative claim. It presents the Father as the one God, the LORD of Israel; Jesus as the promised human Messiah, God's Son, Lord, mediator, and exalted representative; and the Spirit as God's active, holy presence. The cumulative case includes the Old Testament's giver-recipient pattern, Jesus' prayer and obedience, apostolic proclamation of God's raising and exalting Jesus, and repeated wording that distinguishes God from Christ.
+
+The Trinitarian texts prevent overstatement. John 1, John 20:28, Hebrews 1, Titus 2:13, 2 Peter 1:1, worship of the Lamb, and the Spirit's personal activity are serious evidence for a high Christology. They make it understandable that Christians confess the Trinity. But none individually states the later formula, and the formula requires several additional inferences: that these passages identify Jesus with the one God rather than God's uniquely exalted Messiah, that the Spirit is a distinct coequal person, and that these distinctions share one divine essence.
+
+The more economical Unitarian conclusion is therefore warranted, though not demonstrable beyond all dispute: Scripture most consistently identifies the one God with the Father and Jesus with God's fully human, uniquely commissioned Messiah. This conclusion honours Jesus' exceptional status without collapsing him into the God he prays to and calls his God. For further context, compare the [one-God discussion](unitarianism.md#one-god), the [Shema evidence](shema.md#what-the-shema-teaches), and [Scripture's affirmed authority of the Son](son-as-god.md#what-scripture-affirms-about-the-son).

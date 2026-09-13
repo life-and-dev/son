@@ -3,7 +3,9 @@ description: Textual, grammatical, and interpretive disputes in passages used to
 keywords: textual variants, grammar, Jesus deity, Titus 2:13, Romans 9:5, 1 Timothy 3:16, Acts 20:28, 2 Peter 1:1, 1 John 5:20, Isaiah 9:6, Zechariah 12:10, Philippians 2:6-7
 ---
 
-# Direct-Deity Textual And Grammatical Disputes
+# Textual Variants and Direct-Deity Texts
+
+Manuscript readings, punctuation, grammar, translation, and theology are related but distinct questions. This study weighs major disputed texts fairly and identifies what each level of evidence can establish.
 
 ## Scope and method
 
@@ -128,8 +130,12 @@ This project therefore does not make its case depend on removing difficult verse
 
 ## Control Texts and Cumulative Limits
 
-The strongest Trinitarian case is cumulative. **Titus 2:13** and **2 Peter 1:1** are naturally read as calling Jesus God, **John 20:28** reports Thomas addressing the risen Jesus as “My Lord and my God,” and **Philippians 2:6–11** applies Isaiah-like homage to Christ. Those texts must not be dismissed by appealing only to variants elsewhere.
+The strongest Trinitarian case is cumulative. Titus 2:13 and 2 Peter 1:1 are naturally read as calling Jesus God; Thomas addresses the risen Jesus as **“My Lord and my God”** (John 20:28); and Philippians 2:6-11 uses unusually high language. A textual variant elsewhere cannot make these passages disappear, and strong grammar should not be evaded.
 
-The direct reply is textual and contextual. Where a reading, punctuation, antecedent, or construction is disputed, its conclusion must remain proportionate to that dispute. Where a designation of Jesus is granted, the designation still must be read alongside statements that name the Father as “the only true God” and Jesus as the one sent by him (**John 17:3**); distinguish “one God, the Father” from “one Lord, Jesus Christ” (**First Corinthians 8:6**); and call the mediator “the man Christ Jesus” (**First Timothy 2:5**). The repeated pattern also includes God raising, appointing, and exalting Jesus (**Acts 2:22, 32, 36**; **Acts 17:31**).
+The Unitarian response distinguishes questions rather than inventing a corruption motive. **1 Timothy 3:16** concerns a manuscript reading. **Romans 9:5** concerns punctuation and referent. **Acts 20:28** includes both a textual reading and a syntactical question. **Titus 2:13** and **2 Peter 1:1** are chiefly grammatical and strongly favour one referent. John 1:1 and John 1:18 must also be treated as interpretation and translation questions: John 1:1 has a qualitative anarthrous *theos* predicate, while John 1:18 has important manuscript variation between “only God” and “only Son.” Neither point permits an automatic doctrinal conclusion.
 
-This comparison does not make a bare claim that Jesus is not God. It asks whether contested direct-deity texts can outweigh, or should be interpreted within, this explicit Father–Son pattern. On the project reading, they do not establish that the Father and Jesus are the same God; they require further doctrinal premises beyond their immediate wording.
+The bounded conclusion is that disputed readings require proportionate confidence, while granted designations still require contextual interpretation. The Father is “the only true God,” Jesus is the one sent by Him (John 17:3), and Paul distinguishes “one God, the Father” from “one Lord, Jesus Christ” (1 Corinthians 8:6). Those control texts do not settle every high passage, but they prevent either side from treating one construction as a complete creed. See [God, Father, Son, and Spirit](god.draft.md#father-son-and-spirit).
+
+## Conclusion
+
+Each disputed passage needs its own textual, grammatical, and contextual judgment. Strong texts deserve full weight, and their doctrinal implications must be read beside [apostolic preaching](apostolic-preaching.draft.md#apostolic-pattern-and-its-strongest-challenge).
