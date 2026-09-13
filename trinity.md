@@ -319,7 +319,13 @@ The problem with consolidating all these points of the Nicene theology is that:
 
 The simple solution is to dismiss statement #4 and accept there is truly only 1 God, [the Father](https://ofgod.info), and that [Jesus is not God](nature.md), but [the Son of God](index.md), [the Christ](https://kingdom.ofgod.info/christ), a human Lord [glorified](https://word.ofgod.info/terms/glory) by [his God](son-of-man/has-a-god.md).
 
-However, Trinitarians solve this problem by adding a few more yet another definition to solve the Son's *"Dual-Nature"* problem.
+However, Trinitarians solve this problem by adding a few more yet another unbiblical definition to solve the Son's *"Dual-Nature"* problem.
+
+> [!IMPORTANT]
+> David wrote:
+>> The testimony of the LORD is sure, making wise the **simple**. — Psalm 19:7 (ESV)
+>
+> The LORD's testimony is simple enough for the layman to understand and does not require years of theological studies or complex philosophy.
 
 ### Dual-Nature
 
@@ -358,6 +364,10 @@ graph TD
 The final solution is to use abstract Greek philosophy and words like *hypostasis* and *consubstantiality* to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
 Despite the definition of the "Dual-Nature" it is still hard to explain how it is possible that Jesus could be both God and have an [incompatible human nature](nature.md) simultaneous. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
+
+However, James wrote:
+
+> But the wisdom from above is first pure, then peaceable, considerate, submissive, full of mercy and good fruits, **without doubting**, without hypocrisy. — James 3:17 (LSB)
 
 ## Witnesses
 

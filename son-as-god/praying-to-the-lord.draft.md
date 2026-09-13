@@ -1,8 +1,3 @@
----
-description: "Praying to the Lord — Path: god / son / essence / as-god / prayer"
-keywords: "Praying to the Lord, god, son, essence, as-god, prayer"
----
-
 # Praying in the Name of Jesus
 
 The strongest Trinitarian reading of John 14:13-14 takes Jesus’ promise, “Whatever you ask in my name, this I will do,” as an invitation to pray directly to him. The textual variant in verse 14 and the direct wording mean that this reading deserves consideration.
