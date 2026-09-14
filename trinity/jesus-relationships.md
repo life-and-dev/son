@@ -3,17 +3,15 @@ description: Jesus' own explanation of his relationship with the Father and the 
 keywords: Godhead, "Jesus Christ", "Holy Spirit", "Gospel of John", "Greek preposition en", "John 14", "John 17", "biblical translation"
 ---
 
-# Godhead according to Jesus
+# How Jesus Relates To God
 
 The Gospel of John contains profound dialogues where Jesus explains his relationship with the Father and the Holy Spirit.
 
 However, many readers find these passages confusing or rely on traditional interpretations that might obscure Jesus' original meaning. Could a single Greek preposition change how we understand the very nature of God and Christ's mission?
 
-By examining the context of the Last Supper and the specific language used, we can gain a clearer perspective on the Godhead as Jesus himself described it.
-
 ## The Greek Preposition *En*
 
-The Gospel of John is often misunderstood due to the translation of the Greek word *en* as "in" by some [trinitarian](../trinity.md) translators. This choice often supports the doctrine of Jesus' divinity by suggesting a divine indwelling.
+The Gospel of John is often misunderstood due to the translation of [the Greek word *en*](https://word.ofgod.info/semantics/en) as "in" by some [trinitarian](../trinity.md) translators. This choice often supports the doctrine of Jesus' divinity by suggesting a divine indwelling.
 
 The Greek word ἐν usually means **in**. But depending on the sentence, English may translate it as **on**, **at**, **among**, **with**, or sometimes **by**. For example, it may describe being on a mountain, among a group, with someone, or by a means. The correct translation depends on nearby words and the whole sentence. Therefore, ἐν by itself does not prove that someone or something is physically or mystically inside another person.
 
@@ -32,14 +30,18 @@ In the context of the Last Supper, Jesus spoke extensively about his departure a
 | In My Father’s house are many *[mansions (dwelling places)](https://biblehub.com/greek/3438.htm)*; if it were not so, I would have told you.                                                                                                                                                                                                                                     | 14:2     | The Father has capacity to dwell with many               |
 | I go to prepare a place for you. And if I go and prepare a *[place (seat/opportunity)](https://biblehub.com/greek/5117.htm)* for you, I will come again and receive you to myself; that where I am, there you may be also. And where I go you know, and the way you know.”                                                                                                       | 14:2-4   | Jesus will prepare his disciples to be with his Father   |
 
-> Thomas said to Him, “Lord, we do not know where You are going, and how can we know the way?” -- John 14:5 (NKJV)
+> Thomas said to Him, “Lord, we do not know where You are going, and how can we know the way?”
+>
+> — John 14:5 (NKJV)
 
 | Scripture                                                                                                                                                                                                            | John | Simplified                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------- |
 | Jesus said to him, “I am the *[way (or journey)](https://biblehub.com/greek/3598.htm)*, the truth, and the life. No one comes to the Father except *[through (because of)](https://biblehub.com/greek/1223.htm)* me. | 14:6 | Jesus is the key to life with the Father, because... |
 | [If you had known me, you would have known my Father also; and from now on you know Him and have seen Him.](../son-as-god/similarities/act.md)                                                                       | 14:7 | Jesus represent the Father                           |
 
-> Philip said to Him, “Lord, show us the Father, and it is sufficient for us.” -- John 14:8 (NKJV)
+> Philip said to Him, “Lord, show us the Father, and it is sufficient for us.”
+>
+> — John 14:8 (NKJV)
 
 | Scripture *(NKJV, but ἐν also translated as "by" or "with")*                                                                                                                                                                                                                                  | John  | Simplified                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------ |
@@ -65,7 +67,9 @@ In the context of the Last Supper, Jesus spoke extensively about his departure a
 | And he who loves me will be loved by my Father, and I will love him                                                                                                                                                                                                                           | 14:21 | Those who loves Jesus is also loved by Jesus and his Father                          |
 | and I will *[manifest (appear in person to declare)](https://biblehub.com/greek/1718.htm)* myself to him.                                                                                                                                                                                     | 14:21 | Jesus will appear to those who love him.                                             |
 
-> Judas (not Iscariot) said to Him, “Lord, how is it that You will manifest Yourself to us, and not to the world?” -- John 14:22 (NKJV)
+> Judas (not Iscariot) said to Him, “Lord, how is it that You will manifest Yourself to us, and not to the world?”
+>
+> — John 14:22 (NKJV)
 
 | Scripture *(NKJV, but ἐν also translated as "by" or "with")*                                                                                                                                                                                                                                    | John     | Simplified                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -96,18 +100,18 @@ Then Jesus provide analogies to explain what he just taught:
 >
 > If you *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and my [words](https://word.ofgod.info) *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* you, you will ask what you desire, and it shall be done for you. By this my Father is [glorified](https://eternal.family.net.za/god/son/essence/as-god/claims/glory), that you bear much fruit; so you will be my disciples.
 >
-> -- John 15:1-8 (NKJV but ἐν restored)
+> — John 15:1-8 (NKJV but ἐν restored)
 
 To summarize:
 
-|                                  | Analogy              |
-| -------------------------------- | -------------------- |
-| [The Father](https://ofgod.info) | vinedresser          |
-| [Jesus](https://son.ofgod.info)  | vine                 |
-| Disciples                        | branches in the vine |
-| The world                        | removed branches     |
+| Person/group       | Analogy                                                 |
+| ------------------ | ------------------------------------------------------- |
+| The Father         | Vinedresser who tends, prunes, and judges               |
+| Jesus              | True vine and source of life                            |
+| Abiding disciples  | Branches wholly dependent on vine, called to bear fruit |
+| Non-abiding people | Branches that wither and are removed                    |
 
-*(Note that [the Holy Spirit](https://eternal.family.net.za/god/spirit) is not mentioned as a separate member of the Godhead in Jesus' analogy)*
+*(Note that [the Holy Spirit](holy-spirit.md) is not mentioned as a separate member of the Godhead in Jesus' analogy)*
 
 Then Jesus summarizes what he meant with his analogy:
 
@@ -117,7 +121,7 @@ Then Jesus summarizes what he meant with his analogy:
 >
 > This is my commandment, that you love one another as I have loved you.
 >
-> -- John 15:9-12 (NKJV)
+> — John 15:9-12 (NKJV)
 
 Then Jesus continue to explain what he means by "love":
 
@@ -125,7 +129,7 @@ Then Jesus continue to explain what he means by "love":
 >
 > You did not choose me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in my [name](https://word.ofgod.info/terms/name) He may give you. These things I command you, that you love one another.
 >
-> -- John 15:13-17 (NKJV)
+> — John 15:13-17 (NKJV)
 
 Then Jesus contrast his disciples with the people of the world:
 
@@ -144,7 +148,7 @@ Then Jesus contrast his disciples with the people of the world:
 >
 > "They hated Me without a cause."
 >
-> -- John 15:18-25 (NKJV)
+> — John 15:18-25 (NKJV)
 
 | Scripture                                                                                                                                                                                                         | John   | Simplified                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
@@ -152,7 +156,7 @@ Then Jesus contrast his disciples with the people of the world:
 | He will testify of me.                                                                                                                                                                                            | 15:26  | "The Helper" will testify of Jesus                                          |
 | And you also will bear witness, because you have been with Me from the beginning.                                                                                                                                 | 15:27  | The disciples will testify of Jesus                                         |
 | These things I have spoken to you, that you should not be made to stumble. They will put you out of the synagogues; yes, the time is coming that whoever kills you will think that he offers God service.         | 16:1-2 | Jesus request his disciples to endure persecution                           |
-| And these things they will do to you because they have not [known (come to known / recognize / perceive](https://biblehub.com/greek/1097.htm) the Father nor me.                                                  | 16:3   | Persecution happens because people do not recognize the Father nor Jesus    |
+| And these things they will do to you because they have not [known (come to known / recognize / perceive)](https://biblehub.com/greek/1097.htm) the Father nor me.                                                 | 16:3   | Persecution happens because people do not recognize the Father nor Jesus    |
 | But these things I have told you, that when the time comes, you may remember that I told you of them. And these things I did not say to you at the beginning, because I was with you.                             | 16:4   | Jesus foretold the future to prepare his disciples for persecution          |
 | But now I go away to Him who sent me, and none of you asks me, ‘Where are You going?’ But because I have said these things to you, sorrow has filled your heart                                                   | 16:5-6 | Jesus' disciples were sad that he had to go return to His Father            |
 | Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.                                     | 16:7   | Jesus' return make it possible for "The Helper" to come                     |
@@ -171,14 +175,14 @@ The Jesus closed with:
 > and again
 > a little while, and you will see me, because I go to the Father.
 >
-> -- John 16:12-16 (NKJV)
+> — John 16:12-16 (NKJV)
 
 These words caused some confusion among the disciples:
 
 > Then some of His disciples said among themselves, “What is this that He says to us, ‘A little while, and you will not see Me; and again a little while, and you will see Me’; and, ‘because I go to the Father’?”  
 > They said therefore, “What is this that He says, ‘A little while’? We do not know what He is saying.”
 >
-> -- John 16:17-18 (NKJV)
+> — John 16:17-18 (NKJV)
 
 Then Jesus explain what he meant:
 
@@ -196,7 +200,7 @@ Then Jesus explain what he meant:
 >
 > for the Father Himself loves you, because you have loved me, and have believed that [I came forth from God. I came forth from the Father and have come into the world](https://eternal.family.net.za/god/son/essence/as-god/incarnation). Again, I leave the world and go to the Father.
 >
-> -- John 16:19-28 (NKJV)
+> — John 16:19-28 (NKJV)
 
 Then Jesus disciples respond that they finally understood what he had meant:
 
@@ -204,7 +208,7 @@ Then Jesus disciples respond that they finally understood what he had meant:
 >
 > Jesus answered them, “Do you now believe? Indeed the hour is coming, yes, has now come, that you will be scattered, each to his own, and will leave me alone. And yet I am not alone, because the Father is with me. These things I have spoken to you, that in me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world.”
 >
-> -- John 16:29-33 (NKJV)
+> — John 16:29-33 (NKJV)
 
 Then Jesus prays to his Father:
 
@@ -243,7 +247,7 @@ Then Jesus prays to his Father:
 > * that **the love with which You have loved me may be *[with](https://biblehub.com/greek/1722.htm)* them**,
 > * and **I *[with](https://biblehub.com/greek/1722.htm)* them**.”
 >
-> -- John 17:1-26 (ESV but ἐν restored)
+> — John 17:1-26 (ESV but ἐν restored)
 
 Jesus teaching and prayer makes it clear there are interaction between him, the Father and the believers.
 

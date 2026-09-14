@@ -90,7 +90,7 @@ The Jerusalem-council witness is also useful: Peter credits God with giving the 
 | Ephesus disciples (19) | Baptized in the Lord Jesus' name. | Jesus, Spirit, baptism. |
 | Paul (9; 22) | Calls on Jesus' name; baptism. | Jesus is Son of God/Christ; God of fathers appoints Paul; Righteous One. |
 
-This consistent baptism language concerns Jesus' name and authority. It does not by itself settle whether Acts uses a short form for Matthew 28:19 or states a different spoken formula. See [The Baptism Formula](../trinity/baptism-formula.md).
+This consistent baptism language concerns Jesus' name and authority. It does not by itself settle whether Acts uses a short form for Matthew 28:19 or states a different spoken formula. See [The Baptism Formula](../trinity/proof/baptism-formula.md).
 
 ## Paul's Gospel Summaries in Letters
 
