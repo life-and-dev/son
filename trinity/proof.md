@@ -23,7 +23,7 @@ The same Hebrew and Greek words for "one" could also mean "only", "alone", "sing
 
 However, when Jesus quoted Deuteronomy 6:4-5 in Mark 12:28-34, the scribe explained that his understanding of "one" means "no other but Him" instead of "unified." Jesus did not correct him, but instead applauded him.
 
-Furthermore the [Greek word "heis"](https://word.ofgod.info/semantics/echad") was used to translated the Hebrew word "echad" when New Testament authors quote [the Shema](../shema.md) in Greek.
+Furthermore the [Greek word "heis"](proof/one.md) was used to translated the Hebrew word "echad" when New Testament authors quote [the Shema](../shema.md) in Greek.
 
 ## The "Plural" God
 
@@ -66,7 +66,7 @@ However, Mike Leake from [Bible Study Tools](https://www.biblestudytools.com/bib
 >
 > — [Answering Jewish objections to Jesus: Theological objections, Michael L. Brow, A Jew who converted to Christianity, Vol. 2, p9, 2000 AD](https://www.bible.ca/trinity/trinity-oneness-unity-yachid-vs-echad.htm)
 
-## Singular Pronouns
+### Singular Pronouns
 
 > Furthermore, the pronouns in the Bible that refer to “God” are singular, and there are lots of them.
 >
@@ -98,7 +98,11 @@ However, Mike Leake from [Bible Study Tools](https://www.biblestudytools.com/bib
 
 [Trinitarians](../trinity.md) reason that at least two of the members of the Trinity co-created man.
 
-However, the next verse reads:
+Michael Heiser, a Hebrew scholar, wrote in "The Unseen Realm, p. 39":
+
+> The plural of majesty does exist of nouns… but Genesis 1:26 is not about nouns — the issue is the verbal forms.
+
+The next verse reads:
 
 > So God created man in **his** own image, in **the image** of God **he** created him. — Genesis 1:27 (ESV)
 
@@ -117,29 +121,39 @@ This begs the question who are the "us" and "our" in Genesis 1:26 if it is not t
 >
 > — [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/videos/genesis-1-26)
 
-### Plural Verbs Instead of Nouns
-
-Michael Heiser, a Hebrew scholar, wrote in "The Unseen Realm, p. 39":
-
-> The plural of majesty does exist of nouns… but Genesis 1:26 is not about nouns — the issue is the verbal forms.
-
-In other words, God did multiple things and not multiple gods did the same thing.
-
-This could mean that God created multiple people at different times through history.
-
 ### People Make People
 
-Another explanation to consider is that reproduction is a cooperative effort between God, male, and female.
+Another explanation is that verses 26-28 are not isolated verses but meant to be read in the same context:
 
-People do not appear instantaneously without a process. Even [Jesus had a biological mother](../son-of-man/human.md#jesus-was-born).
+> Then God said, “Let **us [make](https://biblehub.com/hebrew/6213.htm)** man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
+>
+> So **God [created](https://biblehub.com/hebrew/1254.htm)** man in his own image, in the image of God **He [created](https://biblehub.com/hebrew/1254.htm)** him; **male and female He [created](https://biblehub.com/hebrew/1254.htm)** them. And God blessed them. And God said to them, “**Be fruitful and multiply and fill the earth** and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+>
+> — Genesis 1:26-28 (ESV)
 
-Without God granting the origin of life, humanity could not reproduce. Similarly, biological reproduction requires both male and female participants.
+> [!NOTE]
+> The "us" of verse 26 "make", but only God "create". These are 2 different words:
+>
+> * "make" translated from *asah* means to [accomplish, advance, appoint, apt, be at, become, bear, bestow](https://biblehub.com/hebrew/6213.htm)
+> * "create" translated from *bara'* means to [shape, create](https://biblehub.com/hebrew/1254.htm)
 
-So God could possibly be talking to mankind in general when He said: "Let us make [man*kind*](https://biblehub.com/hebrew/120.htm) in our image, after our likeness." Verse 27 hint "male and female he created them", yet we know Adam and Eve were created at different times. Therefore, God could have been referring that he partner with mankind to create more people in His image.
+> Unlike “asah” (to make or do) and “yatsar” (to form), “bara” never takes a human subject. Numbers 16:30 warns of a “new thing” God might create to vindicate His holiness, and 1 Samuel 2:29 retains the same theological boundary: creation belongs to God’s prerogative. Isaiah amplifies this theme:
+>
+>> “I, the LORD, am the Maker of all things, who stretches out the heavens… I have created you” — Isaiah 43:1,7
+>
+>> “I form the light and create darkness; I bring prosperity and create calamity” — Isaiah 45:7
+>
+>> “For thus says the LORD — He who created the heavens, He is God… He did not create it to be empty, but formed it to be inhabited” — Isaiah 45:18
+> 
+> — [Topical Lexicon](https://biblehub.com/hebrew/1254.htm)
 
-Children also reflect the image of their human parents, often physically but could also show family traits. However, it is more likely this verse reflects that mankind is supposed to maintain God's dominion over creation.
+Reproduction is a cooperative effort between God, male, and female. People do not appear instantaneously without a process. Even [Jesus had a biological mother](../son-of-man/human.md#jesus-was-born). Without God granting the origin of life, humanity could not reproduce. Similarly, biological reproduction requires both male and female participants.
 
-> And let **them** have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth. — Genesis 1:26 (ESV)
+God was talking to mankind in general when He said: "Let us make [man*kind*](https://biblehub.com/hebrew/120.htm) in our image, after our likeness." Verse 27 hint "male and female he created them", yet we know Adam and Eve were created at different times. Therefore, God could have been referring that He partner with mankind to create more people in His image. Verse 28 expand this concept with a command that He gave mankind to "be fruitful and multiply and fill the earth".
+
+Children both reflect their parent's "image" and "likeness", often shown in family traits. However, in the context of dominion also mentioned these same verses, it is more likely that **God commanded mankind to produce offspring that will have dominion over His creation**.
+
+"Make babies" is not a separate command. God commanded them to raise children that will reflect God's original image to rule with God's authority.
 
 ## God Doing Divine Things In Partnership
 

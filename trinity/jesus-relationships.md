@@ -279,7 +279,7 @@ John does not mention a [separate Holy Spirit person](../trinity/holy-spirit.md)
 
 ## Conclusion
 
-The Godhead, as described by Jesus in the Gospel of John, is characterized by a profound unity of purpose, love, and representation.
+The Godhead, as described by Jesus in the Gospel of John, is characterized by a profound unity of shared life, truth, authority, mission, love, glory and witness.
 
 The Greek preposition *en* suggests that this relationship is one of being "with" or "by" one another rather than a physical indwelling. Jesus' relationship with the Father is defined by his role as the Father's perfect representative on earth. The role of the Helper is to continue Jesus' mission by teaching and reminding disciples of his words.
 
