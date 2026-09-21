@@ -57,6 +57,14 @@ This is what Moses believed:
 
 > To you it was shown, that you might know that the LORD ([YHWH](https://ofgod.info/name#lord)) is God; **there is no other besides Him**... know therefore today, and lay it to your heart, that the LORD *(YHWH)* is God in heaven above and on the earth beneath; **there is no other**. — Deuteronomy 4:35,39 (ESV)
 
+Moses later records the LORD declaring that no other god exists beside Him:
+
+> “See now that I, even I, am he, and there is **no god beside me**; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand.” — Deuteronomy 32:39 (ESV)
+
+Moses also prayed that God has always existed:
+
+> “Before the mountains were brought forth, or ever you had formed the earth and the world, **from everlasting to everlasting you are God**.” — Psalm 90:2 (ESV)
+
 This is what Hannah believed:
 
 > "No one is holy like the LORD, for there is none besides You, nor is there any rock like our God." — 1 Samuel 2:2 (NKJV)
