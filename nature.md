@@ -1,5 +1,5 @@
 ---
-description: "Examining biblical evidence for Jesus's nature: Man, God or both? Exploring the prophecies, Jesus's own words, witnesses, creeds and the Trinity doctrine debate."
+description: "Biblical and historical questions about Jesus' humanity, deity, exaltation, prayer, and relationship to the Father."
 keywords: Jesus Christ, Son of God, Trinity doctrine, Unitarian theology, Arianism, Nicene Creed, biblical prophecy, Christology, incarnation, divinity of Christ, nature of Jesus
 ---
 
@@ -13,39 +13,42 @@ What troubles me most is how this question divides the body of Christ. Accusatio
 
 ## History of Christianity
 
-[The Church History](https://church.ofgod.info/evolution) indicates that initially [Christianity](https://church.ofgod.info/evolution/1st-c-christians) was considered [a minor sect](https://en.wikipedia.org/wiki/History_of_Christianity) among many pagan religions. However, by the fourth century, Christianity spread so much that the pagan Roman Emperor Constantine decided to support it. This enabled Christians to build [state-sponsored church structures](https://church.ofgod.info/evolution/312-constantine) and institutional hierarchies to establish order among the citizens.
+[The Church History](https://church.ofgod.info/evolution) indicates that initially [Christianity](https://church.ofgod.info/evolution/1st-c-christians) was considered [a minor sect](https://en.wikipedia.org/wiki/History_of_Christianity) among many pagan religions. Christianity began as a Jewish movement grounded in belief in one God. Jesus's earliest followers proclaimed him as God's Christ and Son.
 
-However, to encourage Christianity and to restore peace in the empire, certain aspects were [merged with pagan religions](https://church.ofgod.info/evolution/312-constantine). For example, Jesus was considered the emperor's sun god so that both Christians and pagans have the freedom to continue their traditions.
+Although Christians remained a minority, their numbers and social influence had grown considerably by the early fourth century. After 312, Emperor Constantine increasingly favoured Christianity. He restored confiscated Christian property, granted privileges to churches and clergy, and [funded the construction of prominent church buildings](https://church.ofgod.info/evolution/312-constantine).
 
-This led to [great debates about the divinity of Jesus](https://church.ofgod.info/evolution/325-nicaea-creed). Bishop Arius challenged the view that Jesus was co-eternal with God. These debates caused a split in the church such that Arius's less popular view was considered Arianism.
+As Christianity spread into the Roman world, different communities interpreted Jesus in different ways. By the early fourth century, Christians were divided over the relationship between God and Jesus. One major dispute concerned Arius, who taught that the Son existed before the world but had been brought into existence by the Father.
 
-A few decades later, [Arianism spread to the gothic nations](https://eternal.family.net.za/kingdom/church/history/arianism). This motivated the Nicene Christian Roman state to associate Arianism with their enemies such that in July 381, the First Council of Constantinople expanded [the Nicaea Creed](https://en.wikipedia.org/wiki/Nicene_Creed) to [address Arianism disputes](https://church.ofgod.info/evolution/325-nicaea-creed). This version clearly defined [the Trinity doctrine](trinity.md) and proclaimed Jesus as God and as such the first Latin Bible ([Vulgate](https://church.ofgod.info/evolution/382-vulgate)) was translated in 382 in favour of the Nicaea Christianity's views.
+Constantine [convened the Council of Nicaea](https://church.ofgod.info/evolution/325-nicaea-creed) in 325 because this conflict threatened both church and imperial unity. The council declared that Jesus was not created by God and had never begun to exist. They stated that the Son was and the Father both shared the same divine nature, although they were regarded as distinct persons. This made the Nicene teaching the council's standard for Christian belief and excluded Arius's position. Arius and some supporters were condemned and exiled. Nicaea therefore applied imperial authority to turn their interpretation of Scripture into the institutional test of accepted Christian belief.
 
-A few centuries later the "Arian" nations were either destroyed or converted by the Roman Empire. As a result, Arianism among many other religions was gradually rooted out during [the Dark Ages](https://eternal.family.net.za/kingdom/church/history/dark-ages).
+The decision did not immediately change what every Christian believed. Non-Nicene Christians remained influential, and later emperors sometimes supported them. Nevertheless, councils, bishops and emperors increasingly determined which teachings could be preached within the recognised church. Christians who maintained that the Father alone was the one true God were progressively excluded and described as heretics.
 
-Since the fourteenth century, the Nicaean Bible was [translated into vernacular](https://eternal.family.net.za/kingdom/church/history/wycliffe) languages to reduce dependence on the state church and to support reformations.
+In 381, Emperor Theodosius I convened the [First Council of Constantinople](https://church.ofgod.info/evolution/381-nicaea-creed-updated). It reaffirmed Nicene teaching about the Son and gave the Holy Spirit a divine status alongside the Father and Son. Together, these decisions formed the basis of the [Trinity doctrine](trinity.md): one God understood as three distinct divine persons. Imperial law, church teaching and public worship then helped make this doctrine the normal framework through which later Christians interpreted the Bible.
 
-Today, the [majority](https://eternal.family.net.za/bible/interpretations/rebuttals#majority) of Christian churches still base their [Trinitarian doctrines](https://eternal.family.net.za/bible/doctrines/trinitarian) on those of the early church fathers of Nicene Christianity's creeds and the Vulgate. However, certain [Unitarian movements](https://eternal.family.net.za/bible/doctrines/unitarian) continue to challenge these views. Each denomination obviously [translated the Bible in favour of their own interpretation](https://word.ofgod.info/translations), therefore one cannot prove the divinity of Jesus from isolated bible verses alone. For example the NIV translate Titus 2:13 that *"Jesus is our great God"*, while [many other bibles translate it differently](https://eternal.family.net.za/god/son/essence/as-god/saviour#titus-2-13).
+Another controversy asked how a supposedly divine Son could also be human. The [Council of Chalcedon](https://www.britannica.com/event/Council-of-Chalcedon) in 451 declared that Jesus was one person possessing two natures, one divine and one human.
+
+These councils did not prove that their formulas were the original teaching of Jesus and his apostles. They established which interpretation the imperial church would recognise as orthodox. This development altered Christianity by placing later philosophical definitions and institutional authority over the Bible's simpler distinction between the one God, the Father, and Jesus, His Christ.
+
+Creeds also influenced later reasoning. Instead of beginning with the biblical text and asking who Jesus was, Christians were commonly taught first that Jesus was eternally God and then read individual passages through that assumption. [Unitarian Christians](unitarianism.md) challenge this inherited framework and argue that creedal language should be tested against Scripture rather than used as the rule for interpreting it.
 
 ## Bible Translations
 
+Some denomination [translated the Bible in favour of their own interpretation](https://word.ofgod.info/translations). For example the NIV translate Titus 2:13 as *"Jesus is our great God"*, while [many other bibles translate it differently](https://eternal.family.net.za/god/son/essence/as-god/saviour#titus-2-13).
+
 Popular Trinitarian biased bible translations include: All the Catholic bibles as well as the ASV, BSB, CEV, CSB, ERV, ESV, GNT, HCSB, ISV, KJV, LSV, NASB, NET, NIV, NKJV, NLT, SLT, WEB, WORD, YLT, and so forth.
-
-Less popular Arian-biased bible translations include:
-
-* NEV used by the Christadelphians
-* NWT used by the Jehovah's Witnesses
 
 Unpopular Unitarian-biased bible translations include:
 
 * Belsham's Unitarian New Testament and Newcome's Translation used mainly for historical theological studies
+* NEV used by the Christadelphians
+* NWT used by the Jehovah's Witnesses
 * [REV](https://www.revisedenglishversion.com/) used by Spirit & Truth Fellowship International
 
 Fortunately, today we have access to interlinear bibles that provide word-by-word translations of Hebrew and Greek manuscripts that pre-dates the Vulgate and Nicene Creed. Some of these can be found online at websites like [Bible Hub](https://biblehub.com/interlinear/), [Blue Letter Bible](https://www.blueletterbible.org), [STEP Bible](https://www.stepbible.org) and [Bible Study Tools](https://www.biblestudytools.com) or downloaded from [Berean Bible](https://bereanbible.com), [MySword](https://www.mysword.info/) and [Scripture4All](https://www.scripture4all.org).
 
 ### Concerns
 
-Some [Trinitarian](https://eternal.family.net.za/bible/doctrines/trinitarian) traditions have historically labeled [Unitarian](https://eternal.family.net.za/bible/doctrines/unitarian) beliefs as ["heretical"](https://eternal.family.net.za/chuch/evolution#the-first-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://eternal.family.net.za/eternal/saved) without believing [Jesus](https://eternal.family.net.za/god/son/essence) is [God](https://eternal.family.net.za/god) Himself, as stated in certain church creeds.
+Some [Trinitarian](https://eternal.family.net.za/bible/doctrines/trinitarian) traditions have historically labeled [Unitarian](https://eternal.family.net.za/bible/doctrines/unitarian) beliefs as ["heretical"](https://church.ofgod.info/evolution/325-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://kingdom.ofgod.info/life) without believing Jesus is God Himself, as stated in certain church creeds.
 
 However, the Bible records:
 
@@ -57,24 +60,18 @@ From a Unitarian viewpoint, the Trinitarians are [idolising](https://eternal.fam
 
 ### God's glory
 
-Both groups agree that [the purpose of the creation](https://eternal.family.net.za/creation) is to [glorify](https://eternal.family.net.za/creation) God.
+Both groups agree that [the purpose of the creation](https://eternal.family.net.za/creation) is to [glorify](https://word.ofgod.info/terms/glory) God.
 
 Which version gives the most glory to God?
 
-| If Jesus was God Himself                                                                                                             | If Jesus was the Son of God                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| God's love would be self-directed                                                                                                    | God loves His Son (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18)                                                                                                                                             |
-| Jesus glorified Himself (self-glorification or boasting)                                                                             | Jesus and His Father glorified each other as distinct persons (John 13:31, 17:1)                                                                                                                                                         |
-| God allowed people to torture His human-part, but He Himself, did not really suffer anything                                         | *For God so loved the world that He gave His only begotten Son...* (John 3:16); God has no pleasure in death (Ezekiel 18:32, 33:11) especially in His beloved Son. This was necessary to save the world (John 3:16-17; 1 Timothy 2:3-4). |
-| God faked His "death" because God is immortal (Daniel 9:24-27; Zechariah 13:7-9 & Mark 14:27; Matthew 26:31)                         | Jesus, as a distinct man from God, [really suffered and died](son-of-man/prophecies.md#jesus-would-die).                                                                                                                                 |
-| God witnessed Himself.                                                                                                               | The Father and the Son can independently provide a witness of each other (John 8:17-18; 1 John 5:9)                                                                                                                                      |
-| God was temporarily cursed (unholy) to bear our sin.                                                                                 | God was and will never be unholy (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13; Revelation 4:8). Instead, His Son became cursed with sin (Galatians 3:13; Isaiah 53:6; 1 Peter 2:24)                                                            |
-| God [violated natural laws](#incompatible-attributes) by "shape-shifting" or reincarnation                                           | God never changes (Malachi 3:6; James 1:17) and God never lies (Numbers 23:19; Titus 1:2)                                                                                                                                                |
-| God only pretended to be real human like us                                                                                          | God does not lie (Numbers 23:19; Titus 1:2)                                                                                                                                                                                              |
-| God pretended to be dumb, because God actually knows everything (1 John 3:20).                                                       | Jesus was not all knowing. (Luke 8:45-46 (ESV); Mark 5:30; Matthew 24:36;27:34)                                                                                                                                                          |
-| God proved that He can beat the devil (Hebrews 2:14)                                                                                 | God proved that even a man can beat the devil.                                                                                                                                                                                           |
-| Jesus sets [impossible standards](https://eternal.family.net.za/god/son/essence/of-man/standards) for mankind. We can never be gods. | Jesus set the standard (John 2:5-6; John 13:15; Romans 8:29; 1 John 2:5-6) and demonstrated that it is possible (Luke 6:40; John 13:15; 1 Peter 2:21)                                                                                    |
-| Mortal humans are judged by an immortal God-Man.                                                                                     | Mortal humans are judged by someone of their own kind (John 5:26-27).                                                                                                                                                                    |
+Trinitarians affirm that Jesus was truly human. The following points explain why Jesus being fully human without a divine nature can give greater glory to the Father and to Jesus:
+
+- The Father's love is shown in giving His beloved human Son, rather than in self-directed love (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 3:16-17; 2 Peter 1:16-18).
+- Jesus receives glory as a human Son who trusted and obeyed the Father without a divine nature as a backup. The Father and the Son glorify one another as distinct persons (John 13:31, 17:1).
+- Jesus's temptation, suffering, and death are genuine human experiences. His victory therefore honours Him as a faithful human example, and the Father's love is seen in giving His Son (John 3:16; [Jesus really suffered and died](son-of-man/prophecies.md#jesus-would-die)).
+- The Father's power, wisdom, and saving work are displayed through a human Son who depended on Him, rather than through divine power inherent in Jesus.
+- The Father is glorified as the holy God who does not become cursed, while Jesus is honoured for bearing the curse and sins entrusted to Him (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13; Galatians 3:13; Isaiah 53:6; 1 Peter 2:24).
+- The Father and the Son provide distinct witnesses to one another, giving glory to both in their respective roles (John 8:17-18; 1 John 5:9).
 
 ## Evidence
 
@@ -110,35 +107,33 @@ Now, some may argue that Christ is just "God's human body" or the "man"-part of 
 
 In addition, some prophets saw visions where God and Christ was positioned at different locations at the same time, for example:
 
-* [Jesus presented himself while God was seated on His throne](https://eternal.family.net.za/god/father/ancient-of-days) (Daniel 7:9,13)
-* [Jesus stood next to God](https://eternal.family.net.za/god/son/essence/not-god/distinct#stephen) (Acts 7:55-56)
+* [Jesus presented himself while God was seated on His throne](https://prophecies.ofgod.info/messianic/daniel-7-13) (Daniel 7:9,13)
+* [Jesus stood next to God](son-of-man/distinct.md#stephen-vision) (Acts 7:55-56)
 * [Jesus stood while God was seated on His throne](https://eternal.family.net.za/god/son/essence/of-man/prophecies) (Revelation 4:2,5:2-6)
 
 ### Introducing Jesus
 
 The book of Matthew starts with an ancestor registry (Matthew 1:1-17) to prove that Jesus was the expected Christ born from the prophesied family lineage. Matthew even uses the word Greek ["genesis"](https://biblehub.com/greek/1078.htm) (beginning) to describe when Jesus's life began. This is usually translated as "birth" in Matthew 1:18, but at that moment when Mary was conceived, Jesus was not born yet.
 
-Mark 1:1 introduces Jesus as ["the Son of God"](index.md) which implies [he is not God Himself](https://eternal.family.net.za/god/son/essence/not-god).
+Mark 1:1 introduces Jesus as ["the Son of God"](index.md) which implies [he is not God himself](son-of-man/denies-being-god.md).
 
 Luke 1:26-35 mentions a human son that Mary would give birth to. Gabriel is silent about the divinity of this son.
 
-However, Trinitarians often quote John 1 to prove Jesus's divinity. They argue that ["the Word"](https://eternal.family.net.za/god/son/as-god/word) is Jesus in John 1 and according to them: *John describes how God [reincarnated](https://eternal.family.net.za/god/son/essence/as-god/incarnation) into flesh*. However, they often ignore John 1:18 that states *"No one has seen God at any time"* after *"the Word became flesh"*. John was not confused, nor was John writing poetic literature. John was giving a testimony and the first point that John was making was that Jesus's birth was [God's word](https://eternal.family.net.za/bible/concepts/word) (promise) that He made since the beginning (John 1:1-2). Jesus was no accident from an unmarried couple (John 1:13; 8:41), but instead God kept His word (promise) such that His plan realised ("became flesh") with Jesus (John 1:14). The fact that people also mistook John for the Christ proves that a human Christ was expected (John 1:6-8,15,19-28).
+Trinitarians commonly define [“the Word”](word.md) in John 1 as the pre-existent Son who became flesh by incarnation. Unitarian readings understand "the word" is commonly used through the book of John and the Gospels as God's inspired speech: teaching, command or prophecies. In the context of John 1 it would be God's promised salvation realised in Jesus. John 1:18, which distinguishes the unseen God from the one who makes him known, is part of that dispute.
 
 Paul also introduces the Son as a human Christ that fulfilled the prophecies (God's word):
 
 > The gospel of God, which He promised beforehand through His prophets in the holy Scriptures, concerning His Son, who was descended from David according to the flesh... — Romans 1:1-3 ESV
 
-The term, ["the word"](https://eternal.family.net.za/bible/concepts/word) is used multiple times throughout the book of John and the gospels, but it always refers to something someone had said. John was not giving a clever word puzzle, but instead the purpose of his book was to give a testimony of Jesus, therefore one would expect that the meaning of "the word" should be consistent throughout this testimony.
+Acts presents Jesus returning to God after his earthly ministry. This makes it clear that [Jesus was distinct from God](son-of-man/distinct.md). Trinitarians distinguish the risen Jesus' bodily departure from divine omnipresence due to *[the Chalcedon dual-nature of Jesus](#history-of-christianity)*.
 
-Acts starts with Jesus leaving his disciples behind to return to God. This by itself proves that [Jesus is distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct) and that Jesus is not omnipresent like God.
-
-Every letter of Paul starts with an introduction that mentions both God and Christ as [distinct persons](https://eternal.family.net.za/god/son/essence/not-god/distinct), for example:
+Every letter of Paul starts with an introduction that mentions both God and Christ as [distinct persons](son-of-man/distinct.md), for example:
 
 > Blessed be the **God and Father of our Lord Jesus Christ**... — Ephesians 1:3 (ESV)
 
-1 Peter, opens with a blessing: "Blessed be **the God and Father of our Lord Jesus Christ!**" This states that [Jesus has a God](https://eternal.family.net.za/god/son/essence/not-god) Who is a distinct [Father](https://eternal.family.net.za/god/son/essence/of-god/parent) to him.
+1 Peter, opens with a blessing: "Blessed be **the God and Father of our Lord Jesus Christ!**" This states that [Jesus has a God](son-of-man/denies-being-god.md) Who is a distinct [Father](https://eternal.family.net.za/god/son/essence/of-god/parent) to him.
 
-The other authors also introduce Jesus [distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct), for example:
+The other authors also introduce Jesus [distinct from God](son-of-man/distinct.md), for example:
 
 * The book of Hebrews starts with: "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, **but in these last days He has spoken to us by His son**"
 * The book of James starts with: "James, a servant of God **and** of the Lord Jesus Christ."
@@ -150,25 +145,25 @@ The other authors also introduce Jesus [distinct from God](https://eternal.famil
 
 The phrase "***a*** son of man" refers to any general human throughout the Hebrew Old Testament, for example Numbers 23:19; Job 25:6, 35:8; Psalms 146:3; Jeremiah 49:18,33; Ezekiel 2:1,3,6,8; Daniel 8:17
 
-But "***the*** Son of Man" refers to the prophesied [Christ](https://kingdom.ofgod/christ). "Man" refers to "Adam" (Genesis 1:27; 2:7-8,15-23) and [God gave His word](word.md) in Genesis 3:15 on what the Christ as "the woman's offspring" will accomplish. This term is also used in Daniel 7:13 in his prophecy about Christ. This highlights that the Jews expected [a human Christ](son-of-man/human.md) with real human [limitations](son-of-man-/limitations.md). Throughout the Gospels Jesus repeatedly referred to himself as "***the*** Son of Man" (Matthew 13:41), which implies he is "the" prophesied **man** (Matthew 16:27-28; 24:37-44; Luke 17:22-30).
+But "***the*** Son of Man" refers to the prophesied [Christ](https://kingdom.ofgod/christ). "Man" refers to "Adam" (Genesis 1:27; 2:7-8,15-23) and [God gave His word](word.md) in Genesis 3:15 on what the Christ as "the woman's offspring" will accomplish. This term is also used in Daniel 7:13 in his prophecy about Christ. This highlights that the Jews expected [a human Christ](son-of-man/human.md) with real human [limitations](son-of-man/limitations.md). Throughout the Gospels Jesus repeatedly referred to himself as "***the*** Son of Man" (Matthew 13:41), which identifies him with the prophesied **man** (Matthew 16:27-28; 24:37-44; Luke 17:22-30).
 
 The phrase "God as the Son" does not exist in the Bible. However, many have identified Jesus as "the Son of God", for example:
 
-| Person            | Identity                              | Scripture                                                                |
-| ----------------- | ------------------------------------- | ------------------------------------------------------------------------ |
-| God               | this is My beloved Son                | Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18 |
-| Peter             | the Christ, the Son of the living God | Matthew 16:16-17                                                         |
-| The centurion     | the Son of God                        | Matthew 27:54                                                            |
-| Gabriel           | the Son of the Most High              | Luke 1:31-35                                                             |
-| The devil         | the Son of God                        | Luke 4:3, 9                                                              |
-| Mark              | Jesus Christ, the Son of God          | Mark 1:1                                                                 |
-| John              | Jesus is the Christ, the Son of God   | John 1:39, 20:30                                                         |
-| John              | God's only begotten Son               | John 1:14, 18; 1 John 4:9                                                |
-| Nathanael         | the Son of God... the King of Israel  | John 1:45-51                                                             |
-| Jesus             | I am the Son of God                   | John 9:35-37, 10:36, 17:1                                                |
-| Martha            | the Christ, the Son of God            | John 11:27                                                               |
-| Paul              | the Son of God, Jesus Christ          | Acts 9:20; 2 Corinthians 1:19                                            |
-| Author of Hebrews | the Son of God                        | Hebrews 1:1-2, 4:14                                                      |
+| Person            | Identity                              | Scripture                                                     |
+| ----------------- | ------------------------------------- | ------------------------------------------------------------- |
+| God               | this is My beloved Son                | Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; 2 Peter 1:16-18 |
+| Peter             | the Christ, the Son of the living God | Matthew 16:16-17                                              |
+| The centurion     | the Son of God                        | Matthew 27:54                                                 |
+| Gabriel           | the Son of the Most High              | Luke 1:31-35                                                  |
+| The devil         | the Son of God                        | Luke 4:3, 9                                                   |
+| Mark              | Jesus Christ, the Son of God          | Mark 1:1                                                      |
+| John              | Jesus is the Christ, the Son of God   | John 1:39, 20:30                                              |
+| John              | God's only begotten Son               | John 1:14, 18; 1 John 4:9                                     |
+| Nathanael         | the Son of God... the King of Israel  | John 1:45-51                                                  |
+| Jesus             | I am the Son of God                   | John 9:35-37, 10:36, 17:1                                     |
+| Martha            | the Christ, the Son of God            | John 11:27                                                    |
+| Paul              | the Son of God, Jesus Christ          | Acts 9:20; 2 Corinthians 1:19                                 |
+| Author of Hebrews | the Son of God                        | Hebrews 1:1-2, 4:14                                           |
 
 The way people interacted and treated Jesus also hint that they did not believe he was God, for example:
 
@@ -200,17 +195,17 @@ The term ["only-begotten son"](index.md) comes from the Greek words [monos](http
 
 ### Interaction with Jesus
 
-If the Father and the Son were two different modes of God (the way God represent Himself), then we would expect no interaction between these two modes as distinct persons. Yet, there are many examples of God and Jesus interacting with each other, for example:
+The following passages portray interaction between the Father and Jesus as distinct persons. They directly challenge modalism, which treats Father and Son as modes of one person. They do not by themselves refute Trinitarian theology, which also distinguishes Father and Son as persons:
 
 * [God anointed Jesus](https://eternal.family.net.za/god/son/essence/not-god/distinct#john) (Acts 10:38)
-* [God publicly declared His love for Jesus](https://eternal.family.net.za/god/son/essence/of-god/parent) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21; John 1:51)
+* [God publicly declared His love for Jesus](https://eternal.family.net.za/god/son/essence/of-god/parent) (Matthew 3:16-17; Mark 1:9-11; Luke 3:21)
 * [God publicly glorified Jesus](https://eternal.family.net.za/god/son/essence/not-god/distinct#god-publicly-glorified-je) (John 12:27-28)
 * [God resurrected Jesus](https://eternal.family.net.za/god/son/essence/as-god/resurrected) (Acts 2:32, 13:30, 17:30-31; Romans 10:9; 1 Corinthians 15:15)
 * [God separated Himself from Jesus](https://eternal.family.net.za/god/son/essence/not-god/distinct#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus cried to God](https://eternal.family.net.za/god/son/essence/not-god/distinct#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus grew in favour with God](https://eternal.family.net.za/god/son/essence/not-god/distinct#jesus-grew-in-favour) (Luke 2:52)
 * [Jesus mediates between man and God](https://eternal.family.net.za/god/son/essence/not-god/distinct#paul) (John 14:6; 1 Timothy 2:5)
-* [Jesus prayed to God](https://eternal.family.net.za/life/prayer) (Matthew 5:45-6:9; 26:39,42,53; Luke 6:12; John 11:41, 17:1)
+* [Jesus prayed to God](https://eternal.family.net.za/life/prayer) (Matthew 6:9; 26:39,42,53; Luke 6:12; John 11:41, 17:1)
 * [Jesus returned to God](https://eternal.family.net.za/god/son/essence/not-god/distinct#mark-saw-jesus-distinct-from-god) (Mark 16:19)
 * [Jesus served God](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
 * [Jesus witness with God](https://eternal.family.net.za/god/son/essence/not-god/distinct#jesus-witness-with-god) (John 8:17-18)
@@ -218,7 +213,7 @@ If the Father and the Son were two different modes of God (the way God represent
 
 ### Incompatible attributes
 
-It is a paradox to claim that Jesus is simultaneously 100% God and 100% human because these attributes are incompatible:
+God attribute are incompatible with attributes of the human Jesus. For example:
 
 | God                                                                                                                               | Jesus                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -245,24 +240,47 @@ It is a paradox to claim that Jesus is simultaneously 100% God and 100% human be
 | God has more authority than Jesus (Matthew 20:23; John 12:49-50)                                                                  | Jesus authority was given to him by God (Matthew 26:53; 28:18; John 5:19,22-23; 12:49-50; 17:2; Acts 2:36)                                         |
 | Nobody instructs God (Isaiah 40:13-14; Romans 11:34)                                                                              | Jesus was instructed by the Spirit (Matthew 4:1; Mark 1:12; Luke 4:1-2)                                                                            |
 
-#### Jesus serves God
+To solve these tensions the Chalcedonian Christianity teaches that the one Son of God has two natures, divine and human. They reason that Jesus did not cease to be divine when he became human, and his human life was not unreal. Divine and human properties are qualified by nature. For example death belongs to his humanity, while immortality belongs to deity.
 
-Trinitarians believe that [the Son is "equal" to the Father](https://eternal.family.net.za/god/son/essence/of-god/similarities), but this clash with [the Bible](https://wordofgod.info), because:
+This distinction prevents a simple formal contradiction, but it does not end the discussion. Mark 13:32 says that no one knows the day or hour, “nor the Son, but **only the Father**” (ESV). Not using knowledge is not the same as not knowing it.
 
-* Isaiah prophesied that the Christ would be God's servant (Isaiah 42:1, 52:13-53:12).
-* Jesus himself said that he was "sent" (commissioned) by the Father (John 3:16-18, 4:34, 6:57, 8:29, 14:24, 17:1-3; 1 John 4:14). This implies the Father has more authority than Jesus.
-* Jesus obeys the Father (John 4:34, 5:19, 6:38, 8:55, 10:37, 14:31).
-* Jesus trusted (depends on) God (1 Peter 2:23 ESV,HCSB) or Jesus stayed committed to God (1 Peter 2:23 ASV,KJV,NET,REV,YLT)
+### Apostolic Pattern
 
-Now, some Trinitarians will argue that it was only the human-part of Jesus that served God and that it is no longer the case because Jesus is now exalted. If this was true, Jesus would not need to pray to God after he was exalted (​Luke 24:30).
+No biblical passage explicitly states the later formula “one person in two natures”. The absence of that terminology alone does not prove that Scripture offers no conceptual support for it. The question is whether the apostolic pattern is better explained by that later formulation or by Jesus as God's unified, dependent human Messiah.
 
-Paul who wrote his letters after Jesus' exaltation, teaches that even though Jesus is our Lord in his exalted state, Jesus still intercedes for believers (​Romans 8:34). This would not have been necessary if he was God himself.
+* Psalm 110:1 and 1 Corinthians 15:24-28 portray the Messiah as receiving rule from God and finally subjecting the kingdom to God.
+* John 17:3 identifies the Father as the only true God, and 1 Corinthians 8:6 distinguishes the one God, the Father, from the one Lord, Jesus Christ.
+* Acts 2:22 and 17:31 present Jesus as the man attested, raised, and appointed by God.
+* Romans 5:15,19 and 1 Corinthians 15:21,45-49 connect Jesus with Adam and with the human resurrection problem.
+* Romans 8:29, Philippians 3:21, and 1 John 3:2 describe believers' future conformity to Christ.
+* 1 Timothy 2:5 calls him the human mediator.
+* 2 Peter 1:4 describes participation in divine nature. In context, this can describe God-given life and holiness without making believers Creator by identity.
 
-In addition Paul also wrote that Jesus still submit and serve God (1 Corinthians 3:23; 11:3; 15:28; Romans 6:10). Even Peter confirms this (Acts 3:13; 4:27-30 ESV), although some translations translated ["servant" as "child"](https://eternal.family.net.za/god/son/essence/of-god/parent).
+### Jesus Serves God
+
+Exaltation means elevation to honour, status, and messianic authority. God raising Jesus from death is the related resurrection event, not a synonym for exaltation. Exaltation does not mean that Jesus replaces the Father or receives self-existent deity.
+
+* Psalm 110:1 distinguishes the LORD from the lord seated at his right hand.
+* Isaiah 42:1 calls the Messiah God's servant.
+* Daniel 7:13–14 depicts one like [a son of man receiving dominion from the Ancient of Days](https://prophecies.ofgod.info/messianic/daniel-7-13).
+
+The apostolic preaching follows this pattern.
+
+* God raised Jesus and made him Lord and Christ (Acts 2:32–36).
+* God exalted Jesus as Leader and Saviour (Acts 5:31).
+* God highly exalted Jesus so that every confession of Jesus as Lord is “to the glory of God the Father” (Philippians 2:9–11).
+* Jesus says that all authority in heaven and earth “has been given to me” (Matthew 28:18).
+* After the resurrection of Jesus, he still speaks of “my God and your God” (John 20:17).
+
+Receiving authority is not identical with possessing every possible capability. These texts establish Jesus' authority and God-given status, but do not independently prove omniscience or omnipresence. Romans 8:34 presents the risen Christ as interceding for believers. Luke 24:30 occurs after resurrection but before ascension. Jesus' blessing of bread may reasonably be understood as prayer.
+
+1 Corinthians 15:24-28 shows that [Jesus is not God](son-of-man/denies-being-god.md) because [he remains subject to God](son-of-man/serve-god.md). Jesus delivers the kingdom to God the Father, and God places all things under Jesus except Himself. Therefore, Jesus serves under God’s authority rather than being God himself.
+
+The cumulative pattern is more natural: the Father is the one God, and Jesus is the exalted human Messiah who receives authority, serves God, and finally submits the kingdom to God. This is a conclusion from the pattern of texts, not a claim that distinction from the Father alone excludes shared divine nature.
 
 #### Jesus was sanctified
 
-The Greek word "[hagiazó](https://biblehub.com/greek/37.htm)" translated as "[consecration](https://eternal.family.net.za/bible/concepts/sanctification)" or "[sanctification](https://eternal.family.net.za/bible/concepts/sanctification)" mean:
+The Greek word "[hagiazó](https://biblehub.com/greek/37.htm)" translated as "[consecration](https://word.ofgod.info/terms/sanctification)" or "[sanctification](https://word.ofgod.info/terms/sanctification)" mean:
 
 * to make holy (purify)
 * to treat as holy (dedicate)
@@ -271,25 +289,25 @@ The Greek word "[hagiazó](https://biblehub.com/greek/37.htm)" translated as "[c
 
 For example Paul urges husbands to sanctify their wives (Ephesians 5:25-27).
 
-God had always been [holy](https://eternal.family.net.za/bible/concepts/holy) (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13). There was no time when God was unholy or needed purification or dedication to complete some holiness process like Jesus who was baptised with the "baptism of repentance" (Mark 1:4; Acts 13:24; 19:4) to "fulfil all [righteousness](https://eternal.family.net.za/bible/concepts/righteousness)" (Matthew 3:13-16)
+God has always been [holy](https://word.ofgod.info/terms/holy) (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13). There was no time when God was unholy or needed purification or dedication to complete some holiness process like Jesus who was baptised with the "baptism of repentance" (Mark 1:4; Acts 13:24; 19:4) to "fulfil all [righteousness](https://kingdom.ofgod.info/life/righteousness)" (Matthew 3:13-16)
 
-It would not be necessary for the Holy God to go through a ceremony of cleansing to fulfil righteousness to himself. Instead with this ceremony, Jesus was dedicated for God's special purpose which implies [Jesus is distinct from God](https://eternal.family.net.za/god/son/essence/not-god/distinct) as God Himself publicly proclaimed:
+It would not be necessary for the Holy God to go through a ceremony of cleansing to fulfil righteousness to himself. Instead with this ceremony, Jesus was dedicated for God's special purpose which implies [Jesus is distinct from God](son-of-man/distinct.md) as God Himself publicly proclaimed:
 
 > "This is [My beloved Son](index.md) with whom I am well pleased." — Matthew 3:17; Luke 3:21
 
 ### Jesus' purpose
 
-If Jesus was God, he would have recruited disciples for his own benefit, but instead [God sent Jesus](https://eternal.family.net.za/god/son/essence/not-god/serve-god) (Galatians 4:4-5) to preach the good news of the kingdom of God (Luke 4:42-44).
+God [sent Jesus](son-of-man/serve-god.md) (Galatians 4:4-5) to preach the good news of the kingdom of God (Luke 4:42-44). This sending as evidence that Jesus serves God's purpose.
 
-Jesus identified himself as "[the way](https://eternal.family.net.za/god/son/essence/not-god/mediator)... to [the Father](https://eternal.family.net.za/god/father)" (John 14:6; 1 Timothy 2:5) which implies there is a bigger [God](https://eternal.family.net.za/god) (1 Corinthians 3:23; 11:3; 15:28).
+Jesus identified himself as “[the way](purpose.md) ... to [the Father](https://ofgod.info)” (John 14:6; 1 Timothy 2:5). This mediation, together with 1 Corinthians 3:23; 11:3; and 15:28, as shows his dependent relation to the Father.
 
-God had given up His ***only*** and ***beloved*** Son, and God had to watch him suffer and die at the crucifixion to save a world of sinful people (John 3:16-17)! Jesus, who was no demigod, must have really suffered like a mortal human. This explains why Jesus was distressed at the Garden of Gethsemane (Matthew 26; Mark 14; Luke 22). This is why Jesus has the right, as a human who understand our experiences, to judge us (John 5:26-27).
+God gave His ***beloved*** Son for the world's salvation (John 3:16-17). Jesus truly suffered and died in his earthly human life. This explains his distress at Gethsemane (Matthew 26; Mark 14; Luke 22) and his fitness to judge as the Son of Man (John 5:26-27). Classical two-nature theology also affirms the reality of this human suffering.
 
 ### Jesus temptation
 
-**God cannot be tempted** (James 1:13), yet Jesus was tempted (Hebrews 4:15).
+James 1:13 says that God cannot be tempted by evil, yet Jesus was tempted (Hebrews 4:15). Matthew 4:1-10 and Mark 1:12-13 portray Jesus being tested in hunger, trust, loyalty, and the path to kingship.
 
-Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](https://eternal.family.net.za/god/son/essence/of-god/temptations).
+Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](temptations.md).
 
 In short the devil was basically saying:
 
@@ -306,66 +324,72 @@ If Jesus was God:
 * Jesus would have quoted the wrong scripture which are only applicable to man (Luke 4:4 quoting Deuteronomy 8:3).
 * The devil would have quoted the wrong scripture (Matthew 4:5-7 & Luke 4:9-11 quoting Psalm 91:11-12) and Jesus would have no need to respond.
 * The devil's offer for kingdoms (Matthew 4:9; Luke 4:5-6) would not have been a temptation at all, because God already owns everything (Psalm 24:1).
-* Jesus would have referred to himself as God, but instead he refers to [God as Someone distinct](https://eternal.family.net.za/god/son/essence/not-god/distinct) (Matthew 4:6-7,10; Luke 4:12).
+* Jesus would have referred to himself as God, but instead he refers to [God as Someone distinct](son-of-man/distinct.md) (Matthew 4:6-7,10; Luke 4:12).
 
 ### Jesus inheritance
 
-If Jesus was God Himself, he would own everything, yet it was prophesied that Jesus would inherit from God (Psalm 2:7-11). This understanding is also confirmed by Paul (Romans 8:17).
+Psalm 2:7–11 presents the Messiah as receiving an inheritance from God. Romans 8:17 calls believers fellow heirs with Christ. Inheritance and shared glory fit the wider scriptural pattern of God granting the Messiah authority and bringing his people into the promised future.
 
 > The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs — heirs of God and **fellow heirs with Christ**, provided we suffer with him in order that we may also be glorified with him. — Romans 8:17 (ESV)
+
+### Resurrection and Human Likeness
+
+Resurrection does not require Jesus to stop being human. Romans 6:9 says that the risen Christ will never die again. 1 Corinthians 15:20–23 calls him the firstfruits of resurrection, establishing an order: Christ is raised first, and those who belong to him follow at his coming.
+
+1 Corinthians 15:42–54 describes transformation from mortality and corruption to immortality and incorruption. It does not explain the composition or ordinary capacities of a glorified body. Philippians 3:21 says that Christ “will transform our lowly body to be like his glorious body”. Jesus remains “the man Christ Jesus” in 1 Timothy 2:5, while Acts 3:21 says that heaven receives him until the restoration of all things. 1 Peter 3:22 also places him in heaven at God's right hand.
+
+### Sharing in the Divine Nature
+
+2 Peter 1:4 says that believers become “partakers of the **divine nature**” (ESV). The phrase should not be dismissed. In context, it is connected with escape from corruption and the life and godliness God gives. A contextual interpretation may therefore understand participation as sharing God-given holiness, incorruptible life, and likeness to God.
+
+This interpretation is not forced by dictionary meaning alone. Trinitarian readers also distinguish participation in divine life from becoming God by identity. The verse does not establish that believers become uncreated or self-existent, and it does not independently settle the question of Jesus' nature. It corrects the broader claim that humans cannot receive anything described as divine.
+
+Jesus' reception of glory, life, and authority from the Father does not by itself refute intrinsic deity, because orthodox theology can affirm both reception within his messianic office and eternal divine nature. The disputed questions are whether these texts establish or depend on intrinsic deity, and whether Scripture warrants the additional claim that Jesus possesses eternal divine nature.
 
 ## Relating to Jesus
 
 ### Worship
 
-Many people confuse:
+Modern use of “worship” can cover several related acts. Context must distinguish honour, homage, religious service, and worship owed to God:
 
 | Term                                                                               | Meaning                                                                                   | Can be given to a man? |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
 | [praise](https://eternal.family.net.za/god/praise)                                 | Express gratitude or honour to someone, often in the form of music or public declarations | yes                    |
 | [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) | Humbling oneself to pay respect to a very important person, like bowing or kneeling       | yes                    |
-| [sacrificial worship](https://word.ofgod.info/terms/worship#sacrificial-worship)   | Serving God with a sacrifice (valuable gift)                                              | no                     |
+| [Sacrificial worship](https://word.ofgod.info/terms/worship#sacrificial-worship)   | Devoted religious service and sacrifice owed to God alone                                 | No                     |
 
-All of the above are often referred to as ["worship"](https://word.ofgod.info/terms/worship) by modern English speakers which is the root cause of confusion and debates regarding the topic why the disciples 'worshipped' Jesus.
+All of the above may be called ["worship"](https://word.ofgod.info/terms/worship) in modern English. Bowing before Jesus can express homage to a king, but context may also raise questions of divine honour. It is not sound to claim that every bow proves deity or that worship is only sacrifice.
 
 The disciples were [paying obeisance](https://word.ofgod.info/terms/worship#paying-obeisance-worship) to Jesus as their king. This is indicated by their actions, but often translated described as "worship" in the Greek source text. The distinction is that this kind of worship is "worship" only without "serving" a sacrifice.
 
-There are [no scripture](https://eternal.family.net.za/god/son/essence/as-god/worship) of anyone that has "worship and serve" (with a sacrifice) Jesus like they did to God as it was in the case of Deuteronomy 8:19-20; Luke 4:8; Exodus 23:25 and so forth. Instead, Jesus rebuked this kind of worship to anyone other than God (Luke 4:8).
+There are [no scripture](son-as-god/worship.md) of anyone that has "worship and serve" (with a sacrifice) Jesus like they did to God as it was in the case of Deuteronomy 8:19-20; Luke 4:8; Exodus 23:25 and so forth. Instead, Jesus rebuked this kind of worship to anyone other than God (Luke 4:8).
 
 ### Prayers
 
-Neither Jesus nor any of the apostles ever instructed anyone to pray to Jesus. Instead, [prayers have always been directed to God the Father](https://eternal.family.net.za/life/prayer) (Ezra 9:5-6; Matthew 6:9-13; Luke 11:1-2; Philippians 4:6-7; 1 Timothy 2:1-4).
+Neither Jesus nor any of the apostles ever instructed anyone to pray to Jesus. Instead, prayers have always been directed to God the Father (Ezra 9:5-6; Matthew 6:9-13; Luke 11:1-2; Philippians 4:6-7; 1 Timothy 2:1-4).
 
-Yet, we have the examples of Stephen, Paul and John who [communicated with Jesus after his ascension](https://eternal.family.net.za/god/son/essence/as-god/prayer), but in all these instance they were directly speaking to Jesus in a vision like people do when they speak to angels.
+Fellowship with Jesus, obedience to his commands, submission to his authority, and following his example do not replace the Father or, by themselves, settle Jesus' divine nature. They also do not require visions or subjective voices.
 
-#### Jesus' name
+#### Jesus’ name
 
-Praying or acting "in the name of Jesus" is no way of addressing Jesus. In modern English "name" means designation, but [the original Greek phrase](https://word.ofgod.info/terms/name) means to act in the authority of someone more important. For example, when the Roman officials taxed the Jews in the name of Caesar, it means they have his permission to act as delegates to do their job. Likewise, when Jesus' disciples act or pray in the name of Jesus, it means they are requesting God to do something so that they can act with the permission of Jesus.
+Praying “in Jesus’ name” does not mean praying to Jesus or merely adding a magic word at the end of a prayer. In biblical usage, acting in someone’s name means acting as that person’s [authorised representative](https://word.ofgod.info/terms/name). Jesus came in his Father’s name and performed works in his Father’s name (John 5:43; 10:25). In the same way, his disciples ask in Jesus’ name when they make requests consistent with his teaching, authority, and mission (John 14:12-14; 15:16).
 
-## What This Means for You
+The promise is therefore connected with union and obedience, not with a spoken formula. Jesus said,
 
-As you reflect on this evidence, consider: **How does your understanding of Jesus's nature affect your faith?**
+> “If you **abide in me**, and my words abide in you, ask whatever you wish, and it will be done for you” -- John 15:7 (ESV)
 
-If Jesus is God Himself, you worship a deity Who experienced human limitations firsthand like hunger, pain and temptations. Your salvation rests on God's willingness to humble Himself and take human form to rescue His creation.
+Those who abide in his love keep his commandments, just as he kept his Father’s commandments (John 15:10). John later wrote that believers receive what they ask because they keep God’s commandments, do what pleases him, and ask according to his will (1 John 3:22; 5:14). Asking in Jesus’ name means asking from Jesus’ side, as people united with him and committed to his words and work (John 17:18,20-23).
 
-If Jesus is the Son of God (fully human but uniquely empowered by the Father), you follow a man who perfectly represented God and set an achievable standard for holiness. Your salvation rests on God's love being so great that He gave His only beloved son, watching him suffer and die to redeem the world (John 3:16).
+Jesus’ name also gives believers permission to approach the Father. [Sin separates people from God](https://kingdom.ofgod.info/darkness) (Isaiah 59:2), but through Jesus believers obtain [peace and access to God](https://kingdom.ofgod.info/life/righteousness) (Romans 5:1-2). Jesus is the appointed [way](purpose.md) to the Father (John 14:6), and he instructed his disciples to ask the Father in his name (John 15:16; 16:23-27).
 
-Both perspectives magnify God's love, though in different ways. What matters most is not that you perfectly comprehend the metaphysics of Christ's nature, but that you trust in His work and follow His teachings. Remember, Jesus converted people who simply believed he was the Christ, the son of God (John 20:31). It was not necessary for people to understand the Trinity.
+Calling upon Jesus’ name therefore acknowledges the access and authority God granted through him. The name is not a guarantee for every request. It identifies a request made on Jesus’ behalf, in agreement with his words, character, and mission.
 
-**Don't rely solely on [creeds](https://church.ofgod.info/evolution), traditions, or even this article.** Examine the Scriptures yourself. Pray for wisdom (James 1:5). Consider the evidence with an open heart, even if it challenges what you've always believed. The truth is not afraid of investigation.
+## Conclusion
 
-Ask yourself:
+The natural reading of the evidence shows that the Father alone is the one true God, while Jesus is His distinct and uniquely begotten human Son, the promised Messiah. Jesus is not merely an ordinary man. He was conceived by God's power, perfectly represented the Father, obeyed Him faithfully, truly died, was raised from the dead, and was exalted as Lord and Christ. His authority and glory are real, but they were given to him by God rather than possessed as self-existent deity.
 
-* Does your view of Jesus draw you closer to God or create theological confusion?
-* Does it help you follow Jesus's example, or make it an impossible task?
-* Does it align with the full counsel of Scripture, or only selected verses?
+This understanding follows the Bible's consistent presentation of Jesus. The [prophecies](#prophecies) anticipate a human Messiah who serves and depends upon God. The Gospel writers [introduce Jesus](#introducing-jesus) as God's Son and the descendant of David. Jesus [identifies himself](#jesus-identity) as a man who has a God, while his prayers, obedience, resurrection, and exaltation show [interaction between God and Jesus](#interaction-with-jesus). The [apostolic pattern](#apostolic-pattern) likewise distinguishes the one God, the Father, from the man He appointed, raised, and exalted.
 
-Ultimately, your relationship with [our Father God](https://ofgod.info) matters more than winning a theological debate. Whether you conclude Jesus is "God the Son" or "the Son of God", let your understanding lead you to worship God in spirit and truth (John 4:23-24) and to love others as the Christ set the example.
+The dual-nature doctrine assigns Jesus's apparently conflicting attributes to separate divine and human natures. Yet Scripture never states that Jesus is one person possessing two natures. The simpler reading does not divide his words and experiences between two natures: the same Jesus was born, grew, learned, was tempted, prayed, obeyed, suffered, died, rose, and now [serves under God's authority](#jesus-serves-god). His human limitations and God-given authority therefore form one coherent life rather than a conflict requiring a later philosophical formula.
 
----
-
-See also:
-
-* [How to prove Jesus is God?](https://eternal.family.net.za/questions/how-to-prove-jesus-is-god)
-* [Essence of Jesus](https://eternal.family.net.za/god/son/essence)
-* [More evidence](https://eternal.family.net.za/god/son/essence/not-god)
+Recognising Jesus as the exalted human [Christ](https://kingdom.ofgod.info/christ) does not diminish him. It honours his genuine faithfulness, sacrifice, resurrection, and appointed lordship, while preserving the Father as the only true God. This reading gives [glory to God](#gods-glory), honours Jesus as God's faithful Son, and directs believers through him to the Father.

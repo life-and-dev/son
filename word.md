@@ -283,6 +283,7 @@ If we read "the Word" (logos) as "Jesus" John 1 becomes confusing and contradict
 John more likely intended this message (paraphrased with "Word" = God's plan/promise):
 
 All checks complete: revised wording now preserves article’s plan theology and makes each referent shift explicit.
+
 ## Proposed Paraphrase
 
 > ### John 1:1–18
