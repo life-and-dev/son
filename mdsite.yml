@@ -6,8 +6,6 @@ features:
 menu:
   - purpose
   - nature
-  - temptations
-  - jesus-today
   - name
   - sons-of-god
   - What Jesus Is Called: ===
@@ -43,6 +41,7 @@ menu:
     - denies-being-god
     - has-a-god
     - serve-god
+    - temptations
     - limitations
     - human
     - baptized
@@ -62,11 +61,12 @@ menu:
       - abraham-3-visitors
       - baptism-formula
     - Members of the Trinity: ===
-    - The Father: https://ofgod.info
+    - The Father: /shema
     - The Son: /nature
     - holy-spirit
-  - shema
-  - unitarianism
+  - shema:
+    - jesus-today
+    - unitarianism
 site:
   canonical: https://son.ofgod.info
   favicon: logo.svg

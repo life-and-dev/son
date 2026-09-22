@@ -2,37 +2,41 @@
 description: An examination of Jesus's wilderness temptations, exploring how these encounters affirm His identity as the Son of God rather than God Himself.
 keywords: Jesus, temptations, wilderness, Son of God, Matthew 4, Luke 4, devil, Satan, identity, theological analysis
 ---
+# Jesus was Tempted
 
-# The Temptations Of Jesus Christ
-
-This article examines the Biblical account of Jesus's temptations in the wilderness, as recorded in Matthew 4:1-11 and Luke 4:1-12. The analysis focuses on how these encounters reveal important theological insights about Jesus's identity, particularly regarding His relationship with God the Father. While the devil attacked Jesus's identity, this interaction confirmed that He was truly [the Son of God](../index.md).
+The Biblical account of Jesus's temptations in the wilderness, as recorded in Matthew 4:1-11 and Luke 4:1-12 reveal important theological insights about Jesus's identity, particularly regarding His relationship with God the Father. While the devil attacked Jesus's identity, this interaction confirmed that He was truly [the Son of God](../index.md).
 
 ## The Biblical Account
 
-> Then **Jesus was led** up by the Spirit into the wilderness to **be tempted** by the devil. And after fasting forty days and forty nights, he *[Jesus]* was hungry. 
+> Then **Jesus was led** up by the Spirit into the wilderness to **be tempted** by the devil. And after fasting forty days and forty nights, he *[Jesus]* was hungry.
 >
 > And the tempter came and said to him, “If you are **the Son of God**, command these stones to become loaves of bread.”
-> But he answered, “It is written, 
+> But he answered, “It is written,
 >
 >> ‘**Man** shall not live by bread alone, but by every word that comes from the mouth of God.’” *(Deuteronomy 8:3)*
+>>
 >
 > Then the devil took him to the holy city and set him on the pinnacle of the temple and said to him, “If you are the Son of God, throw yourself down, for it is written,
 >
 >> ‘He will command His angels concerning you,’ *(Psalm 91:11)*
+>>
 >
-> and 
+> and
 >
 >> ‘On their hands they will bear you up, lest you strike your foot against a stone.’” *(Psalm 91:12)*
+>>
 >
 > Jesus said to him, "Again it is written,
 >
 >> 'You shall not put the Lord your God to the test.'" *(Deuteronomy 6:16)*
+>>
 >
 > Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. And he said to him, “**All these I will give you**, if you will fall down and worship me.”
 >
 > Then Jesus said to him, "Be gone, Satan! For it is written,
 >
 >> 'You shall worship the Lord your God and him only shall you serve.'" *(Matthew 4:10; cf. Deuteronomy 6:13)*
+>>
 >
 > Then the devil left him, and behold, angels came and were ministering to him.
 >
@@ -58,8 +62,9 @@ If Jesus was God, He would have led, yet **Jesus was led** by another Spirit (Ma
 If Jesus was God, the devil would have requested Jesus to prove that, but instead the devil only asked Jesus to prove that He is [the Son of God](../index.md) (Luke 4:3, 9).
 
 In the same context Jesus defended Himself with Deuteronomy 8:3 which teaches that mankind should rather obey God than to satisfy hunger. Jesus applies that scripture to His own situation (Luke 4:4) which implies:
-  * Jesus is part of mankind, because the scripture applied to Him,
-  * Jesus would not make His own plans to survive, but trust that whatever God told Him would come true.
+
+* Jesus is part of mankind, because the scripture applied to Him,
+* Jesus would not make His own plans to survive, but trust that whatever God told Him would come true.
 
 If Jesus was truly tempted, as written in Matthew 4:1 and Luke 4:2, then it would mean that Jesus did not have all authority at that moment, otherwise the devil's offer for more kingdoms (Matthew 4:9; Luke 4:5-6) **would not have been a temptation** to Jesus, because God already owns everything (Psalm 24:1).
 

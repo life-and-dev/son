@@ -2,12 +2,11 @@
 description: A critical examination of the Trinity doctrine, exploring its historical origins, biblical evidence, contradictions, and effects on Christian faith and practice.
 keywords: Trinity, Godhead, Tertullian, Nicene Creed, biblical unitarianism, Jesus deity, Holy Spirit, monotheism, subordinationism, Trinitarian doctrine
 ---
-
-# The Trinity
+# The Trinity (1 God = 3 Persons)
 
 When I first studied [the Bible](https://word.ofgod.info) as a new believer, I accepted the Trinity as a fundamental truth in Trinitarian Christianity. But as I dug deeper into Scripture, historical documents, and early church writings, troubling questions emerged:
 
-* If the Trinity is central to Trinitarian Christianity, why do [even Trinitarian scholars admit the doctrine isn't found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
+* If the Trinity is central to Trinitarian Christianity, why do [even Trinitarian scholars admit the doctrine isn&#39;t found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
 * How could the apostles preach salvation without ever mentioning it in their letters?
 * Why did it take over 300 years after Christ for [the church](https://church.ofgod.info) to [formalize this doctrine](https://church.ofgod.info/evolution)?
 * Why are there so [many variations of the Trinity doctrine](#the-development-of-the-trinity-theology) and which one is correct?
@@ -21,14 +20,14 @@ The bible is [monotheistic](trinity/development.md#monotheism) which means only 
 However, different stages during the development of the Trinity Theology, *mono*theism were redefined as follows by different sects and churches:
 
 1. **[Hierarchical triad](trinity/development.md#hierarchical-triad):**
-    * the Father is the supreme and unbegotten God
-    * the Son is second and subordinate to the Father
-    * the prophetic Spirit is third divine being
+   * the Father is the supreme and unbegotten God
+   * the Son is second and subordinate to the Father
+   * the prophetic Spirit is third divine being
 2. **[Modalism](trinity/development.md#modalism):** one God appears under three names or modes, rather than as three distinct persons.
 3. **[Subordinationism](trinity/development.md#subordinationism):** the Father, Son, and Spirit share one divine reality, but their authority is ranked, with the Father highest.
 4. **[Arianism](trinity/development.md#arianism):**
-    * the Father alone is the unbegotten God
-    * the pre-existent Son was created by and is subordinate to the Father
+   * the Father alone is the unbegotten God
+   * the pre-existent Son was created by and is subordinate to the Father
 
 There philosophies lead to the [Nicene Creed](trinity/development.md#nicene-creed) which defined *the Son is begotten, not made, is true God, and is of the same substance as the Father*.
 
@@ -37,6 +36,7 @@ Later the [Niceno-Constantinopolitan Creed](trinity/development.md#niceno-consta
 Despite the carefully crafted creeds, there were still flaws in the theology, which lead to the definition of the [Dual nature](trinity/development.md#dual-nature) of Jesus which defines him as **one person** but simultaneously with *fully divine and fully human natures* at the same time to compenstate scriptural contradictions.
 
 David wrote:
+
 > The testimony of the LORD is sure, making wise the **simple**. — Psalm 19:7 (ESV)
 
 The LORD's testimony is supposed to be simple enough for the layman to understand and should not require years of theological studies, complex philosophy or creed formulations.
@@ -59,11 +59,11 @@ Together, these witnesses support the conclusion that Trinitarian belief is not 
 
 ## People got saved without knowing about the Trinity
 
-| Scripture               | Description                                                                                                                       |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Luke 7:36-50            | Jesus converted a woman [without telling her that he is God](https://eternal.family.net.za/god/son/essence/not-god/salvation).    |
-| Acts 2:14-47            | Peter converted 3000 people [without telling them Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation). |
-| Acts 13:13-44; 17:22-34 | Paul converted people [without telling them Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation).       |
+| Scripture               | Description                                                                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Luke 7:36-50            | Jesus converted a woman[without telling her that he is God](https://eternal.family.net.za/god/son/essence/not-god/salvation).    |
+| Acts 2:14-47            | Peter converted 3000 people[without telling them Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation). |
+| Acts 13:13-44; 17:22-34 | Paul converted people[without telling them Jesus is God](https://eternal.family.net.za/god/son/essence/not-god/salvation).       |
 
 ## The Death of Christ
 
@@ -193,26 +193,26 @@ The author mentions:
 
 ## The Effects of Faith in the Trinity
 
-| Triune God                                                                                                                                            | Single God                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Complexity: Complex to reason, witness or share the Gospel of God                                                                                     | Clarity: Simple to explain and the Gospel is easy to understand                                                                                                            |
-| Confusion: Cannot understand the "[mysteries of God](https://church.ofgod.info/terms/mystery)"                                                        | Clarity: No contradictions                                                                                                                                                 |
-| Idolatry: Potentially [worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                            | Clarity: Only [1 God to serve and worship](son-as-god/worship.md)                                                                   |
-| Christianity: Some adherents live only for the [glory of Jesus](son-as-god/claims/glory.md)                    | Purpose: [The Father is the purpose of existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6) |
-| Outsiders: [The Godhead is complete](trinity/godhead.md), adherents are outsiders (sinners)                                                                   | Adopted: As the Father accepted Jesus as His Son, [people can be adopted](https://eternal.family.net.za/god/family) too                                                    |
-| No miracles: [A Jesus God does miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles), which is impossible for adherents | Miracles: [Jesus did miracles by God's Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) which people can also receive                                |
-| No sacrifice: A Jesus God could escape suffering (adherents will not know)                                                                            | Sacrifice: Jesus was 100% human, therefore he earns the highest honour                                                                                                     |
-| Doubt: If Jesus was not really dead (immortal God), adherents have no proof of a resurrection                                                         | Assurance: If [God truly resurrected Jesus from the death](https://eternal.family.net.za/god/son/essence/as-god/resurrected), He can do the same for people                |
-| Limited empathy: A Jesus God could not fully understand human suffering                                                                               | Real empathy: A human [Jesus understand people's struggles 100%](https://eternal.family.net.za/god/son/essence#how-jesus-relates-to-his-father-and-disciples)              |
-| Fake witness: A Jesus-Father who is the same person is no witness at all.                                                                             | True witness: Jesus with a distinct free will is a true witness with God (John 8:17-18)                                                                                    |
-| Unrealistic standards: It's impossible to live like a Jesus God                                                                                       | Realistic standards: Jesus set a realistic standard to live by                                                                                                             |
-| Obscure: Prevents monotheistic religions like Jews and Muslims from believing Christ                                                                  | Accessible: Much more approachable to monotheistic religions like Jews and Muslims                                                                                         |
+| Triune God                                                                                                                                          | Single God                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Complexity: Complex to reason, witness or share the Gospel of God                                                                                   | Clarity: Simple to explain and the Gospel is easy to understand                                                                                                          |
+| Confusion: Cannot understand the "[mysteries of God](https://church.ofgod.info/terms/mystery)"                                                       | Clarity: No contradictions                                                                                                                                               |
+| Idolatry: Potentially[worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                            | Clarity: Only[1 God to serve and worship](son-as-god/worship.md)                                                                                                          |
+| Christianity: Some adherents live only for the[glory of Jesus](son-as-god/claims/glory.md)                                                           | Purpose:[The Father is the purpose of existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6) |
+| Outsiders:[The Godhead is complete](trinity/godhead.md), adherents are outsiders (sinners)                                                           | Adopted: As the Father accepted Jesus as His Son,[people can be adopted](https://eternal.family.net.za/god/family) too                                                    |
+| No miracles:[A Jesus God does miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles), which is impossible for adherents | Miracles:[Jesus did miracles by God&#39;s Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) which people can also receive                            |
+| No sacrifice: A Jesus God could escape suffering (adherents will not know)                                                                          | Sacrifice: Jesus was 100% human, therefore he earns the highest honour                                                                                                   |
+| Doubt: If Jesus was not really dead (immortal God), adherents have no proof of a resurrection                                                       | Assurance: If[God truly resurrected Jesus from the death](https://eternal.family.net.za/god/son/essence/as-god/resurrected), He can do the same for people                |
+| Limited empathy: A Jesus God could not fully understand human suffering                                                                             | Real empathy: A human[Jesus understand people&#39;s struggles 100%](https://eternal.family.net.za/god/son/essence#how-jesus-relates-to-his-father-and-disciples)          |
+| Fake witness: A Jesus-Father who is the same person is no witness at all.                                                                           | True witness: Jesus with a distinct free will is a true witness with God (John 8:17-18)                                                                                  |
+| Unrealistic standards: It's impossible to live like a Jesus God                                                                                     | Realistic standards: Jesus set a realistic standard to live by                                                                                                           |
+| Obscure: Prevents monotheistic religions like Jews and Muslims from believing Christ                                                                | Accessible: Much more approachable to monotheistic religions like Jews and Muslims                                                                                       |
 
 ## Conclusion
 
 The orthodox Trinity defines one God as three distinct, coequal and coeternal persons, Father, Son and Holy Spirit, who share one divine essence. This definition is not established by the evidence considered here. Scripture identifies the [one God as the Father](trinity/development.md#monotheism), not as three persons.
 
-Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](son-of-man/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God's own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
+Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](son-of-man/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God&#39;s own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
 
 No passage [defines God as three coequal persons or Jesus as possessing two natures](#missing-evidence). Later creed terms, including [*homoousios*](trinity/development.md#the-problem-with-homoousios), and the [dual-nature formulation](trinity/development.md#dual-nature) cannot replace explicit Scripture. If even one required claim fails, the Trinity definition fails. This article argues that all its central claims fail.
 

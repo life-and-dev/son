@@ -354,7 +354,7 @@ The idea of Jesus being God presents several logical problems:
 
 The standard two-nature claim attempt to resolve this paradox. It holds that the one person, the Son, is fully divine and fully human. It qualifies apparently opposite predicates as belonging according to his divine or human nature.
 
-Scripture personally predicates [birth](#jesus-was-born-human), [development](#natural-human-life), [learning](limitations.md#jesus-is-teachable), [limited knowledge](limitations.md#jesus-does-not-know-everything), [obedience](#baptism-of-jesus), [temptation](../temptations.md#the-biblical-account), [death](#evidence-jesus-died), [resurrection](#evidence-resurrection-and-exaltation), and [the fact that Jesus has a God](#evidence-risen-jesus-calls-god-his-god). It **never names separate divine-Jesus and human-Jesus subjects** or assigns these predicates to two natures.
+Scripture personally predicates [birth](#jesus-was-born-human), [development](#natural-human-life), [learning](limitations.md#jesus-is-teachable), [limited knowledge](limitations.md#jesus-does-not-know-everything), [obedience](#baptism-of-jesus), [temptation](temptations.md#the-biblical-account), [death](#evidence-jesus-died), [resurrection](#evidence-resurrection-and-exaltation), and [the fact that Jesus has a God](#evidence-risen-jesus-calls-god-his-god). It **never names separate divine-Jesus and human-Jesus subjects** or assigns these predicates to two natures.
 
 **A nature is not a separate person**: if one personal subject bears both predicate sets, the **same** Son is:
 

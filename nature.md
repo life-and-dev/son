@@ -29,7 +29,7 @@ Another controversy asked how a supposedly divine Son could also be human. The [
 
 These councils did not prove that their formulas were the original teaching of Jesus and his apostles. They established which interpretation the imperial church would recognise as orthodox. This development altered Christianity by placing later philosophical definitions and institutional authority over the Bible's simpler distinction between the one God, the Father, and Jesus, His Christ.
 
-Creeds also influenced later reasoning. Instead of beginning with the biblical text and asking who Jesus was, Christians were commonly taught first that Jesus was eternally God and then read individual passages through that assumption. [Unitarian Christians](unitarianism.md) challenge this inherited framework and argue that creedal language should be tested against Scripture rather than used as the rule for interpreting it.
+Creeds also influenced later reasoning. Instead of beginning with the biblical text and asking who Jesus was, Christians were commonly taught first that Jesus was eternally God and then read individual passages through that assumption. [Unitarian Christians](shema/unitarianism.md) challenge this inherited framework and argue that creedal language should be tested against Scripture rather than used as the rule for interpreting it.
 
 ## Bible Translations
 
@@ -48,7 +48,7 @@ Fortunately, today we have access to interlinear bibles that provide word-by-wor
 
 ### Concerns
 
-Some [Trinitarian](https://eternal.family.net.za/bible/doctrines/trinitarian) traditions have historically labeled [Unitarian](https://eternal.family.net.za/bible/doctrines/unitarian) beliefs as ["heretical"](https://church.ofgod.info/evolution/325-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://kingdom.ofgod.info/life) without believing Jesus is God Himself, as stated in certain church creeds.
+Some [Trinitarian](trinity.md) traditions have historically labeled [Unitarian](shema/unitarianism.md) beliefs as ["heretical"](https://church.ofgod.info/evolution/325-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://kingdom.ofgod.info/life) without believing Jesus is God Himself, as stated in certain church creeds.
 
 However, the Bible records:
 
@@ -307,7 +307,7 @@ God gave His ***beloved*** Son for the world's salvation (John 3:16-17). Jesus t
 
 James 1:13 says that God cannot be tempted by evil, yet Jesus was tempted (Hebrews 4:15). Matthew 4:1-10 and Mark 1:12-13 portray Jesus being tested in hunger, trust, loyalty, and the path to kingship.
 
-Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](temptations.md).
+Matthew 4:1-10 and Luke 4:1-12 describes how [the devil tempted Jesus](son-of-man/temptations.md).
 
 In short the devil was basically saying:
 

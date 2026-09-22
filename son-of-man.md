@@ -5,7 +5,7 @@ keywords: Son of Man, Messiah, Genesis 3:15, Jesus humanity, Son of God, Adam ty
 
 # The Son Of Man
 
-I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *[God incarnated as a man](son-of-man/human.md)* or *[the human part of God](son-of-man/human.md)*. But then the [Unitarians](unitarianism.md) may point out:
+I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *[God incarnated as a man](son-of-man/human.md)* or *[the human part of God](son-of-man/human.md)*. But then the [Unitarians](shema/unitarianism.md) may point out:
 
 > "**God is not a man**, that He should lie, **nor a son of man**, that He should repent. — Numbers 23:19 (NKJV)
 

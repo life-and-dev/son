@@ -274,7 +274,7 @@ This declaration reinforces the principle that worship is to be directed to God 
 
 ## Critiques
 
-Some argue that Jesus's interactions with God were a result of "kenosis," a theological concept where Jesus voluntarily emptied himself of his divine attributes to become fully human. According to this view, Jesus's prayers and expressions of dependence on God were a reflection of his human nature, not a denial of his divine nature. However, the Bible does not explicitly teach this doctrine, and it raises further questions. For example, if Jesus was still fully God, [how could he be tempted?](../temptations.md)
+Some argue that Jesus's interactions with God were a result of "kenosis," a theological concept where Jesus voluntarily emptied himself of his divine attributes to become fully human. According to this view, Jesus's prayers and expressions of dependence on God were a reflection of his human nature, not a denial of his divine nature. However, the Bible does not explicitly teach this doctrine, and it raises further questions. For example, if Jesus was still fully God, [how could he be tempted?](temptations.md)
 
 Others argue that Jesus's interactions with God were merely examples for his disciples. However, if these interactions were not genuine, one would expect the apostles to have clarified this in their writings. Without such clarification, their accounts must be taken as literal witness testimonies.
 
