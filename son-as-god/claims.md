@@ -5,18 +5,18 @@ keywords: divine, divinity, Jesus is God
 
 # Did Jesus Claim To Be Divine?
 
-* [Did Jesus claim to be the "I AM"](claims/i-am.md)
+* [Did Jesus claim to be the "I AM"?](claims/i-am.md)
 * [Did Jesus claim to be omnipresent?](claims/omnipresent.md)
-* [Did Jesus claim to have 2 natures](../nature.md)?
+* [Did Jesus claim to have 2 natures?](../nature.md)?
   * [The Son of God](../index.md)
   * [The Son of Man](../son-of-man.md)
+* [Did Jesus claims to be good?](claims/good.md)
 
 ## Other Authoritative Claims of Jesus
 
 * [Jesus claims to be one with the Father](claims/1-with-father.md)
 * [Jesus claims to forgave sin against God](claim/forgiveness.md)
 * [Jesus claims to be glorified](claims/glory.md)
-* [Jesus claims to be good](claims/good.md)
 * [Jesus claims to be in His disciples](claims/in-god.md)
 * [Jesus claims to be the life](claims/life.md)
 * [Jesus claims to be the light](claims/light.md)
