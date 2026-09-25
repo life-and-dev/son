@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="diagram-title diagram-description">
+  <title id="diagram-title">Partialism analogy: cutaway egg</title>
+  <desc id="diagram-description">An illustrative cutaway egg labels its shell Father, its white Son, and its yolk Holy Spirit. A message states that Father plus Son plus Holy Spirit equals composite God, representing a constituent-parts model.</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .panel { fill: #f8fafc; stroke: #cbd5e1; }
+    .ink { fill: #172033; }
+    .muted { fill: #4b5b73; }
+    .line { fill: none; stroke: #607089; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .shell { fill: #d7b57a; stroke: #6d4f28; stroke-width: 5; stroke-linejoin: round; }
+    .white { fill: #fffdf6; stroke: #a4a098; stroke-width: 4; stroke-linejoin: round; }
+    .yolk { fill: #f5a623; stroke: #9b5313; stroke-width: 5; }
+    .label { fill: #ffffff; stroke: #cbd5e1; stroke-width: 2; }
+    .label-shell { fill: #fff9ed; stroke: #a87636; stroke-width: 2; }
+    .label-white { fill: #ffffff; stroke: #8f9399; stroke-width: 2; }
+    .label-yolk { fill: #fff7e5; stroke: #c87816; stroke-width: 2; }
+    text { font-family: sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .panel { fill: #172033; stroke: #526176; }
+      .ink { fill: #f1f5f9; }
+      .muted { fill: #c4d0df; }
+      .line { stroke: #c4d0df; }
+      .label { fill: #202b40; stroke: #66758a; }
+      .label-shell { fill: #382c1e; stroke: #d7b57a; }
+      .label-white { fill: #263244; stroke: #c5cad1; }
+      .label-yolk { fill: #422f17; stroke: #f5b644; }
+    }
+  </style>
+
+  <rect class="panel" x="20" y="20" width="860" height="680" rx="24"/>
+  <rect x="60" y="56" width="244" height="42" rx="21" fill="#933c24"/>
+  <text x="182" y="83" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Partialism analogy</text>
+  <text class="ink" x="60" y="140" font-size="30" font-weight="700">A cutaway egg as a constituent-parts model</text>
+  <text class="muted" x="60" y="170" font-size="18">Illustrative assignments only; the parts can be assigned differently.</text>
+
+  <g aria-label="Cutaway egg with shell, white, and yolk">
+    <path class="shell" d="M157 500 C113 424 132 322 181 241 C223 172 292 193 331 267 C375 349 382 436 332 501 C291 554 201 554 157 500 Z"/>
+    <path class="white" d="M178 485 C147 421 166 336 207 266 C233 222 277 219 303 268 C342 341 349 419 310 476 C280 521 207 526 178 485 Z"/>
+    <ellipse class="yolk" cx="258" cy="390" rx="59" ry="63"/>
+    <path d="M164 384 C149 342 160 296 188 252" fill="none" stroke="#f2d8a4" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+    <ellipse cx="238" cy="365" rx="16" ry="20" fill="#ffd77a" opacity=".85"/>
+  </g>
+
+  <path class="line" d="M158 286 H452 V274"/>
+  <circle cx="158" cy="286" r="6" fill="#6d4f28"/>
+  <rect class="label-shell" x="470" y="232" width="350" height="84" rx="12"/>
+  <text class="ink" x="494" y="265" font-size="22" font-weight="700">Father</text>
+  <text class="muted" x="494" y="291" font-size="18">shell</text>
+
+  <path class="line" d="M337 350 H428 V382 H452"/>
+  <circle cx="337" cy="350" r="6" fill="#8f9399"/>
+  <rect class="label-white" x="470" y="340" width="350" height="84" rx="12"/>
+  <text class="ink" x="494" y="373" font-size="22" font-weight="700">Son</text>
+  <text class="muted" x="494" y="399" font-size="18">white</text>
+
+  <path class="line" d="M317 421 H452 V490"/>
+  <circle cx="317" cy="421" r="6" fill="#9b5313"/>
+  <rect class="label-yolk" x="470" y="448" width="350" height="84" rx="12"/>
+  <text class="ink" x="494" y="481" font-size="22" font-weight="700">Holy Spirit</text>
+  <text class="muted" x="494" y="507" font-size="18">yolk</text>
+
+  <line x1="60" y1="578" x2="840" y2="578" stroke="#cbd5e1" stroke-width="2"/>
+  <text class="ink" x="450" y="626" font-size="24" font-weight="700" text-anchor="middle">Father + Son + Holy Spirit = composite God</text>
+  <text class="muted" x="450" y="658" font-size="17" text-anchor="middle">Diagram represents a constituent-parts claim.</text>
+</svg>
