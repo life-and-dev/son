@@ -27,7 +27,7 @@ The LORD says, “before me no **god** was formed, nor shall there be any after 
 
 ### New Testament
 
-First Corinthians 11:3 says “the **head** of Christ is God.” Jesus says, “the Father is **greater** than I” in John 14:28 and calls the Father “the only true **God**” in John 17:3. These passages establish a biblical authority relationship. Acts 2:22 calls Jesus “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” This accords with [Jesus' humanity](../../son-of-man/human.md).
+First Corinthians 11:3 says “the **head** of Christ is God.” Jesus says, “the Father is **greater** than I” in John 14:28 and calls the Father “the only true **God**” in John 17:3. These passages establish a biblical authority relationship. Acts 2:22 calls Jesus “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” This accords with [Jesus' humanity](son-of-man/human.md).
 
 None of those texts alone decides whether Jesus existed before his birth. A critique should not use authority as a shortcut to deny every pre-existence claim, nor use pre-existence, if argued elsewhere, as proof that Jesus is the Almighty. Those are separate inferences.
 

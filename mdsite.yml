@@ -50,9 +50,15 @@ menu:
     - ===
     - why
   - word
-  - Doctrines: ===
+  - Models of God: ===
+  - shema:
+    - jesus-today
+    - unitarianism
+  - modalism
+  - partialism
   - trinity:
-    - development
+    - development:
+      - modalism
     - witnesses
     - godhead
     - jesus-relationships
@@ -66,9 +72,6 @@ menu:
     - The Father: /shema
     - The Son: /nature
     - holy-spirit
-  - shema:
-    - jesus-today
-    - unitarianism
 site:
   canonical: https://son.ofgod.info
   favicon: logo.svg

@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" role="img" aria-labelledby="partialism-title partialism-desc">
-
-  <title id="partialism-title">Partialism: three parts of one God</title>
-  <desc id="partialism-desc">
-    One circle represents the whole God. Three joined regions represent
-    the Father, Son, and Holy Spirit as constituent parts of that whole,
-    rather than each being the whole God. Region sizes are schematic
-    and do not assert numerical proportions.
-  </desc>
-
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#17212b">
     <!-- Three adjoining regions fill one continuous circle. -->
     <path d="M 320 270              L 320 110              A 160 160 0 0 1 458.564 350 Z" fill="#dbeafe"/>
