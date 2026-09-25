@@ -191,6 +191,18 @@ The author mentions:
 
 > Now may the **God of peace** who brought again from the dead **our Lord Jesus, the great shepherd** of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do His will, working in us that which is pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. — Hebrews 13:20-21 (ESV)
 
+## Subjection
+
+After his resurrection, Jesus says:
+
+> “I am ascending to my Father and your Father, to **my God** and your God.” — John 20:17 (ESV)
+
+Peter says that God raised Jesus and exalted him to His right hand (Acts 2:32–35). He then concludes, “God has **made him** both Lord and Christ” (Acts 2:36, ESV). Peter connects this exaltation with Psalm 110:1, which he applies to Jesus (Acts 2:34–35). This presents Jesus’ authority as granted by God, Who raised and exalted him.
+
+Paul likewise says that the Father is excepted from the things placed under the Son and that **“the Son himself”** will be subjected to the Father (1 Corinthians 15:27–28). See the fuller apostolic argument in [Did the Apostles Believe in the Trinity?](trinity/witnesses.md#did-the-apostles-believe-in-the-trinity).
+
+This does not describe coequal Trinity members.
+
 ## The Effects of Faith in the Trinity
 
 | Triune God                                                                                                                                          | Single God                                                                                                                                                               |

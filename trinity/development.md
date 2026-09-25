@@ -102,7 +102,7 @@ graph TD
 
 ## Modalism
 
-In the late 2nd century, Noetus is often recognized as the first to openly preach Modalism.
+In the late 2nd century, Noetus is often recognized as the first to openly preach [Modalism](../modalism.md).
 
 Praxeas brought these ideas to Rome and North Africa. He famously drew the ire of Tertullian, who wrote a massive treatise against him (Adversus Praxean). Tertullian famously mocked Praxeas’s strict stance by writing that Praxeas "did two works for the devil in Rome: he drove out prophecy and he brought in heresy; he put to flight the Paraclete *[Holy Spirit]* and he crucified the Father."
 
@@ -128,16 +128,22 @@ According to Modalism, the *Father is His own son!*
 
 Modalism fails when Daniel (Daniel 7:14), Stephen (Acts 7:55-56), and John (Revelation 4:2 and 5:2-6) saw [Jesus as a distinct person from God](../son-of-man/distinct.md).
 
-## Subordinationism
+## Trinitas
 
-Although the Trinity concept was developed by this time, Tertullian was the first Christian author to use the Latin term ***"Trinitas"*** translated as "Trinity" in the 3rd century.
+Although the Trinity concept was developed by this time, Tertullian was the first Christian author to use the Latin term ***"[Trinitas](https://www.newadvent.org/fathers/0317.htm)"*** translated as "Trinity" in the 3rd century.
 
-However, Tertullian's version of the Trinity was different. According to him, God is 1 substance, but 3 distinct persons.
+However, Tertullian's version of the Trinity was different. According to him, God is 1 substance which is made up from 3 "persons" like the modern Trinity model, except that he claimed they had unequal order of origin.
 
-It is often compared with a tree:
+However, [Tertullian's version](https://www.newadvent.org/fathers/0317.htm) of the Trinity was different. Although Tertullian spoke of one God, one substance, and three distinct persons, unlike later [Nicene formulations](#nicene-creed), he called:
 
-* The Father is like the roots (origin)
-* The Son is like the branches (what we see)
+1. The Father “the entire substance” and greater than the Son.
+2. Described the Son as “a derivation and portion of the whole”.
+3. Placed the Spirit third in order.
+
+Tertullian compares:
+
+* The Father is like the roots
+* The Son is like the shoot (what we see)
 * The Spirit is like the fruit (what we enjoy)
 * Yet all 3 components are 1 tree
 
@@ -145,26 +151,36 @@ Another popular example is:
 
 * The Father is like the sun (energy source)
 * The Son is like the rays (what we see)
-* The Spirit is like the warmth (what we feel)
+* The Spirit is like ray point (warmth we feel)
 * Yet all 3 components are considered sunlight
 
-In the simplest terms, according to Subordinationism, the Father, Son, and Spirit are different parts of the same God.
+Although Tertullian was technically not a Partialist, his language may resemble [partialism](../partialism.md).
 
 ![Diagram of parts of God](development.partialism.svg)
+
+## Subordinationism
+
+Subordinationism is a broad term for views in which the Son is subordinate to the Father. The claimed difference may concern authority, origin, or nature.
 
 This theology influenced Origen of Alexandria, who laid massive structural foundations for Christian theology.
 
 For example ["On Prayer" (De Oratione)](https://ccel.org/ccel/origen/prayer/prayer) in Chapter XV (15), Section 1–4, Origen systematically **argues against praying directly to the Son or the Holy Spirit as distinct final recipients**, maintaining instead that the ultimate object of worship and prayer must be God the Father alone (Case, 2006). However, because of the distinct roles within the Trinity, this prayer is offered by means of **the mediation of the Son** and is **empowered within the context of the Holy Spirit** (Rambo, n.d.).
 
-However, the Subordinationist theology fails because it leads to a chain of command:
+However, the Subordinationist theology fails the [Nicene formula](#nicene-creed) because it leads to a chain of command:
 
-* The Father is the most important authority
-* The Son has lesser authority
-* The Spirit has the least authority
+1. The Father is the most important authority
+2. The Son has lesser authority
+3. The Spirit has the least authority
 
-This subordination clashes with the modern Trinity theology that *all are equal*!
+```mermaid
+graph TD
+    subgraph God["God"]
+        Father(((The Father)))
+    end
+    Father --> Son((The Son)) --> Spirit((The Spirit))
+```
 
-## Arianism
+### Arianism
 
 In 318 AD, Arius from Alexandria began preaching [his theology](https://www.britannica.com/topic/Arianism) that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This challenged the [Subordinationism view](#subordinationism) that Jesus is God and split the church, resulting in [Arianism](https://en.wikipedia.org/wiki/Arianism).
 
