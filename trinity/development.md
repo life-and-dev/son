@@ -150,13 +150,7 @@ Another popular example is:
 
 In the simplest terms, according to Subordinationism, the Father, Son, and Spirit are different parts of the same God.
 
-```mermaid
-quadrantChart
-    title God
-    quadrant-1 Father
-    quadrant-2 Son
-    quadrant-3 Spirit
-```
+![Diagram of parts of God](development.partialism.svg)
 
 This theology influenced Origen of Alexandria, who laid massive structural foundations for Christian theology.
 
