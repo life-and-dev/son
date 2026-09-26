@@ -175,9 +175,9 @@ However, the Subordinationist theology fails the [Nicene formula](#nicene-creed)
 ```mermaid
 graph TD
     subgraph God["God"]
-        Father(((The Father)))
+        Father((("The Father\n(highest authority)")))
     end
-    Father --> Son((The Son)) --> Spirit((The Spirit))
+    Father --> Son(("The Son\n(subordinate)")) --> Spirit(("The Spirit\n(?)"))
 ```
 
 ### Arianism

@@ -106,27 +106,41 @@ A believer who prays only to the Father is not a second-class believer. That pra
 
 ## How a Human Jesus Could Receive Prayers
 
-Scripture does not explain exactly how one human Jesus could receive prayers from many people. It does show that the risen Jesus is no ordinary mortal. He is a glorified human in heaven at the Father's right hand. Death no longer has dominion over him (Romans 6:9), and he has power to transform believers' bodies to be like his glorious body (Philippians 3:20-21). These truths are summarised in [Jesus' present state](jesus-today.md#what-is-jesus-current-state) and [his immortality](jesus-today.md#immortality-of-jesus).
+Scripture does not explain exactly how one human Jesus could receive prayers from many people. It does show that the risen Jesus is [no ordinary mortal](jesus-today.md#immortality-of-jesus):
 
-Glory and immortality do not mean that Jesus independently knows everything or is present everywhere. The Father gave the Son life in himself and authority to judge, while Jesus acts in dependence on the Father (John 5:19,26-30). Solomon says that God alone knows every human heart (1 Kings 8:39). The question is therefore what the Father enables Jesus to know and do.
+* He is a [glorified](https://word.ofgod.info/terms/glory) [human](../son-of-man/human.md) in [heaven](https://word.ofgod.info/terms/heaven) at the Father's right hand (Acts 2:33; Romans 8:34).
+* Death no longer has dominion over him (Romans 6:9)
+* He has power to transform believers' bodies to be like his glorious body (Philippians 3:20-21).
+
+Glory and immortality do not mean that Jesus independently knows everything or is present everywhere. The Father gave the Son life in himself and authority to judge, while Jesus acts in dependence on the Father (John 5:19,26-30).
+
+Solomon says that God alone knows every human heart (1 Kings 8:39):
+
+> “If there is famine in the land, if there is pestilence or blight or mildew or locust or caterpillar, if their enemy besieges them in the land at their gates, whatever plague, whatever sickness there is, whatever prayer, whatever plea is made by any man or by all your people Israel, each knowing the affliction of his own heart and stretching out his hands toward this house, then hear in heaven your dwelling place and [forgive](https://word.ofgod.info/terms/forgiveness) and act and render to each whose heart you know, according to all his ways (for You, **You only, know the hearts of all the children of mankind**), that they may fear You all the days that they live in the land that You gave to our fathers. — 1 Kings 8:37-40 (ESV)
+
+The question is therefore what the Father enables Jesus to know and do.
 
 ### Authority Does Not Explain Ability
 
-Jesus' authority gives him the right to rule, but authority alone does not explain how he receives information or carries out every task. A king's authority does not itself tell him what is happening throughout his kingdom. This distinction is explained further in [authority and capability](jesus-today.md#authority-is-not-automatically-capability).
+Jesus' authority gives him the right to rule, but authority alone does not explain how he receives information or carries out every task. [A king's authority does not itself tell him what is happening throughout his kingdom.](jesus-today.md#authority-is-not-automatically-capability)
 
-Scripture does show Jesus acting with power and knowledge from the Father. At Pentecost, the exalted Jesus receives the promised Spirit from the Father and pours it out (Acts 2:33). In Acts 9:11, the risen Jesus knows that Saul is praying. The verse does not say whom Saul is addressing, what he says, or how Jesus knows. Romans 8:34 shows Christ at God's right hand interceding for believers. These passages establish an active heavenly ministry, but not independent knowledge of everything.
+Revelation 1:1 says that God gave Jesus a revelation, showing that Jesus is not omniscient, but that God make information known to him.
 
-Revelation adds supporting evidence. Revelation 1:1 says that God gave Jesus a revelation, showing God making information known to him. Revelation 2:23 presents Jesus as searching minds and hearts. These passages support extraordinary knowledge, but they do not explain how Jesus receives prayers. Mark 13:32 records a limit during Jesus' earthly life, but that verse alone cannot define every present ability of the glorified Messiah.
+Revelation 2:23 presents Jesus as searching minds and hearts.
+
+> All the churches will know that I am he **who searches mind and heart**, and I will give to each of you according to your works. — Revelation 2:23 (ESV)
+
+These passages support extraordinary knowledge, but they do not explain how Jesus receives prayers. Mark 13:32 records a limit during Jesus' earthly life, but that verse alone cannot define every present ability of the glorified Messiah.
 
 When Scripture says Jesus is “with” believers, it need not mean that his body is present in every place. His presence may be experienced through his authority, action, representatives, or the Spirit's work. [“With you” and physical proximity](jesus-today.md#with-you-does-not-specify-physical-proximity) examines this distinction. The Father and Son remain distinct when believers experience their help.
 
 ### Billions of Silent and Simultaneous Prayers
 
-The Bible does not say how Jesus could receive silent or simultaneous prayers from billions of people. “Billions” describes a possible scale, not a measured number of prayers. An ordinary unaided human should not simply be assumed able to receive them all.
+The Bible does not say how Jesus could receive silent or simultaneous prayers from billions of people.
 
-The evidence and the unknowns must remain distinct. Acts records Stephen asking Jesus directly, and the supported reading of John 14:14 also names Jesus as the recipient. Other New Testament passages add qualified support. Scripture also shows Jesus acting with power and knowledge received from the Father. It is therefore reasonable to think that the Father could give Jesus the awareness needed for his work. Scripture does not say whether Jesus receives every request or how any such communication works.
+Acts records Stephen asking Jesus directly, and the supported reading of John 14:14 also names Jesus as the recipient. Other New Testament passages add qualified support. Scripture also shows Jesus acting with power and knowledge received from the Father. It is therefore reasonable to think that the Father could give Jesus the awareness needed for his work. Scripture does not say whether Jesus receives every request or how any such communication works.
 
-*A possible explanation (not a fact): The Father knows human hearts and could make relevant requests known to Jesus with their personal details. God could enable Jesus to handle more than ordinary human thought allows without making him independently all-knowing.*
+*A possible explanation (not a fact): The Father knows human hearts and could make relevant requests known to Jesus with their personal details or provide aggregated data when prayers agree. God could enable Jesus to handle more than ordinary human thought allows without making him independently all-knowing.*
 
 Hearing a request also does not mean granting it. Prayer depends on God's will, not a promise of an immediate miracle (1 John 5:14). Jesus also connects answered requests with remaining in him and keeping his words (John 15:7). God is not required to grant every wish.
 
@@ -144,7 +158,7 @@ The Father and Son remain distinct within this shared life. Jesus says that the 
 
 ### Shared life and community
 
-Fellowship with Jesus includes shared life with other believers and obedience to his teaching. The bread and cup are participation in Christ, and those who share one bread form one body (1 Corinthians 10:16-17). First Corinthians 12 describes believers as different members who use their gifts to care for one another. The church does not replace Jesus or become another mediator. [Christ remains the head](jesus-today.md#christ-remains-the-head), while the community carries out his care.
+Fellowship with Jesus includes shared life with other believers and obedience to his teaching; walking in the light makes this shared life visible (1 John 1:3–7; 2:3–6). The bread and cup are participation in Christ, and those who share one bread form one body (1 Corinthians 10:16–17). [Christ’s body](../../kingdom/christ/body.md) has different members who use their gifts to care for one another (1 Corinthians 12). The church does not replace Jesus or become another mediator. [Christ remains the head](jesus-today.md#christ-remains-the-head), while the community carries out his care. This fellowship does not require hearing a private voice or making every prayer a direct address to Jesus; see [Fellowship](../word/terms/fellowship.draft.md) for the word study.
 
 A person who prays only to the Father can therefore have full fellowship with Jesus. Fellowship includes trusting the Messiah, receiving his teaching, sharing his table, loving his people, and depending on his living rule. It is broader than direct prayer to him.
 
@@ -152,7 +166,7 @@ Obeying Jesus also expresses loyalty to the Father who sent him. Jesus speaks wi
 
 ### Being Known by Jesus
 
-Matthew 7 warns about faithfulness, not about whether a believer has heard Jesus speak privately. In verse 22, people claim to have prophesied, cast out demons, and done mighty works in Jesus' name. The text does not say that they had already entered the kingdom, that Jesus approved all their deeds, or whether every claimed miracle was genuine. Their impressive religious claims are not enough to prove that the Father approves them. This does not make good deeds worthless.
+Matthew 7 **warns about faithfulness**, *not about whether a believer has heard Jesus speak privately*. In verse 22, people claim to have prophesied, cast out demons, and done mighty works in Jesus' name. The text does not say that they had already entered the kingdom, that Jesus approved all their deeds, or whether every claimed miracle was genuine. Their impressive religious claims are not enough to prove that the Father approves them. This does not make good deeds worthless.
 
 Jesus answers:
 

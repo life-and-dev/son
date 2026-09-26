@@ -63,6 +63,10 @@ What the disciples more likely meant was that unlike any previous prophets, they
 
 "Know all things" is not an omniscient statement. They more likely meant that in the context of what they were discussing, Jesus knew all things about that specific subject.
 
+Revelation 1:1 says that God gave Jesus a **revelation**, showing that Jesus is not omniscient:
+
+> The **revelation of Jesus Christ**, which **God gave him** to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John... — Revelation 1:1 (ESV)
+
 ## Jesus Is Teachable
 
 God is not teachable.
@@ -71,8 +75,8 @@ God is not teachable.
 
 And Paul quotes:
 
-> Who has measured the Spirit of the LORD, or what man shows him his counsel?
-> Whom did he consult, and who made him understand?
+> Who has measured the Spirit of the LORD, or what man shows him his counsel?  
+> Whom did he consult, and who made him understand?  
 > Who taught him the path of justice, and taught him knowledge, and showed him the way of understanding?
 >
 > — Isaiah 40:13-14 (ESV)
