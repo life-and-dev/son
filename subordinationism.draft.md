@@ -9,12 +9,14 @@ This draft expands the [development overview](../development.md). Subordinationi
 
 ## Definition
 
-The term can describe rank, origin, function, or nature. Tertullian's [*Against Praxeas* 8–9](https://www.newadvent.org/fathers/0317.htm) uses derivation and portion imagery while arguing for distinction without separation. In [“The Recipient of Prayer in Its Four Moods”](https://ccel.org/ccel/origen/prayer.xi.html), Origen says that prayer strictly speaking is offered to the Father through Christ as High Priest: *“we may not ever pray to any begotten being, not even to Christ himself, but only to the God and Father of All.”* His surrounding distinctions allow requests and intercessions to be addressed to Christ, so this is not a universal ban on addressing Jesus. These passages answer different questions and cannot establish one uniform historical doctrine. Subordinationism is also not partialism: rank between agents does not mean that they are pieces of one whole.
+The term can describe rank, origin, function, or nature. Tertullian's [*Against Praxeas* 8–9](https://www.newadvent.org/fathers/0317.htm) uses derivation and portion imagery while arguing for distinction without separation. In [“The Recipient of Prayer in Its Four Moods”](https://ccel.org/ccel/origen/prayer.xi.html), Origen says that prayer strictly speaking is offered to the Father through Christ as High Priest: *“we may not ever pray to any begotten being, not even to Christ himself, but only to the God and Father of All.”* His surrounding distinctions allow requests and intercessions to be addressed to Christ, so this is not a universal ban on addressing Jesus. These passages answer different questions and cannot establish one uniform historical doctrine. Subordinationism is also not [partialism](partialism.md). The rank between agents does not mean that they are pieces of one whole.
 
 ```mermaid
-flowchart TD
-    F[Father: source and highest authority] --> S[Son: subordinate in rank, origin, function, or nature]
-    F --> H[Spirit: relation varies by model]
+graph TD
+    subgraph God["God"]
+        Father((("The Father\n(highest authority)")))
+    end
+    Father --> Son(("The Son\n(subordinate)")) --> Spirit(("The Spirit\n(?)"))
 ```
 
 The category remains broad because the arrow may represent authority only, origin, or an asserted inequality of being.
@@ -28,8 +30,6 @@ The LORD says, “before me no **god** was formed, nor shall there be any after 
 ### New Testament
 
 First Corinthians 11:3 says “the **head** of Christ is God.” Jesus says, “the Father is **greater** than I” in John 14:28 and calls the Father “the only true **God**” in John 17:3. These passages establish a biblical authority relationship. Acts 2:22 calls Jesus “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” This accords with [Jesus' humanity](son-of-man/human.md).
-
-None of those texts alone decides whether Jesus existed before his birth. A critique should not use authority as a shortcut to deny every pre-existence claim, nor use pre-existence, if argued elsewhere, as proof that Jesus is the Almighty. Those are separate inferences.
 
 ## Premises and Inferences
 
