@@ -49,6 +49,12 @@ The name "Jesus" means nothing. It is just a transliteration attempt of Yeshua.
 
 However, Yeshua from the Hebrew root יֵשׁוּעַ means [**"Yahweh saves"** or **"Yahweh is salvation"**](https://biblehub.com/q/what_does_the_name_jesus_mean.htm).
 
+### In the name of Jesus
+
+To act “in the name of Jesus” is to [act under his authority](https://word.ofgod.info/terms/name), not to use a phrase as a magic formula. Asked, “By what **power** or by what **name** did you do this?”, Peter attributed the healing to “the **name of Jesus Christ of Nazareth**” (Acts 4:7–10). Jesus likewise said, “I have come in my **Father’s name**” (John 5:43). The phrase concerns authority and representation; see the study of [name](../word/terms/name.md).
+
+In prayer, Jesus told his disciples to ask the Father “in my **name**” (John 16:23–27). The believers’ prayer to God in Acts 4:24–30 likewise sought help to carry out Jesus’ commission. These examples show Father-directed prayer under Jesus’ authority, not a requirement to pronounce a particular name.
+
 ## The origin of the name "Christ"
 
 > Messiah comes from the Hebrew word mashiach and means “anointed one” or “chosen one.” The Greek equivalent is the word Christos or, in English, Christ. The name “Jesus Christ” is the same as “Jesus the Messiah.” In biblical times, anointing someone with oil was a sign that God was consecrating or setting apart that person for a particular role. Thus, an “anointed one” was someone with a special, God-ordained purpose.

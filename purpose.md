@@ -17,10 +17,10 @@ This love is the demonstration of who Jesus is:
 
 Therefore...
 
-> Jesus said to him, 
-> 
+> Jesus said to him,
+>
 > "I am [the way](#the-way), and [the truth](#the-truth), and [the life](#the-life). No one comes to the Father except through me."
-> 
+>
 > — John 14:6 (ESV)
 
 ## The Way
@@ -35,10 +35,10 @@ Jesus was not intended to be the final destination, but instead he is "the way" 
 
 and
 
-> For through him *(Jesus)* we both have access in one Spirit to the Father. 
-> 
+> For through him *(Jesus)* we both have access in one Spirit to the Father.
+>
 > So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God.
-> 
+>
 > — Ephesians 2:18-19 (ESV)
 
 Peter said:
@@ -62,9 +62,9 @@ Jesus came to bear witness to the truth and to reveal the kingdom of God. This s
 This was Nicodemus' witness:
 
 > Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. This man came to Jesus by night and said to him,
-> 
+>
 > "Rabbi, **we know that you are a teacher come from God**, for no one can do these signs that you do unless God is with him."
-> 
+>
 > — John 3:1-2 (ESV)
 
 This was also confirmed by Paul:
@@ -72,7 +72,7 @@ This was also confirmed by Paul:
 > To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of [Christ](https://kingdom.ofgod.info/christ), and **to bring to light for everyone what is the plan of the mystery hidden for ages in God** Who created all things, so that **through the church the manifold wisdom of God might now be made known** to the rulers and authorities in the heavenly places.
 >
 > **This was according to the eternal purpose that He has realized in Christ Jesus our Lord**, in whom we have boldness and access with confidence through our faith in him.
-> 
+>
 > — Ephesians 3:8-12 (ESV)
 
 And the author of Hebrews:
@@ -107,26 +107,26 @@ As an adult, Jesus reiterated his purpose:
 
 > Jesus said to her, "**I am the resurrection and the life**. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?" — John 11:25-26 (ESV)
 
-> Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit. Whoever loves his life loses it, and **whoever hates his life in this world will keep it for eternal life**. If anyone serves me, he must follow me; and **where I am, there will my servant be also**. If anyone serves me, the Father will honor him. 
-> 
-> Now is my soul troubled. And what shall I say? 'Father, save me from this hour'? 
-> 
-> But **for this purpose I have come to this hour. Father, glorify Your name**." 
-> 
-> Then a voice came from heaven: "I have [glorified](https://word.ofgod.info/terms/glory) it, and I will [glorify](https://word.ofgod.info/terms/glory) it again." 
-> 
-> The crowd that stood there and heard it said that it had thundered. 
-> 
-> Others said, "An angel has spoken to him." 
-> 
-> Jesus answered, "This voice has come for your sake, not mine. Now is the judgment of this world; now will the ruler of this world be cast out. And I, **when I am lifted up from the earth, will draw all people to myself**." 
-> 
-> He said this to show by what kind of death he was going to die. 
-> 
-> So the crowd answered him, "We have heard from the Law that the Christ remains forever. How can you say that [the Son of Man](son-of-man.md) must be lifted up? [Who is this Son of Man?](son-of-man.md)" 
-> 
+> Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit. Whoever loves his life loses it, and **whoever hates his life in this world will keep it for eternal life**. If anyone serves me, he must follow me; and **where I am, there will my servant be also**. If anyone serves me, the Father will honor him.
+>
+> Now is my soul troubled. And what shall I say? 'Father, save me from this hour'?
+>
+> But **for this purpose I have come to this hour. Father, glorify Your name**."
+>
+> Then a voice came from heaven: "I have [glorified](https://word.ofgod.info/terms/glory) it, and I will [glorify](https://word.ofgod.info/terms/glory) it again."
+>
+> The crowd that stood there and heard it said that it had thundered.
+>
+> Others said, "An angel has spoken to him."
+>
+> Jesus answered, "This voice has come for your sake, not mine. Now is the judgment of this world; now will the ruler of this world be cast out. And I, **when I am lifted up from the earth, will draw all people to myself**."
+>
+> He said this to show by what kind of death he was going to die.
+>
+> So the crowd answered him, "We have heard from the Law that the Christ remains forever. How can you say that [the Son of Man](son-of-man.md) must be lifted up? [Who is this Son of Man?](son-of-man.md)"
+>
 > So Jesus said to them, "[The light](https://kingdom.ofgod.info/light) is among you for a little while longer. Walk while you have the light, lest darkness overtake you. The one who walks in the darkness does not know where he is going. While you have the light, **believe in the light, that you may become [sons of light](https://kingdom.ofgod.info/light)**."
-> 
+>
 > — John 12:24-36 (ESV)
 
 Good deeds cannot save:
