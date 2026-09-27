@@ -11,11 +11,11 @@ Prayer, asking Jesus for help, and fellowship are related, but they are not iden
 
 The clear New Testament pattern is **prayer to the Father**. Jesus tells disciples to pray privately to “your Father” and begins his model prayer, “Our Father in heaven” (Matthew 6:6-9). In John 16:23-27, he tells them to ask the Father in his name. The church follows this pattern in Acts 4:24-30. Believers address the Sovereign Lord and Creator, call Jesus God's holy servant, and ask God to act through Jesus' name.
 
-Prayer in [Jesus' name](../name.md) is not a magic closing phrase. It means approaching the Father in loyalty to Jesus, under his authority, and in keeping with his mission. Every believer can confidently follow this pattern without addressing Jesus directly.
+Prayer in [Jesus' name](../name.md#in-the-name-of-jesus) is not a magic closing phrase. It means approaching the Father in loyalty to Jesus, under his authority, and in keeping with his mission. Every believer can confidently follow this pattern without addressing Jesus directly.
 
 ### The Father-Only Objection
 
-Jesus clearly taught his disciples to pray to the Father. The remaining question is whether believers may also appeal directly to Jesus. That question must be answered from passages that describe or support such appeals.
+Jesus clearly taught his disciples to **pray to the Father**. The remaining question is whether believers may also appeal directly to Jesus. That question must be answered from passages that describe or support such appeals.
 
 The strongest objection is that [worship](https://word.ofgod.info/terms/worship) and religious service belong to God alone. Deuteronomy 6:13 commands Israel to fear and serve the LORD. Jesus applies that command when refusing Satan:
 
@@ -31,33 +31,34 @@ Stephen truly asks the risen Jesus to receive his spirit, although he does so wh
 
 > “Lord **Jesus**, receive my spirit.” — Acts 7:59 (ESV)
 
-This is more than ordinary conversation. Stephen entrusts his life to the heavenly Lord Jesus at the point of death. The vision does not stop his words from being a real prayer to Jesus.
+However, this is not a usual prayer. Stephen made his request while seeing a vision. Some interpret his words as a real prayer to Jesus.
 
-The setting still limits what this example proves. Stephen can see the one he addresses, Acts records no reply, and the passage does not command every believer to pray this way. His example supports the conclusion that such an appeal can be appropriate, but one vision cannot establish the normal pattern for every prayer.
+The setting still limits what this example proves. Stephen can see the one he addresses in a vision. No passage commands every believer to pray this way. His example supports the conclusion that such an appeal can be appropriate, but one vision cannot establish the normal pattern for every prayer.
 
 ### Calling Upon the Name of Jesus
 
 1 Corinthians 1:2 describes a widespread practice centred on calling upon Jesus' name. By itself, however, it does not settle whether believers addressed their requests to Jesus or to God through Jesus' authority.
 
-> To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place **call upon [the name](../name.md) of our Lord Jesus Christ**, both their Lord and ours: — 1 Corinthians 1:2 (ESV)
+> To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place **call upon [the name](../name.md#calling-upon-the-name-of-the-lord) of our Lord Jesus Christ**, both their Lord and ours: — 1 Corinthians 1:2 (ESV)
 
 A name can **represent a person's identity, character, and authority**, not merely spoken syllables. Believers could therefore have called upon Jesus' name while asking God to hear them through the Lord's authority. This Father-directed reading is possible, but the verse does not prove it.
 
 The active phrase also means more than simply bearing a Christian label. Jesus remains the Lord whose name is called upon, so the authority sense does not remove him from the act or automatically make the phrase identical to praying to the Father in his name. A direct appeal to Jesus remains possible, but the verse gives no prayer wording and does not by itself establish that he received the requests. Its clear contribution is evidence of a widespread practice involving Jesus' name.
 
-John 14:14 provides explicit evidence of asking Jesus directly on the reading printed in the ESV:
+John 14:14 provides explicit evidence of asking Jesus directly:
 
 > “If you ask ***me*** anything in my name, I will do it.” — John 14:14 (ESV)
 
-On this reading, “ask me” identifies Jesus as the recipient, and “I will do it” promises his action. Even if “name” includes authority, it does not redirect “ask me” to the Father. John 14:12 connects the promise with Jesus going to the Father, so the request is not restricted to a physical conversation before his departure. John 14:10,13 still keep the Father's work and glory central. Direct requests to Jesus and prayer to the Father can therefore coexist.
+On this reading, “ask me” identifies Jesus as the recipient, and “I will do it” promises his action. Even if “name” includes authority, it does not redirect “ask me” to the Father. John 14:12 connects the promise with Jesus going to the Father, so the request is not restricted to a physical conversation before his departure. John 14:10,13 still keep the Father's work and glory central.
 
-The textual variation remains important because **some manuscripts omit “me”**. The SBL Greek New Testament includes “me”, and its [SBLGNT textual notes](https://raw.githubusercontent.com/Faithlife/SBLGNT/master/data/sblgntapp/xml/John.xml) report the same reading in NA28, while Tregelles omits it. These are scholarly Greek New Testament editions, not individual manuscripts. The variation prevents claiming that every textual witness agrees, but it does not make the supported reading unusable. With “me”, the verse is positive evidence for direct requests to Jesus. Without it, the recipient is not explicit.
+> [!NOTE]
+> **Some manuscripts omit the word “me”**. The SBL Greek New Testament includes “me”, and its [SBLGNT textual notes](https://raw.githubusercontent.com/Faithlife/SBLGNT/master/data/sblgntapp/xml/John.xml) report the same reading in NA28, while Tregelles omits it. These are scholarly Greek New Testament editions, not individual manuscripts. The variation prevents claiming that every textual witness agrees, but it does not make the supported reading unusable. With “me”, the verse is positive evidence for direct requests to Jesus. Without it, the recipient is not explicit.
 
 In 2 Corinthians 12:8-9, Paul pleads three times with “the Lord”:
 
 > Three times I pleaded with **[the Lord](https://ofgod.info/name#lord)** about this, that it should leave me. But **he** said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. — 2 Corinthians 12:8-9 (ESV)
 
-Paul connects the reply with the power of Christ. This makes Jesus a natural reading of “the Lord”, but neither Paul's request nor the quoted reply explicitly names him.
+Paul connects the reply with the power of Christ. This makes Jesus a natural reading of “the Lord”, but neither Paul's request nor the quoted reply explicitly names him. Paul next describes how the preached message leads people to salvation.
 
 > But what does it say?
 >
@@ -71,8 +72,8 @@ Paul connects the reply with the power of Christ. This makes Jesus a natural rea
 >
 >> "everyone **who calls on the name of the LORD** will be saved. — Joel 2:32"
 >
-> How then will they **call on him** in whom they have not believed?  
-> And how are they to believe in him of whom they have never heard?  
+> How then will they **call on Him** in whom they have not believed?  
+> And how are they to believe in Him of whom they have never heard?  
 > And how are they to hear without someone preaching?  
 > And how are they to preach unless **they are sent**?  
 >
@@ -80,29 +81,25 @@ Paul connects the reply with the power of Christ. This makes Jesus a natural rea
 >
 > — Romans 10:8-15 (ESV)
 
-Paul speaks of confessing Jesus as Lord, believing that God raised him, and calling on the Lord for salvation. He then uses Joel 2:32, where deliverance belongs to everyone who calls on the name of the LORD. Many readers understand this as *identifying Jesus with [the LORD](https://ofgod.info/name#lord) in Joel*. That is a serious reading because Paul places confession of Jesus within an Old Testament passage about the LORD's salvation.
+Paul says people confess Jesus as Lord and believe that the Father raised him (Romans 10:9–10). He then quotes Joel's promise of salvation to everyone who calls on [the name of the LORD](https://ofgod.info/name) and asks how people can call without believing, hear without preaching, or hear unless messengers are sent (Romans 10:13–15). “Call on him” follows hearing and believing; Paul does not define it as confession rather than prayer, or prayer rather than confession. *The move from confessing Jesus to Joel's promise can be read as applying Joel's words to Jesus*, but the quotation alone does not establish that Jesus is [the LORD](https://ofgod.info/name#lord) named by Joel.
 
-### Ancestors, Enoch, and Elijah
+### Ancestors
 
-The New Testament examples about Jesus do not give believers a reason to pray to ancestors, Enoch, Elijah, or every other person believed to be in heaven. Jesus must be considered from the evidence about Jesus, not from a general rule that any living heavenly person may hear requests.
+The New Testament examples about Jesus **do not give believers a reason to pray to ancestors**. Jesus must be considered from the evidence about Jesus, not from a general rule that any living heavenly person may hear requests.
 
-The Old Testament forbids consulting the dead for supernatural guidance. Deuteronomy 18:10-12 condemns “a medium or a necromancer or one who inquires of the dead”. Isaiah contrasts consulting “the dead on behalf of the living” with seeking God and attending to his instruction (Isaiah 8:19-20). Saul is also condemned for consulting a medium instead of seeking the LORD (1 Chronicles 10:13-14).
+The Old Testament **forbids consulting the dead** for supernatural guidance. Deuteronomy 18:10-12 condemns “a medium or a necromancer or one who inquires of the dead”. Isaiah contrasts consulting “the dead on behalf of the living” with seeking God and attending to his instruction (Isaiah 8:19-20). Saul is also condemned for consulting a medium instead of seeking the LORD (1 Chronicles 10:13-14).
 
-These passages do not forbid asking another living person for help or prayer. Nor should they be used to equate every tradition of praying to saints with a séance. They do, however, warn against seeking supernatural knowledge or help from the dead instead of seeking God.
+These passages do not forbid asking another living person for help or prayer. They do warn against seeking supernatural knowledge or help from the dead instead of seeking God.
 
-Enoch and Elijah raise a different question. Genesis 5:24 says, “God took him”, and 2 Kings 2:11 says Elijah “went up by a whirlwind into heaven”. Their present location and whether they died need not be settled here. Even if both are alive, that fact gives no biblical reason to pray to them and no evidence that they hear distant, silent, or simultaneous requests.
+Enoch and Elijah raise a different question. Genesis 5:24 says, “God took him”, and 2 Kings 2:11 says Elijah “went up by a whirlwind into heaven”. Their present location and whether they died need not be settled here. Even if both are alive, that fact gives **no biblical reason to pray to them** and no evidence that they hear distant, silent, or simultaneous requests.
 
-Jesus differs for two connected reasons. God appointed him as the one mediator between God and humanity, the man Christ Jesus (1 Timothy 2:5). The New Testament records Stephen asking Jesus directly and contains other passages that support calling on him. The argument does not rest merely on Jesus being alive or having authority. It rests on his appointed role, Stephen's direct request, and the supporting evidence.
-
-First Timothy 2:1-5 also commands believers to pray for other people before naming the one mediator. Asking a living believer to pray is therefore compatible with Christ's unique role. It is normal communication with someone who can hear the request, not prayer to an absent heavenly person.
-
-The Bible does not name every forbidden recipient, so the absence of an example is not an explicit ban. Even so, it gives no comparable reason to pray to Enoch, Elijah, or ancestors. Believers should stay with the patterns Scripture does provide.
+Jesus differs because God appointed him to be the mediator between God and humanity, the man Christ Jesus (1 Timothy 2:5). However, this does mean that prayers should be directed to Jesus instead of God the Father.
 
 ### How Believers Should Pray
 
-Unitarian believers should normally pray to the Father in Jesus' name. They may also ask the risen Lord Jesus for help because the New Testament records and supports such appeals. This is appropriate, but it is not required for every prayer and must not replace prayer to the Father.
+Believers should normally pray to the Father in [Jesus' name](../name.md). Some [Unitarians communities allow praying](unitarianism.md) to the risen Lord Jesus for help because the New Testament records and supports such appeals.
 
-A believer who prays only to the Father is not a second-class believer. That practice follows Jesus' clear teaching. A believer who sometimes addresses Jesus should not be accused of treating him as a rival god. The evidence supports both the normal Father-directed pattern and occasional direct appeals to Jesus. It supports neither a complete ban nor a rule that every prayer must address Jesus.
+A believer who prays only to the Father is not a second-class believer. That practice follows Jesus' clear teaching. The evidence supports both the normal Father-directed pattern and occasional direct appeals to Jesus. It supports neither a complete ban nor a rule that every prayer must address Jesus.
 
 ## How a Human Jesus Could Receive Prayers
 
@@ -148,43 +145,49 @@ Direct appeals to Jesus rest on Stephen's request and the supporting passages in
 
 ## Fellowship, Obedience, and Following Jesus in 2026
 
-Fellowship with Jesus means sharing life with and depending on the living, risen Messiah. It is more than remembering a dead teacher. Believers express this relationship through trust, obedience, prayer, and shared life.
+[Fellowship](https://word.ofgod.info/terms/fellowship) with Jesus means sharing life with and depending on the living, risen Messiah. It is more than remembering a dead teacher. Believers express this relationship through trust, obedience, prayer, gifts, talents, generosity and shared life with each other.
 
-In the New Testament, fellowship means sharing or participation. God calls believers into fellowship with his Son (1 Corinthians 1:9), and 1 John places fellowship with the Father alongside fellowship with his Son:
+In the New Testament, fellowship means sharing or participation. God calls believers into fellowship with His Son (1 Corinthians 1:9), and 1 John places fellowship with the Father alongside fellowship with His Son:
 
-> “and indeed our **fellowship** is with the Father and with his Son Jesus Christ.” — 1 John 1:3 (ESV)
+> “and indeed our **fellowship** is with the Father and with His Son Jesus Christ.” — 1 John 1:3 (ESV)
 
 The Father and Son remain distinct within this shared life. Jesus says that the Father and Son will make their home with those who love him and keep his word (John 14:15,21-24). In John 15:1-12, the vine and branches show continued dependence, obedience, fruit, and love. God can make Jesus' presence effective through the Spirit without making Jesus' body present everywhere.
 
 ### Shared life and community
 
-Fellowship with Jesus includes shared life with other believers and obedience to his teaching; walking in the light makes this shared life visible (1 John 1:3–7; 2:3–6). The bread and cup are participation in Christ, and those who share one bread form one body (1 Corinthians 10:16–17). [Christ’s body](../../kingdom/christ/body.md) has different members who use their gifts to care for one another (1 Corinthians 12). The church does not replace Jesus or become another mediator. [Christ remains the head](jesus-today.md#christ-remains-the-head), while the community carries out his care. This fellowship does not require hearing a private voice or making every prayer a direct address to Jesus; see [Fellowship](../word/terms/fellowship.draft.md) for the word study.
+Fellowship with Jesus includes shared life with other believers and obedience to his teaching; walking in the light makes this shared life visible (1 John 1:3–7; 2:3–6). The bread and cup are participation in Christ, and those who share one bread form one body (1 Corinthians 10:16–17). [Christ’s body](../../kingdom/christ/body.md) has different members who use their gifts to care for one another (1 Corinthians 12). The church does not replace Jesus or become another mediator. [Christ remains the head](jesus-today.md#christ-remains-the-head), while the community carries out his care. This fellowship does not require hearing a private voice or making every prayer a direct address to Jesus.
 
-A person who prays only to the Father can therefore have full fellowship with Jesus. Fellowship includes trusting the Messiah, receiving his teaching, sharing his table, loving his people, and depending on his living rule. It is broader than direct prayer to him.
+A person who prays only to the Father can therefore have full fellowship with Jesus. Fellowship includes trusting the Messiah, receiving his teaching, sharing his table, loving his people, and depending on his living rule.
 
 Obeying Jesus also expresses loyalty to the Father who sent him. Jesus speaks with authority received from the Father and teaches the Father's will. This does not require blind obedience to a pastor, online teacher, or movement leader who claims to speak for Jesus. Believers must test spiritual claims instead of treating strong feelings as commands (1 John 4:1; 1 Thessalonians 5:21).
 
 ### Being Known by Jesus
 
-Matthew 7 **warns about faithfulness**, *not about whether a believer has heard Jesus speak privately*. In verse 22, people claim to have prophesied, cast out demons, and done mighty works in Jesus' name. The text does not say that they had already entered the kingdom, that Jesus approved all their deeds, or whether every claimed miracle was genuine. Their impressive religious claims are not enough to prove that the Father approves them. This does not make good deeds worthless.
+Matthew 7 **warns about lawlessness**, *not about whether a believer who regularly prays to Jesus*. In verse 22, people claim to have prophesied, cast out demons, and done mighty works in Jesus' name. Their impressive religious claims are not enough to prove that Jesus approves them. This does not make good deeds worthless.
 
 Jesus answers:
 
-> “I never **knew** you; depart from me, you workers of **lawlessness**.” — Matthew 7:23 (ESV)
+> “I never **knew** you; depart from me, you **workers of lawlessness**.” — Matthew 7:23 (ESV)
 
-Jesus says that he never knew them, not that they failed to obtain a private conversation with him. In context, “knew” describes recognising or acknowledging them as faithful followers. This explains the relationship language without replacing Jesus' words with a different translation. Amos 3:2 similarly speaks of God specially knowing Israel, although the Father was not ignorant of other nations.
+Jesus says that he never knew them, not that they failed to obtain a private conversation with him. In context, [“knew” describes recognising them as followers who obey his Father's will](concerns/known-by-jesus.md). Verse 21 gives the test:
 
-Matthew 7:21 gives the test: doing the will of Jesus' Father. Verse 24 then describes the faithful person as one who hears Jesus' teaching and puts it into practice. The passage therefore does not make an inaccessible private conversation a condition of acceptance.
+> “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who **does the will of my Father** Who is in heaven. — Matthew 7:21 (ESV)
+
+Verse 24 then describes the faithful person as one who hears Jesus' teaching and puts it into practice. The passage therefore does not make an inaccessible private conversation a condition of acceptance.
+
+“Everyone then who hears these words of mine and **does them** will be like a wise man who built his house on the rock. — Matthew 7:24 (ESV)
+
+### Hearing Jesus
 
 John 10:27 also presents hearing as recognising and responding to Jesus, not as a stated requirement for private messages:
 
 > “My sheep **hear my voice**, and I **know them**, and they **follow me**.” — John 10:27 (ESV)
 
-The people questioning Jesus in John 10:24-26 physically hear him speaking but do not believe. Physical access to his voice is therefore not what distinguishes his sheep. Verse 27 joins hearing, being known, and following. This fits Matthew 7's contrast between professed allegiance and lawlessness. Neither impressive religious claims nor audible experiences guarantee faithfulness.
+The people questioning Jesus in John 10:24-26 physically hear him speaking but do not believe. *Physical access to his voice is therefore not what distinguishes his sheep*. Verse 27 joins hearing, being known, and following. This fits Matthew 7's contrast between professed allegiance and lawlessness. Neither impressive religious claims nor audible experiences guarantee faithfulness.
 
 John 17:20 anticipates later believers trusting Jesus through the disciples' word. Receiving his teaching through the apostolic witness is therefore a legitimate way to hear and follow him. John 10:27-28 also shows a living relationship in which Jesus knows and cares for his followers and gives them eternal life. It is not merely the memory of a dead teacher. The passage does not require private messages, but it does not rule out personal guidance.
 
-Addressing Jesus and receiving a personal verbal reply remain different matters. The [evidence beyond Stephen's vision](#evidence-beyond-stephens-vision) supports direct requests to Jesus, especially on the supported reading of John 14:14, but it does not promise a private reply to everyone. First Peter 1:8 describes believers loving Jesus without seeing him. Believers respond to the living Messiah through trust, prayer, obedience, and shared life. Lack of a private voice alone is not evidence that Jesus rejects them.
+Addressing Jesus and receiving a personal verbal reply remain different matters. [Stephen's vision](#stephens-direct-petition) supports direct requests to Jesus, especially on the supported reading of John 14:14, but it does not promise a private reply to everyone. 1 Peter 1:8 describes believers loving Jesus without seeing him. Believers respond to the living Messiah through trust, prayer, obedience, and shared life. Lack of a private voice alone is not evidence that Jesus rejects them.
 
 ### Following Jesus in ordinary life
 
@@ -214,7 +217,7 @@ A believer may also say: *“Lord Jesus, strengthen this disciple to remain fait
 
 [Prayer to the Father in Jesus' name remains the clear and primary pattern](#how-believers-should-pray). Believers may also appeal directly to the risen Jesus, but they are not required to do so, and such appeals need not treat him as a rival god.
 
-[Stephen genuinely asked Jesus to receive his spirit](#stephens-direct-petition), but this does not give believers a reason to pray to every human figure. [Even if Enoch or Elijah is alive, Scripture gives no comparable reason to pray to them or other ancestors](#ancestors-enoch-and-elijah).
+[Stephen genuinely asked Jesus to receive his spirit](#stephens-direct-petition), but this does not give believers a reason to pray to every human figure. [Even if Enoch or Elijah is alive, Scripture gives no comparable reason to pray to them or other ancestors](#ancestors).
 
 [The Father may enable the glorified human Messiah to receive many requests](#billions-of-silent-and-simultaneous-prayers), but Scripture does not reveal the method or say that Jesus receives every individual request. Stephen's direct request and the supporting passages, not a possible explanation, support asking Jesus for help.
 

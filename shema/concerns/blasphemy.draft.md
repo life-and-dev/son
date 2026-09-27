@@ -1,6 +1,6 @@
 ---
 description: Examines whether affirming Jesus as human Messiah, but not Almighty God, constitutes blasphemy.
-keywords: [blasphemy, Jesus, Messiah, Father, Trinity]
+keywords: blasphemy, Jesus, Messiah, Father, Trinity
 ---
 
 # Is It Blasphemy to Say Jesus Is Not Almighty God?
