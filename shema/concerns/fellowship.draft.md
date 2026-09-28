@@ -1,38 +1,29 @@
 ---
 description: "How the risen human Jesus remains close to believers worldwide through fellowship with the Father, God's Spirit, and the care of Christ's body."
-keywords:
-  - Jesus
-  - fellowship
-  - Holy Spirit
-  - body of Christ
-  - prayer
+keywords: Jesus, fellowship, Holy Spirit, body of Christ, prayer
 ---
 
-# If Jesus remains human, how can he be close to believers worldwide?
+# Fellowship with Jesus
 
-Jesus rose as a real human being. He did not stop being human when God exalted him. That can make a question in the [discussion of the Trinity](../trinity/concerns.draft.md) feel deeply personal: if Jesus is in heaven, can he still be close to people across the world? This is not just a question about distance. It matters to someone praying alone, or longing for the care Jesus showed people when he walked among them.
+Paul says believers were “called into the **fellowship** of His Son, Jesus Christ our Lord” (1 Corinthians 1:9).
 
-Scripture promises real fellowship with the risen Lord. It also describes the Father's knowledge, his Spirit's presence, and a community through which Christ's care becomes visible. *None of these requires Jesus' human body to be in every place. None makes him a memory, or makes the church his replacement.*
+If Jesus was risen as a normal human being and is now only present in heaven, how can he still be close to people across the world? This is not just a question about distance. It matters to someone praying alone, or longing for the care Jesus showed people when he walked among them.
 
 ## Fellowship does not require bodily co-location
 
-Paul says believers were “called into the **fellowship** of his Son, Jesus Christ our Lord” (1 Corinthians 1:9). John says “our **fellowship** is with the Father and with his Son Jesus Christ” (1 John 1:3). Both speak of a present relationship, not only admiration for someone who lived in the past. Yet fellowship need not mean that two bodies occupy the same room.
+John says “our **fellowship** is with the Father and with His Son Jesus Christ” (1 John 1:3). Both speak of a present relationship, not only admiration for someone who lived in the past. Yet fellowship need not mean that two bodies occupy the same room.
 
-Fellowship across distance is distinct from Jesus' personal recognition at judgement, addressed in [being known by Jesus](known-by-jesus.draft.md).
-
-The disciples saw Jesus taken up from them (Acts 1:9–11). Peter then announced that God had raised and exalted him (Acts 2:32–36). His departure did not cancel his promise: “I am with you **always**, to the end of the age” (Matthew 28:20). *That promise should not be reduced to an empty figure of speech. Nor does it say that Jesus' human body became physically present beside every disciple.* Scripture asks us to trust his continuing relationship without describing it as ordinary bodily co-location.
+The disciples saw Jesus taken up from them (Acts 1:9–11). Peter then announced that God had raised and exalted him (Acts 2:32–36). **His departure did not cancel his promise**: “I am with you **always**, to the end of the age” (Matthew 28:20). Jesus made that promise while commissioning them to make disciples and teach his commands (Matthew 28:18–20). As they carry out that work, keep his word, and love one another, they participate in a shared life with their living Lord and the Father (John 15:9–12). John calls this “**[fellowship](https://word.ofgod.info/terms/fellowship)** ... with the Father and with His Son Jesus Christ,” a fellowship also shared with one another (1 John 1:3, 7). Jesus is **with them in that continuing relationship and common work**; the promise does not require his human body to stand beside every disciple, nor direct conversations.
 
 ## The Father knows and reaches his people
 
-Solomon acknowledged that even heaven could not contain God. He nevertheless asked the LORD to hear people who prayed from different places, because “you, you only, **know the hearts** of all the children of mankind” (1 Kings 8:27–39). The psalmist asks, “Where shall I go from your **Spirit**? Or where shall I flee from your **presence**?” (Psalm 139:7; see also verses 1–12). Jesus likewise taught that the Father sees prayer offered in secret and knows what his children need before they ask (Matthew 6:6–8).
+Solomon acknowledged that even [heaven](https://word.ofgod.info/terms/heaven) could not contain God. He nevertheless asked the LORD to hear people who prayed from different places, because “you, you only, **know the hearts** of all the children of mankind” (1 Kings 8:27–39). The psalmist asks, “Where shall I go from your **Spirit**? Or where shall I flee from your **presence**?” (Psalm 139:7; see also verses 1–12). Jesus likewise taught that the Father sees prayer offered in secret and knows His children need before they ask (Matthew 6:6–8).
 
-*The Father's knowledge and presence provide a firm basis for trusting that believers are not beyond God's care.* His Spirit is his own active presence, not a mindless force. Jesus promised another Helper and spoke of himself and the Father making their home with the one who loves him (John 14:16–23). Paul describes access “through him” — Christ — “in one Spirit to the Father” (Ephesians 2:18). These words distinguish Father, Son, and Spirit without treating the Spirit as Jesus himself or removing Jesus' part in the relationship.
-
-At Pentecost, Peter said the exalted Jesus had received the promised Holy Spirit from the Father and poured out what the crowd saw and heard (Acts 2:33). *A reading that understands this as the Father, the Almighty God, working through his human Son by his own Spirit is an interpretation of these passages, not a complete proof of how every act of fellowship occurs.*
+His Spirit is **His own active presence**, not a separate mindless force. Then Jesus promised "another Helper" than himself, he referred to the Father's presence. making their home with the one who loves him (John 14:16–23). Paul describes access “through him” — Christ — “in one Spirit to the Father” (Ephesians 2:18). These words distinguish Father, Son, and Spirit without treating the Spirit as Jesus himself or removing Jesus' part in the relationship.
 
 ## The risen Lord remains active
 
-Jesus is the living head of the body, not a former teacher whose place the church has taken (Colossians 1:18; Ephesians 1:20–23). Paul says the risen Christ is at God's right hand, “who indeed is **interceding** for us” (Romans 8:34). His exaltation gives believers reason to look to him now, not merely to remember what he once taught.
+Jesus is the living head of [the body](https://kingdom.ofgod.info/christ/body), not a former teacher whose place the church has taken (Colossians 1:18; Ephesians 1:20–23). Paul says the risen Christ is at God's right hand, “who indeed is **interceding** for us” (Romans 8:34). His exaltation gives believers reason to look to him now, not merely to remember what he once taught.
 
 Jesus also said, “Whatever you ask in my name, **this I will do**” (John 14:13; see also verse 14). Prayer in his name belongs to allegiance to him and the Father's glory in the Son; it is not a promise that every wish will be granted. When Stephen saw Jesus at God's right hand, he addressed him and asked him to receive his spirit (Acts 7:55–59). *It would be wrong to say that Scripture never depicts anyone addressing the risen Jesus, or that he never acts for believers.*
 

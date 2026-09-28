@@ -3,7 +3,7 @@ description: Examines whether affirming Jesus as human Messiah, but not Almighty
 keywords: blasphemy, Jesus, Messiah, Father, Trinity
 ---
 
-# Is It Blasphemy to Say Jesus Is Not Almighty God?
+# Blasphemy Against Jesus
 
 *“If Jesus is God, would saying that he is human but not Almighty God insult him?”* This concern deserves a careful answer. Trinitarians affirm that Jesus is genuinely human and that the Father and Son are distinct. The disagreement is not whether Jesus is human, but whether denying that he is Almighty God dishonours him.
 
