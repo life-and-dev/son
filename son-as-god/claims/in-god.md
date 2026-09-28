@@ -42,7 +42,7 @@ This prayer does not make human believers divine. Rather, it presents the Father
 
 [Trinitarians](../../trinity.md), who believe that the Father, Son, and Holy Spirit are one God, commonly read the Father and Son being “in” one another in John 14:10-11 and John 17:20-23 as being *inside* each other. They see this as pointing to their unique shared divine nature, that is, what God is. This is a serious reading because the passages describe a very close and unique relationship between the Father and the Son.
 
-The response is not that Jesus’ relationship to the Father is ordinary. Jesus is the Son sent and authorised by God (John 10:36; John 14:10). Yet **John 17 uses similar “in” and unity language for believers** for whom Jesus prays (John 17:20-23). The similar wording does not make believers divine, nor does it erase the uniqueness of the Son. It does show that the Greek word “in”, by itself, does not prove shared divine identity. The surrounding context must determine what relationship is being expressed.
+The response is not that Jesus’ relationship to the Father is ordinary. Jesus is the Son sent and authorised by God (John 14:10). Yet **John 17 uses similar “in” and unity language for believers** for whom Jesus prays (John 17:20-23). The similar wording does not make believers divine, nor does it erase the uniqueness of the Son. It does show that the Greek word “in”, by itself, does not prove shared divine identity. The surrounding context must determine what relationship is being expressed.
 
 ## Conclusion
 
