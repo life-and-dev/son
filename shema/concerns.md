@@ -16,7 +16,7 @@ The following concerns have a major impact on the Christian faith:
 - **[Worship](concerns/worship.md)**: If Jesus is God, could refusing him worship and honouring another lord become idolatry?
 - **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
 - **[Known by Jesus](concerns/known-by-jesus.md)**: Jesus warns in Matthew 7:21–23 that he never knew some who called him Lord. If Jesus is human, how can believers communicate with him and be known by him across the world?
-- **[God's love](concerns/gods-love.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
+- **[Love of God](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
 - **[Tradition](concerns/tradition.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
 
 The question is whether [Scripture](https://word.ofgod.info) requires a person to call Jesus Almighty God and the Holy Spirit a separate divine person to proclaim faith.

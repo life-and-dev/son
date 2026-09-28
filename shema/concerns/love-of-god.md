@@ -3,7 +3,7 @@ description: Does the Father's decision to send His Son to die make Him cruel? A
 keywords: God's love, Father and Son, Jesus' death, sacrifice, resurrection
 ---
 
-# God is Love
+# Love of God
 
 *If the Father loved His Son, why send him to die instead of dying Himself?* This is a serious moral question, especially for anyone who has seen a parent demand suffering from a child. It deserves more than an assurance that the outcome was good.
 
