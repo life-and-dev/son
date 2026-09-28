@@ -5,17 +5,13 @@ keywords: salvation, faith, believe in Jesus, gospel, repentance, resurrection
 
 # What Does It Mean to Believe in Jesus?
 
-“Believe in Jesus” can sound simple until someone asks what to believe, whom to trust, and what faith should change. Scripture gives a fuller answer than a slogan. Jesus announced God’s kingdom and called people to repent. After his death and resurrection, his apostles announced what God had done through him and called people to respond. *Faith trusts the Father’s saving work through his Son; it does not depend on producing a particular feeling or understanding everything at once.*
+Believing in Jesus is not merely agreeing that he exists or trying to produce enough certainty to be saved. It means trusting the Father and his promises through Jesus. The Father calls people to repent and receive salvation through his Son’s death and resurrection.
 
 ## What believing means
 
-The Greek verb *pisteuō* can mean believe, have faith, or trust; the related noun *pistis* can mean faith, belief, trust, confidence, or fidelity. Their meanings depend on context ([*pisteuō*](https://biblehub.com/greek/4100.htm); [*pistis*](https://biblehub.com/greek/4102.htm)). English “faith” and “trust” need not be opposed. Nor does every belief amount to saving trust.
+Biblical [faith means trust in God](https://word.ofgod.info/terms/faith.md#the-meaning-of-faith) which is reliance on who God is and what He has promised. Abraham “**believed** the LORD, and he counted it to him as righteousness” (Genesis 15:6). He was “**fully convinced** that God was able to do what he had promised” (Romans 4:21).
 
-Biblical faith has a **person** to trust, **content** to receive, **reliance** on what God has done and promised, and a **response** shaped by that trust. It is not mental force, faith in one’s own faith, or a quota of certainty. Trust does not require complete comprehension or mathematical proof.
-
-Abraham “**believed** the LORD, and he counted it to him as righteousness” (Genesis 15:6). Paul says Abraham was “fully convinced that **God was able to do what he had promised**” (Romans 4:21). Paul then applies this account to those who believe in God, who raised Jesus: Jesus “was delivered up for **our trespasses** and raised for **our justification**” (Romans 4:23–25). *The reliance is on God and his promise, not on the strength of an inner feeling.*
-
-When a father cried, “I **believe**; help my **unbelief**!” Jesus did not demand flawless confidence before helping him (Mark 9:24). Doubt may call for honest prayer and renewed attention to the gospel, not faith in one’s ability to feel certain.
+Likewise, believers trust the Father who raised Jesus from the dead. Jesus was delivered up for our trespasses and raised for our justification (Romans 4:23–25). That trust leads to repentance and obedience. God supplies the saving work.
 
 ## Jesus’ gospel of the kingdom
 
@@ -35,7 +31,7 @@ To Cornelius’ household, Peter proclaimed that God anointed Jesus, that Jesus 
 
 Paul likewise reminds the Corinthians of the gospel they received and in which they stand, urging them to hold fast to it. Christ “died for **our sins**” according to the Scriptures, was buried, “was **raised on the third day**” according to the Scriptures, and appeared to witnesses (1 Corinthians 15:1–8). If Christ has not been raised, Paul says, faith is futile and believers remain in their sins (1 Corinthians 15:17). He calls the risen Christ the firstfruits of those who will be raised (1 Corinthians 15:20–23). *Believing the gospel means more than believing Jesus once existed: his death for sins and God’s raising him matter.*
 
-Paul described his preaching as “**repentance toward God and of faith in our Lord Jesus Christ**” (Acts 20:21). In Rome he taught about God’s kingdom and Jesus from Moses and the Prophets (Acts 28:23, 30–31). The Thessalonians turned from idols to serve the living and true God and awaited his Son, whom God raised from the dead (1 Thessalonians 1:9–10). *Paul did not replace Jesus’ kingdom message; he preached its fulfilment in the risen Christ.*
+Paul described his preaching as “**repentance toward God and of faith in our Lord Jesus Christ**” (Acts 20:21). In Rome he taught about God’s kingdom and Jesus from Moses and the Prophets (Acts 28:23, 30–31). The Thessalonians turned from idols to serve the living and true God and awaited His Son, whom God raised from the dead (1 Thessalonians 1:9–10). *Paul did not replace Jesus’ kingdom message; he preached its fulfilment in the risen Christ.*
 
 ## What faith trusts
 
@@ -66,4 +62,4 @@ Romans 10:12–13 deserves careful attention: Paul applies Joel 2:32’s promise
 
 ## Conclusion
 
-Believe the gospel by trusting the Father’s saving work through his Son: receive the news that Jesus the Christ died for sins and that God raised him, turn toward God for forgiveness and life, and follow the risen Lord. Faith rests on him, not on perfect feelings or a claim to know everything. [What believing means](#what-believing-means), [what the apostles preached](#what-the-apostles-preached-after-the-resurrection), and [how to respond](#how-to-respond) belong together. For the wider collection of questions, see [Concerns](../trinity/concerns.draft.md).
+Believe the gospel by trusting the Father’s saving work through His Son: receive the news that Jesus the Christ died for sins and that God raised him, turn toward God for forgiveness and life, and follow the risen Lord. Faith rests on him, not on perfect feelings or a claim to know everything. [What believing means](#what-believing-means), [what the apostles preached](#what-the-apostles-preached-after-the-resurrection), and [how to respond](#how-to-respond) belong together. For the wider collection of questions, see [Concerns](../trinity/concerns.draft.md).
