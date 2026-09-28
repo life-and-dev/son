@@ -84,12 +84,12 @@ This verse is sometimes presented as proof that Jesus is God, because God alone 
 
 However, [Strong's Concordance](https://biblehub.com/greek/747.htm) gives a wider range of meanings for the Greek word translated as *Author*:
 
-| Field | Detail |
-|---|---|
-| Original word | ἀρχηγός, οῦ, ὁ |
-| Transliteration | *archégos* |
-| Definition | Founder; leader |
-| Usage | Originator; author; founder; prince; leader |
+| Field           | Detail                                      |
+| --------------- | ------------------------------------------- |
+| Original word   | ἀρχηγός, οῦ, ὁ                              |
+| Transliteration | *archégos*                                  |
+| Definition      | Founder; leader                             |
+| Usage           | Originator; author; founder; prince; leader |
 
 ### Translation Renderings
 
@@ -131,43 +131,95 @@ This interpretation distinguishes Jesus from God, because the passage says that 
 
 ## Colossians 1
 
-> He has delivered us from the power of darkness and conveyed us into **the kingdom of the Son** of His love, in whom we have redemption through His blood, the forgiveness of sins.
+> He has delivered us from [the power of darkness](https://kingdom.ofgod.info/darkness) and conveyed us into [the kingdom](https://kingdom.ofgod.info) of the Son of His love, in whom we have [redemption through his blood](https://kingdom.ofgod.info/covenants/christ), the [forgiveness](https://word.ofgod.info/terms/forgiveness) of sins.
 >
-> He is **the image** of the invisible God, **the firstborn** over all creation. For by him all things were created that are **in** heaven and that are **on** earth, visible and invisible, whether **thrones or dominions or principalities or powers**. All things were created through him and for him. And he is ***before*** all things, and in him all things consist. And **he is the head of the body, the church**, who is the beginning, **the firstborn** from the dead, that in all things he may have the preeminence.
+> He is the image of [the invisible God](https://ofgod.info/appearance), [the firstborn](../son-as-angel/firstborn.md) over all creation. **For by him all things were created that are in [heaven](https://word.ofgod.info/terms/heaven) and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through him and for him.** And he is before all things, and in him all things consist. And he is the head of [the body](https://kingdom.ofgod.info/christ/body), [the church](https://church.ofgod.info), who is the beginning, [the firstborn](../son-as-angel/firstborn.md) from the dead, that in all things he may have the preeminence.
 >
-> — Colossians 1:13-18 (NKJV)
-
-### Image and Firstborn
-
-“Image” is not the same as “origin”. Adam was also created in the “image” of God:
-
-> Then God said, “Let us make **man in our image**, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
+> For it pleased [the Father](https://ofgod.info) that in him all the fullness should dwell, and by him to reconcile all things to himself, by him, whether things on earth or things in [heaven](https://word.ofgod.info/terms/heaven), having made peace through the blood of his [cross](https://kingdom.ofgod.info/christ/crucifixion).
 >
-> So **God created man in his own image, in the image of God he created him**;
->
-> — Genesis 1:26-27 (NKJV)
+> — Colossians 1:13-20 (NKJV)
 
-"Firstborn" is understood here to imply that he was born, rather than being the Almighty Creator of the universe.
+> [!WARNING]
+> The phrase "in him" means "what exist in Christ now, because of what he has done". To be "in him" is to be in his [kingdom](https://kingdom.ofgod.info). Both the NASB and ESV both translate the same Greek phrase "in him" consistenly the same, except in Colossians 1:16, **they changed the phrase** to *"by him"* to fit their biased view so that it appear to look like *Jesus is the Creator*. NASB is hard to read because it is supposed to be more accurate, but they failed with Colossians. Therefore I choose the NKJV version in this case.
 
-Paul is writing specifically about "the Kingdom of the Son" (verse 13) or "the body, the church" (verse 18) and not about the entire universe.
+> [!WARNING]
+> Some bible translations adds the word "fullness of God" to verse 19 which does not exist in original Greek manuscripts.
 
-Paul does not say that Jesus created “heaven and earth”, but instead refers to “all things ***in*** heaven and ***on*** earth”. This is understood here to imply that heaven and earth already existed when Jesus began creating.
+The choice of where to end sentences and begin new paragraphs lies with the English translator. Ancient Greek runs all the text continuously. There are not many word or paragraph seperators. When they do occur, it is significant. As seen in the screenshot of the Colossians 1 manuscript below, the outdents highlighted with red arrows indicate the beginning of the 2 strophes of Colossians 1:15-20. Visit [Codex Sinaiticus](https://codexsinaiticus.org/en/manuscript.aspx?__VIEWSTATEGENERATOR=01FB804F&book=43&chapter=1&lid=en&side=r&verse=16&zoomSlider=0) to see the ancient manuscripts in more detail.
 
-### Scope of “All Things”
+![Manuscript of Colossians 1](creator.manuscript.webp)
 
-Paul does not list "rocks, water, plants and animals", but instead "thrones or dominions or principalities or powers" which is both "visible and invisible".
+A very literal translation of Colossians 1:15-20 by [Sean Finnegan](https://youtu.be/bAv10XKLA2I?si=aa5CUsdCgmsJST7I) divided into 2 strophes reads:
 
-What about "by him ***all*** things were created"?
+| Verse | Strophe 1: Colossian 1:15-18a                         | Verse | Strope 2: Colossians 1:18b-20                   |
+| ----- | ----------------------------------------------------- | ----- | ----------------------------------------------- |
+| 15a   | who is [the] image of the invisible God,              | 18b   | who is [the] beginning,                         |
+| 15b   | firstborn of all creation                             | 18c   | firstborn from the dead,                        |
+| -     | -                                                     | 18d   | in order that he may be first in all things,    |
+| 16a   | for in him were created all things                    | 19    | for in him was pleased all the fulness to dwell |
+| 16b   | in the heavens and upon the earth,                    | -     | -                                               |
+| 16c   | the visible and the invisible,                        | -     | -                                               |
+| 16d   | whether throne or dominions or domains or authorities | -     | -                                               |
+| 16e   | all things have been created through him and for him  | 20a   | and through him to reconcile all things in him  |
+| 17a   | and he is before all things                           | 20b   | making peace through the blood of his cross     |
+| 17b   | and all things hold together in him                   | 20c   | whether the things upon the earth               |
+| 18a   | and he is the head of the body of the Church          | 20d   | or the things in the heavens                    |
 
-This reading understands Jesus to have created the authority structures in his kingdom that affect all things.
+Sean explains that although the strophes are not a perfect symmetry of each other, they do align a lot. The gaps were possibly caused by elaborations.
 
-In this view, “all” is limited by context to Jesus' role and kingdom. For example, saying that children ate all the cookies usually means all the cookies available to them, not every cookie in the world.
+We should not let our theology drive the structure, as in the case of most English bible translations. We should rather let the structure of the text drive the theology.
+
+If Strophe 1 was about the creation of the universe, it makes little sense to end the strophe with the church. The church only came into existance after Christ.
+
+Verse 17a-18a serves as a summary of what "all things" means and serve as a conclusion to Strophe 1.
+
+### Problems with Creation Readings of Colossians 1:16
+
+1. The context of Colossians 1:13-14 is **about redemption, not creation**. Likewise, subsequent context Colossians 1:21-22 are also redemptive. What would flow more naturally from redemption (Christ saving us from sin) is the do doctrine of the church instead of creation theory. According to Sean, most scholar generally agree that Colossians 1:15-20 were an insertion. If one reads Colossians 1:1-14 and then skips to verse 21 and continue, the text reads smoothly with no breaks or discontinuality. Scholars are debating whether Paul wrote the inserted the Colossians 1:15-20 poetic unit in the text. *It is possible that he cited it from somewhere else.*
+2. Biblically to be made in the image of God is **to be human** (Genesis 1:26- 27). The bible does not mention some angelic being been created in His image. **Nobody believes Jesus was a human at Creation.** Colossians 1:16 is therefore not speaking about something that happened at the Creation but something that happened during or after Jesus human life.
+3. [Firstborn](../son-as-angel/firstborn.md) of some class, means to be the most the first or most important in that class. For example, **Jesus was not the first human being been born** of creation.
+4. As seen [above](#colossians-1), if "in him" is the correct phrase to use in Colossians 1:16, it changes the meaning from *"Jesus is the Creator"* to *"being in Jesus Church/Kingdom"*.
+5. Paul mentions at verse 18 that Christ is the "head of the body of the Church". If this was about Creation it meant *the Church was the entire universe*.
+6. **Second Creator** contradicts clear exclusive statements (Isaiah 44:24). The same "all things" phrase are used in both passages.
+
+James D.G. Dunn argues:
+
+> If then Christ is what God's power/wisdom came to be recognized as, of Christ is can be said what was first of wisdom - that 'in him (the divine wisdom now embodied in Christ) were created all things.' In other words the language may be used here to indicate the continuity between God's creative power and Christ without the implication being intended that Christ himself was active in creation. -- Christology in the Making, 2nd ed. (Grand Rapids, MI: Eerdmans, 1996), 191.
+
+1. Shared Jewish vocabularly **does not mean dependence** between the passages. Paul never used the word "wisdom". Wisdom is also often personified as a female, not a male Christ.
+2. Still implies pre-existance. If you replace "wisdom" with "Christ" it means you need to proof that Paul meant Christ pre-existed as Wisdom pre-existed.
+3. Analogy works one-way. If one say "Wisdom has found her home in Christ" is not mean one could give Christ the credit for what Wisdom did before it became incarnated in Christ. It would be like punishing Nazi decendants for something their anchestors did.
+
+### New Creation Language
+
+What it means:
+
+1. "Image of God" implies rulership of a new humanity. Christ is the new Adam in the "new Creation".
+2. "Firstborn of all creation" is already taken with respect to the original creation, but from the new creation perspective dovetails nicely with "firstborn from the dead" (resurrected) in verse 18c.
+3. "Head of the body, the church" in verse 18a implies new creation since the church didn't exist before Christ came.
+4. New creation better fits the contextual frame of Colossians 1:13-14 and Colossians 1:21-22.
+
+#### Scope of “All Things”
+
+Colossians 1:16 names thrones, dominions, rulers, and authorities among visible and invisible things, rather than naming rocks, water, plants, or animals.
+
+What about "in him ***all*** things were created"?
+
+*In this reading, Jesus created authority structures within his kingdom, and “**all things**” is understood in that context.* The passage does not settle that limit by its list alone; a broader cosmic reading remains possible.
+
+For example, saying that children ate all the cookies usually means all the cookies available to them, not every cookie in the world.
 
 For example:
 
 * “All the men of Israel agreed” (2 Samuel 17:14) need not mean that every Israelite was present.
 * “All the people seized Jeremiah” (Jeremiah 26:8) can refer to those present, since others later released him.
 * “You know all things” (1 John 2:20) does not require that a person knows everything without limit.
+
+Colossians 1:15-20 parallels Ephesians 1:20-23. Both speaks of "all things", "from the dead", "dominions", "domains", "authorities", "head of the body", "church", "the fullness". The same person wrote both Colossians and Ephesians. Therefore it make sense to read them together to have a better understanding of Paul's intend. This means "in Christ" God bring about a "new creation" as Christ ascended into heaven at God's right hand.
+
+What was created? Church structures, positions like apostles, prophets, etc.
+
+Colossians 1:16 is talking about a new creation. "In Christ" God has brough about a whole new reality with new authority structures. These authorities are both visible and invisible both in heaven and upon the earth. These power structures manage the new realm where Christ is Lord.
 
 ### Jesus' Reference to the Creator
 
@@ -182,7 +234,7 @@ This interpretation also notes that Jesus refers to the Creator as someone else:
 The Greek [Interlinear Bible](https://biblehub.com/interlinear/hebrews/1-2.htm) shows that the word translated as “worlds” is *aión*, which can refer to an age or span of time.
 
 |                   | Strong's Concordance    |
-|-------------------|-------------------------|
+| ----------------- | ----------------------- |
 | Original Word     | αἰών, ῶνος, ὁ           |
 | Part of Speech    | Noun, Masculine         |
 | Transliteration   | aión                    |
@@ -217,7 +269,7 @@ Some explain the passages by proposing that the Father authorised creation and J
 They argue that the Father acted as architect and enabled Jesus to do the work. This interpretation notes that “created”, added by some translators, is absent from the Greek text shown in the [Interlinear Bible](https://biblehub.com/interlinear/1_corinthians/8-6.htm):
 
 | English          | Greek                                                    | Lexicon                                                                  | [Strong's Description](https://biblehub.com/strongs/1_corinthians/8-6.htm)                                                                                                 |
-|------------------|----------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | YET              | [all](https://biblehub.com/greek/all%E2%80%99_235.htm)   | Conjunction                                                              | [But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.](https://biblehub.com/greek/235.htm)                                             |
 | FOR US           | [hēmin](https://biblehub.com/greek/he_min_1473.htm)      | Personal / Possessive Pronoun - Dative 1st Person Plural                 | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
 | *[there is but]* |                                                          |                                                                          |                                                                                                                                                                            |
