@@ -1,14 +1,9 @@
 ---
 description: How God’s promised new covenant explains the forgiveness, liberation, and hope secured through Jesus’ real human sacrifice.
-keywords:
-  - cross
-  - new covenant
-  - ransom
-  - forgiveness
-  - resurrection
+keywords: cross, new covenant, ransom, forgiveness, resurrection
 ---
 
-# Can One Human Life Be Given for Billions?
+# Paying the Price for Humanity
 
 How can the death of one human being matter for billions of people? The question deserves more than the claim that Jesus’ suffering was merely symbolic. His death was real, and Scripture calls it a sacrifice, a ransom, and the means of reconciliation. Sin and judgement are real too. But the objection assumes that forgiveness requires a measurable quantity of blood for each person. Scripture does not establish that arithmetic. It directs attention instead to the Father’s promised **new covenant**, established through the willing self-offering of his appointed Messiah.
 
