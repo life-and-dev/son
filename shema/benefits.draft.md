@@ -1,26 +1,3 @@
----
-description: Could questioning the Trinity put faith, salvation, or fellowship at risk? A biblical look at the fears that make this question difficult.
-keywords: Trinitarian concerns, Unitarian salvation, blasphemy against the Spirit, human Christ, human Messiah, value of Jesus sacrifice, Christian fellowship
----
-
-# Concerns from Trinitarians
-
-For some Christians, questioning the Trinity feels dangerous rather than merely difficult. They fear dishonouring God, losing salvation, or making Jesus' death seem small.
-
-The following concerns have a major impact on the Christian faith:
-
-- **[Blasphemy](concerns/blasphemy.md)**: If Jesus is God, would saying he is human but not Almighty God insult him?
-- **[The unforgivable sin](concerns/unforgivable-sin.md)**: If someone calls the Holy Spirit a force instead of God, could that be blasphemy against the Holy Spirit?
-- **[Salvation](concerns/salvation.md)**: If believing in Jesus requires believing he is Almighty God, could denying that cost someone salvation?
-- **[The cross](concerns/the-cross.md)**: Can one man's death save billions of people, or must the sacrifice be divine to be sufficient?
-- **[Worship](concerns/worship.md)**: If Jesus is God, could refusing him worship and honouring another lord become idolatry?
-- **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
-- **[Known by Jesus](concerns/known-by-jesus.md)**: Jesus warns in Matthew 7:21–23 that he never knew some who called him Lord. If Jesus is human, how can believers communicate with him and be known by him across the world?
-- **[God's love](concerns/gods-love.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
-- **[Tradition](concerns/tradition.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
-
-The question is whether [Scripture](https://word.ofgod.info) requires a person to call Jesus Almighty God and the Holy Spirit a separate divine person to proclaim faith.
-
 ## Benefits of Believing in a Human Christ
 
 Questioning the Trinity **does not mean giving less honor to Jesus**.
@@ -30,6 +7,7 @@ Some of the benefits of believing that Jesus was the human Christ is:
 - **[A message we can understand and explain](#a-message-we-can-understand-and-explain)** — The apostles’ account of the Father and His Christ can be shared in Scripture’s own terms.
 - **[God remains faithful and unchanged](#god-remains-faithful-and-unchanged)** — The assurance that God does not change His form is even more reason to trust Him.
 - **[A faithful human life](#a-faithful-human-life)** — Jesus’s freely chosen obedience and real suffering make his sacrifice costly and worthy of honor.
+- **[The Father's love and glory](#the-fathers-love-and-glory)** — Giving, empowering, and exalting his human Son displays the Father's love and power while honoring Jesus's obedience.
 - **[Temptation and compassion](#temptation-and-compassion)** — Jesus meets real pressures with faithfulness and responds to human grief with compassion.
 - **[A human judge and representative](#a-human-judge-and-representative)** — Shared human experience makes his judgment relatable; the Father’s commission and righteousness make it just.
 - **[Following Jesus as a human example](#following-jesus-as-a-human-example)** — His lived obedience gives disciples a practical standard for serving, loving, and enduring with God’s help.
@@ -72,6 +50,16 @@ That fact that Jesus obeyed even through death is a fair reason for God to exalt
 
 > [!NOTE]
 > Paul places the obedience of one man at the center of his account of many being made righteous (Romans 5:19).
+
+### The Father's love and glory
+
+At Jesus's baptism, the Father calls him his beloved Son (Matthew 3:16–17). The Father then gives the Son he loves for the life of the world (John 3:16–17). *“On this reading, the gift makes the Father's love visible in his relationship with a distinct human Son, without suggesting that Trinitarians deny the Father's love or the Son's genuine humanity.”*
+
+Isaiah speaks of the Spirit of wisdom resting on the promised ruler (Isaiah 11:1–2). Peter says God did mighty works through Jesus, and that God anointed him with the Holy Spirit and power (Acts 2:22; 10:38). Jesus says he acts in dependence on the Father (John 5:19, 30). *“The Father's wisdom and power are displayed in what he accomplishes through his human Son; Jesus is honored for faithfully carrying out the work entrusted to him.”*
+
+The Father is holy (Psalm 99:3; Isaiah 6:3). He lays the iniquity of others on the servant; Christ bears sins in his body and becomes a curse for us (Isaiah 53:6; 1 Peter 2:24; Galatians 3:13). *“Distinguishing the holy Father from the human Son who bears the curse keeps their different roles in view, without suggesting Jesus became sinful or claiming that these passages alone disprove the classical account of Christ.”*
+
+Jesus speaks of the Son and Father glorifying one another (John 13:31–32; 17:1). He also appeals to their testimony as two witnesses (John 8:17–18). *“Their distinct witness and mutual glory give reason to honor both the Father who sends and the Son who obeys.”* Trinitarians likewise distinguish the Father and Son as persons; the difference argued here concerns whether the Son also has a divine nature.
 
 ### Temptation and compassion
 
@@ -161,8 +149,8 @@ Both readings confess one God (Deuteronomy 6:4; 1 Corinthians 8:6). The classica
 
 ### Conclusion
 
-If questioning the Trinity feels like risking honor to the Father or Jesus, give that concern patient attention. Jesus says honoring the Son honors the Father (John 5:23), and his exaltation brings glory to the Father (Philippians 2:9–11). *“On this reading, confessing the Father as [Creator](#creation-reveals-the-creator) and God, and Jesus as his human Son and our Lord, honors both: the Father’s [faithful saving purpose](#god-remains-faithful-and-unchanged) and Jesus’s [costly obedience](#a-faithful-human-life) remain in view.”* (John 17:3; 1 Corinthians 8:6; Romans 5:19).
+If questioning the Trinity feels like risking honor to the Father or Jesus, give that concern patient attention. Jesus says honoring the Son honors the Father (John 5:23), and his exaltation brings glory to the Father (Philippians 2:9–11). *“On this reading, confessing the Father as [Creator](#creation-reveals-the-creator) and God, and Jesus as his human Son and our Lord, honors both: the Father’s [love and glory](#the-fathers-love-and-glory), his [faithful saving purpose](#god-remains-faithful-and-unchanged), and Jesus’s [costly obedience](#a-faithful-human-life) remain in view.”* (John 17:3; 1 Corinthians 8:6; Romans 5:19).
 
-Calling Jesus human does not make him ordinary. His [compassion](#temptation-and-compassion) and [friendship](#someone-we-can-know-and-love) belong to the one God raised; his [resurrection](#his-resurrection-is-our-hope) grounds believers’ hope (Acts 2:32; 1 Corinthians 15:20–23). *“His real suffering and the Father’s exaltation give distinct, substantial reasons to honor him.”* (1 Peter 3:18; Philippians 2:8–11).
+Calling Jesus human does not make him ordinary. His [compassion](#temptation-and-compassion) belongs to the one God raised; his [resurrection](#his-resurrection-is-our-hope) grounds believers’ hope (Acts 2:32; 1 Corinthians 15:20–23). *“His real suffering and the Father’s exaltation give distinct, substantial reasons to honor him.”* (1 Peter 3:18; Philippians 2:8–11).
 
 *“The [clear apostolic message](#a-message-we-can-understand-and-explain) and these [comparisons](#twelve-practical-comparisons) make the human-Christ reading the more coherent account argued here.”* Examine its claims as the Bereans examined apostolic teaching (Acts 17:11), with John’s invitation to believe Jesus is the Christ, God’s Son, in view (John 20:31).

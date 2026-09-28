@@ -27,7 +27,7 @@ These examples make reverence essential. They also caution against using the wor
 
 ## Moses’ Warnings and Their Limits
 
-Moses forbade taking the LORD’s name in vain (Exodus 20:7). He also prohibited swearing falsely by that name and thereby profaning it (Leviticus 19:12). These commands address misuse of God’s name; neither identifies Jesus as Almighty God.
+Moses forbade taking [the LORD’s name](https://ofgod.info/name) in vain (Exodus 20:7). He also prohibited swearing falsely by that name and thereby profaning it (Leviticus 19:12). These commands address misuse of God’s name; neither identifies Jesus as Almighty God.
 
 Deuteronomy 13:1–5 warns Israel not to follow a prophet who calls them after other gods, even if the prophet’s predicted sign comes to pass. Deuteronomy 18:20–22 warns against speaking in the LORD’s name what he has not commanded, speaking in the name of other gods, and fearing a claimed word that does not come to pass. The tests concern loyalty to the LORD and whether a speaker truly speaks on his authority. They cannot be reduced to *“Anyone who calls a divinely sent man a man is blaspheming.”*
 
@@ -45,9 +45,11 @@ Paul likewise speaks of “one God” and “one mediator between God and men, *
 
 ## The Accusation in John 10
 
-Jesus’ opponents accused him of blasphemy: “you, being a man, **make yourself God**” (John 10:33). Their words show that a charge of blasphemy can arise precisely at the point where Jesus’ identity is contested. They are an accusation, however, not Jesus’ own confession.
+Jesus’ opponents accused him of blasphemy: “you, being a man, **make yourself God**” (John 10:33). That is their description of his claim, not Jesus’ own confession. Jesus answers by identifying what he *did* say: “I am the **Son of God**” (John 10:36).
 
-In his reply Jesus asks why they say he blasphemes when he has said, “I am the **Son of God**” (John 10:36). His answer must be read in the context of the whole exchange. *Neither the opponents’ accusation nor this reply alone resolves every question raised by John’s Gospel.* The distinction still matters: repeating what Jesus’ opponents charged is not the same as establishing that their description of his claim was correct. The argument about his identity needs more than an accusation.
+He then asks them to judge that claim by Scripture rather than by their accusation. Citing Psalm 82:6: “I said, you are **gods**”. Jesus notes that Scripture used such language for those “to whom the **word of God came**” (John 10:34–35). How, then, can they call it blasphemy when the one whom the Father **consecrated and sent** says he is God’s Son (John 10:36)? His point is not that Psalm 82 proves everything about his identity. It is that their objection to his words does not justify their charge.
+
+Jesus also appeals to the **works of his Father**: even if they do not believe his words, they should consider what his works show (John 10:37–38). He is not claiming to make himself God, but instead he is defending his claim **to be the Son whom the Father sent**.
 
 ## Conclusion
 
