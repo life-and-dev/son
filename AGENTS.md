@@ -7,6 +7,7 @@
 * **bold** keyword in quoted scriptures discussed in article.
 * opinions are quoted in *italics*
 * When formatting text, keep inline md links.
+* When comparing false case with truth: First present false case then end with truth.
 
 ## Links
 
