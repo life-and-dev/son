@@ -77,7 +77,7 @@ and
 > For who is God, but the LORD ([YHWH](https://ofgod.info/name#lord))?
 > And who is a rock, except our God?
 >
-> —Psalm 18:31 (ESV)
+> — Psalm 18:31 (ESV)
 
 and
 
@@ -123,7 +123,7 @@ This is what Isaiah taught:
 > Indeed ***there is no other Rock***;
 > ***I know not one***.’”
 >
-> —Isaiah 43:10, 44:6-8 (NKJV)
+> — Isaiah 43:10, 44:6-8 (NKJV)
 
 and
 
@@ -160,7 +160,7 @@ and
 > **I am God, and there is no other**;
 > **I am God, and there is none like Me**,
 >
-> —Isaiah 45:18,21-22; 46:9 (NKJV)
+> — Isaiah 45:18,21-22; 46:9 (NKJV)
 
 This is what the Levites believed:
 
@@ -180,19 +180,19 @@ This is what Zechariah prophesied:
 
 > On that day **the LORD ([YHWH](https://ofgod.info/name#lord)) will be one** and His name One. — Zechariah 14:9 (ESV)
 
-Trinitarians look at this prophecy and reason that Isaiah was referring to the [Godhead](https://eternal.family.net.za/bible/concepts/godhead) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](https://eternal.family.net.za/god/son/essence/as-god/similarities). However, Isaiah believed that [YHWH](https://eternal.family.net.za/god/father#name) (translated as "the LORD") Who was speaking is [the Father](https://eternal.family.net.za/god/father):
+Trinitarians look at this prophecy and reason that Isaiah was referring to the [Godhead](trinity/godhead.md) and there is only 1 Godhead, but [inside the Godhead we have an equal Father and Son](https://). However, Isaiah believed that [YHWH](https://ofgod.info/name#yhwh) (translated as "the LORD") Who was speaking is [the Father](https://ofgod.info):
 
-> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O [LORD *(YHWH)*](https://eternal.family.net.za/god/father#name), are **our Father**. — Isaiah 63:16 (ESV)
+> For **you are our Father**, though Abraham does not know us, and Israel does not acknowledge us; you, O [LORD *(YHWH)*](https://ofgod.info/name), are **our Father**. — Isaiah 63:16 (ESV)
 
-> O [LORD *(YHWH)*](https://eternal.family.net.za/god/father#name), you are our Father. — Isaiah 64:8 (ESV)
+> O [LORD *(YHWH)*](https://ofgod.info/name), you are our Father. — Isaiah 64:8 (ESV)
 
-Jeremiah also believed that [YHWH](https://eternal.family.net.za/god/father#name) is the Father:
+Jeremiah also believed that [YHWH](https://ofgod.info/name) is the Father:
 
 > “I said, 'How I would **set you among My sons**, and give you a pleasant land, a heritage most beautiful of all nations.'
 >
 > And I thought you would call Me, **'My Father'**, and would not turn from following Me.
 >
-> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHWH)*](https://eternal.family.net.za/god/father#name).
+> Surely, as a treacherous wife leaves her husband, so have you been treacherous to Me, O house of Israel", declares [the LORD *(YHWH)*](https://ofgod.info/name).
 >
 > — Jeremiah 3:19-20 (ESV)
 
@@ -210,9 +210,20 @@ If Jesus were God and came with His own honor, He would be guilty of the same th
 
 > Jesus spoke these words, lifted up His eyes to heaven, and said... "And this is eternal life, that they may know You, **the only true God**, and Jesus Christ whom You have sent." — John 17:1,3 (ESV)
 
-Some argue that this is true for the Old Testament before Jesus was born, but Paul also believed that God is one **after** the crucifixion and after Jesus ascended:
+Some argue that this is true for the Old Testament and before Jesus was exalted, however after Jesus resurrection, Jesus was addressed as "teacher" and "lord" instead of "God". Even then Jesus told her that he had a God.
+
+> Jesus said to her, “Mary.”  
+> She turned and said to him in Aramaic, “Rabboni!” (which means **Teacher**).  
+> Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to **my Father and your Father**, to **my God and your God**.’”  
+> Mary Magdalene went and announced to the disciples, “I have seen the [Lord](https://ofgod.info/name#lord)” ⁠— and that he had said these things to her.
+>
+> — John 20:16-18 (ESV)
+
+Paul also believed that God is one **after** the crucifixion and after Jesus ascended:
 
 > **God is one** — Galatians 3:20
+
+The Greek word "heis" is used which means numerical 1.
 
 In Paul's letter to Corinthians he wrote:
 
@@ -225,7 +236,7 @@ In Paul's letter to Corinthians he wrote:
 >
 > — 1 Corinthians 8:4-6 (NKJV)
 
-Paul confirms this understanding by calling [the Father](https://eternal.family.net.za/god/father) "God" and [Christ Jesus](https://eternal.family.net.za/god/son) "man":
+Paul confirms this understanding by calling [the Father](https://ofgod.info) "God" and [Christ Jesus](https://eternal.family.net.za/god/son) "man":
 
 > For there is **[one](https://biblehub.com/greek/1520.htm) God**, and there is **[one](https://biblehub.com/greek/1520.htm) mediator** between God and men, the man Christ Jesus... — 1 Timothy 2:5 (NKJV)
 
@@ -250,7 +261,7 @@ because the [Strong&#39;s Concordance](https://biblehub.com/greek/2532.htm) stat
 | Property          | Value                    |
 | ----------------- | ------------------------ |
 | kai               | and, even, also          |
-| Original Word     | καί                   |
+| Original Word     | καί                      |
 | Part of Speech    | Conjunction              |
 | Transliteration   | kai                      |
 | Phonetic Spelling | (kahee)                  |

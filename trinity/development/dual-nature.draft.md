@@ -9,7 +9,11 @@ Chalcedon's formula aims to confess Jesus as truly human and truly divine withou
 
 ## Definition
 
-The Definition of Chalcedon, preserved [here](https://www.newadvent.org/fathers/3811.htm), was issued in 451. It says Christ is one and the same Son, acknowledged in two natures, without confusion, change, division, or separation. It does not teach two persons, a changing divine role, or a merely apparent human life. Predicates may be assigned nature-relatively: hunger can be human and omniscience divine. Thus the formula does not assert a strict contradiction in the same respect.
+[The Definition of Chalcedon](https://www.newadvent.org/fathers/3811.htm), was issued in 451. It says Christ is one and the same Son, acknowledged in two natures, without confusion, change, division, or separation. It does not teach two persons, a changing divine role, or a merely apparent human life. Predicates may be assigned nature-relatively. For example, hunger can be human and omniscience divine. Thus the formula attempts to *resolve any contradictions* regarding Jesus attributes.
+
+This distinction aims to affirm both the divine Son's immortality, unlimited power, and knowledge and the human Son's mortality and limitations, without making the Son of God and Son of Man two persons. Describing how both sets of claims can be affirmed is not, by itself, evidence that Jesus possessed two natures.
+
+The later Western [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html) describes the Father, Son, and Holy Spirit as **coeternal** and **coequal**. It also confesses Christ as God and man. Its account of three persons in the Trinity should not be confused with Chalcedon's account of two natures in one person.
 
 ```mermaid
 flowchart TD
@@ -17,17 +21,15 @@ flowchart TD
     P --> H[Human nature]
 ```
 
-Both branches belong to one personal subject. The diagram does not depict role-switching, mixture, or two persons cooperating.
-
 ## Biblical Tests
 
 ### Old Testament
 
-The LORD is **holy** and unlike sinful humanity. The Old Testament promises a human Davidic king, for example “your **offspring** after you” in 2 Samuel 7:12 and a “**shoot** from the stump of Jesse” in Isaiah 11:1, rather than explicitly stating that the LORD will acquire a human nature. This supports a cautious distinction between God's identity and His anointed representative. It accords with the monotheistic framework in [the Shema](../../shema.md).
+The LORD is **[holy](https://kingdom.ofgod.info/terms/holy)** and unlike sinful humanity. The Old Testament promises a **human** Davidic king, for example “your **offspring** after you” in 2 Samuel 7:12 and a “**shoot** from the stump of Jesse” in Isaiah 11:1, rather than explicitly stating that the LORD will acquire a human nature. This supports a cautious distinction between God's identity and His anointed representative. It accords with the monotheistic framework in [the Shema](../../shema.md).
 
 ### New Testament
 
-Mark 13:32 says that concerning the day or hour “nor the **Son**” knows, while James 1:13 says “God **cannot be tempted** with evil.” Jesus is nevertheless tempted. Acts 2:22 calls him “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These passages provide strong positive evidence for Jesus' genuine humanity.
+Mark 13:32 says that concerning the day or hour “**nor the Son” knows**, yet **God is omniscient**. James 1:13 says “God **cannot be tempted** with evil.” [Jesus is nevertheless tempted](../../son-of-man/temptations.md). Acts 2:22 calls him “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These passages provide strong positive evidence for Jesus' genuine humanity.
 
 Chalcedonian readers answer that the Son can lack knowledge and be tempted according to his human nature, while remaining divine according to another nature. That is logically possible if nature-relative predicates and a single personal subject are established. The texts themselves, however, speak of Jesus as one acting and suffering subject. The question is whether two natures explain that subject better than the Father's empowering a fully human Son.
 
@@ -45,6 +47,10 @@ The strongest defence says Chalcedon protects both sides of Scripture. A merely 
 
 The reply grants that Chalcedon is not the crude claim that “God died” without qualification, and it should never be criticised through that strawman. The difficulty is biblical warrant and personal-subject explanation. If the one person is divine, who exactly does not know, pray, learn, and die? Nature-relative language can prevent a formal contradiction because predicates are qualified in different respects. It does not by itself explain how one personal subject possesses two ranges of awareness and experience, or how the subject relates to each nature. The human-Son reading takes the plain human predicates as direct description.
 
+Terms such as *hypostasis* (person) and *consubstantial* (of the same substance) help state the creeds' claims precisely. They do not independently establish those claims from Scripture. Some defenders appeal to [mystery](https://church.ofgod.info/terms/mystery) or to the limits of a finite human mind. Not fully understanding a proposed union does not disprove it; human limits do not prove it either.
+
+1 Timothy 3:16 speaks of the **mystery** of godliness, and 1 Corinthians 13:12 describes knowledge as partial. Neither passage, by itself, establishes two natures in one person. James 3:17 describes wisdom from above as **“open to reason”** and **“impartial and sincere”** (ESV). Its subject is wisdom's character, not a direct test of Chalcedon's formula. Biblical evidence for that formula remains the question.
+
 ## Conclusion
 
-Chalcedon is a carefully limited [one-person, two-natures formula](#definition), not a two-person theory. Its [nature-relative defence](#new-testament) avoids a strict contradiction, while the Father-alone reading questions whether Scripture requires its added personal-subject premises.
+Chalcedon is a carefully limited [one-person, two-natures formula](#definition), not a two-person theory. Its [nature-relative defence](#new-testament) avoids a strict contradiction, while the Father-alone reading questions whether Scripture requires its added personal-subject premises. The proposed distinction between divine and [human nature](../nature.md) can make conflicting attributes coherent when qualified in different respects; coherence alone does not establish the incarnation from the [biblical tests](#biblical-tests).
