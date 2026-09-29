@@ -19,7 +19,11 @@ Jesus described the Father as the only true God and himself as the one sent on a
 
 Paul's statement that “the head of Christ is God” (1 Corinthians 11:3) is considered in [the Apostle Paul's testimony](has-a-god.md#the-apostle-paul).
 
+Some argue that Jesus submitted to God only during his earthly life. Paul describes what happens at the end:
+
 > Now when all things are made subject to him, then **the Son himself will also be subject to Him** who put all things under him, that God may be all in all. — 1 Corinthians 15:28 (NKJV)
+
+The kingdom is delivered to the Father at the end under God's submittion. This means [Jesus still has a God](has-a-god.md). Paul's description places Jesus' submission beyond his earthly ministry.
 
 In the Garden of Gethsemane, Jesus submitted his will to the Father's:
 
