@@ -3,7 +3,7 @@ description: What it means to believe in Jesus, the gospel preached by Jesus and
 keywords: salvation, faith, believe in Jesus, gospel, repentance, resurrection
 ---
 
-# What Does It Mean to Believe in Jesus?
+# Salvation
 
 Believing in Jesus is not merely agreeing that he exists or trying to produce enough certainty to be saved. It means trusting the Father and his promises through Jesus. The Father calls people to repent and receive salvation through his Son’s death and resurrection.
 
