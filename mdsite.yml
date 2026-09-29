@@ -62,11 +62,8 @@ menu:
       - love-of-god
       - salvation
       - unforgivable-sin
-  - modalism
-  - partialism
   - trinity:
-    - development:
-      - modalism
+    - development
     - witnesses
     - godhead
     - jesus-relationships
@@ -80,6 +77,8 @@ menu:
     - The Father: /shema
     - The Son: /nature
     - holy-spirit
+  - modalism
+  - partialism
 site:
   canonical: https://son.ofgod.info
   favicon: logo.svg
