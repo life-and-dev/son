@@ -48,7 +48,7 @@ The Greek verb [γινώσκω](https://www.blueletterbible.org/lexicon/g1097/es
 
 Scripture uses *know* in distinct ways. Jesus speaks of understanding when he says, “if you had **known** what this means” (Matthew 12:7, ESV). The LORD speaks of a particular relationship with Israel: “You only have I **known** of all the families of the earth; therefore I will punish you for all your **iniquities**” (Amos 3:2, ESV). The Lord describes mutual recognition between shepherd and sheep: “I **know** my own and my own **know** me” (John 10:14). In Amos, that relationship does not excuse wrongdoing.
 
-In Matthew 7 Jesus says that he never knew them, not because he lacked information, but because he fails to recognising them as followers who obey his Father's will (Matthew 7:21).
+Jesus does not say “I never **knew** you” because he lacks information (Matthew 7:23), but because he does not recognize them as followers who do his Father’s will (Matthew 7:21).
 
 > [!NOTE]
 > This does not set a number of good deeds by which someone earns recognition. Ephesians 2:8–10 holds together salvation by grace through faith, not by works, and a life made for good works. Obedience matters, but it is not a payment that forces Jesus to accept us. Nor does every failure mean that Jesus’ rejects that person. 1 John warns against claiming to be without sin and points those who sin to confession and to Jesus Christ as advocate with the Father (1 John 1:8–2:2).

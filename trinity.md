@@ -47,11 +47,29 @@ The biblical accounts do not present belief in a co-equal Trinity. [Jesus affirm
 
 Together, these witnesses support the conclusion that Trinitarian belief is not expressed in these biblical accounts.
 
+## Was the Trinity Israel’s Original Belief?
+
+One possible defense is that *Israel originally knew God as three coequal persons but later abandoned that belief.* Often the argument state that everyone knew this *since Genesis, so no explanation is needed.* These claim **needs evidence** of the earlier belief because Israel’s confession in [the Shema](shema.md) (Deuteronomy 6:4) establishes **one** God.
+
+### Lack of Historical Evidence
+
+The available witnesses **do not establish that pre-Christian Jews widely professed a doctrine of three coequal persons** and then abandoned it. Writing in the late first century, Josephus said, “There ought also to be but one temple for **one God**” ([*Against Apion* II.24](https://www.gutenberg.org/cache/epub/2849/pg2849-images.html)). This witnesses to one-God worship, not to a dispute over the later Trinity doctrine.
+
+In the mid-second century, Justin told Trypho, “Nor do we think that there is **one God** for us, another for you” ([*Dialogue with Trypho* 11](https://www.newadvent.org/fathers/01282.htm)). His Christian literary dialogue portrays a shared confession of one God amid disagreement about Jesus.
+
+A [modern historical account](https://plato.stanford.edu/entries/trinity/trinity-history.html) states, “**No trinitarian doctrine is taught** in the Old Testament” and “The New Testament contains **no explicit trinitarian doctrine**.” That assessment distinguishes an explicit doctrine from later interpretations.
+
+### Does Progressive Revelation Explain the Doctrine?
+
+Another defense is that *knowledge of God developed through revelation, not that one God became three gods.*
+
+After Jesus’ resurrection, Paul wrote, “yet for us there is **one God, the Father**” and “**one Lord, Jesus Christ**” (1 Corinthians 8:6). Trinitarians may read this as *compatible* with their doctrine. The question is where Scripture positively **establishes the fuller conclusion, rather than assuming** that every triadic reference does so. Later [creed formulations](trinity/development.md) document doctrinal development, but **do not themselves prove divine revelation**. The evidence challenges an always-explicit, inherited Trinity.
+
 ## Missing evidence
 
-* There are no scriptures that define God as being Father, Son, and Holy Spirit.
-* There are no scriptures that define God as 3, 3 in 1, or a combination of personalities, parts, modes or aspects.
-* The Jewish Rabbis, Scribes, Pharisees, and Priests spend a great deal of time studying the Tanach (Old Testament) in their own language. If there was any proof of a Trinity, they would have noticed it. Yet we see through history the Jews fiercely defended the facts that there is only one God.
+* Scripture names the Father, Son, and Holy Spirit together, but these passages do not themselves define the three as coequal persons in one God.
+* Scripture does not explicitly define God as three coequal, coeternal persons or explain the later Nicene formulation.
+* The [historical-continuity question](#was-the-trinity-israels-original-belief) lacks established evidence that Israel explicitly professed a three-coequal-person doctrine and later abandoned it. This challenges an always-explicit doctrine, not every claim of later revelation.
 * There are no scriptures that say that Jesus has two natures or two minds or that he is a God-man, or that he is fully God and fully man.
 * There are no scriptures of people praying to Jesus (except face to face conversations).
 * There are no scriptures of people praying to the Holy Spirit.
@@ -93,7 +111,7 @@ Question is whether this explanation arises naturally from Gospel texts. Jesus s
 
 ### Paul names only 2 members of the Trinity
 
-Note that the Holy Spirit is always missing from Paul's blessings, which implies that Paul did not consider the Holy Spirit important enough to be considered as part of the "Trinity".
+The Holy Spirit is absent from the opening greetings listed below, but Paul's closing benediction in 2 Corinthians 13:14 includes the Holy Spirit. Those omissions alone do not establish what Paul believed about the Holy Spirit.
 
 Paul mentions:
 
@@ -224,7 +242,9 @@ This does not describe coequal Trinity members.
 
 The orthodox Trinity defines one God as three distinct, coequal and coeternal persons, Father, Son and Holy Spirit, who share one divine essence. This definition is not established by the evidence considered here. Scripture identifies the [one God as the Father](trinity/development.md#monotheism), not as three persons.
 
-Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](son-of-man/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God&#39;s own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
+The [historical-continuity evidence](#was-the-trinity-israels-original-belief) also challenges the claim that Israel explicitly inherited this definition.
+
+Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](son-of-man/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God's own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
 
 No passage [defines God as three coequal persons or Jesus as possessing two natures](#missing-evidence). Later creed terms, including [*homoousios*](trinity/development.md#the-problem-with-homoousios), and the [dual-nature formulation](trinity/development.md#dual-nature) cannot replace explicit Scripture. If even one required claim fails, the Trinity definition fails. This article argues that all its central claims fail.
 

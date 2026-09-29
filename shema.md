@@ -52,6 +52,8 @@ God refers to Himself as one:
 
 > God spoke all these words, saying, "**I am** the LORD ([YHWH](https://ofgod.info/name#lord)) your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before **me**." — Exodus 20:1-3 (ESV)
 
+According to dr. Dustin Smith, there are more than 20,000 singular pronounce in the Hebrew Old Testament referring to God.
+
 This is what Moses believed:
 
 > To you it was shown, that you might know that the LORD ([YHWH](https://ofgod.info/name#lord)) is God; **there is no other besides Him**... know therefore today, and lay it to your heart, that the LORD *(YHWH)* is God in heaven above and on the earth beneath; **there is no other**. — Deuteronomy 4:35,39 (ESV)
@@ -127,7 +129,7 @@ This is what Isaiah taught:
 
 and
 
-> For thus says the [LORD](https://eternal.family.net.za/god/name#yhwh),
+> For thus says the [LORD](https://ofgod.info/name#yhwh),
 > Who created the heavens,
 > Who is God,
 > Who formed the earth and made it,
@@ -301,28 +303,24 @@ Even, in the future, the book of Revelation reveals:
 
 ## What This Means for You
 
-You have seen the testimony of Scripture. From Moses to the prophets, from Jesus Himself to the apostles, the message remains unchanged:
+Trinitarians also profess one God. The question is whom Scripture identifies as that one God. The evidence forms a cumulative case:
 
-*God is one. Not three persons in one being. Not a compound unity. Just one.*
+1. [The Shema](#what-the-shema-teaches) confesses that the LORD is one, or alone (Deuteronomy 6:4). The word *echad* carries no built-in three-person meaning, though the word alone does not settle the number of persons.
 
-Scripture speaks clearly:
+2. [Jesus affirmed Israel’s confession](#jesus-reinforced-the-jewish-belief-of-a-single-god). In Mark 12:28–34, a scribe affirmed that God is one and no other exists besides Him. Jesus judged his answer wise rather than correcting his understanding of God.
 
-*The Father alone is the only true God.*
+3. [The LORD’s commands to Israel](#god-in-the-old-testament) demand exclusive worship (Exodus 20:1–3). Deuteronomy 4:35, 39 and 32:39 likewise deny any god besides Him. God speaks as a single personal speaker; that ordinary reading supports the case without making pronouns a mathematical proof.
 
-This isn't a theological riddle requiring complex explanations. It's the consistent testimony from Genesis to Revelation. [The Trinity doctrine](trinity.md), developed centuries after the apostles, requires reading later theological frameworks back into texts that knew nothing of them.
+4. [Israel’s witnesses and prophets](#god-in-the-old-testament) (including Hannah, David, Solomon, Hezekiah, Nehemiah, Hosea, Joel, and Isaiah) repeat this exclusive confession. Psalm 90:2 calls God everlasting, while Isaiah 43–46 repeatedly denies any other God. The claim spans generations, not one isolated verse.
 
-Consider the implications:
+5. [The LORD is called Father](#god-in-the-old-testament) in Isaiah 63:16 and 64:8. Jeremiah 3:19–20 speaks of the Father, and Malachi 2:10 joins one Father with one God. The Father’s identification belongs to Israel’s testimony as well as the apostles’.
 
-- When Scripture says "one God," does it mean one being composed of three persons, or simply one?
-- When Jesus prays to the Father as "the only true God," does He exclude Himself from deity?
-- When Paul writes "one God, the Father," is he distinguishing the Father from the Son?
+6. [Jesus identifies His Father](#god-in-the-new-testament) as “the **only true God**” and Himself as the one sent by Him (John 17:3). After His resurrection, Jesus still says “**my God and your God**” (John 20:17). John 5:41–44 likewise directs attention to the Father’s authority.
 
-The Shema answers these questions:
+7. [Paul identifies “one God, the Father”](#god-in-the-new-testament) and distinguishes Him from “one Lord, Jesus Christ” (1 Corinthians 8:4–6). In 1 Timothy 2:5, the one God is distinguished from His mediator, “the man Christ Jesus.” Paul’s statements identify God and Jesus by their relationship, not merely by a shared commitment to monotheism.
 
-> The LORD our God, the LORD is one.
+8. [Other apostolic statements](#god-in-the-new-testament) maintain that pattern: Galatians 3:20 and James 2:19 affirm one God; Ephesians 4:6 identifies the “**one God and Father of all**.” Romans 16:27 and 1 Timothy 1:17 honor the only God. First Corinthians 12:4–6 distinguishes Spirit, Lord, and God without defining them as three coequal persons.
 
-Jesus affirmed this truth. The apostles taught it.
+9. [The future confession](#god-in-the-old-testament) in Zechariah 14:9 still declares the LORD one. [Revelation 16:5–7](#god-in-the-new-testament) echoes worship of the righteous Almighty; it corroborates rather than supplies the sole basis for the case.
 
-The question is whether you will accept what Scripture plainly states, or maintain a doctrine that Scripture never explicitly teaches.
-
-Search the Scriptures. Let them speak for themselves.
+Taken together, [Israel’s confession](#what-the-shema-teaches), [Jesus’ teaching](#jesus-reinforced-the-jewish-belief-of-a-single-god), and [apostolic testimony](#god-in-the-new-testament) identify **the Father as the one God** and Jesus as His sent Messiah/mediator and not another God alongside Him. That conclusion rests on Scripture’s repeated identification of God, not on claiming that the word *one* alone settles every disputed interpretation.
