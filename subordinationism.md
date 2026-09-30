@@ -3,7 +3,7 @@ description: A distinction between biblical authority order and models that make
 keywords: subordinationism, Tertullian, Origen, Father and Son, authority, pre-existence
 ---
 
-# Subordinationism (1 God + 1 Lessor God)
+# Subordinationism (1 God + Lessor Gods)
 
 Subordinationism is an umbrella term. A useful critique must distinguish unequal authority from a claim about unequal divine being.
 
