@@ -5,13 +5,14 @@ features:
   source-edit: https://github.com/life-and-dev/son/blob/main/
 menu:
   - name:
+    - Invented Names: ===
+    - word
+    - son-as-angel
+    - son-as-god
+    - Biblical Names: ===
     - The Son Of God: /
     - son-of-man
     - purpose
-    - ===
-    - son-as-angel
-    - son-as-god
-    - word
     - ===
     - sons-of-god
   - The Natures of Jesus: ===
@@ -51,18 +52,9 @@ menu:
     - ===
     - why
   - The Models of God: ===
-  - shema:
-    - jesus-today
-    - prayer-to-jesus
-    - unitarianism
-    - concerns:
-      - blasphemy
-      - fellowship
-      - known-by-jesus
-      - love-of-god
-      - price
-      - salvation
-      - unforgivable-sin
+  - modalism
+  - partialism
+  - subordinationism
   - trinity:
     - development
     - witnesses
@@ -78,8 +70,18 @@ menu:
     - The Father: /shema
     - The Son: /nature
     - holy-spirit
-  - modalism
-  - partialism
+  - shema:
+    - jesus-today
+    - prayer-to-jesus
+    - unitarianism
+    - concerns:
+      - blasphemy
+      - fellowship
+      - known-by-jesus
+      - love-of-god
+      - price
+      - salvation
+      - unforgivable-sin
 site:
   canonical: https://son.ofgod.info
   favicon: logo.svg
