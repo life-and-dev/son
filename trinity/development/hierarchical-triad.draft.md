@@ -33,7 +33,7 @@ Jesus calls the Father “the only true **God**” in John 17:3 and identifies h
 
 The following are interpretive premises, not quoted biblical conclusions: the Logos is a personal pre-existent being; being begotten entails a lesser rank; and third place describes a distinct Spirit-person. From these premises Justin can infer a hierarchy. His statement that the Logos is *“another God and Lord subject to the Maker”* is evidence for Justin's own subordinating account. It is not proof that Scripture teaches two rival true gods. Whether “God” is honourific, representative, or ontological must be argued from context rather than assumed.
 
-The defended reading instead treats the Father as the sole Almighty God, Jesus as the human Son and Christ whom God sent and exalted, and the Spirit as God's active interaction. This reading is developed alongside [Jesus' humanity](../../son-of-man/human.md) and [his distinction from God](../../son-of-man/distinct.md). It does not deny that Justin used lofty Logos language; it questions whether that premise is required by the apostolic texts.
+The defended reading instead treats the Father as the sole Almighty God, Jesus as the human Son and Christ whom God sent and exalted, and the Spirit as God's active interaction. This reading is developed alongside [Jesus' humanity](../../human.md) and [his distinction from God](../../human/distinct.md). It does not deny that Justin used lofty Logos language; it questions whether that premise is required by the apostolic texts.
 
 ## Strongest Defence and Reply
 

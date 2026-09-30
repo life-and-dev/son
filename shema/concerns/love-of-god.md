@@ -7,7 +7,7 @@ keywords: God's love, Father and Son, Jesus' death, sacrifice, resurrection
 
 *If the Father loved His Son, why send him to die instead of dying Himself?* This is a serious moral question, especially for anyone who has seen a parent demand suffering from a child. It deserves more than an assurance that the outcome was good.
 
-The question also needs an accurate account of what Christians claim. The Father is [distinct](../../son-of-man/distinct.md) from the Son. Christians do not generally say that *the Father died*. Most Christians affirm that **the Son suffered and died**.
+The question also needs an accurate account of what Christians claim. The Father is [distinct](../../human/distinct.md) from the Son. Christians do not generally say that *the Father died*. Most Christians affirm that **the Son suffered and died**.
 
 ## The Father's Compassion and Love
 
@@ -21,7 +21,7 @@ Likewise, 1 John 4:9–10 places the initiative with God. The Father sent His So
 
 ## The Son Gives Himself Willingly
 
-An unwilling child handed over to violence would be a disturbing comparison. Jesus’ own words resist it. Speaking of his life, he says, “No one takes it from me, but I **lay it down of my own accord**” (John 10:18). His [temptations](../../son-of-man/temptations.md) show that his obedience was tested (Matthew 4:1–11). He also says that he received this charge from his Father. His willing action does not cancel [the Father’s initiative](#the-fathers-compassion-and-love). The Father’s command does not erase the Son’s agency.
+An unwilling child handed over to violence would be a disturbing comparison. Jesus’ own words resist it. Speaking of his life, he says, “No one takes it from me, but I **lay it down of my own accord**” (John 10:18). His [temptations](../../human/temptations.md) show that his obedience was tested (Matthew 4:1–11). He also says that he received this charge from his Father. His willing action does not cancel [the Father’s initiative](#the-fathers-compassion-and-love). The Father’s command does not erase the Son’s agency.
 
 Willingness, however, does not turn suffering into something easy or make consent a general excuse for another person to demand a sacrifice. Jesus’ particular mission gives no parent, leader or institution permission to force someone else into harm. The claim is about what this Son gave of himself, not a rule that vulnerable people must accept abuse.
 

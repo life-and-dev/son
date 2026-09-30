@@ -29,7 +29,7 @@ The LORD is **[holy](https://kingdom.ofgod.info/terms/holy)** and unlike sinful 
 
 ### New Testament
 
-Mark 13:32 says that concerning the day or hour “**nor the Son” knows**, yet **God is omniscient**. James 1:13 says “God **cannot be tempted** with evil.” [Jesus is nevertheless tempted](../../son-of-man/temptations.md). Acts 2:22 calls him “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These passages provide strong positive evidence for Jesus' genuine humanity.
+Mark 13:32 says that concerning the day or hour “**nor the Son” knows**, yet **God is omniscient**. James 1:13 says “God **cannot be tempted** with evil.” [Jesus is nevertheless tempted](../../human/temptations.md). Acts 2:22 calls him “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These passages provide strong positive evidence for Jesus' genuine humanity.
 
 Chalcedonian readers answer that the Son can lack knowledge and be tempted according to his human nature, while remaining divine according to another nature. That is logically possible if nature-relative predicates and a single personal subject are established. The texts themselves, however, speak of Jesus as one acting and suffering subject. The question is whether two natures explain that subject better than the Father's empowering a fully human Son.
 

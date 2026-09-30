@@ -23,7 +23,7 @@ Peter addresses Israel, identifies Jesus as a man attested by God, says God rais
 
 > Men of Israel, hear these words:
 >
-> Jesus of Nazareth, **[a man](son-of-man/human.md)** attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know — this Jesus, delivered up according to [the definite plan and foreknowledge of God](../../word.md), you [crucified and killed](love-of-god.md) by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
+> Jesus of Nazareth, **[a man](human.md)** attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know — this Jesus, delivered up according to [the definite plan and foreknowledge of God](../../name/word.md), you [crucified and killed](love-of-god.md) by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
 >
 >> “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;  
 >> therefore my heart was glad, and my tongue rejoiced;  
@@ -59,7 +59,7 @@ Peter credits the God of Abraham, Isaac, and Jacob with glorifying his servant J
 >
 > “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk?
 >
-> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified His [servant Jesus](../../son-of-man/serve-god.md), whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed the *author* *[leader]* of [life](../../son-as-god/claims/life.md), whom God raised from the dead. To this we are witnesses. And [his name](../../name.md) ⁠— by [faith](https://word.ofgod.info/terms/faith) in [his name](../../name.md) ⁠— has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified His [servant Jesus](../../human/serve-god.md), whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed the *author* *[leader]* of [life](../../divine/claims/life.md), whom God raised from the dead. To this we are witnesses. And [his name](../../name.md) ⁠— by [faith](https://word.ofgod.info/terms/faith) in [his name](../../name.md) ⁠— has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
 >
 > And now, brothers, I know that you acted in ignorance, as did also your rulers. But what [God foretold by the mouth of all the prophets](https://prophecies.ofgod.info/messianic), that His [Christ](https://kingdom.ofgod.info/christ) would suffer, he thus fulfilled. [Repent](https://kingdom.ofgod.info/life/repentance) therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus, whom heaven must receive until the time for restoring all the things about which God spoke by the mouth of his holy prophets long ago. 
 >
@@ -71,13 +71,13 @@ Peter credits the God of Abraham, Isaac, and Jacob with glorifying his servant J
 >
 >> ‘And in your offspring shall all the families of the earth be blessed.’
 >
-> God, having raised up [His servant](../../son-of-man/serve-god.md), sent him to you first, to bless you by turning every one of you from your wickedness.”
+> God, having raised up [His servant](../../human/serve-god.md), sent him to you first, to bless you by turning every one of you from your wickedness.”
 >
 > — Acts 3:12 - 3:26 (ESV)
 
 Many who hear the word believe. Acts 4:4 reports that the number of the men came to about **5000**.
 
-Although God is the source of life, the same Greek word translated as "author" could also mean "leader". This is inline with [the purpose of Jesus](../../purpose.md) to be the way, the truth and the life. Peter would not called Jesus the "servant" of God if he intended to communicate that Jesus is the God of life.
+Although God is the source of life, the same Greek word translated as "author" could also mean "leader". This is inline with [the purpose of Jesus](../../name/purpose.md) to be the way, the truth and the life. Peter would not called Jesus the "servant" of God if he intended to communicate that Jesus is the God of life.
 
 ### Peter in Cornelius’s household
 
@@ -85,7 +85,7 @@ Peter announces that God anointed Jesus, raised him after his death, appointed h
 
 > So Peter opened his mouth and said:
 >
-> “Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him. As for [the word](../../word.md) that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him. And we are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree, but God raised him on the third day and made him to appear, not to all the people but to us who had been chosen by God as witnesses, who ate and drank with him after he rose from the dead. And he commanded us to preach to the people and **to testify that he is the one appointed by God** to be judge of the living and the dead. To him all [the prophets bear witness](https://prophecies.ofgod.info/messianic) that everyone who believes in him receives forgiveness of sins through [his name](../../name.md).”
+> “Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him. As for [the word](../../name/word.md) that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him. And we are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree, but God raised him on the third day and made him to appear, not to all the people but to us who had been chosen by God as witnesses, who ate and drank with him after he rose from the dead. And he commanded us to preach to the people and **to testify that he is the one appointed by God** to be judge of the living and the dead. To him all [the prophets bear witness](https://prophecies.ofgod.info/messianic) that everyone who believes in him receives forgiveness of sins through [his name](../../name.md).”
 >
 > While Peter was still saying these things, [the Holy Spirit](../../trinity/holy-spirit.md) fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles. For they were hearing them speaking in tongues and extolling God.
 >
@@ -143,7 +143,7 @@ Paul recounts God’s dealings with Israel, presents Jesus as the promised Savio
 >
 >> “‘[I have made you a light](https://kingdom.ofgod.info/light) for the Gentiles, that you may bring salvation to the ends of the earth.’”
 >
-> And when the Gentiles heard this, they began rejoicing and glorifying [the word](../../word.md) of the Lord, and as many as were appointed to eternal life believed. And the word of the Lord was spreading throughout the whole region.
+> And when the Gentiles heard this, they began rejoicing and glorifying [the word](../../name/word.md) of the Lord, and as many as were appointed to eternal life believed. And the word of the Lord was spreading throughout the whole region.
 >
 > — Acts 13:16-49 (ESV)
 

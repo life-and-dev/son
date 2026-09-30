@@ -37,7 +37,7 @@ Yet agency language does not itself prove that the Spirit is a separate hypostas
 
 The creed's conclusion uses added ontology: “Lord” is a divine title in the same sense as Father and Son; procession denotes an eternal personal relation; joint worship establishes equal deity; and the three baptismal names establish three coequal persons. Each may be defended, but none is simply restating a verse. Acts 5:3–4 may indicate that lying to God's Spirit is lying to God because the Spirit is God at work; it does not alone settle personal distinction. Conversely, calling the Spirit an impersonal force does not follow from agency language either. Both conclusions need an account of how biblical speech about God's presence works.
 
-The Father-alone reading does not deny the Spirit's holiness, life-giving power, or divine authority. It asks whether those realities require a distinct divine person. It also preserves the scriptural distinction between God and His Christ, developed in [Jesus' distinction from God](../../son-of-man/distinct.md).
+The Father-alone reading does not deny the Spirit's holiness, life-giving power, or divine authority. It asks whether those realities require a distinct divine person. It also preserves the scriptural distinction between God and His Christ, developed in [Jesus' distinction from God](../../human/distinct.md).
 
 ## Strongest Defence and Reply
 

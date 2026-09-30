@@ -14,7 +14,7 @@ This website is the fruit of that ongoing exploration. I'm still learning, still
 
 ### The Heart Behind This Website
 
-My intention is to draw a clear [distinction](son-of-man/distinct.md) between **God the Father** and **the Son of God**. I have no intention to [blaspheme](https://word.ofgod.info/terms/blasphemy) God or to uncrown the Lord Jesus, but instead to **[glorify](https://word.ofgod.info/terms/glory) both in their rightful positions**.
+My intention is to draw a clear [distinction](human/distinct.md) between **God the Father** and **the Son of God**. I have no intention to [blaspheme](shema/concerns/blasphemy.md) God or to uncrown the Lord Jesus, but instead to **[glorify](https://word.ofgod.info/terms/glory) both in their rightful positions**.
 
 - I do belief in [God the Father](https://ofgod.info).
 - I do belief in the [Son of God](index.md).

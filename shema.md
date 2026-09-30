@@ -4,7 +4,7 @@ keywords: Shema, Trinity, oneness of God, Deuteronomy 6:4, echad, monotheism, on
 ---
 # The Shema (1 God = 1 LORD)
 
-As a non-Jewish Christian, I struggled with a fundamental question: [How can the Trinity be one?](godhead.md) [I was taught that God is three persons](trinity.md) in one [Godhead](godhead.md). The Father is God, [the Son is God](son-as-god.md), and [the Holy Spirit is God](trinity/holy-spirit.md).
+As a non-Jewish Christian, I struggled with a fundamental question: [How can the Trinity be one?](godhead.md) [I was taught that God is three persons](trinity.md) in one [Godhead](godhead.md). The Father is God, [the Son is God](name/son-as-god.md), and [the Holy Spirit is God](trinity/holy-spirit.md).
 
 Yet we proclaim there is [only one God](shema/unitarianism.md). This seemed contradictory. If three distinct persons are each fully God, how can we honestly say God is one? I needed to understand what Scripture actually teaches about the oneness of God.
 

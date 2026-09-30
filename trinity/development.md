@@ -126,7 +126,7 @@ However, this theology fails when:
 
 According to Modalism, the *Father is His own son!*
 
-Modalism fails when Daniel (Daniel 7:14), Stephen (Acts 7:55-56), and John (Revelation 4:2 and 5:2-6) saw [Jesus as a distinct person from God](../son-of-man/distinct.md).
+Modalism fails when Daniel (Daniel 7:14), Stephen (Acts 7:55-56), and John (Revelation 4:2 and 5:2-6) saw [Jesus as a distinct person from God](../human/distinct.md).
 
 ## Trinitas
 
@@ -309,8 +309,8 @@ The original Greek creed said that the Spirit proceeds **“from the Father.”*
 The most contested Trinitarians believes are:
 
 1. ***"There is only 1 God"*** ([the Shema](../shema.md) is very clear): If they dismiss it, then they have to accept paganism (many gods).
-2. ***"Jesus is not the Father"*** ([they interacted with each other](../son-of-man/distinct.md)): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
-3. ***"Jesus was 100% human"*** ([according to both Bible](../son-of-man/human.md) and creed): If they dismiss it, then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
+2. ***"Jesus is not the Father"*** ([they interacted with each other](../human/distinct.md)): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
+3. ***"Jesus was 100% human"*** ([according to both Bible](../human.md) and creed): If they dismiss it, then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
 4. ***"The Father is God, Jesus is God, the Holy Spirit is God"*** (according to creed): If they dismiss it, then they invalidate their own creed.
 
 The problem with consolidating all these points of the Nicene theology is that:
@@ -320,7 +320,7 @@ The problem with consolidating all these points of the Nicene theology is that:
 * To say all 3 Trinity Members are 1 God and 1 mind, but 3 different personalities: is a *fragmented/split/mixed* personality God (nobody will accept it)
 * To say only the Father is Almighty God and Jesus was a lessor god/angel: is [Arianism](#arianism)
 
-The simple solution is to dismiss statement #4 and accept there is truly only 1 God, [the Father](https://ofgod.info), and that [Jesus is not God](../nature.md), but [the Son of God](../index.md), [the Christ](https://kingdom.ofgod.info/christ), a human Lord [glorified](https://word.ofgod.info/terms/glory) by [his God](../son-of-man/has-a-god.md).
+The simple solution is to dismiss statement #4 and accept there is truly only 1 God, [the Father](https://ofgod.info), and that [Jesus is not God](../nature.md), but [the Son of God](../index.md), [the Christ](https://kingdom.ofgod.info/christ), a human Lord [glorified](https://word.ofgod.info/terms/glory) by [his God](../human/has-a-god.md).
 
 However, Trinitarians solve this problem by adding a few more yet another unbiblical definition to solve the Son's *"Dual-Nature"* problem.
 

@@ -44,7 +44,7 @@ Independence matters more than the number of names. Scripture can name God, His 
 
 The strongest defence says divine essence is not a species or a divisible material. Father, Son, and Spirit are inseparable in operation and possess the one identical divine being. The charge of tritheism thus misconstrues the intended doctrine.
 
-The reply concedes that this is the intended distinction. It then asks for the biblical warrant for the metaphysical claim. Isaiah's exclusive LORD language and Paul's Father-focused “one God” wording do not describe three persons sharing an essence. The Father-alone account preserves numerical monotheism without that extra proposal and maintains Jesus' real distinction, as [the Son's distinctness](../../son-of-man/distinct.md) shows.
+The reply concedes that this is the intended distinction. It then asks for the biblical warrant for the metaphysical claim. Isaiah's exclusive LORD language and Paul's Father-focused “one God” wording do not describe three persons sharing an essence. The Father-alone account preserves numerical monotheism without that extra proposal and maintains Jesus' real distinction, as [the Son's distinctness](../../human/distinct.md) shows.
 
 This reply should not claim that every essence account is formally contradictory. “Person” and “being” may be technical terms used differently, so simple arithmetic does not decide the issue. The narrower test asks whether the proposed relation is defined clearly and grounded in Scripture. Where it is not, the tritheism concern remains a diagnostic question rather than an automatic verdict.
 

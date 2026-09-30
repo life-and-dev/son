@@ -93,7 +93,7 @@ Therefore it is essential that Christ should not be an immortal God otherwise hi
 
 ## Jesus was not God
 
-[Scripture shows that Jesus had a God](son-of-man/has-a-god.md), [denies being God](son-of-man/denies-being-god.md), but instead he was considered [the Son of God](index.md). Therefore, he could not have qualified to be a member of the Trinity.
+[Scripture shows that Jesus had a God](human/has-a-god.md), [denies being God](human/denies-being-god.md), but instead he was considered [the Son of God](index.md). Therefore, he could not have qualified to be a member of the Trinity.
 
 ## Jesus Has Different Will Than His God
 
@@ -227,8 +227,8 @@ This does not describe coequal Trinity members.
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Complexity: Complex to reason, witness or share the Gospel of God                                                                                    | Clarity: Simple to explain and the Gospel is easy to understand                                                                                                           |
 | Confusion: Cannot understand the "[mysteries of God](https://church.ofgod.info/terms/mystery)"                                                       | Clarity: No contradictions                                                                                                                                                |
-| Idolatry: Potentially[worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                            | Clarity: Only[1 God to serve and worship](son-as-god/worship.md)                                                                                                          |
-| Christianity: Some adherents live only for the[glory of Jesus](son-as-god/claims/glory.md)                                                           | Purpose:[The Father is the purpose of existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6) |
+| Idolatry: Potentially[worshipping the wrong member](https://eternal.family.net.za/bible/concepts/idolatry) of the Trinity                            | Clarity: Only[1 God to serve and worship](divine/worship.md)                                                                                                          |
+| Christianity: Some adherents live only for the[glory of Jesus](divine/claims/glory.md)                                                           | Purpose:[The Father is the purpose of existence](https://eternal.family.net.za/creation#the-purpose-of-the-creation) and Jesus is the way to the Father (Ephesians 1:3-6) |
 | Outsiders:[The Godhead is complete](trinity/godhead.md), adherents are outsiders (sinners)                                                           | Adopted: As the Father accepted Jesus as His Son,[people can be adopted](https://eternal.family.net.za/god/family) too                                                    |
 | No miracles:[A Jesus God does miracles by himself](https://eternal.family.net.za/god/son/essence/as-god/miracles), which is impossible for adherents | Miracles: [Jesus did miracles by God&#39;s Spirit](https://eternal.family.net.za/god/son/essence/as-god/miracles) which people can also receive                           |
 | No sacrifice: A Jesus God could escape suffering (adherents will not know)                                                                           | Sacrifice: Jesus was 100% human, therefore he earns the highest honour                                                                                                    |
@@ -244,7 +244,7 @@ The orthodox Trinity defines one God as three distinct, coequal and coeternal pe
 
 The [historical-continuity evidence](#was-the-trinity-israels-original-belief) also challenges the claim that Israel explicitly inherited this definition.
 
-Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](son-of-man/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God's own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
+Jesus [calls the Father his God](#jesus-was-not-god), has a [distinct and subordinate will](#jesus-has-different-will-than-his-god), [truly dies](human/limitations.md), and is [raised by God](#the-death-of-christ). [The Holy Spirit](trinity/holy-spirit.md) is described as [God's own presence and power](trinity/holy-spirit.md#the-holy-spirit-is-presence-of-god-himself), proceeding [from the Father](trinity/holy-spirit.md#jesus-taught-the-holy-spirit-comes-from-the-father), rather than as a *separate coequal God*.
 
 No passage [defines God as three coequal persons or Jesus as possessing two natures](#missing-evidence). Later creed terms, including [*homoousios*](trinity/development.md#the-problem-with-homoousios), and the [dual-nature formulation](trinity/development.md#dual-nature) cannot replace explicit Scripture. If even one required claim fails, the Trinity definition fails. This article argues that all its central claims fail.
 

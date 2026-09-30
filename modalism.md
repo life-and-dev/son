@@ -35,7 +35,7 @@ Around the early third century, [Tertullian, *Against Praxeas*, chapters 1-2 and
 
 ### Creeds and Later Reception
 
-The [Nicene Creed in Catholic use](https://www.usccb.org/prayers/nicene-creed) names the one God as Father, distinguishes Jesus Christ as his Son, and speaks of the Holy Spirit. Its language [distinguishes Father and Son](son-of-man/distinct.md). The later [Athanasian Creed](https://bookofconcord.org/athanasian-creed/) is more direct: it says *“neither confounding the persons nor dividing the substance”* and distinguishes the Father, Son, and Holy Spirit.
+The [Nicene Creed in Catholic use](https://www.usccb.org/prayers/nicene-creed) names the one God as Father, distinguishes Jesus Christ as his Son, and speaks of the Holy Spirit. Its language [distinguishes Father and Son](human/distinct.md). The later [Athanasian Creed](https://bookofconcord.org/athanasian-creed/) is more direct: it says *“neither confounding the persons nor dividing the substance”* and distinguishes the Father, Son, and Holy Spirit.
 
 The [Catholic Catechism, paragraphs 253-255](https://www.vatican.va/archive/ENG0015/__P17.HTM), teaches that the divine persons are really distinct.  The [Westminster Confession of Faith, chapter 2.3](https://opc.org/wcf.html#Chapter_02), received by confessional Presbyterian Protestants, likewise distinguishes three persons in the one Godhead.
 
@@ -43,11 +43,11 @@ The [Catholic Catechism, paragraphs 253-255](https://www.vatican.va/archive/ENG0
 
 Although Deuteronomy 6:4 and Isaiah 44:6 affirm the **[one God](shema.md)**, neither says that the Father and his appointed Son are one personal subject.
 
-The older [prophetic pattern](https://prophecies.ofgod.info/messianic) [distinguishes God and His servant](son-of-man/distinct.md). In Isaiah 42:1, God says, *“I have put my **Spirit** upon **him**”* (ESV). Matthew 12:17-21 applies that servant passage to Jesus. In the same pattern, Isaiah 61:1 describes the speaker as anointed by the Spirit and sent by the Lord GOD; Jesus applies this passage to his mission in Luke 4:17-21. The New Testament application confirms the messianic reading rather than making the prophetic speaker identical with the sender.
+The older [prophetic pattern](https://prophecies.ofgod.info/messianic) [distinguishes God and His servant](human/distinct.md). In Isaiah 42:1, God says, *“I have put my **Spirit** upon **him**”* (ESV). Matthew 12:17-21 applies that servant passage to Jesus. In the same pattern, Isaiah 61:1 describes the speaker as anointed by the Spirit and sent by the Lord GOD; Jesus applies this passage to his mission in Luke 4:17-21. The New Testament application confirms the messianic reading rather than making the prophetic speaker identical with the sender.
 
 Jesus then appeals to a legal distinction: *“the testimony of **two people** is true”*, naming himself and *“the **Father who sent me**”* (John 8:17-18, ESV). Jesus addresses the Father as *“the only true **God**”* and himself as *“Jesus Christ whom you have **sent**”* (John 17:3, ESV). His appeal to **two** witnesses bears more weight against a one-subject reading than the baptism scene alone.
 
-Jesus' prayer *“not as **I will**, but as **you will**”* (Matthew 26:39, ESV) likewise presents a **real relationship**, not merely three visual signs. The same Father-Son relations are surveyed in [Jesus Interacted With God](son-of-man/distinct.md).
+Jesus' prayer *“not as **I will**, but as **you will**”* (Matthew 26:39, ESV) likewise presents a **real relationship**, not merely three visual signs. The same Father-Son relations are surveyed in [Jesus Interacted With God](human/distinct.md).
 
 The apostolic distinction is similarly direct: *“there is one **God**, and there is one **mediator** between God and men, **the man Christ Jesus**”* (1 Timothy 2:5, ESV). A mediator is distinguished from the God to whom he mediates. Neither argument requires treating God's Spirit as another god.
 

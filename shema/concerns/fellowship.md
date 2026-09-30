@@ -46,7 +46,7 @@ Jesus is not merely a memory preserved by his community. God raised and exalted 
 
 These promises should not be reduced to the care believers give one another, nor should that care be dismissed because the Lord lives. His body has many members, and their mutual care is one tangible way his teaching is obeyed (1 Corinthians 12:12–27; John 13:34–35). A believer without nearby companions is not thereby outside the Father’s knowledge or beyond Christ’s care.
 
-Jesus says his sheep hear his voice and follow him (John 10:27). In its setting, the saying concerns recognition of and response to their [shepherd](../../son-as-god/claims/shepherd.md). It does not specify an audible or inward private conversation each day.
+Jesus says his sheep hear his voice and follow him (John 10:27). In its setting, the saying concerns recognition of and response to their [shepherd](../../divine/claims/shepherd.md). It does not specify an audible or inward private conversation each day.
 
 ## Grace and hope
 

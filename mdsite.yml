@@ -4,13 +4,18 @@ features:
     - disclaimer
   source-edit: https://github.com/life-and-dev/son/blob/main/
 menu:
-  - purpose
-  - nature
-  - The Identity of Jesus: ===
-  - name
-  - son-as-angel:
-    - firstborn
-  - son-as-god:
+  - name:
+    - The Son Of God: /
+    - son-of-man
+    - purpose
+    - ===
+    - son-as-angel
+    - son-as-god
+    - word
+    - ===
+    - sons-of-god
+  - The Natures of Jesus: ===
+  - divine:
     - eternal
     - creator
     - worship
@@ -31,12 +36,9 @@ menu:
     - similarities:
       - act
     - bride
-    - melchizedek
-    - Evidence: ===
-    - john-1-18
     - galatians-1-1
-  - The Son Of God: /
-  - son-of-man:
+    - melchizedek
+  - human
     - prophecies
     - distinct
     - denies-being-god
@@ -48,9 +50,7 @@ menu:
     - baptized
     - ===
     - why
-  - word
-  - sons-of-god
-  - Models of God: ===
+  - The Models of God: ===
   - shema:
     - jesus-today
     - prayer-to-jesus

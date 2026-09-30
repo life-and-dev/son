@@ -720,7 +720,7 @@ Jesus never teached about the triune God (Father, Son, Holy Spirit). Instead, Je
 
 Regardless of translation, the verse says "**he has made Him known**" or "**he has declared Him**."
 
-This describes [**two distinct persons**](son-of-man/distinct-persons.md):
+This describes [**two distinct persons**](human/distinct-persons.md):
 
 - **The Son** (who declares/makes known)
 - **The Father/God** (who is declared/made known)

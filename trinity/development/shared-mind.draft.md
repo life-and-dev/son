@@ -30,7 +30,7 @@ Deuteronomy 6:4 says the LORD is “**one**,” and Isaiah 45:5 says, “there i
 
 Jesus identifies himself and “the **Father who sent me**” as witnesses in John 8:17–18 and calls the Father “the only true **God**” in John 17:3. He prays, is sent, and obeys. These are relations between agents in ordinary language. The Spirit is sent and acts in God's work, but agency language by itself does not decide whether the Spirit is another person or God's active interaction.
 
-The defended reading takes the Father alone as Almighty God, Jesus as His distinct human Son and Christ, and the Spirit as God's active interaction. It accounts for Jesus' prayers as genuine communication with God rather than conversation within one personal mind. It also accords with [Jesus' humanity](../../son-of-man/human.md).
+The defended reading takes the Father alone as Almighty God, Jesus as His distinct human Son and Christ, and the Spirit as God's active interaction. It accounts for Jesus' prayers as genuine communication with God rather than conversation within one personal mind. It also accords with [Jesus' humanity](../../human.md).
 
 ## Premises and Inferences
 
