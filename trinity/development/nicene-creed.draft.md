@@ -29,7 +29,7 @@ The LORD says, “I am the **first** and I am the **last**; besides me there is 
 
 John 17:3 calls the Father “the only true **God**” and calls Jesus Christ the one sent. First Corinthians 8:6 names “one **God**, the Father” and “one **Lord**, Jesus Christ.” On the defended reading, these are direct distinctions: the Father alone is Almighty God and Jesus is His human Son and Christ. They are also disputed texts. Nicene readers may say “only true God” does not exclude the Son who shares the divine essence, and may take “one Lord” as including him in divine identity.
 
-Acts 2:22 calls Jesus “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These texts reinforce the [human account](../../son-of-man/human.md). They do not use the language of eternal generation or shared essence.
+Acts 2:22 calls Jesus “a **man** attested to you by God,” and 1 Timothy 2:5 calls him “the **man** Christ Jesus.” These texts reinforce the [human account](../../human.md). They do not use the language of eternal generation or shared essence.
 
 ## Premises and Inferences
 

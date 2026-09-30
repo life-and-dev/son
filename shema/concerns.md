@@ -67,7 +67,7 @@ Unlike creation, which wears out, he remains (Psalm 102:25–27). He does not sl
 
 ### Temptation and compassion
 
-Jesus enters the wilderness hungry after fasting. His need for food is real (Matthew 4:1–2). Matthew records three offers there and, later, Peter’s counsel against Jesus’s foretold suffering (Matthew 4:3–10; 16:21–23). Jesus was really [tempted](../son-of-man/temptations.md) by on multiple levels: identity, provision, protection, and plan:
+Jesus enters the wilderness hungry after fasting. His need for food is real (Matthew 4:1–2). Matthew records three offers there and, later, Peter’s counsel against Jesus’s foretold suffering (Matthew 4:3–10; 16:21–23). Jesus was really [tempted](../human/temptations.md) by on multiple levels: identity, provision, protection, and plan:
 
 1. **Bread:** Satan challenges Jesus to prove he is God’s Son by turning stones into bread (Matthew 4:2–4). Eating is not wrong; the pressure is to answer the challenge on Satan’s terms rather than trust the Father’s word. Jesus answers with the lesson about dependence on God in Deuteronomy 8:3.
 2. **The temple:** Satan urges Jesus to jump and demand divine protection (Matthew 4:5–6). Jesus refuses to put God to the test (Matthew 4:7; Deuteronomy 6:16). Trust does not require manufacturing danger to compel a display of rescue.

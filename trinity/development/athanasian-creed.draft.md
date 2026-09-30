@@ -36,7 +36,7 @@ The creed's actual defence distinguishes nature from role. It says the Son's inf
 
 The creed assumes three real persons who each possess the one undivided divine essence. It also assumes that predicates of Jesus may be assigned according to either divine or human nature. From these premises it infers coequality despite statements of obedience and limitation. These are theological premises, not formal entailments of the titles “Father,” “Son,” and “Spirit.”
 
-The Father-alone reading has different premises: biblical “God” most directly identifies the Father; Jesus is God's human Messiah; and the Spirit is God's active interaction. It can therefore read Jesus' inferiority and dependence as direct descriptions of the Son rather than attributes shifted to one nature. This reading is related to [Jesus having a God](../../son-of-man/has-a-god.md).
+The Father-alone reading has different premises: biblical “God” most directly identifies the Father; Jesus is God's human Messiah; and the Spirit is God's active interaction. It can therefore read Jesus' inferiority and dependence as direct descriptions of the Son rather than attributes shifted to one nature. This reading is related to [Jesus having a God](../../human/has-a-god.md).
 
 The creed carefully denies that eternity or almightiness is split into three examples. It also says none of the persons is before, after, greater, or less than another, while calling each God and Lord. Its claim is therefore stronger than shared purpose or membership in one class. It proposes one numerically undivided deity wholly possessed by three persons. The critical question is not whether that proposal has been stated consistently, but whether the biblical writers teach that specific relation.
 

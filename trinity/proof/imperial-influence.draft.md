@@ -59,7 +59,7 @@ Constantine did exile Arius after Nicaea, and the [Nicaea overview](https://www.
 
 The Council of Chalcedon in 451 confessed one and the same Son, Jesus Christ, as one person in two natures, divine and human, “without confusion, without change, without division, without separation.” [Britannica's overview](https://www.britannica.com/event/Council-of-Chalcedon) and the [Definition of Chalcedon](https://www.newadvent.org/fathers/3811.htm) distinguish this later Christological formula from Nicaea's fourth-century dispute.
 
-Chalcedon concerns the incarnation and two natures, not the identical question posed by Trinitarian doctrine about Father, Son, Spirit, and one God. Its terms are relevant to claims about [Jesus's human life](../son-of-man/human.md), [his distinction from God](../son-of-man/distinct.md), and later accounts of [two natures](../son-of-man/limitations.md#the-doctrine-of-two-natures).
+Chalcedon concerns the incarnation and two natures, not the identical question posed by Trinitarian doctrine about Father, Son, Spirit, and one God. Its terms are relevant to claims about [Jesus's human life](../human.md), [his distinction from God](../human/distinct.md), and later accounts of [two natures](../human/limitations.md#the-doctrine-of-two-natures).
 
 Emperor Marcian convoked Chalcedon. Convocation demonstrates imperial involvement in managing a church conflict. It does not establish Marcian's complete motive or show that he originated the council's theology.
 
@@ -87,6 +87,6 @@ Nor does the record support “Nicaea caused instant, universal agreement.” Th
 
 ## Scripture and Historical Development
 
-A cumulative Unitarian reading begins with Israel's confession that YHWH is one God, Deuteronomy 6:4, and with Jesus's affirmation of that confession, Mark 12:29. It reads Jesus as the Messiah whom God sent, raised, and exalted, and reads the Holy Spirit as God's own Spirit at work among his people. The articles on [the Trinity](../trinity.md) and [Jesus's distinction from God](../son-of-man/distinct.md) present that biblical case.
+A cumulative Unitarian reading begins with Israel's confession that YHWH is one God, Deuteronomy 6:4, and with Jesus's affirmation of that confession, Mark 12:29. It reads Jesus as the Messiah whom God sent, raised, and exalted, and reads the Holy Spirit as God's own Spirit at work among his people. The articles on [the Trinity](../trinity.md) and [Jesus's distinction from God](../human/distinct.md) present that biblical case.
 
 That conclusion is exegetical, not a deduction from imperial history. [The documented record](#what-the-evidence-can-establish) shows that later technical formulas, councils, and enforcement shaped public orthodoxy. [The limits of that record](#claims-this-history-does-not-support) mean it cannot by itself disprove the Trinity or compel Unitarian belief. Scripture remains the appropriate evidence for deciding the doctrine's truth.

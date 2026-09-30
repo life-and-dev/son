@@ -9,7 +9,7 @@ If Jesus is God’s fully human Messiah, not God himself, how should we related 
 
 > Men of Israel, hear these words:
 >
-> Jesus of Nazareth, [a man](son-of-man/human.md) attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know — this Jesus, delivered up according to [the definite plan and foreknowledge of God](word.md), you crucified and killed by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
+> Jesus of Nazareth, [a man](human.md) attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know — this Jesus, delivered up according to [the definite plan and foreknowledge of God](name/word.md), you crucified and killed by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
 >
 >> “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;  
 >> therefore my heart was glad, and my tongue rejoiced;  

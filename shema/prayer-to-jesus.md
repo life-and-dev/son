@@ -5,7 +5,7 @@ keywords: prayer to Jesus, prayer to the Father, Christian fellowship, Unitarian
 
 # Prayer to Jesus
 
-Prayer, asking Jesus for help, and fellowship are related, but they are not identical. If [the Father alone is Almighty God](../nature.md), Jesus is the [real human](../son-of-man/human.md) Christ whom God raised and exalted, and [the Spirit is God's interaction](../trinity/holy-spirit.md) with His people, how should believers relate to the living Lord Jesus?
+Prayer, asking Jesus for help, and fellowship are related, but they are not identical. If [the Father alone is Almighty God](../nature.md), Jesus is the [real human](../human.md) Christ whom God raised and exalted, and [the Spirit is God's interaction](../trinity/holy-spirit.md) with His people, how should believers relate to the living Lord Jesus?
 
 ## Praying to Jesus
 
@@ -105,7 +105,7 @@ A believer who prays only to the Father is not a second-class believer. That pra
 
 Scripture does not explain exactly how one human Jesus could receive prayers from many people. It does show that the risen Jesus is [no ordinary mortal](jesus-today.md#immortality-of-jesus):
 
-* He is a [glorified](https://word.ofgod.info/terms/glory) [human](../son-of-man/human.md) in [heaven](https://word.ofgod.info/terms/heaven) at the Father's right hand (Acts 2:33; Romans 8:34).
+* He is a [glorified](https://word.ofgod.info/terms/glory) [human](../human.md) in [heaven](https://word.ofgod.info/terms/heaven) at the Father's right hand (Acts 2:33; Romans 8:34).
 * Death no longer has dominion over him (Romans 6:9)
 * He has power to transform believers' bodies to be like his glorious body (Philippians 3:20-21).
 

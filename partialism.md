@@ -57,7 +57,7 @@ Paul also writes:
 
 > “one God and **Father** of all, who is over all and through all and in all.” — Ephesians 4:6 (ESV)
 
-In Ephesians 4:4-6, Paul names one Spirit, one Lord, and one God and Father. This threefold list does **not describe three pieces** of God. It identifies the Father as [the one God](../../shema.md) while [distinguishing](../../son-of-man/distinct.md) the one Lord and the one Spirit.
+In Ephesians 4:4-6, Paul names one Spirit, one Lord, and one God and Father. This threefold list does **not describe three pieces** of God. It identifies the Father as [the one God](../../shema.md) while [distinguishing](../../human/distinct.md) the one Lord and the one Spirit.
 
 On this scriptural reading, the argument against literal partialism is direct:
 

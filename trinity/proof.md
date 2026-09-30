@@ -147,7 +147,7 @@ Another explanation is that verses 26-28 are not isolated verses but meant to be
 > 
 > — [Topical Lexicon](https://biblehub.com/hebrew/1254.htm)
 
-Reproduction is a cooperative effort between God, male, and female. People do not appear instantaneously without a process. Even [Jesus had a biological mother](../son-of-man/human.md#jesus-was-born). Without God granting the origin of life, humanity could not reproduce. Similarly, biological reproduction requires both male and female participants.
+Reproduction is a cooperative effort between God, male, and female. People do not appear instantaneously without a process. Even [Jesus had a biological mother](../human.md#jesus-was-born). Without God granting the origin of life, humanity could not reproduce. Similarly, biological reproduction requires both male and female participants.
 
 God was talking to mankind in general when He said: "Let us make [man*kind*](https://biblehub.com/hebrew/120.htm) in our image, after our likeness." Verse 27 hint "male and female he created them", yet we know Adam and Eve were created at different times. Therefore, God could have been referring that He partner with mankind to create more people in His image. Verse 28 expand this concept with a command that He gave mankind to "be fruitful and multiply and fill the earth".
 
@@ -218,7 +218,7 @@ Based on Greek translations of these two verses it would mean:
 ## Father, Son and Spirit is God
 
 1. The Father is God (1 Corinthians 8:6; Psalm 68:5; Matthew 23:9)
-2. The Son is God (according to the Trinitarians [by a variety of reasons](son-as-god.md))
+2. The Son is God (according to the Trinitarians [by a variety of reasons](name/son-as-god.md))
 3. The Holy Spirit is God (implied by Peter in Acts 5:3-4)
 
 However, Trinitarian Christians practise [Monotheism](development.md#monotheism), which means there can only be 1 God. The purpose of the Trinity theology or ["Godhead"](godhead.md) is to solve this paradox.
@@ -228,7 +228,7 @@ However, Trinitarian Christians practise [Monotheism](development.md#monotheism)
 Some modern Bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
 
 * [Matthew 28:19](proof/baptism-formula.md)
-* [John 1:18](../son-as-god/john-1-18.md)
+* [John 1:18](../divine/john-1-18.md)
 * [1 John 5:7-8](proof/3-witnesses.md)
 
 ## Paul's Closing
@@ -261,7 +261,7 @@ God does not need a recipient to possess the capacity of love. Just as God had t
 
 ## The Trinity and Abraham
 
-Some Trinitarians argue that [the Trinity appeared to Abraham](proof/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](../son-as-angel.md) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
+Some Trinitarians argue that [the Trinity appeared to Abraham](proof/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](../name/son-as-angel.md) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
 
 ## Conclusion
 

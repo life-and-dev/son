@@ -17,17 +17,17 @@ Throughout Scripture, when Jesus is called "the Son **of** God", it consistently
 * **[Inheritance Rights](#inheritance-rights)** — The Son inherits the Father's kingdom as THE worthy heir
 * **[Chosen Firstborn](#chosen-firstborn)** — The Son is the firstborn of all creation
 
-The term "Son of God" never refers to divinity otherwise [other sons of God](sons-of-god.md) should also be considered divine.
+The term "Son of God" never refers to divinity otherwise [other sons of God](name/sons-of-god.md) should also be considered divine.
 
 ### Distinct Identity
 
-"Son" implies there has to be a [distinct](son-of-man/distinct.md) "Father". No father can be his own son, and likewise no son can be his own father. If this well-understood natural law does not apply to [the Godhead](godhead.md), an explanation is needed for why Jesus would have confused his layman Jewish disciples without providing details about the [Trinity](trinity.md).
+"Son" implies there has to be a [distinct](human/distinct.md) "Father". No father can be his own son, and likewise no son can be his own father. If this well-understood natural law does not apply to [the Godhead](godhead.md), an explanation is needed for why Jesus would have confused his layman Jewish disciples without providing details about the [Trinity](trinity.md).
 
 Peter testified as an eyewitness:
 
 > For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but **we were eyewitnesses** of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, ***"This is my beloved Son, with whom I am well pleased***," **we ourselves heard this very voice borne from heaven**, for **we were with him** on the holy mountain. — 2 Peter 1:16-18 (ESV)
 
-If the people present heard **another voice from heaven** while Jesus stood before them. This demonstrates [two distinct persons](son-of-man/distinct.md), the Father in heaven and the Son on earth. If the Father and Son are both fully God with the "same divine essence" (as [Trinitarianism](trinity.md) teaches) it would make no sense for the Father to publically declare the Son His "beloved Son". It would be like saying "I love Myself". God is not an [Egotist](https://www.dictionary.com/browse/egotist).
+If the people present heard **another voice from heaven** while Jesus stood before them. This demonstrates [two distinct persons](human/distinct.md), the Father in heaven and the Son on earth. If the Father and Son are both fully God with the "same divine essence" (as [Trinitarianism](trinity.md) teaches) it would make no sense for the Father to publically declare the Son His "beloved Son". It would be like saying "I love Myself". God is not an [Egotist](https://www.dictionary.com/browse/egotist).
 
 ### Close Relationship
 
@@ -62,7 +62,7 @@ But instead, God specifically said: "**This is My beloved Son**, listen to **him
 
 Naturally sons have the right to inherit from their Fathers. If the Father is God, then the son inherit from God (Psalm 2:7-11).
 
-Even this concept shows that "the Son" is [distinct](son-of-man/distinct.md) from "the Father" because it make no sense to inherit from yourself.
+Even this concept shows that "the Son" is [distinct](human/distinct.md) from "the Father" because it make no sense to inherit from yourself.
 
 The Bible consistently affirms that Jesus lived a sinless life (Isaiah 53:9; John 8:46; 2 Corinthians 5:21; Hebrews 4:15, 7:26, 9:14; 1 Peter 1:18-19, 2:22; 1 John 3:5). Paul stated that **only the righteous can inherit God's kingdom**:
 
@@ -90,11 +90,11 @@ Jesus' **legal position** as "*the* Son of God" means He is **THE heir of God**.
 
 ### Chosen Firstborn
 
-The phrase "son of God" does not by itself mean "member of [the Godhead](godhead.md)". Instead in scripture, sonship describes a person or people **chosen by God** to be the [firstborn](son-as-angel/firstborn.md) (special benefits and responsibilities). For example:
+The phrase "son of God" does not by itself mean "member of [the Godhead](godhead.md)". Instead in scripture, sonship describes a person or people **chosen by God** to be the [firstborn](divine/firstborn.md) (special benefits and responsibilities). For example:
 
 God calls Israel:
 
-> “Israel is **My son**, even My [firstborn](son-as-angel/firstborn.md).” — Exodus 4:22
+> “Israel is **My son**, even My [firstborn](divine/firstborn.md).” — Exodus 4:22
 
 God also says of Solomon:
 
@@ -109,9 +109,9 @@ Some Bible translations like the KJV state that Jesus is the "only begotten Son 
 
 > I will declare the decree: the LORD hath said unto me, **Thou art my Son; this day have I begotten thee**. — Psalm 2:7 (KJV); Acts 13:33; Hebrews 1:5, 5:5
 
-> And [the word](word.md) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of **the only begotten of the Father**) full of grace and truth. — John 1:14 (KJV)
+> And [the word](name/word.md) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of **the only begotten of the Father**) full of grace and truth. — John 1:14 (KJV)
 
-> The only **begotten** son, who is in the bosom of the Father, [He has declared him](son-as-god/john-1-18.md). — John 1:18 (NKJV)
+> The only **begotten** son, who is in the bosom of the Father, [He has declared him](divine/john-1-18.md). — John 1:18 (NKJV)
 
 > In this was manifested the love of God toward us, because that **God sent his only begotten Son** into the world, that we might live through him. — 1 John 4:9 (KJV)
 
@@ -156,7 +156,7 @@ The context here is that Jesus was dealing with condemnation and everlasting lif
 The word "only" comes from the Greek word "monos", which means "alone". This means "the only begotten Son of God" had to be a unique attribute to Jesus which sets him apart from every other person.
 
 * Jesus was not the only (alone) one who was baptized. John the Baptist had baptized many people before Jesus, so it does not make sense to say Jesus is *"the only baptized Son of God"*.
-* Jesus was not the only "son of God", because there were many other ["sons of God"](sons-of-god.md) named in the Old Testament before Jesus was born.
+* Jesus was not the only "son of God", because there were many other ["sons of God"](name/sons-of-god.md) named in the Old Testament before Jesus was born.
 
 Anyone can be adopted into "sonship" by another Father. If this was John's intention it would have been sufficient to write "Jesus was *a* Son of God" (like many others), but that is not what he wrote.
 
@@ -208,7 +208,7 @@ Peter could have said: *"You are God"*, but he said *"You are the Christ, the So
 > For of a truth against **thy holy child** Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, for to do whatsoever thy hand and thy counsel determined before to be done. And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, by stretching forth thine hand to heal; and that signs and wonders may be done by the name of **thy holy child** Jesus. — Acts 4:27-30 (KJV)
 
 > [!NOTE]
-> Some translations like the ESV translate "child" as ["servant"](son-of-man/has-a-god.md).
+> Some translations like the ESV translate "child" as ["servant"](human/has-a-god.md).
 
 Paul testifies that God is Jesus' Father:
 
@@ -216,7 +216,7 @@ Paul testifies that God is Jesus' Father:
 
 and
 
-> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](sons-of-god.md). — Galatians 4:4-5 (NKJV)
+> But when the fullness of the time had come, **God sent forth His Son**, born of a woman, born under the law, to redeem those who were under the law, that [we might receive the adoption as sons](name/sons-of-god.md). — Galatians 4:4-5 (NKJV)
 
 and
 
