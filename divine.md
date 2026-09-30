@@ -185,7 +185,7 @@ Instead:
 * Jesus said that [he is a man](human.md) (John 8:39-40)
 * Jesus said that [he is not God](https://eternal.family.net.za/god/son/essence/not-god#jesus-denies-being-god) (Matthew 19:17; John 5:19,43-47; 8:49-50,54; 17:1-3)
 * Jesus said that [he has a God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (John 20:17)
-* Jesus [prayed](https://eternal.family.net.za/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
+* Jesus [prayed](https://kingdom.ofgod.info/life/prayer) to [his God](https://eternal.family.net.za/god/son/essence/not-god#jesus-has-a-god) (Matthew 5:45-6:9, 26:39, 42, 53; Luke 6:12; John 11:41, 17:1)
 
 The term ["only-begotten son"](index.md) comes from the Greek words [monos](https://biblehub.com/greek/3441.htm) (alone) and [genos](https://biblehub.com/greek/1085.htm) (offspring) which could technically mean "the only offspring of God". Jesus was not just another ["son of God"](name/sons-of-god.md) like Adam, Israel and many others. Jesus was "the only-begotten son of God" (John 1:14; 3:16 (KJV); 1 John 4:9 (KJV)) which implies he must have inherited something directly from God at his conception. This is significant because:
 
@@ -204,7 +204,7 @@ The following passages portray interaction between the Father and Jesus as disti
 * [Jesus cried to God](human/distinct.md#jesus-and-god-were-separated) (Matthew 27:46; Mark 15:34)
 * [Jesus grew in favour with God](human/distinct.md#jesus-grew-in-favour) (Luke 2:52)
 * [Jesus mediates between man and God](human/distinct.md#paul) (John 14:6; 1 Timothy 2:5)
-* [Jesus prayed to God](https://eternal.family.net.za/life/prayer) (Matthew 6:9; 26:39,42,53; Luke 6:12; John 11:41, 17:1)
+* [Jesus prayed to God](https://kingdom.ofgod.info/life/prayer) (Matthew 6:9; 26:39,42,53; Luke 6:12; John 11:41, 17:1)
 * [Jesus returned to God](human/distinct.md#mark-saw-jesus-distinct-from-god) (Mark 16:19)
 * [Jesus served God](human/serve-god) (John 17:1-3; Acts 3:13, 4:27-30; Romans 6:10; 1 Corinthians 11:3, 15:28)
 * [Jesus witness with God](human/distinct.md#jesus-witness-with-god) (John 8:17-18)
