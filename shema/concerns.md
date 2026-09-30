@@ -17,7 +17,7 @@ The following concerns have a major impact on the Christian faith:
 - **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
 - **[Known by Jesus](concerns/known-by-jesus.md)**: Jesus warns in Matthew 7:21–23 that he never knew some who called him Lord. If Jesus is human, how can believers communicate with him and be known by him across the world?
 - **[Love of God](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
-- **[Tradition](concerns/tradition.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
+- **[Majority](concerns/majority.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
 
 The question is whether [Scripture](https://word.ofgod.info) requires a person to call Jesus Almighty God and the Holy Spirit a separate divine person to proclaim faith.
 
@@ -96,3 +96,22 @@ That fact that Jesus obeyed even through death is a fair reason for God to exalt
 
 > [!NOTE]
 > Paul places the obedience of one man at the center of his account of many being made righteous (Romans 5:19).
+
+### The Father's love and glory
+
+At Jesus's baptism, the Father calls him His **beloved** Son (Matthew 3:16–17). The Father then gives the Son He loves for the life of the world (John 3:16–17). *“On this reading, the gift makes the Father's love visible in his relationship with a distinct human Son, without suggesting that Trinitarians deny the Father's love or the Son's genuine humanity.”*
+
+Isaiah speaks of the Spirit of wisdom resting on the promised ruler (Isaiah 11:1–2). Peter says God did mighty works through Jesus, and that God anointed him with the Holy Spirit and power (Acts 2:22; 10:38). Jesus says he acts in dependence on the Father (John 5:19, 30). *“The Father's wisdom and power are displayed in what he accomplishes through his human Son; Jesus is honored for faithfully carrying out the work entrusted to him.”*
+
+The Father is holy (Psalm 99:3; Isaiah 6:3). He lays the iniquity of others on the servant; Christ bears sins in his body and becomes a curse for us (Isaiah 53:6; 1 Peter 2:24; Galatians 3:13). *“Distinguishing the holy Father from the human Son who bears the curse keeps their different roles in view, without suggesting Jesus became sinful or claiming that these passages alone disprove the classical account of Christ.”*
+
+Jesus speaks of the Son and Father glorifying one another (John 13:31–32; 17:1). He also appeals to their testimony as two witnesses (John 8:17–18). *“Their distinct witness and mutual glory give reason to honor both the Father who sends and the Son who obeys.”* Trinitarians likewise distinguish the Father and Son as persons; the difference argued here concerns whether the Son also has a divine nature.
+
+### God can work through us too
+
+Peter describes Jesus as a man through whom God did mighty works (Acts 2:22). The Spirit leads Jesus (Matthew 4:1). The Father calls him his beloved Son (Matthew 3:17). God anoints him with the Holy Spirit and power, and God is with him as he heals (Acts 10:38). Jesus’s **genuine humanity is no barrier** to the Father’s love, guidance, or power. His miracles display what God did through His specially appointed Christ, not a power ordinary humans generate for themselves.
+
+Jesus gives **the twelve disciples** authority to heal and cast out unclean spirits (Matthew 10:1, 7–8). When **Peter heals** a man, he acts in Jesus’s name and rejects the idea that his own power or piety caused the healing (Acts 3:6, 12, 16). Jesus also tells those who believe in him that **they will do his works**, connecting that promise to his going to the Father (John 14:12). The disciples’ works show that **God’s power can reach others through human followers** of Jesus.
+
+Trust in the Father’s care is not a promise of a harm-free life. Jesus warns his followers of trouble (John 16:33). Acts recounts James’s death and Peter’s deliverance in the same period (Acts 12:1–11), while Paul says suffering **cannot separate believers from God’s love** (Romans 8:35–39).
+
