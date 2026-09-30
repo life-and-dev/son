@@ -149,6 +149,24 @@ Paul recounts God’s dealings with Israel, presents Jesus as the promised Savio
 
 Acts 13:48 explicitly reports belief among those appointed to eternal life. Others reject the message (Acts 13:45–46, 50–51). Paul’s recorded appeal centers on forgiveness through Jesus and the response of belief, not a stated requirement to confess Jesus as Almighty God.
 
+### Paul in Athens
+
+At Athens, calls all people to repent, and says God appointed a man to judge the world, giving assurance by raising him from the dead:
+
+> So Paul, standing in the midst of the Areopagus, said: “Men of Athens, I perceive that in every way you are very religious. For as I passed along and observed the objects of your worship, I found also an altar with this inscription: ‘To the unknown god.’ What therefore you worship as unknown, this I proclaim to you. The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, nor is He served by human hands, as though he needed anything, since He himself gives to all mankind life and breath and everything. And He made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God, and perhaps feel their way toward him and find him. Yet He is actually not far from each one of us, for
+>
+>> ‘In him we live and move and have our being’;
+>
+> as even some of your own poets have said,
+>
+>> ‘For we are indeed his offspring.’
+>
+> Being then God’s offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. The times of ignorance God overlooked, but now He commands all people everywhere to repent, because He has fixed a day on which he will judge the world in righteousness by **a man whom He has appointed**; and of this He has given assurance to all by raising him from the dead.”
+>
+> — Acts 17:22-31 (ESV)
+
+Paul made a distinction between the "Unknown God" and "a man whom He has appointed". Although the audience responded in different ways: some mock, others ask to hear more, and **some join Paul and believe** (Acts 17:32-24). The account reports belief without stating a requirement to confess Jesus as Almighty God or to affirm the Trinity.
+
 ## What faith trusts
 
 Faith receives particular good news, not an undefined promise that everything will feel better:
@@ -178,4 +196,4 @@ The [recorded preaching and responses](#what-the-apostles-preached-after-the-res
 
 ## Conclusion
 
-The claim that salvation requires a credal confession goes beyond the requirements stated in these accounts. In the [apostles’ recorded preaching](#what-the-apostles-preached-after-the-resurrection), people are explicitly reported believing, being added, or receiving repentance to life after hearing about God’s work through Jesus.
+The claim that salvation requires a credal confession goes beyond the requirements stated in these accounts. In the [apostles’ recorded preaching](#what-the-apostles-preached-after-the-resurrection), people are explicitly reported believing, being added, or receiving repentance to life after hearing about God’s work through Jesus. At [Athens](#paul-in-athens), Paul calls for repentance and speaks of God’s appointed judge raised from the dead; some mock, others ask to hear more, and some join him and believe.
