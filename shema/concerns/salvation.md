@@ -67,7 +67,7 @@ Peter credits the God of Abraham, Isaac, and Jacob with glorifying his servant J
 >
 >> ‘The Lord God will raise up for you **a prophet like me** from your brothers. You shall listen to him in whatever he tells you. And it shall be that every soul who does not listen to that prophet shall be destroyed from the people.’
 >
-> And all the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days. You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, 
+> And all the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days. You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham,
 >
 >> ‘And in your offspring shall all the families of the earth be blessed.’
 >
