@@ -3,7 +3,7 @@ description: How God’s promised new covenant explains the forgiveness, liberat
 keywords: cross, new covenant, ransom, forgiveness, resurrection
 ---
 
-# Paying the Price for Humanity
+# The Price of Salvation
 
 The penalty for [sin is death](https://kingdom.ofgod.info/darkness).
 

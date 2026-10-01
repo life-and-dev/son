@@ -1,66 +1,5 @@
 ## Benefits of Believing in a Human Christ
 
-Questioning the Trinity **does not mean giving less honor to Jesus**.
-
-Some of the benefits of believing that Jesus was the human Christ is:
-
-- **[A message we can understand and explain](#a-message-we-can-understand-and-explain)** — The apostles’ account of the Father and His Christ can be shared in Scripture’s own terms.
-- **[God remains faithful and unchanged](#god-remains-faithful-and-unchanged)** — The assurance that God does not change His form is even more reason to trust Him.
-- **[A faithful human life](#a-faithful-human-life)** — Jesus’s freely chosen obedience and real suffering make his sacrifice costly and worthy of honor.
-- **[The Father's love and glory](#the-fathers-love-and-glory)** — Giving, empowering, and exalting his human Son displays the Father's love and power while honoring Jesus's obedience.
-- **[Temptation and compassion](#temptation-and-compassion)** — Jesus meets real pressures with faithfulness and responds to human grief with compassion.
-- **[A human judge and representative](#a-human-judge-and-representative)** — Shared human experience makes his judgment relatable; the Father’s commission and righteousness make it just.
-- **[Following Jesus as a human example](#following-jesus-as-a-human-example)** — His lived obedience gives disciples a practical standard for serving, loving, and enduring with God’s help.
-- **[God can work through us too](#god-can-work-through-us-too)** — God’s Spirit guides believers and distributes gifts; human weakness need not block his work.
-- **[His resurrection is our hope](#his-resurrection-is-our-hope)** — The risen human Christ gives those who belong to him grounded hope for transformed bodily life.
-- **[God fulfills his purpose through humanity](#god-fulfills-his-purpose-through-humanity)** — God advances humanity’s calling through the obedient human Christ he raised, not unaided human strength.
-- **[Creation reveals the Creator](#creation-reveals-the-creator)** — Creation points to the immortal source of life; raising Jesus displays his power through a human Christ.
-- **[Twelve practical comparisons](#twelve-practical-comparisons)** — Scriptural comparisons show how this reading brings the Father and his Christ into focus.
-
-> [!IMPORTANT]
-> Scripture calls [the Father](https://ofgod.info) the only true God and identifies Jesus as the one He sent (John 17:3). It also speaks of 1 God, the Father, and 1 Lord, Jesus Christ (1 Corinthians 8:6). Jesus says the Son should be honored and calls the Father his God (John 5:23; 20:17). God exalts Jesus, and that honor brings glory to the Father (Philippians 2:9–11).
-
-### A message we can understand and explain
-
-Peter identifies Jesus as a man attested by God, recounts his death, and says God raised him and made him Lord and Christ (Acts 2:22–24, 32–36). Paul names one God, the Father, and one Lord, Jesus Christ (1 Corinthians 8:6). John writes so readers may believe Jesus is the Christ, God’s Son (John 20:30–31). These statements form a message listeners can easily follow and comprehend: 
-
-1. The Father sends his Son;
-2. Jesus obeys through death;
-3. The Father raises and exalts him (John 3:16–17; Philippians 2:8–11).
-
-Its basic account can be spoken in the relationships and actions named by the texts.
-
-The [classical Trinitarian formulation](https://www.vatican.va/archive/ENG0015/__P17.HTM) describes one God in three distinct persons. Its [account of Jesus](https://www.vatican.va/archive/ENG0015/__P1J.HTM) describes one person with divine and human natures, without blending them. Explaining those distinctions is a different task from recounting the Father’s work through the human Christ in Peter’s speech (Acts 2:22–36). This removes the obstacle to share the gospel without first teaching every doctrinal term.
-
-Paul says a long-hidden [mystery](https://church.ofgod.info/terms/mystery) has now been disclosed, and identifies Gentiles’ inclusion as fellow heirs in the revealed mystery of Christ (Romans 16:25–26; Ephesians 3:3–6). Neither passage asks readers to stop examining a claim because it is called a mystery. The Bereans examine apostolic teaching against Scripture, and Peter calls believers to give a reason for their hope (Acts 17:11; 1 Peter 3:15). Faith can rest on testimony that readers understand well enough to examine and share. John likewise points readers to written testimony about Jesus (John 20:30–31).
-
-### God remains faithful and unchanged
-
-The Father grounds Israel’s continued existence in his unchanged character (Malachi 3:6). Unlike creation, which wears out, he remains (Psalm 102:25–27). He does not slumber or sleep while keeping Israel, does not grow weary, and is immortal (Psalm 121:3–4; Isaiah 40:28; 1 Timothy 1:17). James calls him the giver of good gifts with no variation due to change (James 1:17). Such steadiness gives even more a reason to trust God (Nehemiah 9:6; Acts 17:25).
-
-The Father loves the world and sends Jesus. God anoints him with the Holy Spirit and power (John 3:16–17; Acts 10:38). Jesus experiences anguish and truly dies, while the Father raises him (Mark 14:33–36; 1 Peter 3:18; Acts 2:24, 32). *“On this reading, the Father remains the life-giving source throughout: he sends and supports his human Son, then raises him from death. His power is displayed in fulfilling his purpose through Jesus without needing to become the mortal one who dies.”* (1 Corinthians 8:6; Acts 2:22–24, 32).
-
-### A faithful human life
-
-Jesus’s sacrifice was a life given, not a display that left him untouched. In Gethsemane he is deeply distressed, asks whether the cup might pass, and submits to the Father’s will (Mark 14:33–36). The servant bears others’ sins and pours out his life (Isaiah 53:11–12). Jesus describes giving his life as a ransom for many (Mark 10:45). Peter says he bore sins in his body on the tree and died for sins (1 Peter 2:24; 3:18). His life, willingly given through real suffering, is the price Scripture describes.
-
-Jesus’s distress, trust, and chosen death belong to one vulnerable human life like a real human. The crucifixion was no surprise to Jesus. He foretold his resurrection. Although he said that he could appeal to his Father for angels and he knew what was waiting for him, he still choosed the path by which Scripture is fulfilled (Matthew 26:53–54). This bring **even more honor** to Jesus than [the Chalcedonean narative](../nature.md) of a *dual-nature divine Christ limited himself* on a cross.
-
-That fact that Jesus obeyed even through death is a fair reason for God to exalt him. The resulting honor of Jesus brings glory to the Father (Philippians 2:8–11).
-
-> [!NOTE]
-> Paul places the obedience of one man at the center of his account of many being made righteous (Romans 5:19).
-
-### The Father's love and glory
-
-At Jesus's baptism, the Father calls him his beloved Son (Matthew 3:16–17). The Father then gives the Son he loves for the life of the world (John 3:16–17). *“On this reading, the gift makes the Father's love visible in his relationship with a distinct human Son, without suggesting that Trinitarians deny the Father's love or the Son's genuine humanity.”*
-
-Isaiah speaks of the Spirit of wisdom resting on the promised ruler (Isaiah 11:1–2). Peter says God did mighty works through Jesus, and that God anointed him with the Holy Spirit and power (Acts 2:22; 10:38). Jesus says he acts in dependence on the Father (John 5:19, 30). *“The Father's wisdom and power are displayed in what he accomplishes through his human Son; Jesus is honored for faithfully carrying out the work entrusted to him.”*
-
-The Father is holy (Psalm 99:3; Isaiah 6:3). He lays the iniquity of others on the servant; Christ bears sins in his body and becomes a curse for us (Isaiah 53:6; 1 Peter 2:24; Galatians 3:13). *“Distinguishing the holy Father from the human Son who bears the curse keeps their different roles in view, without suggesting Jesus became sinful or claiming that these passages alone disprove the classical account of Christ.”*
-
-Jesus speaks of the Son and Father glorifying one another (John 13:31–32; 17:1). He also appeals to their testimony as two witnesses (John 8:17–18). *“Their distinct witness and mutual glory give reason to honor both the Father who sends and the Son who obeys.”* Trinitarians likewise distinguish the Father and Son as persons; the difference argued here concerns whether the Son also has a divine nature.
-
 ### Temptation and compassion
 
 Jesus enters the wilderness hungry after fasting. His need for food is real (Matthew 4:1–2). Matthew records three offers there and, later, Peter’s counsel against Jesus’s foretold suffering (Matthew 4:3–10; 16:21–23). Jesus was really [tempted](../human/temptations.md) by on multiple levels: identity, provision, protection, and plan:
@@ -82,26 +21,6 @@ Isaiah describes a ruler from Jesse’s line who judges the poor with righteousn
 
 Paul calls Jesus the human mediator between God and humanity (1 Timothy 2:5). He says that, as death came through a man, resurrection comes through a man: Christ is the firstfruits of those who will be raised (1 Corinthians 15:21–23). Jesus also leaves an example of endurance without wrongdoing (1 Peter 2:21–23). God’s purpose is to conform believers to the image of his Son and transform their lowly bodies to be like his glorious body (Romans 8:29; Philippians 3:21). *“His humanity joins judgment, representation, example, and hope: the one appointed to judge human beings has lived among them and been raised ahead of those he represents.”* This hope rests on God’s gift, not unaided human effort (Ephesians 2:8–9).
 
-### Following Jesus as a human example
-
-Jesus’s followers are to walk as he walked (1 John 2:6). He washes his disciples’ feet and tells them to do likewise, and commands them to love one another as he loved them (John 13:14–15, 34–35). Peter points to Jesus’s refusal to retaliate under unjust suffering (1 Peter 2:21–23). *“His conduct measures daily life: Do we serve rather than seek status, love when it costs us, and refuse to return harm for harm?”* The call is to imitate his conduct, not assume his unique place as mediator (1 Timothy 2:5).
-
-Jesus faces hunger, fatigue, and anguish, yet submits to the Father’s will (Matthew 4:1–11; John 4:6; Mark 14:33–36). *“On this reading, his obedience belongs to the same vulnerable human life as these pressures. Disciples can take his choices seriously as an example without explaining his faithfulness by a private divine ability unavailable to them.”* They need not face identical trials to follow the pattern of his love and endurance (John 13:14–15; 1 Peter 2:21–23).
-
-God’s help belongs to that pattern rather than replacing human effort. The Spirit leads Jesus, and God is with him (Matthew 4:1; Acts 10:38). God works in believers both to will and to work; Jesus tells his followers they can do nothing apart from him (Philippians 2:12–13; John 15:5). Paul says God provides a way to endure temptation (1 Corinthians 10:13). *“With God’s help, a disciple can make faithful choices—serving, resisting retaliation, and enduring a particular test—instead of treating obedience as pointless to attempt.”*
-
-John writes so believers may not sin, while also telling them to confess sin and pointing to Jesus as their advocate if they do (1 John 1:8–2:2). Salvation remains God’s gift, and the good works that follow are part of his purpose (Ephesians 2:8–10). *“Failure calls for confession and renewed obedience, not a lower standard or a claim that human effort alone can meet it perfectly.”*
-
-### God can work through us too
-
-Peter describes Jesus as a man through whom God did mighty works (Acts 2:22). The Spirit leads Jesus (Matthew 4:1); the Father calls him his beloved Son (Matthew 3:17). God anoints him with the Holy Spirit and power, and God is with him as he heals (Acts 10:38). *“On this reading, Jesus’s genuine humanity is no barrier to the Father’s love, guidance, or power. His miracles display what God did through his specially appointed Christ, not a power ordinary humans generate for themselves.”*
-
-Jesus gives the twelve disciples authority to heal and cast out unclean spirits (Matthew 10:1, 7–8). When Peter heals a man, he acts in Jesus’s name and rejects the idea that his own power or piety caused the healing (Acts 3:6, 12, 16). Jesus also tells those who believe in him that they will do his works, connecting that promise to his going to the Father (John 14:12). *“The disciples’ works show that God’s power can reach others through human followers of Jesus.”* A commission to the twelve does not make every believer an apostle or give every disciple the Christ’s full authority (Matthew 10:1; 1 Corinthians 12:29–30).
-
-The Father loves those who love Jesus and believe he came from God (John 16:27). Believers can be led by God’s Spirit (Romans 8:14), and the Spirit distributes gifts for the common good as he wills (1 Corinthians 12:7–11). Paul’s questions about healing and miracles make clear that not everyone receives the same gifts (1 Corinthians 12:29–30). *“God can work through believers; no one must perform a miracle to prove faith, and no one can claim such power as an entitlement.”*
-
-Trust in the Father’s care is not a promise of a harm-free life. Jesus warns his followers of trouble (John 16:33). Acts recounts James’s death and Peter’s deliverance in the same period (Acts 12:1–11), while Paul says suffering cannot separate believers from God’s love in Christ (Romans 8:35–39). *“The hope is God’s continuing love and power through human disciples, not guaranteed healing or rescue in every circumstance.”*
-
 ### His resurrection is our hope
 
 The Father raised Jesus from death (Acts 2:24, 32). Paul places that act beside believers’ future: “And God raised the Lord and **will also raise us up by his power**” (1 Corinthians 6:14). He calls the risen Christ the firstfruits of those who have died and says those who belong to Christ will be raised at his coming (1 Corinthians 15:20–23). *“Jesus’s resurrection is not an isolated display of power; it begins the promised harvest.”*
@@ -110,23 +29,7 @@ Paul connects that hope to Jesus’s humanity: resurrection comes through a man,
 
 The Father, who raised Jesus, will also give life to believers’ mortal bodies through his Spirit dwelling in them (Romans 8:11). The promise belongs to those who belong to Christ, not automatically to everyone because they share his humanity (1 Corinthians 15:23). *“His shared humanity makes him a fitting forerunner; the Father’s power and promise give believers reason to expect resurrection for themselves.”*
 
-### God fulfills his purpose through humanity
 
-God creates humans in his image, entrusts them with rule over living creatures and the earth, and calls his creation very good (Genesis 1:26–28, 31). He gives the first man life; Adam disobeys and faces a return to dust (Genesis 2:7; 3:6, 19). The original commission concerns the earth and its creatures, not independent human power over death (Genesis 1:26–28). *“Adam’s sin reveals human failure within a good creation; it does not, by itself, establish that the Creator’s design was defective.”*
-
-God anoints Jesus with the Holy Spirit and power (Acts 10:38). Peter says Jesus committed no sin, and Paul contrasts one man’s disobedience with the obedience of one man (1 Peter 2:22; Romans 5:18–19). *“On this reading, Jesus’s faithful human life counters the claim that being human itself makes obedience impossible.”* He is God’s anointed Christ, not evidence that fallen people can save themselves or attain sinlessness by unaided effort (Acts 10:38; Ephesians 2:8–10).
-
-God raises Jesus, and death no longer has dominion over the risen Christ (Acts 2:24, 32; Romans 6:9). Paul says resurrection comes through a man and calls Christ the firstfruits of those who will be raised; those who belong to him follow at his coming (1 Corinthians 15:21–23). Christ reigns while death remains the last enemy to be destroyed, and the Father who grants his authority is excepted from those subjected to him (1 Corinthians 15:24–28). *“The Father advances humanity’s calling through a faithful human Son rather than abandoning it after Adam’s failure.”* Victory over death is the Father’s gift through the man he raised, not an ability humanity possessed independently (Genesis 2:7; Acts 17:31; 1 Corinthians 15:21–23). *“This account gives full weight to the Father’s power and Jesus’s obedience without requiring the further claim that the obedient man also has a divine nature.”*
-
-### Creation reveals the Creator
-
-Isaiah presents the Father as the everlasting Creator who does not grow weary (Isaiah 40:25–28). Solomon says even the highest heaven cannot contain God (1 Kings 8:27), and Paul calls God immortal and invisible (1 Timothy 1:17). *“These passages portray the Creator as the enduring source of life, not merely a larger creature dependent on the world he made.”*
-
-At Athens, **Paul** addresses worshipers by proclaiming the Creator who gives life to all and must not be likened to images fashioned from gold, silver, or stone by human art and imagination (Acts 17:22–29). Paul and Barnabas also point to rain and fruitful seasons as witnesses to the Creator’s goodness (Acts 14:14–17). Paul argues that God’s eternal power and divine nature are perceived through what he has made (Romans 1:19–20). *“Creation gives his proclamation a starting point without requiring every listener to begin with identical beliefs.”*
-
-An immortal Creator and a Christ who died raise a sincere question for some hearers: how could God die (1 Timothy 1:17; 1 Peter 3:18)? The [classical account of Christ’s natures](https://www.vatican.va/archive/ENG0015/__P1J.HTM) answers that Jesus truly died according to his humanity while his divine nature did not cease to live. *“The human-Christ reading instead relates the death of Jesus directly to the life-giving Father who raises him, without making the classical answer a logical impossibility.”*
-
-Paul moves from the life-giving Creator to the man God appointed to judge and raised from death (Acts 17:24–25, 31). Peter says God worked through the man Jesus and raised him; Paul calls Jesus the human mediator (Acts 2:22–24, 32; 1 Timothy 2:5). *“This direct account may make the proclamation more accessible to some hearers, while its reliability must be judged by Scripture rather than by how easy either account feels.”* The invitation is to examine the testimony about Jesus (Acts 17:11; John 20:31).
 
 ### Twelve practical comparisons
 

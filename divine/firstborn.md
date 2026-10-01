@@ -3,7 +3,7 @@ description: The surprising biblical meaning of firstborn and firstfruits reveal
 keywords: biblical firstborn, firstfruits resurrection, Colossians 1, Psalm 89, Jesus pre-eminence
 ---
 
-# Firstborn
+# Jesus is the Firstborn
 
 Some readers believe that Jesus was the first divine being, or an angel, created by God because English translations of Paul’s letters call him “firstborn.”
 
