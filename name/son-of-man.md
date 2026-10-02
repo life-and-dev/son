@@ -5,7 +5,7 @@ keywords: Son of Man, Messiah, Genesis 3:15, Jesus humanity, Son of God, Adam ty
 
 # The Son Of Man
 
-I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *[God incarnated as a man](human.md)* or *[the human part of God](human.md)*. But then the [Unitarians](shema/unitarianism.md) may point out:
+I've encountered many discussions where Christians assume that calling Jesus "the Son of Man" means *[God incarnated as a man](human.md)* or *[the human part of God](human.md)*. However, Moses wrote:
 
 > "**God is not a man**, that He should lie, **nor a son of man**, that He should repent. — Numbers 23:19 (NKJV)
 
@@ -13,20 +13,17 @@ I've encountered many discussions where Christians assume that calling Jesus "th
 
 In general "son of man" refers to any general human, for example:
 
-> “What is **man** that you are mindful of him, and the **son of man** that you
-> care for him?” — Psalm 8:4 (ESV)
+> “What is **man** that you are mindful of him, and the **son of man** that you care for him?” — Psalm 8:4 (ESV)
 
 See also Psalm 80:17, 144:3, 146:3.
 
 This is evident from the book of Ezekiel where Ezekiel is repeatedly called "the son of man", for example:
 
-> He said to me, “**Son of man**, stand on your feet, and I will speak with you.”
-> — Ezekiel 2:1 (ESV)
+> He said to me, “**Son of man**, stand on your feet, and I will speak with you.” — Ezekiel 2:1 (ESV)
 
 Job likewise uses it in an ordinary human sense:
 
-> “Your wickedness concerns **a man like yourself**, and your righteousness **a
-> son of man**.” — Job 35:8 (ESV)
+> “Your wickedness concerns **a man like yourself**, and your righteousness **a son of man**.” — Job 35:8 (ESV)
 
 See also Job 16:21 and Job 25:6 as well as the prophets like Isaiah 51:12, 56:2; Jeremiah 50:40, 51:43; Daniel 8:17; etc.
 
@@ -46,12 +43,12 @@ Most Bible translations continue to use the term "the man" in Genesis 2 until Ev
 
 God gave His [word](name/word.md) to Eve:
 
-> I *(God)* will put enmity between you *(the devil)* and the woman *(Eve)*, and between your offspring and **her offspring**;  
+> I *(God)* will put enmity between you *(the serpant)* and the woman *(Eve)*, and between your offspring and **her offspring**;  
 > **He** shall bruise your head, and you shall bruise his heel.”
 >
 > — Genesis 3:15 (ESV, with interpretive notes added for clarity)
 
-The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, [He promised that Eve's offspring would bruise the devil's head](https://prophecies.ofgod.info/messianic/genesis-3-15). Because this offspring could be considered the son of Adam (man) it potentially refer to Jesus would accomplish.
+*The serpant* is commonly understood to be the devil. The text shows that God did not tell Eve that He Himself would personally come and bruise the devil. Instead, [He promised that Eve's offspring would bruise the devil's head](https://prophecies.ofgod.info/messianic/genesis-3-15). Because this offspring could be considered the son of Adam (man) it potentially refer to what Jesus would accomplish.
 
 A possible interpretations is that this was [God's word that given in the beginning](name/word.md) of which John 1 wrote. In that context the "He" in Genesis 3:15 would refer to Jesus.
 
@@ -161,7 +158,7 @@ Although Paul does not use the title “Son of Man”, he does call Jesus “[a 
 > Thus it is written, “The first man Adam **became a living being**”; the last Adam **became a life-giving spirit**. But it is not the spiritual that is first but the natural, and then the spiritual.
 >
 > **The first man** was from the earth, a man of dust; **the second man** is from heaven. As was **the man of dust**, so also are those who are of the dust, and as is **the man of heaven**, so also are those who are of heaven. Just as we have borne the image of **the man of dust**, we shall also bear the image of **the man of heaven**.
--- 1 Corinthians 15:21,45-49 (ESV)
+> — 1 Corinthians 15:21,45-49 (ESV)
 
 Nobody ever though Adam was a god and comparing a god with a man would have been pointless.
 
