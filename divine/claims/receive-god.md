@@ -1,44 +1,116 @@
 ---
-description: This article explores Jesus' statement that receiving him is equivalent to receiving God, examining it through the lens of representation and agency.
-keywords: Jesus, receive God, representation, divine agency, Matthew 10:40, envoy, biblical unity
+description: Jesus' reception sayings raise questions about representation, disciples and the Old Testament messengers who spoke or acted for their senders.
+keywords: receiving Jesus, Matthew 10:40, John 13:20, Luke 10:16, biblical agency, Moses and Aaron, Exodus 16:8, Samuel, 1 Samuel 8:7, prophetic messengers, 2 Chronicles 36:15-16, David's envoys, 2 Samuel 10
 ---
 
-# Jesus Claims That You Receiving God When Receiving Him
+# Jesus Claims That Receiving Him Means Receiving God
 
-Many readers of the New Testament encounter passages where Jesus appears to equate himself with God. One such example is his statement that receiving him is equivalent to receiving the one who sent him. While some interpret this as a claim to divinity, others see it as a clear expression of the biblical principle of agency. This article explores how the context of representation and the role of an envoy help clarify the meaning of Jesus' words.
-
-> "Whoever receives you receives me, and whoever receives me receives him who sent me." — Matthew 10:40 (ESV); Mark 9:37; Luke 9:48; John 12:44
+Jesus says that receiving him is receiving the one who sent him. His words raise a question about personal identity and authorised representation. The same question arises when Jesus speaks about receiving or rejecting his disciples. Their commission, together with examples involving Moses, Samuel, the prophets and David's envoys, provides a way to examine the distinction.
 
 ## The Logic of Representation
 
-The argument that Jesus is God because receiving him is receiving God often overlooks the first part of the same sentence. Jesus tells his disciples that whoever receives *them* receives *him*. If the logic of "receiving equals identity" is applied consistently, one would have to conclude that the disciples are also Jesus.
+The inference *"Receiving Jesus is receiving God, so Jesus must be God"* treats reception as sufficient proof of the speaker's nature. However, the first part of Jesus' statement applies the same reception language to his disciples:
 
-This principle is reiterated in other parts of the Gospels:
+> "**Whoever receives you receives me**, and whoever receives me receives **him who sent me**." — Matthew 10:40 (ESV)
 
-> "Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me." — John 13:20 (ESV)
+If receiving someone established personal identity, the first clause would make the disciples Jesus. Instead, the sentence distinguishes the disciples, Jesus and his sender. Welcoming the disciples on their commissioned mission counts as welcoming Jesus. It does not turn them into Christ or make them additional Messiahs.
 
-In this context, Jesus is not defining his essence or nature. Rather, he is describing a chain of representation. The authority of the disciples comes from Jesus, and the authority of Jesus comes from the Father. To welcome the messenger is to honor the one who commissioned the message. This concept of authorized representation, often referred to as the [law of agency](https://biblehub.com/commentaries/matthew/10-40.htm), was a standard legal and social practice in the ancient Near East.
+John makes the commission explicit:
+
+> "Truly, truly, I say to you, whoever **receives the one I send** receives me, and whoever receives me receives **the one who sent me**." — John 13:20 (ESV)
+
+The commissioning runs from the Father to Jesus and from Jesus to his disciples. Reception follows that relationship back to its source: receiving those Jesus sends counts as receiving Jesus and the Father who sent him. The response reaches the sender without making the messenger that sender.
+
+Luke provides a supporting statement about hearing and rejection:
+
+> "The one who **hears you hears me**, and the one who **rejects you rejects me**, and the one who rejects me rejects **him who sent me**." — Luke 10:16 (ESV)
+
+Hearing the commissioned disciples means hearing the message Jesus entrusted to them. Rejecting them in that mission means rejecting Jesus and, through him, the Father. Luke confirms the representative relationship already expressed in Matthew 10:40 and John 13:20.
+
+Agency means authorised representation: a sender commissions a messenger to carry a message or fulfil a mission on the sender's behalf. The expression [law of agency](https://biblehub.com/commentaries/matthew/10-40.htm) is descriptive shorthand here, not the name of a biblical statute or a claim about ancient legal history.
+
+This explanation concerns the commissioned message or mission. It does not give every private opinion, personal fault or unrelated action of a representative the sender's authority.
+
+## Non-Jesus Examples of Representation
+
+The Old Testament provides human examples independent of Jesus. Some explicitly connect a response to a messenger with a response to the LORD. Others show how rejecting a message or mistreating envoys affects their sender. Deuteronomy also describes the general pattern of authorised prophetic speech that helps explain these relationships.
+
+### Moses and Aaron: Grumbling Against the LORD
+
+Israel's complaints about food were directed at Moses and Aaron, who administered the LORD's provision. Moses explained whose provision was being challenged:
+
+> "Your **grumbling** is not against us but **against the LORD**." — Exodus 16:8 (ESV, excerpt)
+
+The sender is the LORD, the representatives are Moses and Aaron, and the response is Israel's grumbling about food. The complaint is counted as directed against the LORD because the dispute concerns his provision. It does not make Moses or Aaron the LORD, nor establish that every disagreement with them is an offence against God.
+
+### Samuel: Rejecting the LORD's Kingship
+
+The LORD addresses Samuel after Israel demands a king like the surrounding nations:
+
+> "**they have not rejected you**, but **they have rejected me from being king over them**" — 1 Samuel 8:7 (ESV, excerpt)
+
+The sender is the LORD, the representative is Samuel, and the response is Israel's demand for a king like the nations. The words "from being king over them" identify the issue as rejection of the LORD's kingship. Samuel remains God's human representative, not the God whose rule is rejected.
+
+### Prophets: Rejecting God's Message
+
+Deuteronomy describes how authorised prophetic speech works. The LORD promises to supply a prophet's words and to hold hearers accountable for refusing them:
+
+> "[…] I will put **my words in his mouth**, […]" — Deuteronomy 18:18 (ESV, excerpt)
+
+> "[…] **I myself will require it of him**." — Deuteronomy 18:19 (ESV, excerpt)
+
+The prophet speaks what the LORD commands and in his name. Rejecting those words therefore concerns the LORD, not merely the speaker's private judgement. The passage sets out a general prophetic pattern; nothing in this comparison requires excluding Jesus from that pattern.
+
+Judah's treatment of the prophets illustrates rejection of the message they carried. The account describes how God approached the people:
+
+> "sent persistently to them by his **messengers**" — 2 Chronicles 36:15 (ESV, excerpt)
+
+It then describes Judah's response:
+
+> "**mocking the messengers of God**, **despising his words**" — 2 Chronicles 36:16 (ESV, excerpt)
+
+The sender is God, the messengers are the prophets, and Judah responds by mocking them and despising his words. Judgement follows in the same account. The prophets remain messengers: their treatment is significant because Judah rejects God's message, not because the prophets are God.
+
+### David's Envoys: Insulting the Sender
+
+David sent servants to console Hanun rather than going himself:
+
+> "David **sent** by his **servants** to console him" — 2 Samuel 10:2 (ESV, excerpt)
+
+Hanun humiliated the servants, including by shaving their beards:
+
+> "**shaved off half the beard**" — 2 Samuel 10:4 (ESV, excerpt)
+
+The envoys were ashamed, and the account describes the resulting damage to relations with David:
+
+> "**become a stench to David**" — 2 Samuel 10:6 (ESV, excerpt)
+
+The sender is David, the representatives are his servants, and the response is Hanun's humiliation of them. Their mistreatment harms relations with their king. This diplomatic analogy concerns an affront to the sender; David's servants remain servants, not the king himself.
 
 ## Unity Between Father and Son
 
-Jesus frequently spoke about his [unity with his Father](1-with-father.md). However, this unity is often portrayed as functional or representational rather than an identity of substance. As an authorized agent, Jesus represents the Father's interests. He speaks the words of God and performs His works.
+Jesus' [unity with his Father](1-with-father.md) is expressed through believing in and seeing the Father in his representative:
 
-> "Whoever believes in me, believes not in me but in him who sent me. And whoever sees me sees him who sent me." — John 12:44-45 (ESV)
+> "Whoever believes in me, **believes not in me but in him who sent me**. And whoever sees me **sees him who sent me**." — John 12:44-45 (ESV)
 
-This concept was well-understood in the ancient world through the idea of an envoy. A messenger was treated with the same respect as the authority who sent him. Rejecting the envoy was equivalent to rejecting the sender. Jesus applies this same logic to his relationship with God and his disciples' relationship with him.
+In the same speech, Jesus explains the source of his message:
 
-> "The one who hears you hears me, and the one who rejects you rejects me, and the one who rejects me rejects him who sent me." — Luke 10:16 (ESV)
+> For **I have not spoken on my own authority**, but the Father Who sent me has himself **given me a commandment ⁠— what to say and what to speak**. And I know that His commandment is eternal life. **What I say, therefore, I say as the Father has told me**.” — John 12:49-50 (ESV)
+
+[Receiving Jesus does mean receiving the Father through His representative.](https://trueunitarian.com/biblical-agency/)
 
 ## Addressing the Unique Role of Jesus
 
-Critiques often suggest that Jesus occupies a unique position that transcends simple agency. They argue that while disciples receive God through Jesus, Jesus receives God directly. This uniqueness is sometimes used to argue for his divinity. However, a unique role does not necessarily imply a change in nature.
+A possible objection is *"Jesus has a unique role, so other messengers cannot explain everything about him."* The examples do not establish that every representative has the same status or mission. They address the narrower inference that *"receiving or rejecting a messenger means the messenger must be the sender"*. These comparisons concern reception, not a complete account of Jesus' nature.
 
-The Bible contains many examples of unique agents who represented God with absolute authority. Moses, for instance, spoke as the mouth of God to the Israelites. In the Old Testament, God also sent messengers who carried His authority:
+Exodus also describes a commissioned messenger whose voice Israel must obey:
 
-> "Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared. Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for my name is in him." — Exodus 23:20-21 (ESV)
+> "Behold, I **send an angel** before you to guard you on the way and to bring you to the place that I have prepared. Pay careful attention to him and **obey his voice**; do not rebel against him, for he **will not pardon your transgression**, for **[my name](https://word.ofgod.info/terms/name) is in him**." — Exodus 23:20-21 (ESV)
 
-In this case, the angel has the authority to pardon or not, and God's name is in him, yet the angel is distinct from the LORD. Similarly, Jesus, as the ultimate envoy, fulfills this role perfectly without being the same being as the one who sent him. Supporting research on [biblical agency](https://trueunitarian.com/biblical-agency/) further clarifies how these representational relationships functioned in a scriptural context.
+The words "will not pardon your transgression" warn against rebellion. They do not establish a discretionary power to decide whether to pardon.
 
 ## Conclusion
 
-The claim that receiving Jesus is receiving God is a statement about [representation](#the-logic-of-representation) and the authority of the one who sent him. It highlights the [unity of purpose](#unity-between-father-and-son) between the Father, the Son, and the disciples. Rather than proving that Jesus is God, these passages emphasize his role as the perfect representative of the Father. This [unique role](#addressing-the-unique-role-of-jesus) demonstrates his authority without requiring an identity of essence with God.
+Receiving or rejecting [commissioned disciples](#the-logic-of-representation) counts as a response to Jesus without making them Christ. The [non-Jesus examples](#non-jesus-examples-of-representation) confirm that distinction within their own settings.
+
+Receiving Jesus does mean receiving the [Father through his representative](#unity-between-father-and-son). Reception alone does not prove Jesus is God or settle every question about his [unique role and nature](#addressing-the-unique-role-of-jesus).

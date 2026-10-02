@@ -64,7 +64,15 @@ Colossians also grounds Christ’s unsurpassed place in the fullness God caused 
 
 Jesus himself spoke in this representative pattern:
 
-> “Whoever has seen me has seen the Father.” — John 14:9 (ESV)
+John 14 places seeing the Father alongside Jesus' words:
+
+> Jesus said to him, “Have I been with you so long, and you still do not know me, Philip? **Whoever has seen me has seen the Father**. How can you say, ‘Show us the Father’? Do you not believe that I am *in* the Father and the Father is *in* me? **The words that I say to you I do not speak on my own authority, but the Father who *dwells in* me does His works.**
+— John 14:9-10 (ESV)
+
+> [!NOTE]
+> [The Greek word *en* (ἐν) is translated as "in" in the ESV which is a preposition meaning "in", "on", "at", "by", "with"](https://word.ofgod.info/semantics/en) depending on the context.
+>
+> The ESV also choose to translate the Greek word *menó* to "dwell" while the [Thayer's Greek Lexicon define it as "to sojourn", "not to depart, not to leave, to continue to be present", "not to perish, to last, to endure" or "to remain as one is, not to become another or different"](https://biblehub.com/greek/3306.htm). Jesus more likely meant *"Do you not believe that I am **with** the Father and the Father is **with** me? The words that I say to you I do not speak on my own authority, but the Father Who **sojourns/endures/remains with** me does His works."*
 
 The statement is a full claim that the Father is made known in Jesus. In the same conversation Jesus says, “I am going to the Father” and “the Father is greater than I” (John 14:12,28). *John’s presentation therefore supports both truths together: Jesus is the decisive revelation of the Father, and Jesus is not the Father he reveals.*
 
