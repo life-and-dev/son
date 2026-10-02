@@ -39,7 +39,7 @@ The Old Testament provides human examples independent of Jesus. Some explicitly 
 
 Israel's complaints about food were directed at Moses and Aaron, who administered the LORD's provision. Moses explained whose provision was being challenged:
 
-> "Your **grumbling** is not against us but **against the LORD**." — Exodus 16:8 (ESV, excerpt)
+> "Your **grumbling** is not against us but **against the LORD**." — Exodus 16:8 (ESV)
 
 The sender is the LORD, the representatives are Moses and Aaron, and the response is Israel's grumbling about food. The complaint is counted as directed against the LORD because the dispute concerns his provision. It does not make Moses or Aaron the LORD, nor establish that every disagreement with them is an offence against God.
 
@@ -47,7 +47,7 @@ The sender is the LORD, the representatives are Moses and Aaron, and the respons
 
 The LORD addresses Samuel after Israel demands a king like the surrounding nations:
 
-> "**they have not rejected you**, but **they have rejected me from being king over them**" — 1 Samuel 8:7 (ESV, excerpt)
+> "**they have not rejected you**, but **they have rejected me from being king over them**" — 1 Samuel 8:7 (ESV)
 
 The sender is the LORD, the representative is Samuel, and the response is Israel's demand for a king like the nations. The words "from being king over them" identify the issue as rejection of the LORD's kingship. Samuel remains God's human representative, not the God whose rule is rejected.
 
@@ -55,19 +55,17 @@ The sender is the LORD, the representative is Samuel, and the response is Israel
 
 Deuteronomy describes how authorised prophetic speech works. The LORD promises to supply a prophet's words and to hold hearers accountable for refusing them:
 
-> "[…] I will put **my words in his mouth**, […]" — Deuteronomy 18:18 (ESV, excerpt)
-
-> "[…] **I myself will require it of him**." — Deuteronomy 18:19 (ESV, excerpt)
+> I will raise up for them a prophet like you from among their brothers. And **I will put My words in his mouth**, and **he shall speak to them all that I command him**. And whoever will not listen to **My words that he shall speak in My name**, I Myself will require it of him. — Deuteronomy 18:18-19 (ESV)
 
 The prophet speaks what the LORD commands and in his name. Rejecting those words therefore concerns the LORD, not merely the speaker's private judgement. The passage sets out a general prophetic pattern; nothing in this comparison requires excluding Jesus from that pattern.
 
 Judah's treatment of the prophets illustrates rejection of the message they carried. The account describes how God approached the people:
 
-> "sent persistently to them by his **messengers**" — 2 Chronicles 36:15 (ESV, excerpt)
+> "sent persistently to them by his **messengers**" — 2 Chronicles 36:15 (ESV)
 
 It then describes Judah's response:
 
-> "**mocking the messengers of God**, **despising his words**" — 2 Chronicles 36:16 (ESV, excerpt)
+> "**mocking the messengers of God**, **despising his words**" — 2 Chronicles 36:16 (ESV)
 
 The sender is God, the messengers are the prophets, and Judah responds by mocking them and despising his words. Judgement follows in the same account. The prophets remain messengers: their treatment is significant because Judah rejects God's message, not because the prophets are God.
 
@@ -75,15 +73,15 @@ The sender is God, the messengers are the prophets, and Judah responds by mockin
 
 David sent servants to console Hanun rather than going himself:
 
-> "David **sent** by his **servants** to console him" — 2 Samuel 10:2 (ESV, excerpt)
+> "David **sent** by his **servants** to console him" — 2 Samuel 10:2 (ESV)
 
 Hanun humiliated the servants, including by shaving their beards:
 
-> "**shaved off half the beard**" — 2 Samuel 10:4 (ESV, excerpt)
+> "**shaved off half the beard**" — 2 Samuel 10:4 (ESV)
 
 The envoys were ashamed, and the account describes the resulting damage to relations with David:
 
-> "**become a stench to David**" — 2 Samuel 10:6 (ESV, excerpt)
+> "**become a stench to David**" — 2 Samuel 10:6 (ESV)
 
 The sender is David, the representatives are his servants, and the response is Hanun's humiliation of them. Their mistreatment harms relations with their king. This diplomatic analogy concerns an affront to the sender; David's servants remain servants, not the king himself.
 
