@@ -2,7 +2,7 @@
 description: An examination of Jesus's wilderness temptations, exploring how these encounters affirm His identity as the Son of God rather than God Himself.
 keywords: Jesus, temptations, wilderness, Son of God, Matthew 4, Luke 4, devil, Satan, identity, theological analysis
 ---
-# Jesus was Tempted
+# Jesus Was Tempted
 
 The Biblical account of Jesus's temptations in the wilderness, as recorded in Matthew 4:1-11 and Luke 4:1-12 reveal important theological insights about Jesus's identity, particularly regarding His relationship with God the Father. While the devil attacked Jesus's identity, this interaction confirmed that He was truly [the Son of God](../index.md).
 
