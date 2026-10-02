@@ -5,27 +5,7 @@ keywords: Mark 2 forgiveness, Son of Man, divine identity, received authority, J
 
 # Jesus Claims To Forgave Sin Against God
 
-Mark 2:1-12 records Jesus forgiving and healing a paralysed man. The narrow question is whether this episode proves that Jesus possesses the Father’s underived divine identity, or whether it proves genuine authority received from the Father. The wider biblical definition is treated in [Forgiveness in Scripture](https://word.ofgod.info/terms/forgiveness).
-
-## Terms
-
-* **Genuine authority** is real and effective.
-* **Received authority** is granted by the Father and personally exercised by Jesus.
-* **Underived authority** is inherent rather than conferred.
-
-The Greek verb *aphiēmi* in Mark 2:5 can mean leave, release or forgive according to context. Here sins are the object, so pardon is in view. [The verb itself does not identify the authority’s source.](https://word.ofgod.info/terms/forgiveness#language-in-context)
-
-## Argument: Required Divine Inference
-
-Jesus’ personal declaration and healing establish genuine authority. Proving underived divine identity requires a further premise:
-
-*Only someone who is Almighty God can personally exercise this authority, even when commissioned.*
-
-## Rebuttal: Lexical and Narrative Limits
-
-Neither the lexical range nor the absence of an explicit grant inside this short scene proves that the authority is underived. Conversely, calling the [authority received](#terms) must not reduce Jesus’ words to an empty report. The narrative presents his declaration as effective and his authority as real.
-
-## Old Testament Frame
+Mark 2:1-12 records Jesus [forgiving](https://word.ofgod.info/terms/forgiveness) and healing a paralysed man. The narrow question is whether this episode proves that Jesus possesses the Father’s underived divine identity, or whether it proves genuine authority received from the Father.
 
 The LORD identifies himself as the ultimate source of pardon:
 
@@ -44,9 +24,23 @@ Priests mediate prescribed atonement, but do not claim independent discretion to
 
 These representatives are not exact parallels to Mark 2. Nathan explicitly names [the LORD](https://ofgod.info/name#lord), and Leviticus describes a regulated priestly rite. They show that **agency does not equal ultimate source**, but they do not by themselves explain Jesus’ direct declaration or prove that his authority is merely priestly or prophetic.
 
-## Underived Case
+## Terms
 
-### Evidence: Declaration, Objection, Title, and Healing
+* **Genuine authority** is real and effective.
+* **Underived authority** belongs to someone by nature rather than being given by someone else.
+* **Received authority** is granted by the Father and personally exercised by Jesus.
+
+The Greek verb *aphiēmi* in Mark 2:5 can mean leave, release or forgive according to context. Here sins are the object, so pardon is in view. [The verb itself does not identify the authority’s source.](https://word.ofgod.info/terms/forgiveness#language-in-context)
+
+## Argument: Required Divine Inference
+
+Jesus’ personal declaration and healing establish genuine authority. Proving [underived divine identity](#underived-case) requires a further premise:
+
+*Only someone who is Almighty God can personally exercise this authority, even when commissioned.*
+
+Neither the lexical range nor the absence of an explicit grant inside this short scene proves that the authority is underived. Conversely, calling the [authority received](#terms) must not reduce Jesus’ words to an empty report. The narrative presents his declaration as effective and his authority as real.
+
+### Underived Case
 
 Jesus directly addresses the paralysed man:
 
@@ -62,18 +56,18 @@ Jesus then claims authority for the Son of Man:
 
 He commands the man to rise, take his bed and go home. The man immediately does so before the crowd (Mark 2:11-12).
 
-### Argument: Underived Authority
+#### Argument: Underived Authority
 
-The strongest underived case combines four observations rather than resting on one word:
+The strongest [underived case](#terms) combines four observations rather than resting on one word:
 
 1. Jesus makes a direct declaration,
 2. answers a God-alone objection,
 3. claims the authority as the Son of Man, and
 4. validates that claim by healing.
 
-He does not merely say that the Father has forgiven the man. This cumulative scene can therefore be read as Jesus exercising a divine prerogative inherent in his own identity.
+He does not just say that the Father has forgiven the man. Taken together, these details can suggest that *Jesus has the authority to forgive sins by his own nature potentially claiming to be God*.
 
-### Rebuttal: Authority Does Not Identify Its Source
+#### Rebuttal: Authority Does Not Identify Its Source
 
 The objection belongs to the scribes. Mark does not expressly endorse their unstated premise that God cannot delegate this authority. Jesus proves that [the Son of Man](../../name/son-of-man) **has** authority, not that it is unreceived. A miracle authenticates the claim, but does not by itself identify Jesus as its ultimate source.
 
@@ -83,53 +77,38 @@ Acts 2:22 later describes Jesus as:
 
 Mark’s silence about a grant cannot establish that no grant exists.
 
-## Received Case
+### Received Case
 
-### Evidence: Granted Authority Across Scripture
+#### The Crowd’s Response
+
+Mark records the response immediately after the healing:
+
+> “And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and **glorified God**, saying, ‘We never saw anything like this!’” — Mark 2:12 (ESV)
+
+Matthew’s parallel makes the giver explicit:
+
+> “When the crowds saw it, they were afraid, and they **glorified God**, who had **given such authority to men**.” — Matthew 9:8 (ESV)
+
+These narratives report **glorifying God**, not falling down to worship Jesus as Almighty God. Matthew distinguishes God as giver from the human recipients of authority, with Jesus exercising it in the healing. This article identifies the giver as the Father; Matthew’s wording is “God”. The plural “men” does not mean every man receives identical authority.
+
+#### Granted Authority Across Scripture
 
 Daniel’s human-like figure receives dominion from the Ancient of Days:
 
 > “And to him was **given dominion and glory and a kingdom**, that all peoples, nations, and languages should serve him.” — Daniel 7:14 (ESV)
 
-This is relevant because Mark 2:10 names “the Son of Man”. Matthew’s parallel says that the crowds “glorified God, who had **given such authority to men**” (Matthew 9:8). This cautiously supports a grant, although “men” is broad and the statement reports the crowd’s response rather than giving a full narrator explanation.
+This is relevant because Mark 2:10 names “the Son of Man”.
 
 John 5 supplies explicit source language. Jesus says that the Son “can **do nothing of his own accord**” (John 5:19), that the Father “has **given all judgment to the Son**” (John 5:22), “has **granted the Son also to have life in himself**” (John 5:26), and “has **given him authority to execute judgment**” (John 5:27). Jesus repeats, “I **can do nothing on my own**” (John 5:30).
 
 Acts confirms the pattern. God performs signs through Jesus (Acts 2:22). After raising him, God “**exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins**” (Acts 5:30-31, ESV).
 
-### Argument: Received Authority
-
 Daniel 7 gives a received-authority background to the title used in Mark 2. John 5 then explicitly identifies the Father as the source of the Son’s life-giving and judicial authority. Acts 2 identifies God as the source of Jesus’ works, while Acts 5 gives the exalted Jesus a God-given role in repentance and forgiveness. Together these passages provide stronger explicit support for received authority than Mark 2 provides for underived authority.
-
-### Rebuttal: Indirect and Cumulative Evidence
-
-Daniel 7 concerns dominion, John 5 concerns life and judgement, and Acts 5 describes Jesus after his resurrection. None directly says, *“The Father gave Jesus authority before Mark 2 to forgive this man.”* Their relation to Mark 2 is therefore indirect and cumulative.
-
-The broader texts support [received authority](#terms), but grammar alone cannot rule out every competing interpretation of Jesus’ identity.
-
-## Direct Assessment
-
-### Evidence: Comparison of Readings
-
-| Question                     | What Mark 2 establishes                                                  | What Mark 2 leaves unstated                                |
-| ---------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| Did Jesus forgive?           | He directly declares the man’s sins forgiven.                            | The passage does not describe the precise mechanism.       |
-| Was his authority genuine?   | He claims authority and validates it by healing.                         | Nothing in the scene reduces the act to pretence.          |
-| Was the authority underived? | The direct declaration and objection give this reading contextual force. | Jesus never says that the authority originates in himself. |
-| Was the authority received?  | The Son of Man title is compatible with Daniel 7’s granted dominion.     | No grant is narrated inside the episode.                   |
-
-*The best bounded assessment is that Mark 2 proves Jesus’ genuine personal authority to forgive, but not the source of that authority.*
-
-The wider explicit language of Daniel 7, John 5, Acts 2 and Acts 5 better supports authority received from the Father. Mark 2 therefore **does not prove that Jesus is the Father or Almighty God**.
-
-This conclusion does not deny the force of the direct declaration, the God-alone objection, [the Son of Man](../../name/son-of-man) claim or the validating healing. It denies only the further inference that genuine exercise necessarily means underived possession. It also does not infer received authority merely from Mark’s silence. That conclusion rests on broader positive statements about the Father giving and working through Jesus.
 
 ## Conclusion
 
-[Mark 2 establishes real authority](#underived-case) through a direct declaration, claimed authority and validating healing. The [broader texts present the Father as giver](#received-case).
+The claim that Mark 2 proves Jesus is God [confuses genuine authority with underived divine identity](#rebuttal-authority-does-not-identify-its-source). The [scribes’ God-alone objection](#rebuttal-authority-does-not-identify-its-source) is an objection, not a demonstrated ban on delegation. The [healing confirms authority](#underived-case), not its underived source.
 
-[Jesus’ authority is genuine](#direct-assessment), but genuine exercise does not establish underived origin.
+The [crowds glorify God, whom Matthew names as giver of authority to human beings](#the-crowds-response). The [broader texts identify the Father as giver and Jesus as recipient](#granted-authority-across-scripture). [This positively supports received authority](#received-case), without claiming Mark 2 explicitly states that the Father granted Jesus authority to forgive sins.
 
-[The bounded conclusion preserves the strongest God-alone case](#underived-case) without treating silence about a grant as proof against received authority.
-
-Mark 2 does not prove that Jesus is Almighty God.
+**[Mark 2 does not prove that Jesus is Almighty God](#rebuttal-authority-does-not-identify-its-source).**
