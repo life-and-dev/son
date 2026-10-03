@@ -346,21 +346,21 @@ A still later Western document, the [Athanasian Creed](https://www.ccel.org/cree
 It described the three persons as **coeternal** and **coequal**.
 
 ```mermaid
-graph TD
+graph LR
     subgraph "Trinity: 1 God = 3 Persons"
-        Father((The Father)) <-- coequal\n&\ncoeternal --> Son
-        Father <-.-> |distinct\nperson| Son
+        Father(("The Father\na.k.a.\n'The LORD'")) <-- coequal\n&\ncoeternal --> Son
+        Father <-.-> |distinct person| Son
         Father <-- coequal\n&\ncoeternal --> Spirit
-        Father <-.-> |distinct\nperson| Spirit
+        Father <-.-> |distinct person| Spirit
         Father -.-> |begets| Son
-        Son((Jesus Christ)) <-- coequal\n&\ncoeternal --> Spirit
-        Son <-.-> |distinct\nperson| Spirit
-        Spirit((Holy Spirit))
-    end
-    subgraph Dual Nature
-        Son -- immortal\n&\nalmighty --> SonOfGod(Son of God)
-        Son -- mortal\n&\nfinite --> SonOfMan(Son of Man)
-        SonOfGod <-.-> |same person\nsimultaneously| SonOfMan
+        Son(("The Son\na.k.a.\n'The Lord'")) <-- coequal\n&\ncoeternal --> Spirit
+        Son <-.-> |distinct person| Spirit
+        Spirit((The Holy Spirit))
+        subgraph "1 Jesus Christ = 2 Natures"
+            Son -- immortal\nalmighty\nomnipresent\nomniscient --> SonOfGod[/Son of God/]
+            Son -- mortal\nfinite\nabsent\ndon't know --> SonOfMan[\Son of Man\]
+            SonOfGod <-.-> |same person\nsimultaneously| SonOfMan
+        end
     end
 ```
 
