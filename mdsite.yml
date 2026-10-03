@@ -51,8 +51,6 @@ menu:
     - temptations
     - limitations
     - baptized
-    - ===
-    - why
   - The Models of God: ===
   - modalism
   - partialism
@@ -73,9 +71,6 @@ menu:
     - The Son: /nature
     - holy-spirit
   - shema:
-    - jesus-today
-    - prayer-to-jesus
-    - unitarianism
     - concerns:
       - blasphemy
       - fellowship
@@ -87,6 +82,10 @@ menu:
       - salvation
       - unforgivable-sin
       - worship
+    - benefits
+    - jesus-today
+    - prayer-to-jesus
+    - unitarianism
 site:
   canonical: https://son.ofgod.info
   favicon: logo.svg
