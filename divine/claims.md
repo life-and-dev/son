@@ -30,14 +30,6 @@ Some would argue [the Trinity](../trinity.md) is to complex to explain to *simpl
 
 ## Strongest Proof that Jesus Claimed to be Divine
 
-There are 5 ways to understand the *"deity of Christ"* texts:
-
-1. Jesus is God in being, yet distinct from the Father in person ([Trinitarian](../trinity.md)).
-2. Jesus is just the Father ([Modalism](../modalism.md)).
-3. Jesus is a lesser subordinate god ([Subordinationism](../subordinationism.md)).
-4. Jesus is a deified hero (Greco-Roman).
-5. Jesus is a man who fully represents God as His agent (Hebrew).
-
 Important questions to ask to proof the divinity of Jesus:
 
 * [Did Jesus claim to be the "I AM"?](claims/i-am.md)

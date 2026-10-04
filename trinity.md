@@ -55,6 +55,8 @@ Together, these witnesses support the conclusion that Trinitarian belief is not 
 
 One possible defense is that *Israel originally knew God as three coequal persons but later abandoned that belief.* Often the argument state that everyone knew this *since Genesis, so no explanation is needed.* These claim **needs evidence** of the earlier belief because Israel’s confession in [the Shema](shema.md) (Deuteronomy 6:4) establishes **one** God.
 
+There are no text in the Old Testament that suggest that the Son may be God, however there are about 15,000 texts in the Old Testament alone that state that the Father is God (according to [Sean Finnegan](https://youtu.be/tHsG7T0gNZw?si=Ee84C65aWiv5BT9k)).
+
 ### Lack of Historical Evidence
 
 The available witnesses **do not establish that pre-Christian Jews widely professed a doctrine of three coequal persons** and then abandoned it. Writing in the late first century, Josephus said, “There ought also to be but one temple for **one God**” ([*Against Apion* II.24](https://www.gutenberg.org/cache/epub/2849/pg2849-images.html)). This witnesses to one-God worship, not to a dispute over the later Trinity doctrine.
