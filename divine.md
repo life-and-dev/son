@@ -57,22 +57,6 @@ Unpopular Unitarian-biased bible translations include:
 
 Fortunately, today we have access to interlinear bibles that provide word-by-word translations of Hebrew and Greek manuscripts that pre-dates the Vulgate and Nicene Creed. Some of these can be found online at websites like [Bible Hub](https://biblehub.com/interlinear/), [Blue Letter Bible](https://www.blueletterbible.org), [STEP Bible](https://www.stepbible.org) and [Bible Study Tools](https://www.biblestudytools.com) or downloaded from [Berean Bible](https://bereanbible.com), [MySword](https://www.mysword.info/) and [Scripture4All](https://www.scripture4all.org).
 
-Professional scholars who believe in the deity of Christ admit:
-
-> But we shall find that on almost every occasion in the New Testament on which Jesus seems to be called God there is a **problem either of textual criticism or of translation**. In almost every case we have to discuss which of two readings is to be accepted or which of two possible translations is to be accepted. -- William Barclay, "Jesus as They Saw Him" (Grand Rapids: Eerdmans, 1978), 21
-
-> Belief in the deity of Christ has traditionally been the keystone of the doctrine of [the Trinity](trinity.md), yet **explicit references to Jesus as "God" in the New Testament are very few**, and even those few are **generally plagued with uncertainties of either text or interpretation**. -- Christopher Kaiser, "The Doctrine of God" (London: Marshall Morgan & Scott, 1982) 29.
-
-> No one ... can help being impressed by the **remarkable reserve of the NT writers in applying the term θεὸς to Jesus**. ... If the writers of the NT were persuaded of the deity of Christ, what accounts for their reticence to ascribe to him the title that, of all the divine names, would seem most explicitly to affirm that deity? Have the fathers and the creeds of [the church](https://church.ofgod.info) outstripped the NT evidence in speaking so plainly and so often of Jesus Christ as "God"? ... It is a curious fact that **each of the texts to be examined contains an interpretative problem** of some description actually, most contains two or three. -- Murray J. Harris, "Jesus as God" (Eugene, OR: Wipf & Stock, 1992), 9-11.
-
-Evidence Murray Harris use to proof the divinity of Jesus is: John 1:1,18; 20:28; Acts 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20
-
-> **No author of a Synoptic Gospel explicitly ascribe the title θεὸς to Jesus. Jesus never used the term θεὸς for himself. No sermon in the book of Acts attributes the title θεὸς to Jesus** ... And possibly the biggest problem for NT Christology regarding this topic is that **textual variants exist in every potential passage where Jesus is explicitly referred to as θεὸς**. -- Brian J. Wright, "Jesus as θεὸς: A Textual Examination" in Revisiting the Corruption of the New Testament, ed. Daniel B. Wallace (Grand Rapids: Kregel, 2011), 229-31.
-
-Evidence Brian Wright used to proof the divinity of Jesus is: John 1:1,18; 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20
-
-As the above authors admitted themselves, none of the proven texts are strong arguments for the deity of Jesus. What are textually certain about Jesus are texts about his: birth, humanity, miracles, teachings, 12 disciples, death by crucifixion, resusrrections, ascension and his return. If there are so many clear and certain texts about Jesus, why is the *"fundamental truth about the deity of Christ"* so obscure?
-
 ### Concerns
 
 Some [Trinitarian](trinity.md) traditions have historically labeled [Unitarian](shema/unitarianism.md) beliefs as ["heretical"](https://church.ofgod.info/evolution/325-nicaea-creed) or even ["antichrist"](https://eternal.family.net.za/god/son/essence/as-god/incarnation#1-john), teaching that one cannot be [saved](https://kingdom.ofgod.info/life) without believing Jesus is God Himself, as stated in certain church creeds.

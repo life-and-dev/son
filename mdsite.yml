@@ -40,8 +40,11 @@ menu:
       - act
     - bride
     - firstborn
-    - galatians-1-1
     - melchizedek
+    - texts:
+      - galatians-1-1
+      - Colossians 1:13-17: /divine/creator
+      - titus-2-13
   - human:
     - prophecies
     - distinct
