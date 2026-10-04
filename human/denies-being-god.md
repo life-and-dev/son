@@ -10,7 +10,7 @@ Many people hold strong beliefs about the nature of Jesus. But what did Jesus hi
 
 > So He said to him, “Why do you call me good? No one is good but **One, that is, God**. -- Matthew 19:17 (NKJV); Mark 10:18; Luke 18:19
 
-> So Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing...
+> So Jesus said to them, “Truly, truly, I say to you, **the Son can do nothing of his own accord**, but only what he sees the Father doing...
 >
 > How can you believe, when you receive glory from one another and do not seek the glory that comes from **the only God**? 
 > 
@@ -24,6 +24,18 @@ Many people hold strong beliefs about the nature of Jesus. But what did Jesus hi
 
 ## Implicit Denies
 
+> And one of the scribes came up and heard them disputing with one another, and seeing that he *(Jesus)* answered them well, asked him,
+>
+> “Which commandment is the most important of all?”
+> Jesus answered, “The most important is, **‘Hear, O Israel: The Lord our God, the Lord is one** (Deuteronomy 6:4). And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”
+> And the scribe said to him, “**You are right**, Teacher. You have **truly said** that **He is one, and there is no other besides Him** (Deuteronomy 4:35).
+>
+> — Mark 12:28-32 (ESV)
+
+The Jews were not Trinitarians. The scribe did not [serve and worship Jesus](../divine/worship.md) as God. Jesus could have corrected him, but instead He responded:
+
+> And when Jesus saw that **he answered wisely**, he said to him, **"You are not far from the kingdom of God."** — Mark 12:34 (ESV)
+
 > But concerning that day or that hour, no one knows, not even the angels in heaven, **nor the Son**, but **only the Father**. -- Mark 13:32 (ESV)
 
 [Jesus called himself "the Son"](../index.md), therefore he implied that he is not our Father God.
@@ -35,7 +47,8 @@ Jesus made a clear distinction between himself and the Father, implying that he 
 ## Conclusion
 
 The Gospels present several instances where Jesus's own words appear to draw a clear line between himself and God.
+
 - He made [direct statements](#direct-denies) questioning being called good, a quality he attributed to God alone, and referred to the Father as "the only true God."
 - He also made [implicit denials](#implicit-denies) by stating his own limitations in knowledge compared to the Father and emphasizing that he honors the Father, not himself.
 
-These passages are central to understanding the nature of Jesus as depicted in the biblical texts.
+Instead of [Jesus claiming to be God](../divine/claims.md), he said that [he has a God](has-a-god.md) and serves [he serves God](serve-god.md).

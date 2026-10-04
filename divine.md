@@ -5,11 +5,13 @@ keywords: Jesus Christ, Son of God, Trinity doctrine, Unitarian theology, Ariani
 
 # Is Jesus God?
 
-What is the true nature of Jesus Christ? For two millennia, Christians have wrestled with this central question. Is Jesus God Himself who walked among us? Or is He the Son of God, distinct from the Father? This isn't just an academic debate. It shapes how we understand God's love, Jesus's sacrifice, and our own relationship with the divine.
+What is the true nature of Jesus Christ?
+
+For two millennia, Christians have wrestled with this central question. Is Jesus God Himself who walked among us? Or is He the Son of God, distinct from the Father? This isn't just an academic debate. It shapes how we understand God's love, Jesus's sacrifice, and our own relationship with the divine.
 
 I've encountered believers on both sides of this theological divide, each passionately convinced by their interpretation of Scripture. Some call Jesus "God the Son," co-equal and co-eternal with the Father. Others see Him as "the Son of God," a man empowered by God to accomplish His redemptive plan. Both groups claim biblical support, both worship genuinely, and both seek to honor Christ.
 
-What troubles me most is how this question divides the body of Christ. Accusations of heresy fly in both directions. Yet when I read the Gospels, I see Jesus converting people without requiring them to understand complex Trinitarian formulas (Luke 7:36-50; Acts 2:14-47). Salvation seems tied to faith in Jesus as the Christ, but does "Christ" mean God incarnate, or God's anointed human representative?
+What troubles me most is how this question divides [the body of Christ](https://kingdom.ofgod.info/christ/body). Yet when I read the Gospels, I see Jesus converting people without requiring them to understand complex [Trinitarian formulas](trinity/development.md) (Luke 7:36-50; Acts 2:14-47). Salvation seems tied to faith in Jesus as the Christ, but does ["Christ"](https://kingdom.ofgod.info/christ) mean God incarnate, or God's anointed human representative?
 
 ## History of Christianity
 
@@ -42,9 +44,26 @@ Unpopular Unitarian-biased bible translations include:
 * Belsham's Unitarian New Testament and Newcome's Translation used mainly for historical theological studies
 * NEV used by the Christadelphians
 * NWT used by the Jehovah's Witnesses
+* [PWL](https://www.padwlewe.org.za/index.html#Bybel) an Afrikaans Bible translations which is a literal translation from oldest Aramaic sources
 * [REV](https://www.revisedenglishversion.com/) used by Spirit & Truth Fellowship International
 
 Fortunately, today we have access to interlinear bibles that provide word-by-word translations of Hebrew and Greek manuscripts that pre-dates the Vulgate and Nicene Creed. Some of these can be found online at websites like [Bible Hub](https://biblehub.com/interlinear/), [Blue Letter Bible](https://www.blueletterbible.org), [STEP Bible](https://www.stepbible.org) and [Bible Study Tools](https://www.biblestudytools.com) or downloaded from [Berean Bible](https://bereanbible.com), [MySword](https://www.mysword.info/) and [Scripture4All](https://www.scripture4all.org).
+
+Professional scholars who believe in the deity of Christ admit:
+
+> But we shall find that on almost every occasion in the New Testament on which Jesus seems to be called God there is a **problem either of textual criticism or of translation**. In almost every case we have to discuss which of two readings is to be accepted or which of two possible translations is to be accepted. -- William Barclay, "Jesus as They Saw Him" (Grand Rapids: Eerdmans, 1978), 21
+
+> Belief in the deity of Christ has traditionally been the keystone of the doctrine of [the Trinity](trinity.md), yet **explicit references to Jesus as "God" in the New Testament are very few**, and even those few are **generally plagued with uncertainties of either text or interpretation**. -- Christopher Kaiser, "The Doctrine of God" (London: Marshall Morgan & Scott, 1982) 29.
+
+> No one ... can help being impressed by the **remarkable reserve of the NT writers in applying the term θεὸς to Jesus**. ... If the writers of the NT were persuaded of the deity of Christ, what accounts for their reticence to ascribe to him the title that, of all the divine names, would seem most explicitly to affirm that deity? Have the fathers and the creeds of [the church](https://church.ofgod.info) outstripped the NT evidence in speaking so plainly and so often of Jesus Christ as "God"? ... It is a curious fact that **each of the texts to be examined contains an interpretative problem** of some description actually, most contains two or three. -- Murray J. Harris, "Jesus as God" (Eugene, OR: Wipf & Stock, 1992), 9-11.
+
+Evidence Murray Harris use to proof the divinity of Jesus is: John 1:1,18; 20:28; Acts 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20
+
+> **No author of a Synoptic Gospel explicitly ascribe the title θεὸς to Jesus. Jesus never used the term θεὸς for himself. No sermon in the book of Acts attributes the title θεὸς to Jesus** ... And possibly the biggest problem for NT Christology regarding this topic is that **textual variants exist in every potential passage where Jesus is explicitly referred to as θεὸς**. -- Brian J. Wright, "Jesus as θεὸς: A Textual Examination" in Revisiting the Corruption of the New Testament, ed. Daniel B. Wallace (Grand Rapids: Kregel, 2011), 229-31.
+
+Evidence Brian Wright used to proof the divinity of Jesus is: John 1:1,18; 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20
+
+As the above authors admitted themselves, none of the proven texts are strong arguments for the deity of Jesus. What are textually certain about Jesus are texts about his: birth, humanity, miracles, teachings, 12 disciples, death by crucifixion, resusrrections, ascension and his return. If there are so many clear and certain texts about Jesus, why is the *"fundamental truth about the deity of Christ"* so obscure?
 
 ### Concerns
 
@@ -214,30 +233,30 @@ The following passages portray interaction between the Father and Jesus as disti
 
 God attribute are incompatible with attributes of the human Jesus. For example:
 
-| God                                                                                                         | Jesus                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [God is eternal](https://eternal.family.net.za/god/father/time) (Psalm 90:2; Isaiah 40:25–28)               | Jesus had a beginning ("genesis") (Matthew 1:17-21; Luke 1:26-35)                                                                |
-| There was no period where God was temporary not God (Isaiah 40:27; Romans 16:26)                            | [Jesus was limited in many aspects](human/limitations.md)                                                                        |
-| God is Spirit (John 4:21-24) and not human (Numbers 23:19)                                                  | [Jesus is human](human.md) (John 1:30; Romans 5:15-17; 1 Timothy 2:5-7; 1 Corinthians 15:21-22)                                  |
-| God forms babies in a womb (Psalm 139:13-14)                                                                | Jesus was a baby in a womb (Matthew 1:18; Galatians 4:4)                                                                         |
-| God is perfect (Matthew 5:48) and never changes (Malachi 3:6)                                               | Jesus had to grow (Luke 2:52; Hebrews 5:8-9)                                                                                     |
-| [God has never been fully seen](https://ofgod.info/appearance) (Exodus 33:20; John 1:18; 1 Timothy 6:13-16) | Jesus was seen and touched (Luke 24:38-43)                                                                                       |
-| God is [the Father](https://ofgod.info) (Psalm 68:5; Matthew 23:9)                                          | Jesus is [the Son](index.md) (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20).            |
-| God is metaphorically "the Vinedresser" (John 15:1-9)                                                       | Jesus is metaphorically "the vine" (John 15:1-9; Zechariah 3:10)                                                                 |
-| God does not dwell on earth; The highest heaven cannot contain God (1 Kings 8:27)                           | Jesus did, and he will return again (Acts 1:11)                                                                                  |
-| God is omnipresent (Psalm 139:7-10; Ephesians 4:6; Revelation 19:6)                                         | Jesus left (John 14:2-4, 16:28); Jesus is not in the world (John 17:11, 13); Jesus was not present (John 11:14-15)               |
-| God is almighty (Genesis 17:1, 28:3, 35:11, 43:14, 48:3, 49:25; Job 11:7; Luke 1:37)                        | Jesus works are limited (John 5:19; 14:12)                                                                                       |
-| God sees everything (Proverbs 15:3; Psalm 139:7-10; Matthew 6:4,18)                                         | Jesus did not notice that they mixed gall with his drink (Matthew 27:33-34)                                                      |
-| God knows everything (Genesis 22:14; Psalm 139:1-6; Isaiah 40:13-14, 42:9; 48:5; Matthew 6:8,32)            | Jesus had limited knowledge (Matthew 24:36; Mark 13:32; John 7:16; 8:28; 14:24; Hebrews 5:8)                                     |
-| God does not repent (Numbers 23:19) and has always been holy (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13)        | Jesus was baptised with a "baptism of repentance" (Mark 1:9; Acts 19:4) and [sanctified](#jesus-was-sanctified)                  |
-| God does not sleep (Psalm 121:4)                                                                            | Jesus slept (Matthew 8:24; Mark 4:38)                                                                                            |
-| God is immortal (Romans 1:22-23); Paul calls the Father immortal and invisible (1 Timothy 1:17)             | Jesus was weak (Matthew 4:11; Mark 1:13; Luke 22:43) and died (1 Corinthians 15:1-8; Romans 10:9; Revelation 1:17-18)            |
-| God maintains the universe (Matthew 6:26; 7:11; 10:29; James 1:17)                                          | Jesus never made such claims. If God had died, the universe would have been unattended for a period.                             |
-| God adopts believers as children (Psalm 48:5)                                                               | Jesus accept believers as brothers or sisters (Matthew 12:50, Romans 8:17)                                                       |
-| God, is the God of Jesus (John 20:17; Matthew 27:46; Mark 15:34)                                            | Jesus is the [servant of God](#jesus-serves-god) (John 3:16-18, 4:34, 6:57, 8:29, 14:24, 17:1-3; 1 John 4:14)                    |
-| God does not pray to another god (​Isaiah 45:5-7, 46:9-10)                                                  | Jesus prayed to God (Matthew 5:8-9, 14:19, 15:36; ​Luke 3:21, 5:16, 9:16; ​Mark 1:35, 6:41; ​John 6:11, 11:41-42, 17:1-26; etc.) |
-| God has more authority than Jesus (Matthew 20:23; John 12:49-50)                                            | Jesus authority was given to him by God (Matthew 26:53; 28:18; John 5:19,22-23; 12:49-50; 17:2; Acts 2:36)                       |
-| Nobody instructs God (Isaiah 40:13-14; Romans 11:34)                                                        | Jesus was instructed by the Spirit (Matthew 4:1; Mark 1:12; Luke 4:1-2)                                                          |
+| God                                                                                                               | Jesus                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [God is eternal](https://eternal.family.net.za/god/father/time) (Psalm 90:2; Isaiah 40:25–28)                     | Jesus had a beginning ("genesis") (Matthew 1:17-21; Luke 1:26-35)                                                                |
+| There was no period where God was temporary not God (Isaiah 40:27; Romans 16:26)                                  | [Jesus was limited in many aspects](human/limitations.md)                                                                        |
+| God is Spirit (John 4:21-24) and not human (Numbers 23:19)                                                        | [Jesus is human](human.md) (John 1:30; Romans 5:15-17; 1 Timothy 2:5-7; 1 Corinthians 15:21-22)                                  |
+| God forms babies in a womb (Psalm 139:13-14)                                                                      | Jesus was a baby in a womb (Matthew 1:18; Galatians 4:4)                                                                         |
+| God is perfect (Matthew 5:48) and never changes (Malachi 3:6)                                                     | Jesus had to grow (Luke 2:52; Hebrews 5:8-9)                                                                                     |
+| [God has never been fully seen](https://ofgod.info/appearance) (Exodus 33:20; John 1:18;  :17, 6:13-16) | Jesus was seen and touched (Luke 24:38-43)                                                                                       |
+| God is [the Father](https://ofgod.info) (Psalm 68:5; Matthew 23:9)                                                | Jesus is [the Son](index.md) (Matthew 3:16-17; Mark 1:9-11, 9:7; Luke 3:21; John 1:51; 2 Peter 1:16-18; 1 John 5:20).            |
+| God is metaphorically "the Vinedresser" (John 15:1-9)                                                             | Jesus is metaphorically "the vine" (John 15:1-9; Zechariah 3:10)                                                                 |
+| God does not dwell on earth; The highest heaven cannot contain God (1 Kings 8:27)                                 | Jesus did, and he will return again (Acts 1:11)                                                                                  |
+| God is omnipresent (Psalm 139:7-10; Ephesians 4:6; Revelation 19:6)                                               | Jesus left (John 14:2-4, 16:28); Jesus is not in the world (John 17:11, 13); Jesus was not present (John 11:14-15)               |
+| God is almighty (Genesis 17:1, 28:3, 35:11, 43:14, 48:3, 49:25; Job 11:7; Luke 1:37)                              | Jesus works are limited (John 5:19; 14:12)                                                                                       |
+| God sees everything (Proverbs 15:3; Psalm 139:7-10; Matthew 6:4,18)                                               | Jesus did not notice that they mixed gall with his drink (Matthew 27:33-34)                                                      |
+| God knows everything (Genesis 22:14; Psalm 139:1-6; Isaiah 40:13-14, 42:9; 48:5; Matthew 6:8,32)                  | Jesus had limited knowledge (Matthew 24:36; Mark 13:32; John 7:16; 8:28; 14:24; Hebrews 5:8)                                     |
+| God does not repent (Numbers 23:19) and has always been holy (Psalm 99:3; Isaiah 6:3; Habakkuk 1:13)              | Jesus was baptised with a "baptism of repentance" (Mark 1:9; Acts 19:4) and [sanctified](#jesus-was-sanctified)                  |
+| God does not sleep (Psalm 121:4)                                                                                  | Jesus slept (Matthew 8:24; Mark 4:38)                                                                                            |
+| God is immortal (Romans 1:22-23); Paul calls the Father immortal and invisible (1 Timothy 1:17)                   | Jesus was seen, weak (Matthew 4:11; Mark 1:13; Luke 22:43) and died (1 Corinthians 15:1-8; Romans 10:9; Revelation 1:17-18)      |
+| God maintains the universe (Matthew 6:26; 7:11; 10:29; James 1:17)                                                | Jesus never made such claims. If God had died, the universe would have been unattended for a period.                             |
+| God adopts believers as children (Psalm 48:5)                                                                     | Jesus accept believers as brothers or sisters (Matthew 12:50, Romans 8:17)                                                       |
+| God, is the God of Jesus (John 20:17; Matthew 27:46; Mark 15:34)                                                  | Jesus is the [servant of God](#jesus-serves-god) (John 3:16-18, 4:34, 6:57, 8:29, 14:24, 17:1-3; 1 John 4:14)                    |
+| God does not pray to another god (​Isaiah 45:5-7, 46:9-10)                                                        | Jesus prayed to God (Matthew 5:8-9, 14:19, 15:36; ​Luke 3:21, 5:16, 9:16; ​Mark 1:35, 6:41; ​John 6:11, 11:41-42, 17:1-26; etc.) |
+| God has more authority than Jesus (Matthew 20:23; John 12:49-50)                                                  | Jesus authority was given to him by God (Matthew 26:53; 28:18; John 5:19,22-23; 12:49-50; 17:2; Acts 2:36)                       |
+| Nobody instructs God (Isaiah 40:13-14; Romans 11:34)                                                              | Jesus was instructed by the Spirit (Matthew 4:1; Mark 1:12; Luke 4:1-2)                                                          |
 
 To solve these tensions the Chalcedonian Christianity teaches that the one Son of God has ***two natures***, divine and human. For example death belongs to his humanity, while immortality belongs to deity, yet they claim that there are not two sons, but **one**. This distinction prevents a simple formal contradiction, but it does not end the discussion.
 

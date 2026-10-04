@@ -36,7 +36,7 @@ This was also quoted by Jesus himself:
 >
 > — Mark 12:28-32 (ESV)
 
-The Jews were not Trinitarians. The scribe did not [serve and worship Jesus](https://eternal.family.net.za/god/son/essence/as-god/worship) as God. Jesus could have corrected him, but instead He responded:
+The Jews were not Trinitarians. The scribe did not [serve and worship Jesus](divine/worship.md) as God. Jesus could have corrected him, but instead He responded:
 
 > And when Jesus saw that **he answered wisely**, he said to him, **"You are not far from the kingdom of God."** — Mark 12:34 (ESV)
 
