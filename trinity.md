@@ -43,7 +43,11 @@ The LORD's testimony is supposed to be simple enough for the layman to understan
 
 ## Witnesses
 
-The biblical accounts do not present belief in a co-equal Trinity. [Jesus affirmed that God is one](trinity/witnesses.md#did-jesus-believe-in-the-trinity) in Mark 12:28-34. [The Jews did not understand God as a Trinity](trinity/witnesses.md#did-the-jews-believe-in-the-trinity) when responding to Jesus in John 10:30-33. [Paul taught that the Son remains subject to God](trinity/witnesses.md#did-the-apostles-believe-in-the-trinity), even at the end, in 1 Corinthians 15:24-28.
+The biblical accounts do not present belief in a co-equal Trinity.
+
+> You heard me *[the Son]* say to you, ‘I am going away, and I will come to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for **the Father is greater than I**. — John 14:28 (ESV)
+
+[Jesus affirmed that God is one](trinity/witnesses.md#did-jesus-believe-in-the-trinity) in Mark 12:28-34. [The Jews did not understand God as a Trinity](trinity/witnesses.md#did-the-jews-believe-in-the-trinity) when responding to Jesus in John 10:30-33. [Paul taught that the Son remains subject to God](trinity/witnesses.md#did-the-apostles-believe-in-the-trinity), even at the end, in 1 Corinthians 15:24-28.
 
 Together, these witnesses support the conclusion that Trinitarian belief is not expressed in these biblical accounts.
 

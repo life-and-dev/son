@@ -268,13 +268,13 @@ The word "from" inherently denotes a **source** and a **derivation**. Philosophi
 
 If the Father is the source and the Son is derived from the source, then it means that **the Son's existence is derived from the Father**.
 
-Yet Nicene theology asserts that **the Son is fully equal (co-equal) to the Father**.
+Yet Nicene theology asserts that **the Son is fully equal (co-equal) to the Father**, despite the Son explicitly saying:
+
+> The Father is **greater** than I. — John 14:28 (ESV)
+
+Other literal interpretation of certain scriptures (Psalm 2:7; 2 Samuel 7:14; Isaiah 7:14-16; Mark 10:18, 13:32; Luke 1:30-35, 2:52; John 3:34, 5:19, 5:26, 8:28, 14:28; Acts 1:11; 1 Corinthians 11:3, 15:28, 15:46; Galatians 4:4; Hebrews 2:18; Revelation 1:18) also affirms that **the Son is NOT co-equal with the Father**.
 
 Logically, you cannot have an entity that is **completely equal while being dependent** on an external source for its being.
-
-### The Problem with Scriptural Contradictions
-
-A literal interpretation of certain scriptures (Psalm 2:7; 2 Samuel 7:14; Isaiah 7:14-16; Mark 10:18, 13:32; Luke 1:30-35, 2:52; John 3:34, 5:19, 5:26, 8:28, 14:28; Acts 1:11; 1 Corinthians 11:3, 15:28, 15:46; Galatians 4:4; Hebrews 2:18; Revelation 1:18) reveals that **the Son is NOT co-equal with the Father**.
 
 ## Niceno-Constantinopolitan Creed
 

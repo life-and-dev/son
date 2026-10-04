@@ -20,7 +20,7 @@ But Jesus does not know everything.
 
 This implies Jesus did not know. If he pretended not to know, he would have been acting or deceiving his disciples.
 
-> But concerning that day and hour no one knows, not even the angels of heaven, **nor the Son, but the Father only**. — Matthew 24:36 (ESV)
+> But concerning that day and hour no one knows, not even the angels of heaven, **nor the Son, but the Father only**. — Matthew 24:36 (ESV); Mark 13:32
 
 At the crucifixion, Jesus only noticed what they were offering him after he tasted his drink.
 

@@ -293,6 +293,8 @@ and
 
 > To the King of the ages, **immortal**, invisible, the only God, be honor and glory forever and ever. — 1 Timothy 1:17 (ESV)
 
+Paul also wrote in 1 Timothy that God is "invisible" while people obviously seen Jesus.
+
 ### Evidence: Resurrection and Exaltation
 
 Peter makes God’s action towards Jesus explicit:
