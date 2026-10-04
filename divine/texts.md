@@ -13,3 +13,17 @@ Evidence Murray Harris use to proof the divinity of Jesus is: [John 1:1,18](../n
 > **No author of a Synoptic Gospel explicitly ascribe the title θεὸς to Jesus. Jesus never used the term θεὸς for himself. No sermon in the book of Acts attributes the title θεὸς to Jesus** ... And possibly the biggest problem for NT Christology regarding this topic is that **textual variants exist in every potential passage where Jesus is explicitly referred to as θεὸς**. -- Brian J. Wright, "Jesus as θεὸς: A Textual Examination" in Revisiting the Corruption of the New Testament, ed. Daniel B. Wallace (Grand Rapids: Kregel, 2011), 229-31.
 
 As the above authors admitted themselves, none of the proven texts are strong arguments for the deity of Jesus. What are textually certain about Jesus are texts about his: [birth, humanity](../human.md), miracles, [teachings](../name/purpose.md), 12 disciples, [death by crucifixion](https://kingdom.ofgod.info/christ/crucifixion), [resurrections](https://kingdom.ofgod.info/life), ascension and his return. If there are so many clear and certain texts about Jesus, why is the *"fundamental truth about the deity of Christ"* so obscure?
+
+## Creation Interpretations
+
+- [1 Corinthians 8:6](creator.md)
+- [Colossians 1:13-17](creator.md)
+- [Hebrews 1:1-2](creator.md)
+- [Revelation 10:5-6](creator.md)
+
+## Deity Interpretations
+
+- [Galatians 1:1](texts/galatians-1-1.md)
+
+> [!NOTE]
+> This website is still a work in progress. A more complete list of texts can be found at [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/common-verses-used-for-trinity) as well as the [Appendices](https://revbible.com/appx) and commentary of the [Revised English Version Bible](https://revbible.com/bcuk).
