@@ -130,13 +130,11 @@ Modalism fails when Daniel (Daniel 7:14), Stephen (Acts 7:55-56), and John (Reve
 
 ## Trinitas
 
-Although the Trinity concept was developed by this time, Tertullian was the first Christian author to use the Latin term ***"[Trinitas](https://www.newadvent.org/fathers/0317.htm)"*** translated as "Trinity" in the 3rd century.
+In the third century, Tertullian used the Latin term **[Trinitas](https://www.newadvent.org/fathers/0317.htm)**, meaning “Trinity”. He distinguished one substance from three persons. This Latin distinction came before the later [Greek distinction between ousia and hypostasis](#greek-word-development).
 
-However, Tertullian's version of the Trinity was different. According to him, God is 1 substance which is made up from 3 "persons" like the modern Trinity model, except that he claimed they had unequal order of origin.
+[Tertullian's version](https://www.newadvent.org/fathers/0317.htm) differed from later [Nicene formulations](#nicene-creed). Although he spoke of one God, one substance, and three distinct persons, he also:
 
-However, [Tertullian's version](https://www.newadvent.org/fathers/0317.htm) of the Trinity was different. Although Tertullian spoke of one God, one substance, and three distinct persons, unlike later [Nicene formulations](#nicene-creed), he called:
-
-1. The Father “the entire substance” and greater than the Son.
+1. Called the Father “the entire substance” and greater than the Son.
 2. Described the Son as “a derivation and portion of the whole”.
 3. Placed the Spirit third in order.
 
@@ -202,11 +200,9 @@ Because of Arianism, church leaders gathered in 325 AD at [the council of Nicaea
 * establishing church hierarchy;
 * separating Christian practices from Jewish traditions;
 
-The council primarily defined the relationship between the Father and the Son. Its creed mentioned belief in the Holy Spirit but did explain the Spirit’s divinity, procession, or relationship to the Father and the Son.
+The council primarily defined the relationship between the Father and the Son. Its creed mentioned belief in the Holy Spirit but did not explain the Spirit’s divinity, procession, or relationship to the Father and the Son.
 
-Because many Christians initially rejected the Trinity doctrine for fear of polytheism (worship of multiple gods), the council had to carefully and clearly define the Trinity to avoid misunderstandings.
-
-This led to the establishment of [the Nicene Creed](https://www.fourthcentury.com/urkunde-24/), which declared:
+The [Nicene Creed](https://www.fourthcentury.com/urkunde-24/) declared:
 
 > * We believe in [one God](#monotheism), [the Father Almighty](https://ofgod.info),
 >   * Maker of all things seen and unseen.
@@ -223,17 +219,18 @@ This led to the establishment of [the Nicene Creed](https://www.fourthcentury.co
 > * And in the Holy Spirit.
 > * The catholic and apostolic ***church condemns*** those who say concerning the Son of God that ***“there was a time when he was not”*** or ***“he did not exist before he was begotten”*** or ***“he came to be from nothing”*** or who claim that he is of another subsistence or essence, or a creation, or changeable, or alterable.
 
-The council's version of the Trinity was:
+The creed made these claims about the Son:
 
-1. **"Homoousios"** (Of the Same Substance): The Son shares the exact same, identical divine substance. If the Father is the supreme, uncreated God, then the Son, sharing the same substance, is also the supreme, uncreated God.
-2. **"Begotten, Not Made"**: The Son was "not made" (not created), but instead was "begotten" (brought forth from the same kind, like humans delivering babies)
-3. **"True God from True God"**: The Son was not merely a "Second God" or a reflection of the true light.
-The Trinitarian model:
+1. **Homoousios**, also called **consubstantial**, means “same essence”. In Trinitarian teaching, the Son shares the Father's one divine essence and is fully divine. This does not mean two separate gods of the same kind.
+2. **Begotten, Not Made** means that the Son comes from the Father without being created. Later theology denies that this is a physical birth or a division of God.
+3. **True God from True God** means that the Son is fully divine, not merely a lesser second god or a reflection of the true light.
+
+These are doctrinal claims, not conclusions established by the word meanings alone. The [simple definitions](#simple-definitions) explain the terms.
 
 ```mermaid
 graph TD
     subgraph "1 God = Father + Lord + Holy Spirt"
-        Father(("The Father\n(Almighty Maker of All)")) -.-> |begotton| Son((The Son of God))
+        Father(("The Father\n(Almighty Maker of All)")) -.-> |begotten| Son((The Son of God))
         Father <-- "same being (essence)" --> Son
         Father <-.-> |distinct\nperson| Son
         Father -.-> |?| Spirit[/Holy Spirit/]
@@ -248,27 +245,21 @@ This theology is also not without problems:
 
 In 4th-century Greek philosophy, the word "ousia" (substance) was notoriously ambiguous:
 
-* Primary Substance (Individual): It could mean a specific, individual thing (e.g., this specific horse). If Nicaea meant this, then saying the Father and Son are the same individual substance implies they are the exact same person which inadvertently loops right back into [Modalism](#modalism) (Sabellianism).
-* Secondary Substance (Generic): It could mean a generic category or material class (e.g., Peter and Paul are both "human" because they share the same human nature). If Nicaea meant this, it solved the Modalism problem but opened the door to **Tritheism** (worshipping distinct Gods who happen to belong to the same "divine species").
-
-The meaning of [the word 'one'](../godhead.md#the-unified-god) in [the Shema](../shema.md) also had to change accommodate the theology: "It’s not one person, it’s one substance shared by three persons". This new meaning explain why every singular pronoun referring to God may accommodating 3 distinct divine persons without violatig the Monotheistic belief.
+* **Primary substance** means a particular individual thing, such as this horse. The criticism is: *If ‘same substance’ means the same individual, the Father and the Son appear to be the same person.* This would resemble [Modalism](#modalism).
+* **Secondary substance** means a shared kind, such as being human. The criticism is: *If the Father and the Son share only a kind, they appear to be separate gods of the same divine species. This would resemble **Tritheism**, belief in three distinct gods of the same "divine species".*
 
 ### The Problem with "Begotten, Not Made"
 
-This analogy suffers from deep logical incoherence when applied to an immaterial, timeless God:
+The language of "begetting" cannot be logically applied to a timeless God who is not made of physical material, because:
 
-* In the natural world, begetting is an event that requires a **change in state**. **A father exists before he begets a child**, and **the act occurs at a specific point in time**. Nicaea asserted that the Son was begotten **eternally** which turns it into a paradox.
-* Biological begetting involves a **physical separation or extraction** of matter from the parent to form a **new individual**. If the Son is begotten from the *ousia* of the Father, it implies that the divine essence is **divisible or material**, which contradicts the absolute **immateriality and simplicity** of God.
+* In nature a father exists before his child, and birth happens at a point in time. Applying this language to a Son without a beginning needs justification.
+* Physical birth produces a separate child. If this is taken literally of God, it would make the divine essence divisible or material.
 
 ### The Problem with "True God from True God"
 
-When combined with strict monotheism, the preposition "from" (ek) introduces a severe metaphysical conflict:
+The word “from” (Greek *ek*) names a source. If the Father is the source of the Son's existence, the Son depends on the Father. This dependence needs to be reconciled with the claim of equal divinity.
 
-The word "from" inherently denotes a **source** and a **derivation**. Philosophically, **a derived entity is dependent on its source for its existence**.
-
-If the Father is the source and the Son is derived from the source, then it means that **the Son's existence is derived from the Father**.
-
-Yet Nicene theology asserts that **the Son is fully equal (co-equal) to the Father**, despite the Son explicitly saying:
+For comparison, Jesus says:
 
 > The Father is **greater** than I. — John 14:28 (ESV)
 
@@ -294,7 +285,7 @@ This addition established several important claims:
 ```mermaid
 graph LR
     subgraph "1 God = Father + Lord + Holy Spirt"
-        Father(("The Father\n(Almighty Maker of All)")) -.-> |begotton| Son((The Son of God))
+        Father(("The Father\n(Almighty Maker of All)")) -.-> |begotten| Son((The Son of God))
         Father <-- "same being (essence)" --> Son
         Father <-.-> |distinct\nperson| Son
         Father --> |proceeds| Spirit((Holy Spirit))
@@ -308,10 +299,10 @@ The original Greek creed said that the Spirit proceeds **“from the Father.”*
 
 The most contested Trinitarians believes are:
 
-1. ***"There is only 1 God"*** ([the Shema](../shema.md) is very clear): If they dismiss it, then they have to accept paganism (many gods).
-2. ***"Jesus is not the Father"*** ([they interacted with each other](../human/distinct.md)): If they dismiss it, then they reduce Jesus to an avatars of God (puppet show).
-3. ***"Jesus was 100% human"*** ([according to both Bible](../human.md) and creed): If they dismiss it, then they have to accept that Jesus deceived his disciples, did not really suffer/die so sacrifice was fake
-4. ***"The Father is God, Jesus is God, the Holy Spirit is God"*** (according to creed): If they dismiss it, then they invalidate their own creed.
+1. *“There is only 1 God.”* This is required by [the Shema](../shema.md) in the Bible. *Without it, they would acknowledge paganism (many gods).*
+2. *“Jesus is not the Father.”* According to the Bible they [interacted with each other](../human/distinct.md) and had different wills (persons). *Jesus was not God's avatar or puppet show.*
+3. *“Jesus is fully human.”* According the Bible Jesus was [human](../human.md). *If not, then Jesus did not die, did not represent humanity and deceived his disciples.*
+4. *“The Father is God, Jesus is God, and the Holy Spirit is God.”* According to their own creed. If they dismiss it, then they invalidate their own creed.
 
 The problem with consolidating all these points of the Nicene theology is that:
 
@@ -339,11 +330,7 @@ The reasoning is that this **Dual-Nature** explain how Jesus could [simultaneous
   1. be *the divine immortal allmighty omniscient omnipresent* "Son of God" to satisfy the Trinity doctrine, and
   2. be the human "Son of Man" whenever a scripture require a human Jesus. Therefore Trinitarians have no problem to acknoledge that Jesus was a human even when the concept of a human Jesus contradict the Trinity.
 
-A still later Western document, the [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html), expressed the doctrine more explicitly:
-
-> “We worship one God in Trinity, and Trinity in Unity; neither confounding the Persons, nor dividing the Substance.”
-
-It described the three persons as **coeternal** and **coequal**.
+A later Western document, the [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html), states the [essence and person formula quoted above](#what-and-who). It describes the three persons as **coeternal**, meaning without a beginning in time, and **coequal**, meaning equal in divinity.
 
 ```mermaid
 graph LR
@@ -356,10 +343,10 @@ graph LR
         Son(("The Son\na.k.a.\n'The Lord'")) <-- coequal\n&\ncoeternal --> Spirit
         Son <-.-> |distinct person| Spirit
         Spirit((The Holy Spirit))
-        subgraph "1 Jesus Christ = 2 Natures"
-            Son -- immortal\nalmighty\nomnipresent\nomniscient --> SonOfGod[/Son of God/]
-            Son -- mortal\nfinite\nabsent\ndon't know --> SonOfMan[\Son of Man\]
-            SonOfGod <-.-> |same person\nsimultaneously| SonOfMan
+        subgraph "1 Christ = 2 Natures"
+            Son -- immortal\nalmighty\nomnipresent\nomniscient --> SonOfGod[/Divine Nature/]
+            Son -- mortal\nfinite\nabsent\ndon't know --> SonOfMan[\Human Nature\]
+            SonOfGod <-.-> |simultaneously| SonOfMan
         end
     end
 ```
@@ -368,7 +355,7 @@ The final solution is to use abstract Greek philosophy and words like *hypostasi
 
 Despite the definition of the "Dual-Nature" it is still hard to explain how it is possible that Jesus could be both God and have an [incompatible human nature](../nature.md) simultaneous. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
 
-However, James wrote:
+For comparison, James writes:
 
 > But the wisdom from above is first pure, then peaceable, considerate, submissive, full of mercy and good fruits, **without doubting**, without hypocrisy. — James 3:17 (LSB)
 
