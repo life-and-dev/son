@@ -3,7 +3,7 @@ description: Whether Jesus’ forgiveness of the paralysed man in Mark 2 proves 
 keywords: Mark 2 forgiveness, Son of Man, divine identity, received authority, Jesus forgives sins
 ---
 
-# Jesus Claims To Forgave Sin Against God
+# Mark 2:1-12 (Forgave Sin Against God)
 
 Mark 2:1-12 records Jesus [forgiving](https://word.ofgod.info/terms/forgiveness) and healing a paralysed man. The narrow question is whether this episode proves that Jesus possesses the Father’s underived divine identity, or whether it proves genuine authority received from the Father.
 

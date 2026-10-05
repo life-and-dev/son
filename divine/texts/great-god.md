@@ -3,11 +3,11 @@ description: This article argues that Titus 2:13 does not identify Jesus as Almi
 keywords: Titus 2:13, our great God and Saviour, Granville Sharp rule, single-referent interpretation, God our Saviour, Christ Jesus our Saviour, divine representation, 2 Corinthians 4:4-6
 ---
 
-# Titus 2:13 (“our great God and Saviour”)
+# Titus 2:13 (“our great God... Jesus”)
 
 This article defends the interpretation that Titus 2:13 does not mean Jesus is “our great God” in the sense of being Almighty God himself. Although the single-person reading has substantial grammatical force, applying that title to Jesus need not identify him as the Father. Jesus is understood here as the Father's Son, the Christ and his sent representative, through whom the Father saves.
 
-## ## Interpretations
+## Interpretations
 
 > “Waiting for our blessed hope, the appearing of **the glory** of our great **God and Savior Jesus Christ**.” — Titus 2:13 (ESV)
 

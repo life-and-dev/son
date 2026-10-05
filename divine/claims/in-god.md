@@ -4,7 +4,7 @@ keywords: Greek en, being in each other, John 14, John 15 vine, John 17 unity,
   close relationship with Christ
 ---
 
-# Jesus Claims To Be In His Disciples
+# John 14:20 (In His Disciples)
 
 Jesus says:
 

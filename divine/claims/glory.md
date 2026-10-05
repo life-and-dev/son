@@ -3,7 +3,7 @@ description: Can Jesus receive glory from the Father without contradicting God's
 keywords: Jesus glorified, Isaiah 42:8, John 17 glory, received glory, glory of God, Messiah
 ---
 
-# Jesus Claims To Be Glorified
+# John 17:10 (Glorified)
 
 Isaiah 42:8 says that YHWH will not give his glory to another or his praise to idols.
 

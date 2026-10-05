@@ -14,16 +14,27 @@ Evidence Murray Harris use to proof the divinity of Jesus is: [John 1:1,18](../n
 
 As the above authors admitted themselves, none of the proven texts are strong arguments for the deity of Jesus. What are textually certain about Jesus are texts about his: [birth, humanity](../human.md), miracles, [teachings](../name/purpose.md), 12 disciples, [death by crucifixion](https://kingdom.ofgod.info/christ/crucifixion), [resurrections](https://kingdom.ofgod.info/life), ascension and his return. If there are so many clear and certain texts about Jesus, why is the *"fundamental truth about the deity of Christ"* so obscure?
 
-## Creation Interpretations
-
-- [1 Corinthians 8:6](creator.md)
-- [Colossians 1:13-17](creator.md)
-- [Hebrews 1:1-2](creator.md)
-- [Revelation 10:5-6](creator.md)
-
 ## Deity Interpretations
 
-- [Galatians 1:1](texts/galatians-1-1.md)
-
 > [!NOTE]
-> This website is still a work in progress. A more complete list of texts can be found at [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/common-verses-used-for-trinity) as well as the [Appendices](https://revbible.com/appx) and commentary of the [Revised English Version Bible](https://revbible.com/bcuk).
+> | Category          | Meaning                                                                                                                |
+> | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+> | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
+> | Grammar & Scope   | Readers differ over grammatical relationships, clause attachments, or the scope of qualifiers, negation, or modifiers. |
+> | Referent ID       | Readers identify different people, things, or events through a pronoun, title, or description.                         |
+> | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
+> | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
+
+| Scripture     | Divine Jesus Interpretation                 | Rebuttal                                                                       |
+| ------------- | ------------------------------------------- | ------------------------------------------------------------------------------ |
+| Galatians 1:1 | "nor through man, but through Jesus Christ" | [Topic: about authority, not humanity.](texts/not-man.md)                      |
+| Titus 2:13    | "our great God and Savior Jesus Christ"     | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md) |
+
+### Creator Interpretations
+
+| Scripture          | Divine Jesus Interpretation            | Rebuttal                                                                        |
+| ------------------ | -------------------------------------- | ------------------------------------------------------------------------------- |
+| 1 Corinthians 8:6  | “through whom are all things”          | [Topic: food offered to idols, not an account of creation.](creator.md)         |
+| Colossians 1:13-17 | “For by him all things were created”   | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md) |
+| Hebrews 1:1-2      | “through whom also He made the worlds” | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md)   |
+| Revelation 10:5-6  | Jesus is viewed as *the mighty angel*  | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md) |
