@@ -1,19 +1,24 @@
 ---
-description: How ancient messengers, biblical angels, Jesus, and his disciples
-  represent another's words, character, and authority.
-keywords: biblical agency, commissioned representation, angel of the LORD, Jesus
-  and the Father, delegated authority, apostolic ambassadors
+description: How ancient messengers, biblical angels, Jesus, and his disciples represent another's words, character, and authority.
+keywords: biblical agency, commissioned representation, angel of the LORD, Jesus and the Father, delegated authority, apostolic ambassadors
 ---
 
-# God's Agents: Representation and Identity
-
-How can someone make God's character known and exercise his authority? Ancient messengers and biblical representatives raise this question before it is applied to Jesus. Their words and actions must be read alongside the commission that authorises them.
+# Agents of God
 
 **Agency** means commissioned representation. An agent speaks or acts for a sender within the sender's commission. It is not a universal rule that magically turns one person into another or transfers every personal quality between them.
 
-Three questions must remain separate. **Identity** asks who someone is. **Role and authority** concern the task and power entrusted to that person. **Nature** concerns what that person is. Here, **divine** means possessing deity, not merely receiving power from God. This distinction allows Jesus' representation of the Father to be examined without confusing a shared task with shared identity or nature.
+**Sonship** is not a synonym for agency, and ‘agent’ is not a replacement translation for ‘son’. Sonship describes the relationship or status of being called God's son. Depending on context, this may involve belonging, family likeness, royal or covenant standing, or inheritance (Exodus 4:22-23; Hosea 11:1; Matthew 5:9,44-45; Galatians 4:4-7). God's sons are called to reflect the Father's character and represent him in their service and conduct (Exodus 4:22-23; Matthew 5:44-45). This calling does not guarantee faithful conduct or divine endorsement of every act. Agency describes acting on God's behalf rather than the whole meaning of sonship; a specific commission, not sonship alone, defines the scope of delegated authority. See [Sons of God](../name/sons-of-god.md) for fuller examples and contextual distinctions.
 
-The article identifies the Father with the LORD (YHWH) and uses ‘Father’ when discussing him alongside Jesus.
+Three questions must remain separate:
+
+1. **Identity** asks who someone is.
+2. **Role and authority** concern the task and power entrusted to that person.
+3. **Nature** concerns what that person is. Here, **divine** being a deity, not merely receiving power from God.
+
+This distinction allows Jesus' representation of the Father to be examined without confusing a shared task with shared identity or nature.
+
+> [TIP]
+> The article identifies the Father with [the LORD (YHWH)](https://ofgod.info/name) and uses ‘Father’ when discussing him alongside Jesus.
 
 ## Agency in Ancient Times
 
@@ -37,7 +42,7 @@ Polybius, writing in the second century BCE, describes Ariarathes' embassy to Ro
 
 > the king’s friendly mind towards Rome — [Polybius, *Histories* 32.1.1-2, Loeb translation](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/32*.html)
 
-Rome responded with honours and gifts. This is indirect evidence of reciprocal diplomatic recognition through representatives, rather than an explicit rule transferring every honour between envoy and king.
+Rome responded with honours and gifts.
 
 ### Limits of the Evidence
 
@@ -59,31 +64,31 @@ Kings' messengers are commonplace in these accounts. In 2 Samuel 10:1-6, David s
 
 In 2 Kings 18:17, the king of Assyria sends officials to Jerusalem. The Rabshakeh introduces the message by identifying its source:
 
-> **Thus says the king** — 2 Kgs. 18:29 (ESV)
+> **Thus says the king** — 2 Kings 18:29 (ESV)
 
 The transmitted speech then uses the king's first person:
 
-> Make your peace with **me** and come out to **me**. — 2 Kgs. 18:31 (ESV)
+> Make your peace with **me** and come out to **me**. — 2 Kings 18:31 (ESV)
 
 The surrounding narrative identifies the speaker as an official sent by the king. The royal message in verses 28-32 does not require the king to be physically present or make the official the king.
 
 Judges 11:12 likewise says that Jephthah sends messengers to the Ammonite king and addresses him through them:
 
-> What do you have against **me**, that you have come to **me** to fight against **my land**? — Judg. 11:12 (ESV)
+> What do you have against **me**, that you have come to **me** to fight against **my land**? — Judges 11:12 (ESV)
 
-The king replies through the exchange, and Jephthah sends messengers again in verse 14. The first-person words belong to the represented leader; the narrator separately identifies those carrying them.
+The king replies through the exchange, and Jephthah sends messengers again in verse 14. The first-person words belong to the represented leader. The narrator separately identifies those carrying them.
 
 ### God's Commissioned Servants
 
 Representation of God does not require a human representative to become deity. The LORD commissions Moses in relation to Pharaoh:
 
-> See, I have made you **like God to Pharaoh**, and your brother Aaron shall be your prophet. — Exod. 7:1 (ESV)
+> See, I have made you **like God to Pharaoh**, and your brother Aaron shall be your prophet. — Exodus 7:1 (ESV)
 
 The stated relationship concerns Moses' appointed role towards Pharaoh. The passage does not describe a change in Moses' nature.
 
 Jeremiah receives commands to go where the LORD sends him and speak what he commands (Jeremiah 1:7-9):
 
-> Behold, I have put **my words** in **your mouth**. — Jer. 1:9 (ESV)
+> Behold, I have put **my words** in **your mouth**. — Jeremiah 1:9 (ESV)
 
 The words have a divine source while Jeremiah remains their human speaker. Exodus 23:20-22 adds a commissioned angel: the LORD sends the messenger, commands obedience to him, and connects his voice with the LORD's instructions. Further examples appear in [God Works Through Humans](./benefits.md#god-works-through-humans).
 
@@ -91,15 +96,15 @@ The words have a divine source while Jeremiah remains their human speaker. Exodu
 
 The mistaken inference treats a first-person pronoun, shared title, divine work, or name-bearing as sufficient proof of identity. The narratives above show why the relationship must instead be established from context.
 
-| Context Question | What to Examine |
-| --- | --- |
-| Who is sent, and by whom? | Explicit sending language identifies a commission and its source. |
-| Whom does the narrator identify? | Named actors, locations, and movements distinguish sender and messenger. |
-| Whose speech is being quoted? | A message can contain the sender's first-person words within the messenger's speech. |
-| What is received? | Commands, words, or authority may be entrusted rather than possessed independently. |
-| Is there dialogue between them? | Address and reply can identify distinct participants. |
-| Who receives credit for the work? | Attribution to a source may accompany action through a representative. |
-| What is the commission's scope? | Authorisation for one task does not establish unlimited power or shared nature. |
+| Context Question                  | What to Examine                                                                      |
+| --------------------------------- | ------------------------------------------------------------------------------------ |
+| Who is sent, and by whom?         | Explicit sending language identifies a commission and its source.                    |
+| Whom does the narrator identify?  | Named actors, locations, and movements distinguish sender and messenger.             |
+| Whose speech is being quoted?     | A message can contain the sender's first-person words within the messenger's speech. |
+| What is received?                 | Commands, words, or authority may be entrusted rather than possessed independently.  |
+| Is there dialogue between them?   | Address and reply can identify distinct participants.                                |
+| Who receives credit for the work? | Attribution to a source may accompany action through a representative.               |
+| What is the commission's scope?   | Authorisation for one task does not establish unlimited power or shared nature.      |
 
 These checks are not permission to insert an agent into every passage. Where the narrator presents the source himself speaking or acting, that presentation should stand unless the context supplies evidence of mediation. Conversely, attribution to the source can coexist with an explicitly identified messenger, as royal speech demonstrates.
 
@@ -113,31 +118,31 @@ Some passages remain unclear about a speaker or means of action. They should rem
 
 Exodus 23:20-22 distinguishes the LORD who sends from the angel sent ahead of Israel. The messenger carries authority connected with the LORD's name:
 
-> Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for **my name is in him**. — Exod. 23:21 (ESV)
+> Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for **my name is in him**. — Exodus 23:21 (ESV)
 
 Name-bearing and commanded obedience establish a serious commission. They do not, by themselves, establish that messenger and sender are the same person or share the same nature.
 
 In Genesis 22:15-18, the angel calls to Abraham from heaven and delivers an oath whose source is expressly identified:
 
-> **declares the LORD** — Gen. 22:16 (ESV)
+> **declares the LORD** — Genesis 22:16 (ESV)
 
 The first-person oath must be read with that attribution. Its wording alone cannot identify the messenger as Jesus.
 
 Zechariah 1:12-13 provides distinct dialogue: the angel addresses the LORD, and the LORD answers the angel with gracious and comforting words. Judges 13:16 also distinguishes the messenger from the recipient of an offering:
 
-> But if you prepare a burnt offering, then **offer it to the LORD**. — Judg. 13:16 (ESV)
+> But if you prepare a burnt offering, then **offer it to the LORD**. — Judges 13:16 (ESV)
 
-These passages show why title, speech, and function require separate examination. They do not name their messenger Jesus, and similarity to Jesus' representative role cannot supply that missing identification.
+These passages show why title, speech, and function require separate examination. They do not name their messenger Jesus, nor can [the angel be identified as Jesus](../name/son-as-angel.md).
 
 ### Angels and Jesus in Matthew
 
 Matthew 1:20-21 presents an angel speaking to Joseph about Mary's child as someone distinct from the messenger:
 
-> She will bear **a son**, and you shall call his name **Jesus**, for he will save his people from their sins. — Matt. 1:21 (ESV)
+> She will bear **a son**, and you shall call his name **Jesus**, for he will save his people from their sins. — Matthew 1:21 (ESV)
 
 Matthew 28:2,5-6 likewise identifies an angel at the tomb who announces what has happened to Jesus:
 
-> **He is not here**, for **he has risen**, as he said. Come, see the place where he lay. — Matt. 28:6 (ESV)
+> **He is not here**, for **he has risen**, as he said. Come, see the place where he lay. — Matthew 28:6 (ESV)
 
 The angel who speaks and Jesus whose resurrection is announced are distinct actors in this scene. Matthew uses ‘an angel of the Lord’ in Matthew 1:20 and ‘the angel of the Lord’ in Matthew 1:24. Neither form turns a role description into Jesus' personal name. Matthew 28:5 refers to ‘the angel’, without repeating the full title.
 
@@ -175,19 +180,19 @@ The next verse connects that representation with the source of Jesus' words and 
 
 > The words that I say to you I do not speak **on my own authority**, but **the Father who dwells in me does his works**. — John 14:10 (ESV)
 
-Jesus makes the Father known through what he says and does. The surrounding explanation does not simply identify Jesus as the Father. John 5:19,30 similarly describes the Son's dependence on the Father's action and his pursuit of the sender's will rather than his own. The related discussion of [Being in God](../divine/similarities/act.md#being-in-god) considers this language of relationship and action.
+Jesus makes the Father known through what he says and does. The surrounding explanation does not simply [identify Jesus as the Father](../divine/similarities.md). John 5:19,30 similarly describes the Son's dependence on the Father's action and his pursuit of the sender's will rather than his own.
 
 The risen Jesus also describes his authority as received:
 
-> All authority in heaven and on earth **has been given to me**. — Matt. 28:18 (ESV)
+> All authority in heaven and on earth **has been given to me**. — Matthew 28:18 (ESV)
 
-Received authority can be extensive without independently establishing deity. Shared works, character, or honour must be examined within this relationship, rather than treated as automatic proof of the same person or substance. The discussion of [Parallels in Divine Attributes](../divine/similarities.md#parallels-in-divine-attributes) addresses related comparisons.
+[Received authority can be extensive without independently establishing deity.](../divine/similarities.md#parallels-in-divine-attributes) Shared works, character, or honour must be examined within this relationship, rather than treated as automatic proof of the same person or substance.
 
 ### Reception Through a Commission
 
 Jesus applies representative reception to a chain of distinct participants:
 
-> Whoever **receives you receives me**, and whoever **receives me receives him who sent me**. — Matt. 10:40 (ESV)
+> Whoever **receives you receives me**, and whoever **receives me receives him who sent me**. — Matthew 10:40 (ESV)
 
 ```mermaid
 flowchart TD
@@ -215,13 +220,13 @@ Christ's representatives provide another test of the inference from representati
 
 Paul describes believers as Christ's body:
 
-> Now you are **the body of Christ** and individually **members of it**. — 1 Cor. 12:27 (ESV)
+> Now you are **the body of Christ** and individually **members of it**. — 1 Corinthians 12:27 (ESV)
 
 Colossians 1:18 identifies Christ as the body's head and the body as the church. This language expresses a relationship between Christ and his people, not their literal identity as the same person. Being a member does not make someone Christ or a deity.
 
 Paul also describes the apostolic ministry through diplomatic language:
 
-> Therefore, we are **ambassadors for Christ**, **God making his appeal through us**. — 2 Cor. 5:20 (ESV)
+> Therefore, we are **ambassadors for Christ**, **God making his appeal through us**. — 2 Corinthians 5:20 (ESV)
 
 The appeal has the Father as its source and human ambassadors as its speakers. This description should not be expanded into a claim that every present-day believer holds apostolic office or possesses unrestricted authority.
 
@@ -246,8 +251,6 @@ Paul and Barnabas reject the attempted worship and identify themselves instead:
 > We also are **men, of like nature with you** — Acts 14:15 (ESV)
 
 The narrative places the mistaken claim before the apostles' human self-description and their call to turn to the living God. Miraculous activity through a representative is therefore not sufficient evidence that the representative is deity.
-
-These accounts describe particular acts and commissions. They do not promise that every disciple must perform miracles on demand. The source of a work, the person through whom it happens, and the scope of that person's commission remain separate questions.
 
 ## Conclusion
 

@@ -101,7 +101,7 @@ Then Jesus provide analogies to explain what he just taught:
 > If you *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* me, and my [words](https://word.ofgod.info) *[abide (stay/endure)](https://biblehub.com/greek/3306.htm)* *with* you, you will ask what you desire, and it shall be done for you. By this my Father is [glorified](https://eternal.family.net.za/god/son/essence/as-god/claims/glory), that you bear much fruit; so you will be my disciples.
 >
 > — John 15:1-8 (NKJV but ἐν restored)
-
+o
 To summarize:
 
 | Person/group       | Analogy                                                 |
