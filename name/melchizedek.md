@@ -117,10 +117,10 @@ The author of Hebrews most likely meant that Christ replaced the human priesthoo
 | [Targum Pseudo-Jonathan, Genesis 14:18](https://www.sefaria.org/Targum_Jonathan_on_Genesis.14.18?lang=bi), late antique     | Shem the Great, king of Jerusalem.                                         | This Aramaic expansion interprets Genesis and cannot independently verify identity.                      |
 | [*Pirkei de-Rabbi Eliezer* 8](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.8?lang=bi), eighth or ninth century CE         | Shem, identified with Melchizedek.                                         | This much later rabbinic retelling preserves interpretation rather than historical documentation.        |
 
-## Biblical Unitarian Interpretation
+## Conclusion
 
 It is not clear who exactly was Melchizedek. Some identify him as Shem according to [later Jewish tradition](#extra-biblical-sources), or regard him as an otherwise unknown king of Salem.
 
-Hebrews 7:3, which says Melchizedek is "without father or mother or genealogy", is an argument from Genesis' silence. Genesis records no genealogy, birth, or death for Melchizedek. This literary portrayal allows Hebrews to use him as a pattern for a priesthood that does not depend on Levitical descent. 
+Hebrews 7:3, which says Melchizedek is "without father or mother or genealogy", is an argument from Genesis' silence. Genesis records no genealogy, birth, or death for Melchizedek. This literary portrayal allows Hebrews to use him as a pattern for a priesthood that does not depend on Levitical descent.
 
-On this reading, Melchizedek ***resembles*** [the Son of God](../index.md) rather than being the Son of God (Hebrews 7:3). Jesus is a priest "after the order of Melchizedek" because God appoints him to a non-Levitical and enduring priesthood. The passage therefore does not require Jesus to have existed before his human birth.
+Melchizedek **resembles** [the Son of God](../index.md) rather than being the Son of God (Hebrews 7:3). Jesus is a priest "after the order of Melchizedek" because God appoints him to a non-Levitical and enduring priesthood. The passage therefore does not require Jesus to have existed before his human birth.
