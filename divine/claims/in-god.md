@@ -10,7 +10,7 @@ Jesus says:
 
 > In that day you will know that **I am in my Father, and you in me, and I in you**. — John 14:20 (ESV)
 
-Read alone, language about being in each other can appear to mean being literally inside someone or having the same identity. Its setting across John 14, John 15, and John 17 needs closer reading. 
+Read alone, language about being in each other can appear to mean being literally inside someone or having the same identity. Its setting across John 14, John 15, and John 17 needs closer reading.
 
 [The Greek preposition *en*](https://word.ofgod.info/semantics/en), a small word that links words, is commonly translated “in” and has several possible meanings depending on context. The [Perseus Greek Word Study Tool](https://www.perseus.tufts.edu/hopper/morph?l=%E1%BC%90%CE%BD&la=greek) is a basic word reference; [BibleHub’s Strong’s Greek 1722 entry](https://biblehub.com/greek/1722.htm) collects Strong’s and Thayer’s Bible word-reference works and is not an original scholarly source. It lists “in, on, at, by, with, among”, including uses where “in” shows the means by which something happens. A word’s possible meanings alone do not determine its meaning in John 14–17; the surrounding passage and grammar control the sense. It should not automatically be read as being literally inside someone.
 

@@ -3,7 +3,7 @@ description: Jesus' reception sayings raise questions about representation, disc
 keywords: receiving Jesus, Matthew 10:40, John 13:20, Luke 10:16, biblical agency, Moses and Aaron, Exodus 16:8, Samuel, 1 Samuel 8:7, prophetic messengers, 2 Chronicles 36:15-16, David's envoys, 2 Samuel 10
 ---
 
-# Jesus Claims That Receiving Him Means Receiving God
+# Receiving Jesus Is Receiving God?
 
 Jesus says that receiving him is receiving the one who sent him. His words raise a question about personal identity and authorised representation. The same question arises when Jesus speaks about receiving or rejecting his disciples. Their commission, together with examples involving Moses, Samuel, the prophets and David's envoys, provides a way to examine the distinction.
 
@@ -87,7 +87,7 @@ The sender is David, the representatives are his servants, and the response is H
 
 ## Unity Between Father and Son
 
-Jesus' [unity with his Father](1-with-father.md) is expressed through believing in and seeing the Father in his representative:
+Jesus' [unity with his Father](claims/1-with-father.md) is expressed through believing in and seeing the Father in his representative:
 
 > "Whoever believes in me, **believes not in me but in him who sent me**. And whoever sees me **sees him who sent me**." — John 12:44-45 (ESV)
 

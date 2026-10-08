@@ -22,6 +22,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 > | Grammar & Scope   | Readers differ over grammatical relationships, clause attachments, or the scope of qualifiers, negation, or modifiers. |
 > | Referent ID       | Readers identify different people, things, or events through a pronoun, title, or description.                         |
+> | Symbolism         | Readers interpret symbolic images or messages as literal descriptions.                                                 |
 > | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
 > | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
 
@@ -38,3 +39,17 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Colossians 1:13-17 | “For by him all things were created”   | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md) |
 | Hebrews 1:1-2      | “through whom also He made the worlds” | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md)   |
 | Revelation 10:5-6  | Jesus is viewed as *the mighty angel*  | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md) |
+
+### Omnipresence Interpretations
+
+| Scripture         | Divine Jesus Interpretation                             | Rebuttal                                                                                                                                                                                                      |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Matthew 18:20     | Jesus is present wherever followers gather in his name. | [Word Meaning: disciplinary context and Paul's comparable “presence in spirit” show that presence language need not mean omnipresence.](omnipresence.md#matthew-1820-gathering-in-jesus-name)                 |
+| Matthew 28:20     | Jesus is with all his disciples always.                 | [Topic: Jesus promises continuing mission support, not explicit personal presence everywhere.](omnipresence.md#matthew-2820-with-disciples-to-the-end)                                                        |
+| Acts 18:9-10      | “I am with you” means Jesus is present with Paul.       | [Referent ID: the speaker is unidentified; Word Meaning: even if Jesus, assurance of help and protection does not establish presence everywhere.](omnipresence.md#acts-189-10-assurance-and-human-protection) |
+| Acts 23:11        | The Lord stood beside Paul.                             | [Topic: a particular encounter or reassurance does not establish simultaneous presence everywhere.](omnipresence.md#acts-189-10-assurance-and-human-protection)                                               |
+| John 3:13         | Jesus was in heaven while on earth.                     | [Textual Variation: the longer textual variant is disputed; compare Bible translations.](omnipresence.md#john-313-simultaneously-on-earth--heaven)                                                            |
+| John 14:20-23     | Jesus lives in every believer.                          | [Word Meaning: "in" links love, obedience and relationship, not physical location inside believers.](omnipresence.md#john-1420-23-indwelling)                                                                 |
+| Ephesians 1:22-23 | Jesus “fills all in all”.                               | [Topic: the context concerns Jesus' authority and relationship to the church, not a claim that he personally occupies every location.](omnipresence.md#ephesians-122-410-filling-all-things)                  |
+| Ephesians 4:10    | Jesus ascended to “fill all things”.                    | [Topic: the passage concerns gifts and building his body; his work's reach does not establish personal omnipresence.](omnipresence.md#ephesians-122-410-filling-all-things)                                   |
+| Revelation 2:1    | Jesus walks among churches in different places.         | [Symbolism: walking among seven churches means symbolic oversight, not personal presence everywhere.](omnipresence.md#revelation-21-walking-among-churches)                                                |
