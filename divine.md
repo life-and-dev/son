@@ -35,7 +35,7 @@ The decision did not immediately change what every Christian believed. Non-Nicen
 
 In 381, Emperor Theodosius I convened the [First Council of Constantinople](https://church.ofgod.info/evolution/381-nicaea-creed-updated). It reaffirmed Nicene teaching about the Son and gave the Holy Spirit a divine status alongside the Father and Son. Together, these decisions formed the basis of the [Trinity doctrine](trinity.md): one God understood as three distinct divine persons. Imperial law, church teaching and public worship then helped make this doctrine the normal framework through which later Christians interpreted the Bible.
 
-Another controversy asked how a supposedly divine Son could also be human. The [Council of Chalcedon](https://church.ofgod.info/evolution/451-chalcedon) in 451 declared that Jesus was one person possessing two natures, one divine and one human.
+Another controversy asked how a supposedly divine Son could also be human. The [Council of Chalcedon](https://church.ofgod.info/evolution/451-chalcedon) in 451 declared that Jesus was one person possessing [two natures](dual-nature.md), one divine and one human.
 
 These councils did not prove that their formulas were the original teaching of Jesus and his apostles. They established which interpretation the imperial church would recognise as orthodox. This development altered Christianity by placing later philosophical definitions and institutional authority over the Bible's simpler distinction between the one God, the Father, and Jesus, His Christ.
 
