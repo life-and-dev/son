@@ -1,5 +1,7 @@
 # John 3:13 (Come From Heaven)
 
+> No one has **ascended into heaven** except he who **descended from heaven**, the Son of Man. — John 3:13 (ESV)
+
 John 3:13 speaks of the Son of Man descending from heaven. The verse deserves a full reading in its context, including its textual variant, but it must also be read alongside Scripture’s distinction between the one God, the Father, and his Messiah.
 
 ## The One God and His Messiah
@@ -23,6 +25,11 @@ Jesus speaks to Nicodemus after contrasting earthly things with heavenly things.
 Yet the immediate argument of John 3 is revelation and mission. No merely human teacher has gone up to heaven to acquire the knowledge Jesus gives. The Son is the authorised witness because he is from heaven and sent by God. The verse therefore establishes, *at minimum,* a heavenly source for Jesus’ message and authority. If it also establishes personal pre-existence, that is still a claim about the Son’s origin. It is not a statement that the Son is the Father or that he is Almighty.
 
 ### The Textual Variant
+
+> No one has **ascended to heaven** but He who **came down from heaven**, that is, the Son of Man ***who is in heaven***. — John 3:13 (NKJV)
+
+The ESV omits the longer ending, **“who is in heaven”**. A [NET textual note](https://www.biblegateway.com/passage?search=John+3%3A13-15&version=NET%3BESV) records its omission in P66, P75, א and B. The shorter text, preferred here, describes ascent and descent without explicitly asserting simultaneous heavenly residence.
+
 
 Many English Bibles print the shorter wording quoted above. The ESV footnote notes that *some manuscripts add* **“who is in heaven”** after “the Son of Man.” The addition would make the sentence read: “the Son of Man **who is in heaven**.” It directly raises the question whether Jesus was simultaneously on earth and in heaven.
 
