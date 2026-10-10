@@ -325,12 +325,12 @@ However, Trinitarians solve this problem by adding a few more yet another unbibl
 
 In 451, the [Council of Chalcedon](https://www.newadvent.org/fathers/3811.htm) defined Christ as **one** person existing in **two** natures, divine and human, “without confusion, without change, without division, without separation.”
 
-The reasoning is that this **Dual-Nature** explain how Jesus could [simultaneous](https://sourcebooks.fordham.edu/basis/chalcedon.asp):
+The reasoning is that this **[Dual-Nature](../dual-nature.md)** explain how Jesus could [simultaneous](https://sourcebooks.fordham.edu/basis/chalcedon.asp):
 
   1. be *the divine immortal allmighty omniscient omnipresent* "Son of God" to satisfy the Trinity doctrine, and
   2. be the human "Son of Man" whenever a scripture require a human Jesus. Therefore Trinitarians have no problem to acknoledge that Jesus was a human even when the concept of a human Jesus contradict the Trinity.
 
-A later Western document, the [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html), states the [essence and person formula quoted above](#what-and-who). It describes the three persons as **coeternal**, meaning without a beginning in time, and **coequal**, meaning equal in divinity.
+A later Western document, the [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html), states the essence and person formula quoted above. It describes the three persons as **coeternal**, meaning without a beginning in time, and **coequal**, meaning equal in divinity.
 
 ```mermaid
 graph LR
@@ -353,7 +353,7 @@ graph LR
 
 The final solution is to use abstract Greek philosophy and words like *hypostasis* and *consubstantiality* to make a blatant contradiction sound like a [complex deep spiritual mystery](https://church.ofgod.info/terms/mystery). Therefore some Trinitarians will quote scriptures like 1 Timothy 3:16 and 1 Corinthians 13:12 out of context to prove that people must have faith in ["the mysteries of God"](https://church.ofgod.info/terms/mystery).
 
-Despite the definition of the "Dual-Nature" it is still hard to explain how it is possible that Jesus could be both God and have an [incompatible human nature](../nature.md) simultaneous. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
+Despite the definition of the "Dual-Nature" it is still hard to explain how it is possible that Jesus could be both God and have an [incompatible human nature](../dual-nature.md) simultaneous. To solve that problem they would assert that **people cannot comprehend** an infinite, immaterial, higher-dimensional God that exists outside space and time with **a finite brain**.
 
 For comparison, James writes:
 
