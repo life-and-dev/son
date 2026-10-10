@@ -3,7 +3,7 @@ description: A biblical critique of Chalcedon's one-person, two-natures account 
 keywords: Chalcedon 451, two natures, Jesus humanity, Christology, one person
 ---
 
-# Is Jesus God-Man?
+# Is Jesus Both God & Human?
 
 The church creeds require Jesus to be the divine God. However, divine attributes are incompatible with a genuine human Jesus. For example:
 
