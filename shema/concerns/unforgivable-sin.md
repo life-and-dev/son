@@ -56,7 +56,7 @@ The immediate cause of the warning was the opponents’ demonic explanation of J
 
 Nor does the passage give a complete catalogue of every possible case. It does not reveal every accuser’s unrecorded thoughts or prescribe a number of times the accusation must be repeated.
 
-It also does not identify honest inquiry into the Spirit’s identity as blasphemy. Neither Gospel account makes acceptance of Nicene personhood language the condition for avoiding this sin. At the same time, this distinction is no licence to mock God’s Spirit or casually label his work evil. The warning demands reverence for what God does through Jesus.
+It also does not identify honest inquiry into the Spirit’s identity as blasphemy. Neither Gospel account makes acceptance of Nicene personhood language the condition for avoiding this sin. At the same time, this distinction is no licence to mock God’s Spirit. The warning demands reverence for what God does by His Spirit through Jesus (Acts 2:22).
 
 ## Conclusion
 

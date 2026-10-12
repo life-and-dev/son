@@ -273,7 +273,7 @@ Christ did not faked his death, nor did only a part of him died. A **real human 
 
 The prophets foretold that the Messiah would be a deliberate sacrifice for sin.
 
-> "Yet it was the will of the Lord to crush him... when **his soul makes an offering for guilt**... because he **poured out his soul to death** and was numbered with the transgressors; yet he bore the sin of many." — Isaiah 53:10, 12 (ESV)
+> "Yet it was the will of the Lord to crush him... when **his soul makes an offering for guilt**... because he **poured out his soul to death** and was numbered with the transgressors; yet he bore the sin of many." — Isaiah 53:10,12 (ESV)
 
 If Jesus were a divine being incapable of physical death, the crucifixion would have been an illusion. He had to be fully human to "taste death for everyone" (Hebrews 2:9).
 
