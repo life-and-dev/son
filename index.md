@@ -393,7 +393,9 @@ From a logical perspective, incarnation theology introduces unnecessary complexi
 
 God did not need to "incarnate" or "become" Jesus. He **created** Jesus in Mary's womb, just as He created Adam from dust. The difference is not the method of creation, but the **legal position** of the created being.
 
-Some argue that "begotten" implies eternal generation, distinguishing Jesus from created beings. However, Psalm 2:7 (KJV) states, "this day have I begotten thee," placing the begetting at a specific point in time, not eternity past. Similarly, Acts 13:33 (KJV) and Hebrews 5:5 (KJV) cite this verse in reference to Jesus' resurrection and appointment as High Priest. The biblical evidence suggests that "begotten" refers to Jesus' unique origin from God through the Holy Spirit and His appointment to the position of Son, not an eternal, timeless process.
+Some argue that "begotten" implies *eternal generation*, distinguishing Jesus from created beings. However, Psalm 2:7 (KJV) states, "this day have I begotten thee," placing the begetting at a specific point in time, not eternity past. Similarly, Acts 13:33 (KJV) and Hebrews 5:5 (KJV) cite this verse in reference to Jesus' resurrection and appointment as High Priest. The biblical evidence suggests that "begotten" refers to Jesus' unique origin from God through the Holy Spirit and His appointment to the position of Son, not an eternal, timeless process.
+
+Being "born of God" does not mean being divine. John called his human disciples also "born of God" in 1 John 3:9-10.
 
 ### The Promised "Seed of the Woman"
 

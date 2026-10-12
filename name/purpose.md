@@ -133,6 +133,10 @@ Good deeds cannot save:
 
 > If righteousness were through the law, then Christ died for no purpose. — Galatians 2:21 (ESV)
 
+John summarize the purpose of Jesus as follow:
+
+> Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. **The reason [the Son of God](../index.md) appeared** was to **destroy the works of the devil.** No one born of God makes a [practice of sinning](https://kingdom.ofgod.info/darkness), for God’s seed abides in him; and he **cannot keep on sinning**, because he has been [born of God](sons-of-god.md). — 1 John 3:8-9 (ESV)
+
 ## Conclusion
 
 Jesus' life and ministry served a clear, unified purpose. He came as [the Way](#the-way) to reconcile humanity and provide access to the Father. As [the Truth](#the-truth) as he preached the good news of [the kingdom of God](https://kingdom.ofgod.info), bore witness to the truth, and fulfilled the scriptures. Finally, as [the Life](#the-life), he offered himself as a sacrifice to conquer [death](https://kingdom.ofgod.info/death) and give [life](https://kingdom.ofgod.info/life) to those who believe.
