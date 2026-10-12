@@ -111,8 +111,6 @@ Paul’s Adam-and-Christ comparison depends on Jesus’s human representative ro
 
 > “For as by **a man** came death, by **a man** has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive.” — 1 Corinthians 15:21-22 (ESV)
 
-> “The first man Adam became a living being; the last Adam became a life-giving spirit. … The first man was from the earth, a man of dust; the second man is from heaven.” — 1 Corinthians 15:45,47 (ESV)
-
 These passages establish the article’s humanity evidence. The next question is how that human Messiah is related to God, since humanity by itself does not decide whether he also has a divine nature.
 
 ## Pre-existence Claims
@@ -196,11 +194,25 @@ These sender, prayer, and worship relations provide a second line of evidence. T
 
 ### How the Apostles Identify Jesus
 
+Commonly Trinitarians agree with the above mentioned scriptures which refers to the human Jesus while he was walking on Earth, because understand that Jesus only became God after his exaltation or ascention. However, the apostles that lived after Jesus ascention still called Jesus human:
+
+> “Men of Israel, hear these words: Jesus of Nazareth, **a man** attested to you by God with mighty works and wonders and signs that **God did through him** in your midst, as you yourselves know⁠ — Acts 2:22 (ESV)
+
+Peter never mentioned that Jesus became God, yet 3000 souls were saved.
+
+> “The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **his servant Jesus**.” — Acts 3:13 (ESV)
+
+Again Peter did not tell anyone that Jesus became God, yet 5000 were saved.
+
+Stephen testified before his death:
+
+> And he said, “Behold, I see the heavens opened, and [the Son of **Man**](name/son-of-man.md) standing at the right hand of God.” — Acts 7:56 (ESV)
+
+> Of this **man’s offspring** God has brought to Israel a Savior, Jesus, as He promised. — Acts 13:23 (ESV)
+
 Apostolic language maintains the same distinction:
 
 > “Blessed be **the God and Father of our Lord Jesus Christ**.” — Ephesians 1:3 (ESV)
-
-> “The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified **his servant Jesus**.” — Acts 3:13 (ESV)
 
 Revelation distinguishes the eternal God from Jesus, the faithful witness, and calls believers priests to Jesus’s God:
 
