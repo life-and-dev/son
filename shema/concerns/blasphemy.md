@@ -5,56 +5,81 @@ keywords: blasphemy, Jesus, Messiah, Father, Trinity
 
 # Blasphemy Against Jesus
 
-*“If Jesus is God, would saying that he is human but not Almighty God insult him?”* This concern deserves a careful answer. Trinitarians affirm that Jesus is genuinely human and that the Father and Son are distinct. The disagreement is not whether Jesus is human, but whether denying that he is Almighty God dishonours him.
-
-Scripture treats blasphemy seriously. Yet calling a belief blasphemous cannot establish the very identity under dispute. Biblical examples show what kind of speech and conduct provoked that charge; they must be considered alongside what Scripture says about the Father and his Son.
+The charge that calling Jesus a real man, but not Almighty God, is blasphemy must be tested against the Bible scripture’s descriptions of both blasphemy and Jesus.
 
 ## What Blasphemy Means in Scripture
 
-Leviticus 24:10–16 describes a fight in which a man “**blasphemed the Name, and cursed**” (Leviticus 24:11). The LORD then instructed Moses how to judge the offence. This was not an account of someone asking an honest question about God’s identity. It concerned an utterance against the divine Name.
+[Biblical blasphemy](https://word.ofgod.info/terms/blasphemy) concerns contemptuous speech and defiant dishonour, not every mistaken belief. Leviticus 24:10-16 records cursing and blaspheming the divine Name. Numbers 15:30-31 joins reviling God with defiant conduct and despising his word.
 
-Numbers 15:30–31 likewise describes a person acting “**with a high hand**” who “**reviles the LORD**” and has “**despised the word of the LORD**”. The passage joins defiant conduct to contempt for God’s word. It does not say that every mistaken belief, or every attempt to understand a difficult passage, is blasphemy.
+Exodus 20:7 forbids misusing [God’s name](https://ofgod.info/name), while Leviticus 19:12 prohibits false oaths that profane it. Misusing [the name](https://word.ofgod.info/terms/name) dishonours the authority and character it represents.
 
-These accounts leave room for a serious warning: speech about God and his appointed Messiah must not be contemptuous. They do not provide a shortcut for deciding a disputed claim about Jesus. *If identifying Jesus as Almighty God is the point to be proved, treating its denial as blasphemy assumes the conclusion.*
+Conduct can also dishonour God. After David confessed his sin, Nathan condemned his deed as scorn for God (2 Samuel 12:13-14). Romans 2:17-24 addresses hypocrisy, because people boast in God and teach his law while breaking it themselves. Paul describes the result:
 
-## When the LORD Was Reviled
+> “The name of God is **blasphemed among the Gentiles because of you**.” — Romans 2:24 (ESV)
 
-The Assyrian spokesman urged Jerusalem not to trust the LORD. He compared Jerusalem’s hope with the gods of nations Assyria had defeated and asked who could deliver the city (2 Kings 18:28–35). The LORD answered through Isaiah, identifying the speech as an offence against himself (2 Kings 19:5–7, 20–22). His question was pointed: “Whom have you **mocked and reviled**?” (2 Kings 19:22). The spokesman had not merely disagreed about an abstract doctrine; he had publicly scorned the LORD’s power to save.
-
-Dishonouring God need not be limited to spoken insults. After David confessed, “I have sinned against the LORD,” Nathan said that by his deed David had “**utterly scorned the LORD**” (2 Samuel 12:13–14). This is a related example of treating the LORD with contempt, not a claim that every passage uses the same Hebrew word or names the same offence.
-
-These examples make reverence essential. They also caution against using the word *blasphemy* as a substitute for evidence. To assess the charge against a view of Jesus, the question remains: what has the Father said about his Son?
-
-## Moses’ Warnings and Their Limits
-
-Moses forbade taking [the LORD’s name](https://ofgod.info/name) in vain (Exodus 20:7). He also prohibited swearing falsely by that name and thereby profaning it (Leviticus 19:12). These commands address misuse of God’s name; neither identifies Jesus as Almighty God.
-
-Deuteronomy 13:1–5 warns Israel not to follow a prophet who calls them after other gods, even if the prophet’s predicted sign comes to pass. Deuteronomy 18:20–22 warns against speaking in the LORD’s name what he has not commanded, speaking in the name of other gods, and fearing a claimed word that does not come to pass. The tests concern loyalty to the LORD and whether a speaker truly speaks on his authority. They cannot be reduced to *“Anyone who calls a divinely sent man a man is blaspheming.”*
-
-Deuteronomy 4:15–19 adds a warning against making a carved image or being drawn into worshipping heavenly bodies. Moses reminded Israel that they saw no form when the LORD spoke at Horeb. This is important evidence against making an image for worship. It is not, by itself, a blanket proof about whether God could ever become human. Equally, it does not establish that he did so in Jesus. *That larger question requires evidence beyond this prohibition.*
-
-The warnings therefore protect devotion to the Father without settling Jesus’ identity simply by applying a frightening label to one side of the debate.
+Ezekiel 36:16-23 corroborates the connection between conduct and profaning God’s name. Israel’s conduct and exile profaned his holy name among the nations, and God declared that he would vindicate its holiness.
 
 ## Honour the Human Messiah
 
-Moses also said that the LORD would raise up a prophet “**from among you, from your brothers**” and commanded Israel to listen to him (Deuteronomy 18:15). Speaking of that prophet, the LORD said, “I will put **my words in his mouth**” (Deuteronomy 18:18–19). Listening to a human messenger of God is not contempt for God. Refusing to hear the words God gives that messenger is the danger described here.
+Jesus’ own description is plain:
 
-Peter presents Jesus in terms that distinguish him from God while demanding an extraordinary response to him. He calls Jesus “**a man attested to you by God**” and says that “**God raised him up**” (Acts 2:22–24). Peter then declares that “**God has made him both Lord and Christ**” (Acts 2:36). Calling Jesus a man is therefore not, on its own, an insult: Peter does so while proclaiming God’s action through him. Nor does his humanity make him *just another man*. He is God’s attested, risen, appointed Lord and Messiah.
+> “a **man** who has told you the **truth that I heard from God**” — John 8:40 (ESV)
 
-Paul likewise speaks of “one God” and “one mediator between God and men, **the man Christ Jesus**” (1 Timothy 2:5). His human identity matters to his role as mediator. Those who believe Jesus is Almighty God read these texts differently; the texts should be discussed rather than treated as evidence of irreverence merely because they call him a man.
+### Man
+
+The apostles call Jesus [a man](../../human.md) attested by God, whom God raised and made Lord and [Christ](https://kingdom.ofgod.info/christ) (Acts 2:22-36). God’s appointed judge is also a man (Acts 17:31). Paul contrasts Adam with the obedient man Jesus Christ (Romans 5:15-19). Resurrection likewise comes through a man; Christ is the last Adam and the second man (1 Corinthians 15:21-22,45-49). He is [the human mediator](../benefits.md) between the one God and humanity (1 Timothy 2:5).
+
+### Son of Man
+
+Jesus also calls himself [Son of Man](../../name/son-of-man.md) when describing homelessness (Matthew 8:20), [authority to forgive sins](../../divine/claims/forgave.md) (Mark 2:10), [service](../../human/serve-god.md) and giving his life as a ransom (Mark 10:45), and [heavenly honour](../benefits.md) (Mark 14:62). This is an honoured title, not an insult.
+
+### Human life and limits
+
+His descent from Abraham and David (Matthew 1:1; Romans 1:3), [birth](../../human.md) from a woman (Galatians 4:4), and coming in the flesh (1 John 4:2) affirm real ancestry and embodied life.
+
+[The accounts](../../human/limitations.md) record hunger after fasting (Matthew 4:2), fatigue from travel (John 4:6), thirst on the cross (John 19:28), sleep during a storm (Mark 4:38), grief at Lazarus’ tomb (John 11:35), and [temptation](../../human/temptations.md) in the wilderness (Mark 1:13).
+
+[Jesus prays](../../human/has-a-god.md) in solitude (Mark 1:35), submits his will to the Father’s will (Mark 14:36), and [does not know](../../human/limitations.md) the day or hour that the Father knows (Mark 13:32). His death, burial and resurrection are also recorded as real events (Mark 15:37; 1 Corinthians 15:3-4).
+
+### Authority received from God
+
+Jesus says that [he acts through dependence on the Father](../../human/has-a-god.md), and that his judgement seeks the sender’s will (John 5:19,30). His teaching belongs to [God Who sent him](../../human/serve-god.md) (John 7:16).
+
+Humanity does not make Jesus ordinary or unimportant. [God’s promised](https://prophecies.ofgod.info/messianic) prophet must be heard (Deuteronomy 18:15-19), and Jesus requires honour ([glory](https://word.ofgod.info/terms/glory)) just as for the Father who sent him (John 5:23).
 
 ## The Accusation in John 10
 
-Jesus’ opponents accused him of blasphemy: “you, being a man, **make yourself God**” (John 10:33). That is their description of his claim, not Jesus’ own confession. Jesus answers by identifying what he *did* say: “I am the **Son of God**” (John 10:36).
+After Jesus says that [he and the Father are one](../../divine/claims/1-with-father.md) (John 10:30), his opponents charge him with ***blasphemy for making himself God*** (John 10:33).
 
-He then asks them to judge that claim by Scripture rather than by their accusation. Citing Psalm 82:6: “I said, you are **gods**”. Jesus notes that Scripture used such language for those “to whom the **word of God came**” (John 10:34–35). How, then, can they call it blasphemy when the one whom the Father **consecrated and sent** says he is God’s Son (John 10:36)? His point is not that Psalm 82 proves everything about his identity. It is that their objection to his words does not justify their charge.
+> [!WARNING]
+> That is the opponents accusation, not Jesus’ admission or God’s verdict.
 
-Jesus also appeals to the **works of his Father**: even if they do not believe his words, they should consider what his works show (John 10:37–38). He is not claiming to make himself God, but instead he is defending his claim **to be the Son whom the Father sent**.
+Jesus cites Scripture’s use of the title gods for those to whom God’s word came (John 10:34-35). Reading the figures in Psalm 82:6-7 as human judges or rulers is an interpretation. **Bearing that title does not make its bearer Almighty God.** It depends on the context.
+
+The Jesus explain the context in which he had identified his own claim:
+
+> “I am **[the Son of God](../../index.md)**” — John 10:36 (ESV)
+
+The Father **consecrated him**, meaning set him apart, and **sent him** into the world with a commission. The answer distinguishes **the Father as the source** of the Son’s mission.
+
+## Greater Caution About God’s Identity
+
+God’s own testimony distinguishes him from a man:
+
+> “for **I am God and not a man**” — Hosea 11:9 (ESV)
+>
+> “**God is not man**, that he should lie” — Numbers 23:19 (ESV)
+
+Altough the context of both statements concern God’s mercy in Hosea and faithfulness in Numbers, both prophets compared God with a human and used that as evidence to strengthen their statements. This warrant caution about calling [the LORD (YHWH or God the Father)](https://ofgod.info/name) a man.
+
+Jesus identifies the Father Who sent him as the only true God:
+
+> “And this is eternal life, that they know you, the **only true God**, and **Jesus Christ whom you have sent**.” — John 17:3 (ESV)
+
+After his resurrection, [Jesus still identifies the Father as his God](../../human/has-a-god.md) (John 20:17). The [distinction](../../human/distinct.md) between the one God and the human mediator in 1 Timothy 2:5 agrees with this relationship.
+
+God is identified as the Father ([YHWH](https://ofgod.info/name#yhwh)) as Almighty God, and Jesus as his [genuine human](../../human.md) [Son](../../index.md) and Messiah ([Christ](https://kingdom.ofgod.info/christ)). Swapping or conflating those identities **risks misrepresenting God’s testimony and dishonouring [His name](https://word.ofgod.info/terms/name)**.
 
 ## Conclusion
 
-The [biblical examples](#what-blasphemy-means-in-scripture) associate blasphemy with contempt for God and defiance of his word. [Moses’ warnings](#moses-warnings-and-their-limits) do not establish that Jesus is Almighty God, while his promised prophet and the apostles’ witness call for [honouring Jesus as the Father’s appointed Messiah](#honour-the-human-messiah). In [John 10](#the-accusation-in-john-10), the charge against Jesus must be distinguished from his own answer.
-
-Merely saying *“blasphemy”* presupposes the disputed identity; it does not prove it. Jesus’ humanity alone does not disprove a divine nature either. The proper response is an honest examination of the whole scriptural case, with reverence for the Father and his Son. This gives no guarantee that everyone who denies Jesus is Almighty God speaks rightly, and no licence to speak irreverently about him.
-
-For the wider discussion, see the [overview of Trinitarian concerns](../trinity/concerns.draft.md). The [warning concerning the Spirit](unforgivable-sin.draft.md) and [confession and salvation](salvation.draft.md) merit separate consideration; see also the discussion of [Jesus and the Father in John 10](../divine/claims/1-with-father.md) and the [study of blasphemy](https://github.com/life-and-dev/word/blob/main/terms/blasphemy.md).
+Calling Jesus a [real man, Son and Messiah](#honour-the-human-messiah) is safe according to Bible scriptures. Greater caution concerns [identifying Jesus as Almighty God, calling God the Father a man, or conflating Father and Son](#greater-caution-about-gods-identity), not the human description Scripture itself gives him.
