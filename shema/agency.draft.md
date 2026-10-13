@@ -5,24 +5,24 @@ keywords: biblical agency, commissioned representation, angel of the LORD, Jesus
 
 # Agents of God
 
+## Definitions
+
 **Agency** means commissioned representation. An agent speaks or acts for a sender within the sender's commission. It is not a universal rule that magically turns one person into another or transfers every personal quality between them.
 
-**Sonship** is not a synonym for agency, and ‘agent’ is not a replacement translation for ‘son’. Sonship describes the relationship or status of being called God's son. Depending on context, this may involve belonging, family likeness, royal or covenant standing, or inheritance (Exodus 4:22-23; Hosea 11:1; Matthew 5:9,44-45; Galatians 4:4-7). God's sons are called to reflect the Father's character and represent him in their service and conduct (Exodus 4:22-23; Matthew 5:44-45). This calling does not guarantee faithful conduct or divine endorsement of every act. Agency describes acting on God's behalf rather than the whole meaning of sonship; a specific commission, not sonship alone, defines the scope of delegated authority. See [Sons of God](../name/sons-of-god.md) for fuller examples and contextual distinctions.
+**Sonship** describes the relationship with God. Depending on context, this may involve belonging, family likeness, royal or covenant standing, or inheritance (Exodus 4:22-23; Hosea 11:1; Matthew 5:9,44-45; Galatians 4:4-7). [God's sons](../name/sons-of-god.md) are called to reflect the Father's character and represent him in their service and conduct (Exodus 4:22-23; Matthew 5:44-45). This calling does not guarantee faithful conduct or divine endorsement of every act. Agency describes acting on God's behalf rather than the whole meaning of sonship; a specific commission, not sonship alone, defines the scope of delegated authority.
 
-Three questions must remain separate:
+**Identity** identifies who the person is.
 
-1. **Identity** asks who someone is.
-2. **Role and authority** concern the task and power entrusted to that person.
-3. **Nature** concerns what that person is. Here, **divine** being a deity, not merely receiving power from God.
+**Nature** concerns what that person is. Here, **divine** being a deity, not merely receiving power from God.
 
-This distinction allows Jesus' representation of the Father to be examined without confusing a shared task with shared identity or nature.
+**Role and authority** concern the task and power entrusted to that person.
 
 > [TIP]
-> The article identifies the Father with [the LORD (YHWH)](https://ofgod.info/name) and uses ‘Father’ when discussing him alongside Jesus.
+> This article identifies the God the Father with [the LORD (YHWH)](https://ofgod.info/name) and uses ‘Father’ when discussing him alongside Jesus.
 
 ## Agency in Ancient Times
 
-Ancient sources describe messengers carrying another person's words and receiving treatment connected with their commission. They illustrate particular practices, not a universal identity rule.
+Ancient sources describe messengers carrying another person's words and receiving treatment connected with their commission.
 
 ### Diplomatic Recognition
 
@@ -52,7 +52,7 @@ A later rabbinic witness gives a qualified comparison:
 
 > a person’s messenger is [considered] like himself — [Mishnah Berakhot 5:5, Wikisource translation](https://en.wikisource.org/wiki/Translation:Mishnah/Seder_Zeraim/Tractate_Berakhot/Chapter_5/5)
 
-Compiled around 190-230 CE, this passage concerns a prayer representative whose error is a bad sign for those represented. It is not evidence of a universally codified first-century ‘Law of Agency’, still less a rule about deity.
+Compiled around 190-230 CE, this passage concerns a prayer representative whose error is a bad sign for those represented.
 
 ## Agency in the Bible
 
@@ -80,17 +80,19 @@ The king replies through the exchange, and Jephthah sends messengers again in ve
 
 ### God's Commissioned Servants
 
-Representation of God does not require a human representative to become deity. The LORD commissions Moses in relation to Pharaoh:
+**Representation of God does not require a human representative to become a deity.** The LORD commissions Moses in relation to Pharaoh:
 
 > See, I have made you **like God to Pharaoh**, and your brother Aaron shall be your prophet. — Exodus 7:1 (ESV)
 
 The stated relationship concerns Moses' appointed role towards Pharaoh. The passage does not describe a change in Moses' nature.
 
-Jeremiah receives commands to go where the LORD sends him and speak what he commands (Jeremiah 1:7-9):
+Jeremiah receives commands to go where the LORD sends him and speak what He commands (Jeremiah 1:7-9):
 
-> Behold, I have put **my words** in **your mouth**. — Jeremiah 1:9 (ESV)
+> Behold, I have put **My words** in **your mouth**. — Jeremiah 1:9 (ESV)
 
-The words have a divine source while Jeremiah remains their human speaker. Exodus 23:20-22 adds a commissioned angel: the LORD sends the messenger, commands obedience to him, and connects his voice with the LORD's instructions. Further examples appear in [God Works Through Humans](./benefits.md#god-works-through-humans).
+The words have a divine source while Jeremiah remains their human speaker. [God works through humans](benefits.md#god-works-through-humans).
+
+Exodus 23:20-22 adds a commissioned angel: the LORD sends the messenger, commands obedience to him, and connects his voice with the LORD's instructions.
 
 ### Reading the Context
 
