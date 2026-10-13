@@ -16,7 +16,10 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 
 ## Deity Interpretations
 
-> [!NOTE]
+> [!TIP]
+>
+> The categories describe the rebuttals in the Scripture Interpretations tables below.
+>
 > | Category          | Meaning                                                                                                                |
 > | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |

@@ -13,7 +13,7 @@ This question concerns trusted teachers and loved ones, not just numbers. Trinit
 
 [Trinitarians](../../trinity.md) confess one God, but with *3 persons*. They understand Father, Son and Holy Spirit as distinct persons sharing one divine essence. That claim must be considered on [its own terms](../../trinity/development.md).
 
-But a majority can be mistaken. For example, **Elijah stood against 450** prophets of Baal before the people saw the Father answer by fire (1 Kings 18:19–39). **10 spies discouraged Israel, while Joshua and Caleb urged trust** in the Father (Numbers 13:25–14:10). **400 prophets promised Ahab victory, but Micaiah warned of defeat** (1 Kings 22:6–28). Likewise, **the chief priests and the council condemned Jesus as deserving death**, but **their agreement did not make that verdict right** (Mark 14:55–64).
+But a majority can be mistaken. For example, **Elijah stood against 450** prophets of Baal before the people saw God the Father answer by fire (1 Kings 18:19–39). **10 spies discouraged Israel, while Joshua and Caleb urged trust** in God the Father (Numbers 13:1–14:10). **About 400 prophets promised Ahab victory, but Micaiah warned of defeat** (1 Kings 22:6–28). Likewise, **the chief priests and the council condemned Jesus as deserving death**, but **their agreement did not make that verdict right** (Mark 14:55–64).
 
 Even the church Reformation showed that the overwhelming majority cannot decide the truth.
 
