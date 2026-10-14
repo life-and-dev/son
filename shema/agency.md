@@ -7,6 +7,8 @@ keywords: biblical agency, commissioned representation, angel of the LORD, Jesus
 
 ## Definitions
 
+**Angel** is a title identifying a messenger, not a personal name. A repeated title does not establish that every occurrence concerns the same individual. Each account needs its own contextual reading. Angels do not have to be divine. It could be humans, a donkey, a bush, etc.
+
 **Agency** means commissioned representation. An agent speaks or acts for a sender within the sender's commission. It is not a universal rule that magically turns one person into another or transfers every personal quality between them.
 
 **Sonship** describes the relationship with God. Depending on context, this may involve belonging, family likeness, royal or covenant standing, or inheritance (Exodus 4:22-23; Hosea 11:1; Matthew 5:9,44-45; Galatians 4:4-7). [God's sons](../name/sons-of-god.md) are called to reflect the Father's character and represent him in their service and conduct (Exodus 4:22-23; Matthew 5:44-45). This calling does not guarantee faithful conduct or divine endorsement of every act. Agency describes acting on God's behalf rather than the whole meaning of sonship; a specific commission, not sonship alone, defines the scope of delegated authority.
@@ -94,33 +96,13 @@ The words have a divine source while Jeremiah remains their human speaker. [God 
 
 Exodus 23:20-22 adds a commissioned angel: the LORD sends the messenger, commands obedience to him, and connects his voice with the LORD's instructions.
 
-### Reading the Context
-
 The mistaken inference treats a first-person pronoun, shared title, divine work, or name-bearing as sufficient proof of identity. The narratives above show why the relationship must instead be established from context.
 
-| Context Question                  | What to Examine                                                                      |
-| --------------------------------- | ------------------------------------------------------------------------------------ |
-| Who is sent, and by whom?         | Explicit sending language identifies a commission and its source.                    |
-| Whom does the narrator identify?  | Named actors, locations, and movements distinguish sender and messenger.             |
-| Whose speech is being quoted?     | A message can contain the sender's first-person words within the messenger's speech. |
-| What is received?                 | Commands, words, or authority may be entrusted rather than possessed independently.  |
-| Is there dialogue between them?   | Address and reply can identify distinct participants.                                |
-| Who receives credit for the work? | Attribution to a source may accompany action through a representative.               |
-| What is the commission's scope?   | Authorisation for one task does not establish unlimited power or shared nature.      |
-
-These checks are not permission to insert an agent into every passage. Where the narrator presents the source himself speaking or acting, that presentation should stand unless the context supplies evidence of mediation. Conversely, attribution to the source can coexist with an explicitly identified messenger, as royal speech demonstrates.
-
-Some passages remain unclear about a speaker or means of action. They should remain unclear rather than being forced into either personal identity or a blanket agency explanation. The related [discussion of agency](./benefits.md#law-of-agency) should be read with these contextual limits.
-
-## Angel of the LORD
-
-**Angel** is a title identifying a messenger, not a personal name. A repeated title does not establish that every occurrence concerns the same individual. Each account needs its own contextual reading.
-
-### Old Testament Messengers
+### Angel of the LORD
 
 Exodus 23:20-22 distinguishes the LORD who sends from the angel sent ahead of Israel. The messenger carries authority connected with the LORD's name:
 
-> Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for **my name is in him**. — Exodus 23:21 (ESV)
+> Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for **[My name](https://word.ofgod.info/terms/name) is in him**. — Exodus 23:21 (ESV)
 
 Name-bearing and commanded obedience establish a serious commission. They do not, by themselves, establish that messenger and sender are the same person or share the same nature.
 
@@ -138,21 +120,17 @@ These passages show why title, speech, and function require separate examination
 
 ### Angels and Jesus in Matthew
 
-Matthew 1:20-21 presents an angel speaking to Joseph about Mary's child as someone distinct from the messenger:
+[The Angel of the Lord is not Jesus](../name/son-as-angel.md). He refers to Jesus as a distinct person:
 
-> She will bear **a son**, and you shall call his name **Jesus**, for he will save his people from their sins. — Matthew 1:21 (ESV)
+> But while he thought on these things, behold, **the angel of the Lord** appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. — Matthew 1:20-21 (KJV)
 
 Matthew 28:2,5-6 likewise identifies an angel at the tomb who announces what has happened to Jesus:
 
 > **He is not here**, for **he has risen**, as he said. Come, see the place where he lay. — Matthew 28:6 (ESV)
 
-The angel who speaks and Jesus whose resurrection is announced are distinct actors in this scene. Matthew uses ‘an angel of the Lord’ in Matthew 1:20 and ‘the angel of the Lord’ in Matthew 1:24. Neither form turns a role description into Jesus' personal name. Matthew 28:5 refers to ‘the angel’, without repeating the full title.
-
-These New Testament examples establish the distinction in their particular scenes. They cannot alone settle every proposed appearance of Christ in an unnamed Old Testament messenger. Such a proposal requires evidence about that particular passage, not merely matching titles or functions. Further discussion appears in [Interpretations Distinguishing the Angel from Jesus](../name/son-as-angel.md#interpretations-distinguishing-the-angel-from-jesus).
-
 ## Jesus Represents His Father
 
-Treating representation as proof of deity uses a role to settle a different question about nature. The passages concerning Jesus should instead be read for what they say about his Father, his humanity, and his received commission.
+Treating representation as proof of deity **uses a role to settle a different question about nature**. The passages concerning Jesus should instead be read for what they say about his Father or his received commission.
 
 ### The Father and His Human Son
 
@@ -168,7 +146,7 @@ Similarly, 1 Corinthians 8:6 identifies the one God as the Father and the one Lo
 
 Paul's description of mediation expressly identifies Jesus as human:
 
-> For there is **one God**, and there is **one mediator** between God and men, **the man Christ Jesus**, — 1 Tim. 2:5 (ESV)
+> For there is **one God**, and there is **one mediator** between God and men, **the man Christ Jesus**, — 1 Timothy 2:5 (ESV)
 
 Acts 2:22 likewise identifies Jesus as a man and credits the Father with performing mighty works through him. Acts 10:38 describes the Father anointing Jesus with the Holy Spirit and power, and explains his good works by the Father's presence with him. Together, these passages support a genuinely human Son and Christ whose commission and power come from the Father.
 
@@ -194,29 +172,24 @@ The risen Jesus also describes his authority as received:
 
 Jesus applies representative reception to a chain of distinct participants:
 
-> Whoever **receives you receives me**, and whoever **receives me receives him who sent me**. — Matthew 10:40 (ESV)
+> Whoever **receives you receives me**, and whoever **receives me receives Him who sent me**. — Matthew 10:40 (ESV)
 
 ```mermaid
 flowchart TD
-    F["Father"] -->|sends| S["Son"]
+    F(("Father")) -->|sends| S["Jesus"]
     S -->|sends| D["Disciples"]
-    D -.->|receiving disciples recognises Son| S
-    S -.->|receiving Son recognises Father| F
+    D -.->|recognises| S
+    S -.->|recognises| F
 ```
 
-Solid arrows show sending; dotted arrows show reception recognising the sender through his representative. The Father, Son, and disciples remain distinct. Receiving Jesus' commissioned disciples honours their relationship to him; it does not make them Jesus or make every personal action part of his commission. The related article on [Receiving God](../divine/claims/receive-god.md) examines this reception language.
+> Solid arrows show sending  
+> Dotted arrows show reception recognising the sender through his representative.
 
-### Personal Distinction and Nature
-
-Classical Trinitarian theology distinguishes the Son from the Father while affirming that they share one divine essence, meaning the same divine nature ([Catechism of the Catholic Church, §253](https://www.vatican.va/archive/ENG0015/__P17.HTM)). Showing that Jesus is not the Father therefore does not, by itself, refute that shared-essence claim.
-
-Agency also does not settle the question in the opposite direction. Being commissioned neither requires deity nor proves that deity is impossible. A claim about Jesus' nature needs evidence beyond the bare fact that he represents another.
-
-The human-agent reading rests on the positive descriptions already considered: the Father is Jesus' God; Jesus is the human mediator; the Father anoints him and works through him; his words and authority are received. This reading recognises Jesus as the genuinely human Son and Christ sent by the Father, without converting representation into an argument for deity.
+The Father, Son, and disciples remain distinct. Receiving Jesus' commissioned disciples honours their relationship to him. The commission does not make them Jesus. Likewise, the commission of Jesus who represent the Father, [does not proof that he is the Father](../divine/claims/receive-god.md) Who send him.
 
 ## Disciples Represent Christ
 
-Christ's representatives provide another test of the inference from representation to identity. Their relationship with him is close, but the New Testament distinguishes the represented Lord from those who serve him.
+Christ's representatives provide another test of the inference from representation to identity. Their relationship with him is close, but the New Testament distinguishes the represented Christ from the Christians who represent him.
 
 ### Christ's Body and Ambassadors
 
@@ -240,19 +213,19 @@ Such conduct represents Christ without transferring his personal identity to tho
 
 ### Miracles Through Human Servants
 
-Acts carefully identifies the source of miraculous power. Acts 19:11 credits the Father with doing extraordinary miracles through Paul's hands. In Acts 3:12, Peter rejects the idea that his own power or piety made a man walk. Verse 16 instead points to Jesus' name and the faith that comes through him.
+Acts carefully identifies the source of miraculous power. Acts 19:11 credits God the Father with **doing extraordinary miracles through Paul's hands**. In Acts 3:12, Peter rejects the idea that his own power or piety made a man walk. Verse 16 instead points to [Jesus' name](https://word.ofgod.info/terms/namez) and the faith that comes through him.
 
 In Acts 4:29-30, believers ask the Father for bold speech while he stretches out his hand to heal and signs occur through the name of his holy servant Jesus. The prayer distinguishes the Father, Jesus, and the servants speaking the message. Power exercised through them does not make them its independent source.
 
 Acts 14:11-15 supplies an explicit false inference after a healing. The crowd declares:
 
-> *The **gods** have come down to us in the likeness of men!* — Acts 14:11 (ESV)
+> "The **gods** have come down to us in the likeness of men!"" — Acts 14:11 (ESV)
 
-Paul and Barnabas reject the attempted worship and identify themselves instead:
+Paul and Barnabas **reject the attempted worship** and identify themselves instead:
 
 > We also are **men, of like nature with you** — Acts 14:15 (ESV)
 
-The narrative places the mistaken claim before the apostles' human self-description and their call to turn to the living God. Miraculous activity through a representative is therefore not sufficient evidence that the representative is deity.
+The narrative places the mistaken claim before the apostles' human self-description and their call to turn to the living God. Miraculous activity through a representative is therefore **not sufficient evidence that the representative is deity**.
 
 ## Conclusion
 
