@@ -7,26 +7,35 @@ keywords: Trinitarian concerns, Unitarian salvation, blasphemy against the Spiri
 
 For some Christians, questioning the Trinity feels dangerous rather than merely difficult. They fear dishonouring God, losing salvation, or making Jesus' death seem small.
 
-The following concerns have a major impact on the Christian faith:
+The following concerns have a major impact on the Christian faith.
 
-- **[Blasphemy](concerns/blasphemy.md)**: If Jesus is God, would saying he is human but not Almighty God insult him?
-- **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
-- **[Known by Jesus](concerns/known-by-jesus.md)**: Jesus warns in Matthew 7:21–23 that he never knew some who called him Lord. If Jesus is human, how can believers communicate with him and be known by him across the world?
-- **[Love of God](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
-- **[Majority](concerns/majority.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
-- **[Mediation](concerns/mediation.md)**: If Jesus is human, how can he mediate between the Father and billions of humans?
-- **[The Price of Salvation](concerns/price.md)**: Can one man's death save billions of people, or must the sacrifice be divine to be sufficient?
+It influence how we understand salvation:
+
+- **[Price of the sacrifice](concerns/price.md)**: Can one man's death save billions of people, or must the sacrifice be divine to be sufficient?
 - **[Salvation](concerns/salvation.md)**: If believing in Jesus requires believing he is Almighty God, could denying that cost someone salvation?
-- **[The unforgivable sin](concerns/unforgivable-sin.md)**: If someone calls the Holy Spirit a force instead of God, could that be blasphemy against the Holy Spirit?
+- **[Known by Jesus](concerns/known-by-jesus.md)**: Jesus warns in Matthew 7:21–23 that he never knew some who called him Lord. If Jesus is human, how can believers communicate with him and be known by him across the world?
+
+How we understand sin:
+
+- **[Unforgivable sin](concerns/unforgivable-sin.md)**: If someone calls the Holy Spirit a force instead of God, could that be blasphemy against the Holy Spirit?
+- **[Blasphemy](concerns/blasphemy.md)**: If Jesus is God, would saying he is human but not Almighty God insult him?
 - **[Worship](concerns/worship.md)**: If Jesus is God, could refusing him worship and honouring another lord become idolatry?
 
-The question is whether [Scripture](https://word.ofgod.info) requires a person to call Jesus Almighty God and the Holy Spirit a separate divine person to proclaim faith.
+How we understand God's character:
+
+- **[Love of God](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
+- **[Mediation](concerns/mediation.md)**: If Jesus is human, how can he mediate between the Father and billions of humans?
+
+How we view fellow Christians:
+
+- **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
+- **[Majority](concerns/majority.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
+
+On the other hand, there are also benefits in believing in a human Christ.
 
 # Benefits of a Human Christ
 
-Questioning the Trinity **does not mean giving less honour to Jesus**.
-
-Believing that [the Father](https://ofgod.info) is the only true God (John 17:3) and that Jesus is the human representative (Christ) He sent and authorised offers these benefits:
+Believing that [the Father](https://ofgod.info) is the only true God (John 17:3) and that Jesus is [the human representative](agency.md) ([Christ](https://kingdom.ofgod.info/christ)) that [God sent](../human/serve-god.md) and authorised offers these benefits:
 
 - **[Understandable gospel](benefits.md#understandable-gospel)**: The apostles’ account of the Father and His Christ can be explained in Scripture’s own terms without explaining complex Trinitarian terms.
 - **[Restoring humanity](benefits.md#restoring-humanity)**: Jesus restores humanity’s original purpose by fulfilling the calling that Adam failed to carry out.
@@ -41,3 +50,5 @@ Believing that [the Father](https://ofgod.info) is the only true God (John 17:3)
 - **[A human mediator and advocate](benefits.md#a-human-mediator-and-advocate)**: Jesus’s experience of human pressures and suffering makes him a fitting mediator and advocate before the Father.
 - **[Jesus and the Father Are Two Witnesses](benefits.md#jesus-and-the-father-are-two-witnesses)**: Jesus and the Father are not one witness repeated, and their testimony is consistent with Scripture’s legal standard for establishing a charge (Deuteronomy 19:15; John 8:17–18).
 - **[God remains trustworthy and unchanged](benefits.md#god-remains-trustworthy-and-unchanged)**: The Father remains immortal, holy and unchanged, giving believers further reason to trust Him.
+
+Questioning the divinity of Jesus **does not mean giving less honour to Jesus**.
