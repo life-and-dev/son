@@ -75,7 +75,7 @@ The subject is Abraham seeing the Messiah’s “day,” and Galatians 3:8 says 
 
 ### Firstborn of Creation
 
-**Argument** 
+**Argument**
 
 Colossians calls Jesus “the firstborn of all creation” and says:
 
@@ -117,7 +117,7 @@ Revelation applies the title in the context of Jesus’ death and resurrection: 
 
 **Argument**
 
-Revelation 1:8 identifies the Alpha and Omega as “the Lord God” and “the Almighty”. Revelation 21:5-7 places the title on the throne speaker who calls the conqueror “my son.” Revelation 22:13 repeats it before Jesus identifies himself in verse 16. If Jesus controls that speech, the association with Almighty God is positive divine-identity evidence.
+Revelation 1:8 identifies [the Alpha and Omega](first-last.md) as “the Lord God” and “the Almighty”. Revelation 21:5-7 places the title on the throne speaker who calls the conqueror “my son.” Revelation 22:13 repeats it before Jesus identifies himself in verse 16. If Jesus controls that speech, the association with Almighty God is positive divine-identity evidence.
 
 **Response**
 
