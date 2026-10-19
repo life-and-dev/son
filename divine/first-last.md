@@ -2,8 +2,7 @@
 description: What do First and Last, Alpha and Omega, and Aleph-Tav reveal about Jesus, divine authority, and the grammar behind these claims?
 keywords: First and Last, Alpha and Omega, Aleph-Tav, Hebrew direct-object marker, Revelation 22:13, divine identity, royal merism, Jesus received authority
 ---
-
-# Is Jesus the First and Last
+# The First and Last
 
 Some people connect the titles "First and Last", "Alpha and Omega" or the Hebrew particle אֵת (often called Aleph-Tav) with Jesus to proof that he is the [eternal](eternal.md) LORD God.
 
@@ -15,7 +14,7 @@ To understand if the argument holds, we need to establish the ordinary meanings 
 
 ### Hebrew Meanings
 
-[Brown-Driver-Briggs on "first" (רִאשׁוֹן)](https://biblehub.com/hebrew/7223.htm), transliterated riʾšôn, gives senses including former, first and chief. [Its entry for "last" (אַחֲרוֹן)](https://biblehub.com/hebrew/314.htm), ʾaḥărôn, describes what comes after or behind, including what is latter or last. Neither adjective alone means Almighty, uncreated or without a beginning.
+[Brown-Driver-Briggs on &#34;first&#34; (רִאשׁוֹן)](https://biblehub.com/hebrew/7223.htm), transliterated riʾšôn, gives senses including former, first and chief. [Its entry for &#34;last&#34; (אַחֲרוֹן)](https://biblehub.com/hebrew/314.htm), ʾaḥărôn, describes what comes after or behind, including what is latter or last. Neither adjective alone means Almighty, uncreated or without a beginning.
 
 As a merism, that names two extremes to include everything between them, [ThoughtCo](https://www.thoughtco.com/merism-rhetoric-term-1691307) describes it as *“a pair of contrasting words or phrases”* expressing *“totality or completeness”*. The context supplies the range. The words do not always mean the whole universe or all eternity.
 
@@ -84,7 +83,7 @@ These comparisons show ordinary temporal endpoints covering the full recorded sp
 
 ### Greek Meanings and Human Uses
 
-[Thayer's entry for "first" (πρῶτος)](https://biblehub.com/greek/4413.htm), prōtos, includes first in time, place or rank. [Its entry for "last" (ἔσχατος)](https://biblehub.com/greek/2078.htm), eschatos, includes last, extreme or lowest, according to context. Neither entry defines the word as Almighty God.
+[Thayer&#39;s entry for &#34;first&#34; (πρῶτος)](https://biblehub.com/greek/4413.htm), prōtos, includes first in time, place or rank. [Its entry for &#34;last&#34; (ἔσχατος)](https://biblehub.com/greek/2078.htm), eschatos, includes last, extreme or lowest, according to context. Neither entry defines the word as Almighty God.
 
 | Scripture     | Human Context                                                           | Function of First and Last                                                     |
 | ------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -108,8 +107,8 @@ Like the [above mentioned merism](#hebrew-meanings), they do not make Almighty t
 
 The context identifies God, rather than the alphabet itself defining Almighty.
 
-> And **He who was seated on the throne** said, “Behold, I am making all things new.”  
-> Also He said, “Write this down, for these words are trustworthy and true.”  
+> And **He who was seated on the throne** said, “Behold, I am making all things new.”
+> Also He said, “Write this down, for these words are trustworthy and true.”
 > And He said to me, “It is done! I am **the Alpha and the Omega**, **the beginning and the end**. To the thirsty I will give from the spring of the water of life without payment. **The one who conquers** will have this heritage, and **I will be his God and he will be My son**. — Revelation 21:5-7 (ESV)
 
 "The Alpha and Omega" is "He who was seated on the throne" which is the Lord God (Revelation 4). John distinguish "He who was seated on the throne" from "the one who conquers" and explicitly state "I will be his God and he will be My son".
@@ -119,12 +118,12 @@ The context identifies God, rather than the alphabet itself defining Almighty.
 
 However, the passage in dispute read as follow:
 
-> And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, **has sent His angel** to show His servants what must soon take place.”  
-> “And behold, **I am coming soon**. Blessed is the one who keeps the words of the prophecy of this book.  
-> I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me, “You must not do that! **I am a fellow servant** with you and your brothers the prophets, and with those who keep the words of this book. Worship God.”  
-> And he said to me, “Do not seal up the words of the prophecy of this book, for the time is near. Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”  
-> “Behold, **I am coming soon**, bringing my recompense with me, to repay each one for what he has done. I am **the Alpha and the Omega, the first and the last, the beginning and the end**.”  
-> Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates. Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.  
+> And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, **has sent His angel** to show His servants what must soon take place.”
+> “And behold, **I am coming soon**. Blessed is the one who keeps the words of the prophecy of this book.
+> I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me, “You must not do that! **I am a fellow servant** with you and your brothers the prophets, and with those who keep the words of this book. Worship God.”
+> And he said to me, “Do not seal up the words of the prophecy of this book, for the time is near. Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”
+> “Behold, **I am coming soon**, bringing my recompense with me, to repay each one for what he has done. I am **the Alpha and the Omega, the first and the last, the beginning and the end**.”
+> Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates. Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.
 > “**I, Jesus**, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.”
 >
 > — Revelation 22:6-16 (ESV)
@@ -153,7 +152,7 @@ The Hebrew adjectives for first and last are רִאשׁוֹן and אַחֲרוֹ
 
 ### Aleph-Tav: a Direct Object Marker
 
-The claim that et is an untranslatable mystical code overlooks its grammatical function. [Brown-Driver-Briggs identifies אֵת, Strong's 853](https://biblehub.com/hebrew/853.htm), as a *“mark of the accusative”*. In plain terms, it marks a direct object: the person or thing affected by a verb, usually when that object is definite or identified.
+The claim that et is an untranslatable mystical code overlooks its grammatical function. [Brown-Driver-Briggs identifies אֵת, Strong&#39;s 853](https://biblehub.com/hebrew/853.htm), as a *“mark of the accusative”*. In plain terms, it marks a direct object: the person or thing affected by a verb, usually when that object is definite or identified.
 
 | Feature             | Grammatical Explanation                                                                                   |
 | ------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -167,7 +166,7 @@ Et is a word with a grammatical role, even when English has no separate word cor
 
 #### The Same-Spelled Preposition
 
-The same spelling also represents [אֵת, Strong's 854](https://biblehub.com/hebrew/854.htm), meaning against, among, before, along, beside, besides, has. These are homographs: words with the same written form but different functions.
+The same spelling also represents [אֵת, Strong&#39;s 854](https://biblehub.com/hebrew/854.htm), meaning against, among, before, along, beside, besides, has. These are homographs: words with the same written form but different functions.
 
 A symbolic argument cannot combine their occurrences as if they were one hidden title.
 
@@ -383,13 +382,9 @@ The marker therefore does not consistently select only Jesus' ancestors. Its gra
 ## Conclusion
 
 1. **First and Last does not inherently mean Almighty or beginningless.** The [Hebrew terms and their completeness imagery](#hebrew-meanings) depend on context. [Royal records](#royal-comparisons) apply them to deeds, while [Greek human uses](#greek-meanings-and-human-uses) concern time or rank; neither makes ordinary people bearers of divine titles.
-
 2. **Alpha and Omega requires contextual interpretation.** The alphabet's endpoints do not define Almighty God; Revelation identifies speakers through surrounding statements. Even granting Jesus the title in Revelation 22:13, [shared wording alone](#alphabetic-meaning-and-speakers) does not establish that he shares God the Father's identity or uncreated nature.
-
 3. **Aleph-Tav is not intrinsically a divine name.** In the passages examined, [et marks a direct object rather than naming it](#aleph-tav-a-direct-object-marker). Its [ordinary uses](#aleph-tav-in-ordinary-contexts) do not introduce a divine person.
-
 4. **Alphabetic resemblance is not translation.** The [Aleph-Tav comparison with Alpha and Omega](#aleph-tav-as-alpha-and-omega) does not change et's grammatical meaning. In [Genesis 1:1](#aleph-tav-as-the-word-of-god), it marks the heavens and earth, not a separately created Et, and it is not the Greek word logos.
-
 5. **Et does not encode a universal spiritual classification.** It can precede [God the Father as the object of fear](#objects-beyond-creation), as well as [people outside the messianic lineage and ordinary objects](#other-branches-and-objects). Its [presence or absence](#approval-and-absence) does not itself establish divine approval or presence.
 
 These [contextual](#alphabetic-meaning-and-speakers) and [grammatical distinctions](#aleph-tav-a-direct-object-marker) support a limited conclusion: **First and Last, Alpha and Omega, and Aleph-Tav are not sufficient proof by themselves that Jesus is Almighty God.**

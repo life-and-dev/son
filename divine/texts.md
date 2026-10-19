@@ -29,10 +29,11 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
 > | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
 
-| Scripture     | Divine Jesus Interpretation                 | Rebuttal                                                                       |
-| ------------- | ------------------------------------------- | ------------------------------------------------------------------------------ |
-| Galatians 1:1 | "nor through man, but through Jesus Christ" | [Topic: about authority, not humanity.](texts/not-man.md)                      |
-| Titus 2:13    | "our great God and Savior Jesus Christ"     | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md) |
+| Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                        |
+| ---------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Galatians 1:1    | "nor through man, but through Jesus Christ"        | [Topic: about authority, not humanity.](texts/not-man.md)                                       |
+| Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                  |
+| Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md) |
 
 ### Creator Interpretations
 
@@ -55,4 +56,4 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | John 14:20-23     | Jesus lives in every believer.                          | [Word Meaning: "in" links love, obedience and relationship, not physical location inside believers.](omnipresence.md#john-1420-23-indwelling)                                                                 |
 | Ephesians 1:22-23 | Jesus “fills all in all”.                               | [Topic: the context concerns Jesus' authority and relationship to the church, not a claim that he personally occupies every location.](omnipresence.md#ephesians-122-410-filling-all-things)                  |
 | Ephesians 4:10    | Jesus ascended to “fill all things”.                    | [Topic: the passage concerns gifts and building his body; his work's reach does not establish personal omnipresence.](omnipresence.md#ephesians-122-410-filling-all-things)                                   |
-| Revelation 2:1    | Jesus walks among churches in different places.         | [Symbolism: walking among seven churches means symbolic oversight, not personal presence everywhere.](omnipresence.md#revelation-21-walking-among-churches)                                                |
+| Revelation 2:1    | Jesus walks among churches in different places.         | [Symbolism: walking among seven churches means symbolic oversight, not personal presence everywhere.](omnipresence.md#revelation-21-walking-among-churches)                                                   |

@@ -133,7 +133,7 @@ Although [the English translation is unclear which "Lord"](https://ofgod.info/na
 
 ### The Holy Spirit Cannot Be Jesus Himself
 
-The view that Jesus and the Spirit are the same has been labeled '[Modalism](../trinity.md)' by church historians. However, this claim should be evaluated based on Scripture.
+The view that Jesus and the Spirit are the same has been labeled '[Modalism](../modalism.md)' by church historians. However, this claim should be evaluated based on Scripture.
 
 #### Could the Holy Spirit Be Jesus Himself?
 

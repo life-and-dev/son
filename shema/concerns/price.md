@@ -15,6 +15,10 @@ The concern is based on the following assumptions:
 2. *Only God is worthy to pay the price.*
 3. *Unless someone believes Jesus is God Himself, their faith is insufficient.*
 
+## No Bargaining with Devil
+
+Jesus was not trading with the devil. The context of Matthew 4:8-10 shows that [Jesus was tempted](../../human/temptations.md), not bargaining. Scripture identifies the LORD as Creator and owner of the earth and its inhabitants (Psalms 24:1-2). Human sin does not transfer ownership of people to the devil. It brings guilt, death, and alienation from God.
+
 ## The Father promises a new covenant
 
 In Jeremiah 31:31–34, the LORD promises a [new covenant](https://kingdom.ofgod.info/covenants/christ) with the house of Israel and the house of Judah. Its blessings reach further than an outward declaration of acquittal: God will put His law within His people, they will know Him and belong to Him, and He says, “I will **forgive their iniquity**, and I will remember their sin no more.” Forgiveness and renewed relationship belong to the same promise.
