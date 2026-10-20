@@ -16,7 +16,11 @@ To understand if the argument holds, we need to establish the ordinary meanings 
 
 [Brown-Driver-Briggs on &#34;first&#34; (רִאשׁוֹן)](https://biblehub.com/hebrew/7223.htm), transliterated riʾšôn, gives senses including former, first and chief. [Its entry for &#34;last&#34; (אַחֲרוֹן)](https://biblehub.com/hebrew/314.htm), ʾaḥărôn, describes what comes after or behind, including what is latter or last. Neither adjective alone means Almighty, uncreated or without a beginning.
 
-As a merism, that names two extremes to include everything between them, [ThoughtCo](https://www.thoughtco.com/merism-rhetoric-term-1691307) describes it as *“a pair of contrasting words or phrases”* expressing *“totality or completeness”*. The context supplies the range. The words do not always mean the whole universe or all eternity.
+In Isaiah 44:6, *“**first** and **last**”* is an explicit divine self-designation alongside the declaration that there is no other god. Isaiah 43:10 adds: “**Before me** no god was formed, nor shall there be any **after me**.” This directly excludes a divine predecessor or successor in context; it is not a formal dictionary definition of the paired expression.
+
+The modern historical lexicon Brown-Driver-Briggs glosses [רִאשׁוֹן](https://biblehub.com/hebrew/7223.htm) as *“former, first, chief”* and gives the temporal sense of [אַחֲרוֹן](https://biblehub.com/hebrew/314.htm) as *“latter or last (according to context)”*. These are senses of individual adjectives, not an ancient explanation of the complete title.
+
+Those word definitions alone cannot establish whether Revelation identifies Jesus with God the Father, nor does a shared title alone establish that identity.
 
 For example:
 
