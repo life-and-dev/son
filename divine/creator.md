@@ -9,9 +9,9 @@ God is Creator, and [there is only one God](../../shema.md). Therefore, [if Jesu
 
 ## God as Creator
 
-Several biblical writers describe God as the one Creator, acting without assistance.
+Several Old Testament writers describe God as the one Creator, acting without assistance.
 
-### Isaiah
+**Isaiah:**
 
 > I am the LORD, **Who made all things**, **Who alone** stretched out the heavens, **Who by Myself** spread out the earth. — Isaiah 44:24 (NRSV)
 
@@ -19,7 +19,7 @@ Several biblical writers describe God as the one Creator, acting without assista
 
 > My hand laid the foundation of the earth, and My right hand spread out the heavens; when **I call to them**, they stand forth together. — Isaiah 48:13 (ESV)
 
-### Malachi
+**Malachi:**
 
 > Have we not all one Father?  
 > Has not one **God created us**?  
@@ -27,7 +27,9 @@ Several biblical writers describe God as the one Creator, acting without assista
 >
 > — Malachi 2:10 (ESV)
 
-### John
+But in the New Testament we have to deal with scriptures like:
+
+**John:**
 
 > All things were **made through Him**, and without Him nothing was made that was made.
 >
@@ -37,7 +39,15 @@ Several biblical writers describe God as the one Creator, acting without assista
 >
 > — John 1:3,10 (NKJV)
 
-### Paul
+**Peter:**
+
+> But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed **the Author of life**... — Acts 3:14-15 (ESV)
+
+**Paul:**
+
+> there is one Lord, Jesus Christ, through whom **all things were *created***, and **through whom we *live*** — 1 Corinthians 8:6 (NLT)
+
+and
 
 > We always thank God, the Father of our Lord Jesus [Christ](https://kingdom.ofgod.info/christ)...
 >
@@ -47,25 +57,21 @@ Several biblical writers describe God as the one Creator, acting without assista
 >
 > — Colossians 1:3,13-17 (ESV)
 
-### Hebrews
+**Hebrews:**
 
 > God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by His Son, whom He has appointed heir of all things, **through whom also He made the worlds**. — Hebrews 1:1-2 (NKJV)
 
 If these verses are read selectively and each pronoun is assumed to refer to Jesus, the conclusion may be that Jesus is God Almighty because Malachi identifies the Creator as God.
 
-### Acts
-
-> But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed **the Author of life**... — Acts 3:14-15 (ESV)
-
 The following sections consider these passages in context.
 
-## Genesis 1
+## Genesis 1:26 (Man In Our Image)
 
 > Then God said, “**Let us make man in our image, after our likeness**. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock...” — Genesis 1:26 (ESV)
 
 Some readers take this verse as evidence that God has a human form, which they see as supporting the claim that Jesus is God.
 
-According to Strong's Concordance, *image* and *likeness* can also convey resemblance or representation.
+According to Strong's Concordance, *image* and *likeness* can also convey [resemblance or representation](../shema/agency.md).
 
 Therefore, some interpretations are:
 
@@ -76,7 +82,7 @@ Therefore, some interpretations are:
 
 Some readers [identify Jesus with God in John 1 because they assume that Jesus is "the Word"](../../name/word.md). In many English translations, the references to God, the Word, and Jesus are closely connected. This can give the impression that they are the same and that Jesus is the Creator.
 
-## Acts 3
+## Acts 3:14-15 (Author of Life)
 
 > But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed **the Author of life**... — Acts 3:14-15 (ESV)
 
@@ -128,6 +134,90 @@ Acts 3:14-15 continues:
 > But you denied the Holy One and the Just, and asked for a murderer to be granted to you, and killed *the Prince of life*, **whom God** raised from the dead, of which we are witnesses.
 
 This interpretation distinguishes Jesus from God, because the passage says that God raised him from the dead.
+
+## 1 Corinthians 8:6 (Through Whom All Things Exist)
+
+> “... there is one Lord, Jesus Christ, through whom **all things were *created***, and **through whom we *live***.” — 1 Corinthians 8:6 (NLT)
+
+Out of context 1 Corinthians 8:6 identifies Jesus Christ as the Lord through whom all things were created. However, the NLT is a paraphrased bible translation based on the translator's interpretation. Some other bible translations like the ESV uses the word "exists" which gives the impression that we cannot physically exist without the Lord Jesus Christ.
+
+This verse should be read in its immediate context. Paul is not giving a separate account of how creation happened. In 1 Corinthians 8, he answers a practical question about food offered to idols. He contrasts the one God, the Father, with idols that have no real existence.
+
+> Now concerning **things offered to idols**:
+>
+> We know that we all have knowledge. Knowledge puffs up, but love edifies. And if anyone thinks that he knows anything, he knows nothing yet as he ought to know. But if anyone loves God, this one is known by Him. Therefore concerning the eating of things offered to idols, we know that an idol is nothing in the world, and that *there* is **no other God but one**.
+>
+> For even if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords), yet for us *there is* **one God, the Father, of whom *are* all things, and we for Him**; and **one Lord Jesus Christ, through whom *are* all things, and through whom we** *live*.
+>
+> However, *there is* not in everyone that knowledge; for some, with consciousness of the idol, until now eat *it* as a thing offered to an idol; and their conscience, being weak, is defiled.
+>
+> — 1 Corinthians 8:1-7 (NKJV)
+
+> [!TIP]
+> The original text were written in Greek. Most English bibles are not a word-for-word [exact translation of the Greek manuscript](#translation-comparison). Therefore, the translators of the NKJV *italic* the words they added for readibility based on their interpretation.
+
+The word "live" or "exist" are Trinitarian translator's interpretation.
+
+> [!IMPORTANT]
+> The word "created" is missing in the Greek manuscript. It was added by biased bible translators, like the NLT, to give the impression that the Lord Jesus Christ is the Creator.
+
+The topic was not about the Creation. The context is about knowledge of "things offered to idols". Therefore the natural reading is the "all things" refer to a dedicated lifestyle of obedience to either idols or God.
+
+The phrase translated *“through whom”* is [δι’ οὗ (*di’ hou*)](https://biblehub.com/interlinear/1_corinthians/8-6.htm): διά (*dia*) with the genitive relative pronoun ὅς (*hos*). Its standard gloss is “through whom” or “by means of whom”. This grammar marks means or [agency](../shema/agency.md). It does not identify Jesus as a divine being. [2 Corinthians 1:19](https://biblehub.com/interlinear/2_corinthians/1-19.htm) uses **δι’ ἡμῶν … δι’ ἐμοῦ**, “by us … by me”, for human preachers who proclaim Christ; [Romans 15:18](https://biblehub.com/interlinear/romans/15-18.htm) uses **δι’ ἐμοῦ**, “through me”, for Christ working through Paul. These examples show that the construction can describe human agency and that grammar alone does not proof that Jesus is divine.
+
+The Father is described as “from whom are all things” (ἐξ οὗ τὰ πάντα, ἡμεῖς εἰς αὐτόν). The phrase explicitly gives believers’ purpose or direction to the Father. Jesus is described as “through whom are all things” (δι’ οὗ τὰ πάντα, ἡμεῖς δι’ αὐτοῦ). Saying that Jesus enables that purpose interprets **διά** as agency.
+
+1 Corinthians 3:21-23 supplies a meaningful parallel:
+
+> Let no one deceive himself. If anyone among you seems to be **wise** in this age, let him become a fool that he may become **wise**. For the **wisdom** of this world is foolishness with God. For it is written, “He catches **the wise** in their own craftiness”; and again, “The Lord knows the thoughts of **the wise**, that they are futile.”
+>
+> Therefore let no one boast in men. For **all things** are yours: whether Paul or Apollos or Cephas, or the world or life or death, or **things present** or **things to come**—**all** are yours.
+>
+> — 1 Corinthians 3:18-22 (NKJV)
+
+In Paul's language "all things" refers to all knowledge or all wisdom, instead of creation.
+
+The explicit identification of God the Father as [the one God](../shema.md) also matters. Even prior personal mediation would not by itself establish that Jesus is Almighty God.
+
+### Translation Comparison
+
+Some argue that the Father acted as architect and enabled Jesus to do the work. This interpretation notes that “created”, added by some translators, is absent from the Greek text shown in the [Interlinear Bible](https://biblehub.com/interlinear/1_corinthians/8-6.htm):
+
+| English          | Greek                                                    | Lexicon                                                                  | [Strong's Description](https://biblehub.com/strongs/1_corinthians/8-6.htm)                                                                                                 |
+| ---------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| YET              | [all](https://biblehub.com/greek/all%E2%80%99_235.htm)   | Conjunction                                                              | [But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.](https://biblehub.com/greek/235.htm)                                             |
+| FOR US           | [hēmin](https://biblehub.com/greek/he_min_1473.htm)      | Personal / Possessive Pronoun - Dative 1st Person Plural                 | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
+| *[there is but]* |                                                          |                                                                          |                                                                                                                                                                            |
+| ONE              | [heis](https://biblehub.com/greek/heis_1520.htm)         | Adjective - Nominative Masculine Singular                                | [One. (including the neuter Hen); a primary numeral; one.](https://biblehub.com/greek/1480.htm)                                                                            |
+| GOD              | [theos](https://biblehub.com/greek/theos_2316.htm)       | Noun - Nominative Masculine Singular                                     | [A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.](https://biblehub.com/greek/2316.htm)                                            |
+| THE              | [ho](https://biblehub.com/greek/ho_3588.htm)             | Article - Nominative Masculine Singular                                  | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.](https://biblehub.com/greek/3588.htm)        |
+| FATHER           | [patēr](https://biblehub.com/greek/pate_r_3962.htm)      | Noun - Nominative Masculine Singular                                     | [Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.](https://biblehub.com/greek/3962.htm)                                          |
+| FROM             | [ex](https://biblehub.com/greek/ex_1537.htm)             | Preposition                                                              | [From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.](https://biblehub.com/greek/1537.htm)            |
+| WHOM             | [hou](https://biblehub.com/greek/hou_3739.htm)           | Personal / Relative Pronoun - Genitive Masculine Singular                | [Who, which, what, that.](https://biblehub.com/greek/3739.htm)                                                                                                             |
+| ALL              | [panta](https://biblehub.com/greek/panta_3956.htm)       | Adjective - Nominative Neuter Plural                                     | [All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.](https://biblehub.com/greek/3956.htm)        |
+| THINGS           | [ta](https://biblehub.com/greek/ta_3588.htm)             | Article - Nominative Neuter Plural                                       | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the](https://biblehub.com/greek/3588.htm)         |
+| ***[created]***  | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
+| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
+| FOR              | [eis](https://biblehub.com/greek/eis_1519.htm)           | Preposition                                                              | [A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.](https://biblehub.com/greek/1519.htm)                                           |
+| *[whom]*         | [auton](https://biblehub.com/greek/auton_846.htm)        | Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular | [He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.](https://biblehub.com/greek/846.htm) |
+| WE               | [hēmeis](https://biblehub.com/greek/he_meis_1473.htm)    | Personal / Possessive Pronoun - Nominative 1st Person Plural             | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
+| ***[exist]***    | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
+| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
+| *[there is but]* |                                                          |                                                                          |                                                                                                                                                                            |
+| ONE              | [heis](https://biblehub.com/greek/heis_1520.htm)         | Adjective - Nominative Masculine Singular                                | [One. (including the neuter Hen); a primary numeral; one.](https://biblehub.com/greek/1480.htm)                                                                            |
+| LORD             | [Kyrios](https://biblehub.com/greek/kyrios_2962.htm)     | Noun - Nominative Masculine Singular                                     | [Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.](https://biblehub.com/greek/2962.htm)                             |
+| JESUS            | [Iēsous](https://biblehub.com/greek/ie_sous_2424.htm)    | Noun - Nominative Masculine Singular                                     | [Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.](https://biblehub.com/greek/ie_sous_2424.htm)                                                     |
+| CHRIST           | [Christos](https://biblehub.com/greek/christos_5547.htm) | Noun - Nominative Masculine Singular                                     | [Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.](https://biblehub.com/greek/5547.htm)                             |
+| THROUGH          | [di’](https://biblehub.com/greek/di%E2%80%99_1223.htm)   | Preposition                                                              | [A primary preposition denoting the channel of an act; through.](https://biblehub.com/greek/1223.htm)                                                                      |
+| WHOM             | [hou](https://biblehub.com/greek/hou_3739.htm)           | Personal / Relative Pronoun - Genitive Masculine Singular                | [Who, which, what, that.](https://biblehub.com/greek/3739.htm)                                                                                                             |
+| ALL              | [panta](https://biblehub.com/greek/panta_3956.htm)       | Adjective - Nominative Neuter Plural                                     | [All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.](https://biblehub.com/greek/3956.htm)        |
+| THINGS           | [ta](https://biblehub.com/greek/ta_3588.htm)             | Article - Nominative Neuter Plural                                       | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the](https://biblehub.com/greek/3588.htm)         |
+| ***[created]***  | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
+| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
+| THROUGH          | [di’](https://biblehub.com/greek/di%E2%80%99_1223.htm)   | Preposition                                                              | [A primary preposition denoting the channel of an act; through.](https://biblehub.com/greek/1223.htm)                                                                      |
+| *[whom]*         | [auton](https://biblehub.com/greek/auton_846.htm)        | Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular | [He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.](https://biblehub.com/greek/846.htm) |
+| WE               | [hēmeis](https://biblehub.com/greek/he_meis_1473.htm)    | Personal / Possessive Pronoun - Nominative 1st Person Plural             | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
+| ***[exist]***    | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
 
 ## Colossians 1
 
@@ -252,78 +342,6 @@ Under this interpretation, appointing the Son as “heir of all things” distin
 Some scholars connect the descriptions of this “mighty angel” with Jesus. They therefore infer that [Jesus, as “the angel of the LORD”](../../name/son-as-angel.md), created the world.
 
 However, the angel “raised his right hand to heaven and swore by Him” who lives for ever. This changes the subject from the angel to God, who lives for ever. Therefore, this passage does not explicitly state that the angel created the world.
-
-## Co-operative Creators?
-
-Some explain the passages by proposing that the Father authorised creation and Jesus performed the creative work. They cite translations such as:
-
-> For us,
->
-> 1. There is one God, the Father, by whom all things were *created*, and for whom we live.
-> 2. And there is one Lord, Jesus Christ, through whom all things were *created*, and through whom we live.
->
-> — 1 Corinthians 8:6 (NLT)
-
-### Translation Comparison
-
-They argue that the Father acted as architect and enabled Jesus to do the work. This interpretation notes that “created”, added by some translators, is absent from the Greek text shown in the [Interlinear Bible](https://biblehub.com/interlinear/1_corinthians/8-6.htm):
-
-| English          | Greek                                                    | Lexicon                                                                  | [Strong's Description](https://biblehub.com/strongs/1_corinthians/8-6.htm)                                                                                                 |
-| ---------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| YET              | [all](https://biblehub.com/greek/all%E2%80%99_235.htm)   | Conjunction                                                              | [But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.](https://biblehub.com/greek/235.htm)                                             |
-| FOR US           | [hēmin](https://biblehub.com/greek/he_min_1473.htm)      | Personal / Possessive Pronoun - Dative 1st Person Plural                 | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
-| *[there is but]* |                                                          |                                                                          |                                                                                                                                                                            |
-| ONE              | [heis](https://biblehub.com/greek/heis_1520.htm)         | Adjective - Nominative Masculine Singular                                | [One. (including the neuter Hen); a primary numeral; one.](https://biblehub.com/greek/1480.htm)                                                                            |
-| GOD              | [theos](https://biblehub.com/greek/theos_2316.htm)       | Noun - Nominative Masculine Singular                                     | [A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.](https://biblehub.com/greek/2316.htm)                                            |
-| THE              | [ho](https://biblehub.com/greek/ho_3588.htm)             | Article - Nominative Masculine Singular                                  | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.](https://biblehub.com/greek/3588.htm)        |
-| FATHER           | [patēr](https://biblehub.com/greek/pate_r_3962.htm)      | Noun - Nominative Masculine Singular                                     | [Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.](https://biblehub.com/greek/3962.htm)                                          |
-| FROM             | [ex](https://biblehub.com/greek/ex_1537.htm)             | Preposition                                                              | [From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.](https://biblehub.com/greek/1537.htm)            |
-| WHOM             | [hou](https://biblehub.com/greek/hou_3739.htm)           | Personal / Relative Pronoun - Genitive Masculine Singular                | [Who, which, what, that.](https://biblehub.com/greek/3739.htm)                                                                                                             |
-| ALL              | [panta](https://biblehub.com/greek/panta_3956.htm)       | Adjective - Nominative Neuter Plural                                     | [All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.](https://biblehub.com/greek/3956.htm)        |
-| THINGS           | [ta](https://biblehub.com/greek/ta_3588.htm)             | Article - Nominative Neuter Plural                                       | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the](https://biblehub.com/greek/3588.htm)         |
-| ***[created]***  | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
-| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
-| FOR              | [eis](https://biblehub.com/greek/eis_1519.htm)           | Preposition                                                              | [A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.](https://biblehub.com/greek/1519.htm)                                           |
-| *[whom]*         | [auton](https://biblehub.com/greek/auton_846.htm)        | Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular | [He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.](https://biblehub.com/greek/846.htm) |
-| WE               | [hēmeis](https://biblehub.com/greek/he_meis_1473.htm)    | Personal / Possessive Pronoun - Nominative 1st Person Plural             | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
-| ***[exist]***    | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
-| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
-| *[there is but]* |                                                          |                                                                          |                                                                                                                                                                            |
-| ONE              | [heis](https://biblehub.com/greek/heis_1520.htm)         | Adjective - Nominative Masculine Singular                                | [One. (including the neuter Hen); a primary numeral; one.](https://biblehub.com/greek/1480.htm)                                                                            |
-| LORD             | [Kyrios](https://biblehub.com/greek/kyrios_2962.htm)     | Noun - Nominative Masculine Singular                                     | [Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.](https://biblehub.com/greek/2962.htm)                             |
-| JESUS            | [Iēsous](https://biblehub.com/greek/ie_sous_2424.htm)    | Noun - Nominative Masculine Singular                                     | [Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.](https://biblehub.com/greek/ie_sous_2424.htm)                                                     |
-| CHRIST           | [Christos](https://biblehub.com/greek/christos_5547.htm) | Noun - Nominative Masculine Singular                                     | [Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.](https://biblehub.com/greek/5547.htm)                             |
-| THROUGH          | [di’](https://biblehub.com/greek/di%E2%80%99_1223.htm)   | Preposition                                                              | [A primary preposition denoting the channel of an act; through.](https://biblehub.com/greek/1223.htm)                                                                      |
-| WHOM             | [hou](https://biblehub.com/greek/hou_3739.htm)           | Personal / Relative Pronoun - Genitive Masculine Singular                | [Who, which, what, that.](https://biblehub.com/greek/3739.htm)                                                                                                             |
-| ALL              | [panta](https://biblehub.com/greek/panta_3956.htm)       | Adjective - Nominative Neuter Plural                                     | [All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.](https://biblehub.com/greek/3956.htm)        |
-| THINGS           | [ta](https://biblehub.com/greek/ta_3588.htm)             | Article - Nominative Neuter Plural                                       | [The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the](https://biblehub.com/greek/3588.htm)         |
-| ***[created]***  | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
-| AND              | [kai](https://biblehub.com/greek/kai_2532.htm)           | Conjunction                                                              | [And, even, also, namely.](https://biblehub.com/greek/2532.htm)                                                                                                            |
-| THROUGH          | [di’](https://biblehub.com/greek/di%E2%80%99_1223.htm)   | Preposition                                                              | [A primary preposition denoting the channel of an act; through.](https://biblehub.com/greek/1223.htm)                                                                      |
-| *[whom]*         | [auton](https://biblehub.com/greek/auton_846.htm)        | Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular | [He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.](https://biblehub.com/greek/846.htm) |
-| WE               | [hēmeis](https://biblehub.com/greek/he_meis_1473.htm)    | Personal / Possessive Pronoun - Nominative 1st Person Plural             | [I, the first-person pronoun. A primary pronoun of the first person I.](https://biblehub.com/greek/1473.htm)                                                               |
-| ***[exist]***    | -                                                        | -                                                                        | ***Added by translator!***                                                                                                                                                 |
-
-Compare the same verse with the NKJV, which more closely follows this Greek construction:
-
-> For us there is:
->
-> 1. one God, the Father, of Whom are all things, and **we for Him**; and
-> 2. one Lord Jesus Christ, *through whom* are all things, and **through whom we** *[live]*.
->
-> — 1 Corinthians 8:6 (NKJV)
-
-This verse should be read in its immediate context. Paul is not giving a separate account of how creation happened. In 1 Corinthians 8, he answers a practical question about food offered to idols. He contrasts the one God, the Father, with idols that have no real existence.
-
-The phrase translated *“through whom”* is [δι’ οὗ (*di’ hou*)](https://biblehub.com/interlinear/1_corinthians/8-6.htm): διά (*dia*) with the genitive relative pronoun ὅς (*hos*). Its standard gloss is “through whom” or “by means of whom”. This grammar marks means or agency. It does not identify Jesus as a divine being. [2 Corinthians 1:19](https://biblehub.com/interlinear/2_corinthians/1-19.htm) uses **δι’ ἡμῶν … δι’ ἐμοῦ**, “by us … by me”, for human preachers who proclaim Christ; [Romans 15:18](https://biblehub.com/interlinear/romans/15-18.htm) uses **δι’ ἐμοῦ**, “through me”, for Christ working through Paul. These examples show that the construction can describe human agency and that grammar alone does not proof that Jesus is divine.
-
-The Father is described as “from whom are all things” (ἐξ οὗ τὰ πάντα, ἡμεῖς εἰς αὐτόν). The phrase explicitly gives believers’ purpose or direction to the Father. Jesus is described as “through whom are all things” (δι’ οὗ τὰ πάντα, ἡμεῖς δι’ αὐτοῦ). Saying that Jesus enables that purpose interprets **διά** as agency.
-
-The following verses remain focused on conscience, love, and food offered to idols (1 Corinthians 8:7-13). Paul warns that eating such food may become “a stumbling block to those who are weak” (1 Corinthians 8:9). Read in that setting, 1 Corinthians 8:6 [distinguishes God from Jesus](../../human/distinct.md). It identifies the Father as the source of all things and gives believers’ purpose or direction explicitly to him. It identifies Jesus as the one Lord through whom all things are and through whom believers exist. It does not itself identify Jesus as the Creator.
-
-Another passage from Paul may indicate this emphasis:
-
-> Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as **He chose us in Him before the foundation of the world**, that we should be holy and blameless before Him. In love **He predestined us for adoption to Himself [as sons](../../name/sons-of-god.md) through Jesus Christ**, according to the purpose of His will, to the praise of His glorious grace, with which He has blessed us in the Beloved. — Ephesians 1:3-6 (ESV)
 
 ## Conclusion
 
