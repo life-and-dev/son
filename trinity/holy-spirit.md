@@ -135,39 +135,73 @@ Although [the English translation is unclear which "Lord"](https://ofgod.info/na
 
 The view that Jesus and the Spirit are the same has been labeled '[Modalism](../modalism.md)' by church historians. However, this claim should be evaluated based on Scripture.
 
-#### Could the Holy Spirit Be Jesus Himself?
-
-##### Both Know the Father
-
-> All things have been handed over to me by my Father, and no one knows the Son except the Father, and **no one knows the Father except the Son** and anyone to whom **the Son chooses to reveal Him**.  — Matthew 11:27 (ESV)
-
-> ... these things God has revealed to us through **the Spirit**. For the Spirit searches everything, even the depths of God. For who knows a person’s thoughts except the spirit of that person, which is in him? So also **no one comprehends the thoughts of God except the Spirit of God**. Now we have received not the spirit of the world, but **the Spirit who is from God**, that we might understand the things freely given us by God. — 1 Corinthians 2:10-12 (ESV)
-
-A possible explanation is that the Spirit is God's Spirit who is part of Himself. In this view, God knows Himself and His own thoughts. The Son also knows God because the Spirit reveals God's will to Him.
-
-##### Both Guard Against the Desires of the Flesh
-
+#### Similar Description of the Holy Spirit And Jesus
+ 
 > But **put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires**. — Romans 13:14 (ESV)
-
-> For as many of you as were baptized into Christ have **put on Christ**. — Galatians 3:27 (ESV)
 
 > But I say, **walk by the Spirit, and you will not gratify the desires of the flesh**. — Galatians 5:16 (ESV)
 
-Paul used metaphors to illustrate this:
+An earlier verse in the same chapter of Romans 13 reads:
 
 > The night is far gone; the day is at hand. So then **let us cast off the works of darkness** and **put on the armor of light**. — Romans 13:12 (ESV)
 
-> **The Scripture imprisoned** everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe. — Galatians 3:22 (ESV)
+The "armor" represents the teachings, examples, and testimony of the Lord Jesus Christ. Sometimes Paul uses the "armor of God" interchangeably with the "armor of light", meaning that the teachings of Christ protect believers like armor against doubt, confusion, and guilt. In these contexts, the teachings of Christ motivate believers to avoid sin, described as "the desires of the flesh." Therefore, to "put on Christ" means to base one's actions, beliefs, and hope on the teachings of Christ.
 
-The "armor" represents the teachings, examples, and testimony of the Lord Jesus Christ. Sometimes Paul uses the "armor of God" interchangeably with the "armor of light" or "Christ", meaning that the teachings of Christ protect believers like armor against doubt, confusion, and guilt. In these contexts, the teachings of Christ motivate believers to avoid sin, described as "the desires of the flesh." Therefore, to "put on Christ" means to base one's actions, beliefs, and hope on the teachings of Christ.
+Obviously the Lord Jesus Christ is no longer physically present among us. Therefore we need to rely on "the Spirit" which likewise will "not gratify the desires of the flesh". Note that Galatians 5:16 explicitly mentions "walk by the Spirit" which refers a current lifestyle.
 
-##### Both Lead Believers in Spirit
+Both scriptures are compatible. We should proactively obey (put on) the Lord Jesus Christs's commands (armor) and actively "walk by the Spirit" in our current situations.
 
-The term "[Spirit of Jesus](https://eternal.family.net.za/god/son/spirit)" or "[Spirit of Christ](https://eternal.family.net.za/god/son/spirit)" is used interchangeably with the "Holy Spirit" in many scriptures (Acts 16:7; Romans 8:9; Galatians 4:6; Philippians 1:19; 1 Peter 1:11).  
+#### Spirit of Christ
 
-Note that the authors wrote "the Spirit of Jesus" or "the Spirit of Christ" rather than "Jesus' Spirit." This phrasing could indicate the same Spirit that previously enabled and led Jesus, or the Spirit that Jesus gave to His disciples. This explains why the disciples could perform the same miracles as Jesus.
+The term "Spirit of Jesus" or "Spirit of Christ" is used interchangeably with the "Holy Spirit" in many scriptures (Acts 16:7; Romans 8:9; Galatians 4:6; Philippians 1:19; 1 Peter 1:11).  
 
-Some commentators suggest that verses like 2 Corinthians 3:17 ("Now the Lord is the Spirit") and 1 Corinthians 15:45 ("the last Adam became a life-giving spirit") identify Jesus directly with the Spirit. However, other scholars argue that these passages describe a unity of function and ministry rather than personal identity. In this view, Christ acts through the Spirit to give life and freedom to believers, while remaining distinct in person from the Spirit that anointed Him.
+Some define "spirit" as a character, temperament and manner. So by "Spirit of Christ" they understood it means to be humble and obedient to God like Christ was. However, that is not how the bible define "spirit". This should not be confused with "mindset".
+
+The concept of the "Spirit of Christ" causes tension for the Trinitarians view, because
+
+* If the Spirit of Christ is distinct from the Holy Spirit, then we have 1 extra Trinity person: *Father, Son, Holy Spirit, Spirit of Christ*
+* If the Spirit of Christ is the Holy Spirit, then we have 1 Trinity person to few: *Father, Son (who is also the Holy/Christ Spirit)*
+* If the Spirit of Christ is the Spirit of God (meaning proceeding from both the Father and Son), then we no longer have a co-equal Trinity, but instead defined [subordinationism](../subordinationism.md).
+* If the Spirit of Christ is Christ's human spirit, then we need to explain how "the Spirit of Christ" and "the Holy Spirit" behave and act in the same capacity and authority.
+
+The only explanation that works is that God, the Father is the source. He pours out His Spirit to whomever He will, for example [Moses](#in-moses-days), [David](#in-daniels-days), Elijah, [Ezekiel](#in-ezekiels-days), [Daniel](#in-daniels-days), [Zechariah](#in-zechariahs-days), etc. When [an agent of God](../shema/agency.md) does works of God by His Spirit, it is often referred to the Spirit of that agent.
+
+For example "the Spirit of Elijah" (2 Kings 2:9,15; Luke 1:17). Elijah never had his own independant Almighty Spirit. He was acting on behalf of God. Likewise, "the Spirit of Jesus" or "the Spirit of Christ" refers to the same Spirit that enabled Jesus:
+
+> Being therefore exalted at the right hand of God, and **having received from the Father the promise of the Holy Spirit**, he has poured out this that you yourselves are seeing and hearing. — Acts 2:33 (ESV)
+
+However, Paul uses both "Spirit of God" and "Spirit of Christ" in the same passage:
+
+> However, you are not in the flesh but in the Spirit, if indeed **the Spirit of God** dwells in you. But if anyone does not have **the Spirit of Christ**, he does not belong to Him. But if Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you. — Romans 8:9-11
+
+A possible distinction has to do with how the Spirit is applied:
+
+* Spirit of God: When the Spirit works through believers
+* Spirit of Christ: When the Spirit forms Christ-like obedience
+
+This does not propose 2 distinct Spirits, but different aspects of the same Spirit.
+
+In other words, the relationship could be defined as follows:
+
+1. God the Father is the source of the promised Spirit.
+2. Christ receives and administers (pours out) the Spirit.
+3. Believers receive the Spirit because they belong to Christ.
+
+#### Contradiction if the Spirit is Jesus
+
+> All things have been handed over to me by my Father, and no one knows the Son except the Father, and **no one knows the Father except the Son** and anyone to whom **the Son chooses to reveal Him**. — Matthew 11:27 (ESV)
+
+> ... these things God has revealed to us through **the Spirit**. For the Spirit searches everything, even the depths of God. For who knows a person’s thoughts except the spirit of that person, which is in him? So also **no one comprehends the thoughts of God except the Spirit of God**. Now we have received not the spirit of the world, but **the Spirit who is from God**, that we might understand the things freely given us by God. — 1 Corinthians 2:10-12 (ESV)
+
+Taking these two contesting passages together cause tension for [Trinitarians](../trinity.md), because:
+
+* If we say that the Spirit is Jesus, then it would mean there are only 2 persons in the Trinity, instead of 3.
+* If we say that the Spirit is not Jesus, then it would mean Matthew who wrote "No one knows the Father **except the Son**" contradicts Paul who wrote "no one comprehends the thoughts of God **except the Spirit**".
+
+However, when one consider that [the Spirit is the same person as God](#the-holy-spirit-is-god) and [Jesus is God's agent](../shema/agency.md), then these scriptures could be reconciled:
+
+* Matthew 11:25-26 speaks about "hiding things from the intelligent and revealing things to infants". This means "all things" of verse 27 refers to the hidden knowledge that have been handed over to Jesus by his Father. Jesus is not the source of the knowledge. He received it from the Father. That is why Matthew could say "no one knows the Father except the Son". In this context he was comparing Jesus with different persons.
+* 1 Corinthians 2:10-12 speaks about "the Spirit of God". Because "the Spirit of God" is God Himself, the same God would know Himself. Paul explains "for who knows a person's thoughts except the spirit of that person". Paul was not comparing the Spirit with other persons like Matthew. Paul was making the point that the Spirit of God enables [His agents](../shema/agency.md) to know everything, even "the thoughts of God".
 
 #### Jesus Would Not Send His Own Spirit to Himself or Anoint Himself
 
