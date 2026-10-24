@@ -22,12 +22,13 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 >
 > | Category          | Meaning                                                                                                                |
 > | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
-> | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
+> | Concept Confusion | Readers interpret abstract concepts like plans, promises, representations as literal states or events.                 |
 > | Grammar & Scope   | Readers differ over grammatical relationships, clause attachments, or the scope of qualifiers, negation, or modifiers. |
 > | Referent ID       | Readers identify different people, things, or events through a pronoun, title, or description.                         |
 > | Symbolism         | Readers interpret symbolic images or messages as literal descriptions.                                                 |
 > | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
 > | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
+> | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
 | Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                        |
 | ---------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -36,14 +37,24 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                  |
 | Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md) |
 
+### Pre-Existance Interpretations
+
+| Scripture    | Divine Jesus Interpretation    | Rebuttal                                                                                                                                     |
+| ------------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| John 1:1-18  | "The Word became flesh"        | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                                   |
+| John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](pre-existance.md#john-313-descended-from-heaven)                                           |
+| John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](pre-existance.md#john-313-descended-from-heaven)                                  |
+| John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](pre-existance.md#john-175-glory-before-the-world) |
+
 ### Creator Interpretations
 
-| Scripture          | Divine Jesus Interpretation            | Rebuttal                                                                        |
-| ------------------ | -------------------------------------- | ------------------------------------------------------------------------------- |
-| 1 Corinthians 8:6  | “through whom are all things”          | [Topic: food offered to idols, not an account of creation.](creator.md)         |
-| Colossians 1:13-17 | “For by him all things were created”   | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md) |
-| Hebrews 1:1-2      | “through whom also He made the worlds” | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md)   |
-| Revelation 10:5-6  | Jesus is viewed as *the mighty angel*  | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md) |
+| Scripture          | Divine Jesus Interpretation                    | Rebuttal                                                                                                                         |
+| ------------------ | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Genesis 1:26       | "man in Our image", implying human Jesus = God | [Word Meaning: "image" means representative not same essence. Applies to all humanity.](creator.md#genesis-126-man-in-our-image) |
+| 1 Corinthians 8:6  | “through whom are all things”                  | [Topic: food offered to idols, not an account of creation.](creator.md)                                                          |
+| Colossians 1:13-17 | “For by him all things were created”           | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md)                                                  |
+| Hebrews 1:1-2      | “through whom also He made the worlds”         | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md)                                                    |
+| Revelation 10:5-6  | Jesus is viewed as *the mighty angel*          | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md)                                                  |
 
 ### Omnipresence Interpretations
 
