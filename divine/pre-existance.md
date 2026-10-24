@@ -32,26 +32,6 @@ Some Unitarians, who identify God as one personal being, accept Jesus’ prior c
 
 Let's examamine the evidence for concious pre-existance:
 
-### John 1:1-18 (The Word Becoming Flesh)
-
-Many Christians define ["the Word" in John 1 as Jesus](../../name/word.md) to proof his pre-existance and participates in creation before he becames flesh. The sequence can describe one conscious subject throughout.
-
-The problem with that approach is that:
-
-- It requires a redefinition of the word "Word". Nowhere else, not even in the book of John does "Word" mean Jesus.
-- It requires an explanation of multiple paradoxes it create in John 1. For example:
-  - In John 1:1 the same "Word" was simultanously with God and was God Himself.
-  - God was never seen, yet Jesus was seen (John 1:18).
-- It requires an explanation of how God could be His own Son and be born (John 1:18) as a human without being an alien or avatar. No human pre-existed or can give birth to himself.
-- It requires an explanation of why John would use riddles to testify that Jesus is God instead of just plainly say so. John said that this is supposed to be a "witness" (John 1:34) not a clever riddle.
-- The divinity of Jesus conflicts with his conclusion at then end of John's book: "these have been written so that you may believe that Jesus is the Christ, the Son of God; and that believing you may have life in His name." Neither "Christ" nor "the Son" means God. This is not a figure of speech, because it requires "that believing you may have life", implying this is a salvation issue.
-
-If we keep [the original meaning of "word"](../../name/word.md), as it is used in the rest of John and the Bible, which means "utterance, promise or plan", then the Word is God the Father’s effective utterance, promise and plan, fulfilled in Jesus. Genesis 1; Psalm 33:6,9; Isaiah 55:11 provide the background: God the Father creates and accomplishes His purposes through speech. Describing that speech personally need not make it a second conscious being.
-
-On this reading, the Word becoming flesh means that God kept His promise. In other words, what was said before, became reality (flesh). Peter explained to unbelievers:
-
-> “Men of Israel, listen to these words: Jesus the Nazarene, **a man** attested to you by God with miracles and wonders and signs which God did through Him in your midst, just as you yourselves know— this Man, delivered over **by the predetermined plan and foreknowledge of God**, you nailed to a cross by the hands of lawless men and put Him to death. — Acts 2:22-23 (LSB)
-
 ### John 3:13 (Descended from Heaven)
 
 Short version:
