@@ -11,11 +11,11 @@ Several passages appear to describe an earlier heavenly life. Others present a p
 
 Conscious pre-existence means a conscious Jesus living before his human birth. Evidence this are:
 
-- John 1:1-18 places the Word with God at creation before becoming flesh. This supports [continuity of a personal subject](#john-11-18-the-word-becoming-flesh).
 - [John 3:13](#john-313-descended-from-heaven), 6:38-62, 16:28 connect descent from heaven with departure to God the Father. This suggests [a heavenly origin and return](#john-638-62-come-down-from-heaven).
 - John 8:58 places Jesus before Abraham in language that naturally suggests [conscious temporal priority addressed in a different article](claims/i-am.md).
 - John 17:5,24 describes glory and love before the world. This supports [an earlier relationship with God the Father](#john-175-glory-before-the-world).
 - Various other scriptures implying [Jesus is the Creator addressed in a different article](creator.md).
+- Various other scriptures implying [Jesus is God's human body](body-of-god.md)
 
 Existence in foreknowledge means a future Messiah already known and appointed by God the Father, without an earlier conscious life. Foreordination means appointment beforehand. Evidence this are:
 
@@ -28,9 +28,9 @@ Does [the Bible](https://word.ofgod.info/downloads) contradict itself?
 
 ## Examining Conscious Pre-Existence
 
-Some Unitarians, who identify God as one personal being, accept Jesus’ prior conscious existence. Even if the pre-existance of Jesus could be proven, it would still not proof [modalism](../../modalism.md), [partialism](../../partialism.md), [subordinationism](../../subordinationism.md) or [trinitarianism](../../trinity.md). For example Mormons and Jehova Witnesses also belief in the pre-existance of Jesus, yet they do not associate with all these mentioned groups. Debating whether Jesus eternally pre-existed or was created at some point in time is a different topic not addressed by this article.
+Some Unitarians, who identify God as one personal being, accept Jesus’ prior conscious existence. Even if the preexistance of Jesus could be proven, it would still not proof [modalism](../../modalism.md), [partialism](../../partialism.md), [subordinationism](../../subordinationism.md) or [trinitarianism](../../trinity.md). For example Mormons and Jehova Witnesses also belief in the preexistance of Jesus, yet they do not associate with all these mentioned groups. Debating whether Jesus eternally pre-existed or was created at some point in time is a different topic not addressed by this article.
 
-Let's examamine the evidence for concious pre-existance:
+Let's examamine the evidence for concious preexistance:
 
 ### John 3:13 (Descended from Heaven)
 
@@ -48,7 +48,7 @@ While it is true that the disciples witnessed Jesus been taken up in heaven (Act
 
 If the longer reading is correct, then it means the first occurrence of "heaven" should have the same meaning because John did not qualify that they have different meanings. Therefore, if the last instace of "heaven" means a physical location, then the first instance should also mean a physical location. Since there is no record that Jesus had been in heaven at that point in his life, the logical explanation is that he *must have pre-existed in a literal "heavenly realm"*.
 
-However, if the shorter reading is correct, then "coming down from heaven" is most likely an [idiom which means "send by God"](https://word.ofgod.info/terms/heaven#idiomatic-usage) and do not support the pre-existance claim. Jesus said multiple times directly that he was [send by God](../human/serve-god.md), but nowhere in Scripture does Jesus say directly that he pre-existed or that he literally came down from heaven.
+However, if the shorter reading is correct, then "coming down from heaven" is most likely an [idiom which means "send by God"](https://word.ofgod.info/terms/heaven#idiomatic-usage) and do not support the preexistance claim. Jesus said multiple times directly that he was [send by God](../human/serve-god.md), but nowhere in Scripture does Jesus say directly that he pre-existed or that he literally came down from heaven.
 
 The context is Nicodemus, a Pharisee, asking questions to Jesus about the Kingdom of God. From the conversation we can see that Nicodemus did not understand the concept of being "born again in the Spirit". Jesus replied that if Nicodemus does not even accept their plain (earthly) testimonies, it would be useless to explain of how spiritual (heavenly) things work. Then **the narrator**, not Jesus, adds a comment "No one has ascended into heaven except he who descended from heaven" which qualifies Jesus as someone who would have been able to answer Nicodemus. Jesus did not avoid the answer because he was uncertain.
 

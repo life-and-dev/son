@@ -38,13 +38,13 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                  |
 | Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md) |
 
-### Pre-Existance Interpretations
+### Preexistance Interpretations
 
-| Scripture    | Divine Jesus Interpretation    | Rebuttal                                                                                                                                     |
-| ------------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](pre-existance.md#john-313-descended-from-heaven)                                           |
-| John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](pre-existance.md#john-313-descended-from-heaven)                                  |
-| John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](pre-existance.md#john-175-glory-before-the-world) |
+| Scripture    | Divine Jesus Interpretation    | Rebuttal                                                                                                                                    |
+| ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](preexistance.md#john-313-descended-from-heaven)                                           |
+| John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](preexistance.md#john-313-descended-from-heaven)                                  |
+| John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](preexistance.md#john-175-glory-before-the-world) |
 
 ### Creator Interpretations
 
@@ -72,12 +72,13 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 
 ### Body of God Interpretations
 
-| Scripture      | Divine Jesus Interpretation | Rebuttal                                                                                                                         |
-| -------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| John 1:1-18    | "The Word became flesh"     | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                       |
-| Colossians 2:9 | "God in a human body"       | [Translation: "whole fullness of deity dwells" referring to truth not essence](body-of-god.md#colossians-29-god-in-a-human-body) |
-| 1 Timothy 3:16 | "God manifested in flesh"   | [Translation: Should be "he (Jesus) manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                  |
-| 1 John 4:2     | "Christ has come in flesh"  | [Topic: Adressing Docetism, not affirming pre-existance](body-of-god.md#1-john-42-christ-has-come-in-flesh)                      |
+| Scripture         | Divine Jesus Interpretation    | Rebuttal                                                                                                                                  |
+| ----------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| John 1:1-18       | "The Word became flesh"        | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                                |
+| Philippians 2:6-8 | "Form Of God, Likeness of Men" | [Translation: multiple errors: changing tense, adding words, changing words](body-of-god.md#philippians-26-8-form-of-god-likeness-of-men) |
+| Colossians 2:9    | "God in a human body"          | [Translation: "whole fullness of deity dwells" referring to truth not essence](body-of-god.md#colossians-29-god-in-a-human-body)          |
+| 1 Timothy 3:16    | "God manifested in flesh"      | [Translation: Should be "he (Jesus) manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                           |
+| 1 John 4:2        | "Christ has come in flesh"     | [Topic: Adressing Docetism, not affirming preexistance](body-of-god.md#1-john-42-christ-has-come-in-flesh)                                |
 
 ## Warning
 
