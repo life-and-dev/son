@@ -4,7 +4,7 @@ Several passages suggest that Jesus is God's body in flesh.
 
 ## John 1:1-18 (The Word Becoming Flesh)
 
-Many Christians define ["the Word" in John 1 as Jesus](../../name/word.md) to proof his pre-existance and participates in creation before he becames flesh. The sequence can describe one conscious subject throughout.
+Many Christians define ["the Word" in John 1 as Jesus](../../name/word.md) to proof his preexistance and participates in creation before he becames flesh. The sequence can describe one conscious subject throughout.
 
 The problem with that approach is that:
 
@@ -21,6 +21,32 @@ If we keep [the original meaning of "word"](../../name/word.md), as it is used i
 On this reading, the Word becoming flesh means that God kept His promise. In other words, what was said before, became reality (flesh). Peter explained to unbelievers:
 
 > “Men of Israel, listen to these words: Jesus the Nazarene, **a man** attested to you by God with miracles and wonders and signs which God did through Him in your midst, just as you yourselves know— this Man, delivered over **by the predetermined plan and foreknowledge of God**, you nailed to a cross by the hands of lawless men and put Him to death. — Acts 2:22-23 (LSB)
+
+## Philippians 2:6-8 (Form Of God, Likeness of Men)
+
+> who, though he *was* in **the form of God**, did not count equality with God a thing to be grasped, but **emptied himself**, by taking the form of a servant, **being born in the likeness of men**. And being found in **human form**, he humbled himself by becoming obedient to the point of death, even death on a cross. — Philippians 2:6-8 (ESV)
+
+### “Though he was in the form of God”
+
+The Greek verb hyparcho is translated as *“he was”* here. This gives the impression that "he was" in the form of God before he was made in the likeness of man.
+
+The Greek verb is in the **present active voice** (not the aorist) meaning “he is” or “he has” rather than “he was”. That is, Jesus is **now** in form of God. The first part of Philippians 2:6 refers to the **present circumstances** of now being in the form of God having been exalted and being given a name above every name (Philippians 2:9-11). Some translations render this as “being in the form of God” which is more correct than “he was”.
+
+The word **“though” is not in the Greek text** and is an **interpretive interpolation**. An interpolation is a new or spurious matter inserted into the text. In this case, it is used to bias the reader to give the impression that the statement is to be contrasted with what comes after in Philippians 2:6 “did not count equality with God a thing to be grasped.” Adding the word “though” to “he was” is a biased interpretive decision that goes beyond what the actual text conveys.
+
+### “by taking the form of a servant”
+
+There is **no word “by” in Greek**. This is added by the translators to imply that Jesus made the decision to become a man. “By” in this case is another **interpretive interpolation** (new or spurious matter inserted into the text).
+
+### “born in the likeness of men”
+
+The Greek word translated ‘born’ is γενόμενος (ginomai) means to be, become, happen; to come into existence, be born. The general meaning is to **come into existence without any reference to any kind of [preexistence](./preexistance.md)**.
+
+### “in human form”
+
+The Greek word translated “form” here is **what something is** rather than what something appears to be. That is, Jesus is a man in composition and not just in appearance. The ESV **translates both the Greek words morphe and schema as “form” but these Greek words have a different meanings**. Schema pertains more to what something is including the **functional aspect of something** (BDAG) rather than the **outward appearance** (morphe). The English translation conflates morphe “form” (what something appears to be outwardly appearance) with scheme “form” (what something is in its composition). Rendering these two words ‘form’ in English obscures the difference. To maintain the distinction that is in Greek it would be more accurate to translate morphe as “display” or “appearance” and schema as “fashion” or “composition” (ontology). That is, Jesus is in the **display of God** but was brought into existence in the **composition of a man**.
+
+A [literal translation of Philippians 2:6-8](https://preexistenceofchrist.com/understanding-philippians-2/) show that this passage does not teach incarnation but rather refutes it and [Trinitarian theology](../trinity.md). What is said in no uncertain terms is that Jesus was exalted and given the authority he has because of his obedience until death on a cross.  Rather than describing incarnation, this passage confirms [the Unitarian understanding of God](../shema.md).
 
 ## Colossians 2:9 (God in a Human Body)
 
@@ -84,7 +110,7 @@ John requires a confession of Jesus’ real coming in flesh:
 
 In John's lifetime there was an ancient belief that [Christ was divine](../divine.md) but *not genuinely human*, called **Docetism**. This is evident from 1 John's opending where he made it clear that they seen, heard and touched Jesus Christ. These actions would have been unnecessary if his audience already thought Jesus was a human. Furthermore, in 1 John 5:5-8 he vividly describe Jesus Christ "came by water and blood", elements from a normal natural human baby's birth. He wanted to make sure his audience understood that Jesus was [genuine human](../../human.md).
 
-Now, in the context of 1 John 4:2-3, to ensure that the preacher was not another Decetism follower, an obvious test would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious pre-existance](pre-existance.md). Instead John was saying that **those follow Docetism** are being deceived by **[the spirit of the antichrist](../shema/concerns/antichrist.md)**.
+Now, in the context of 1 John 4:2-3, to ensure that the preacher was not another Decetism follower, an obvious test would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious preexistance](preexistance.md). Instead John was saying that **those follow Docetism** are being deceived by **[the spirit of the antichrist](../shema/concerns/antichrist.md)**.
 
 ## Conclusion
 

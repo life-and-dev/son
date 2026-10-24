@@ -277,7 +277,7 @@ James D.G. Dunn argues:
 > If then Christ is what God's power/wisdom came to be recognized as, of Christ is can be said what was first of wisdom - that 'in him (the divine wisdom now embodied in Christ) were created all things.' In other words the language may be used here to indicate the continuity between God's creative power and Christ without the implication being intended that Christ himself was active in creation. -- Christology in the Making, 2nd ed. (Grand Rapids, MI: Eerdmans, 1996), 191.
 
 1. Shared Jewish vocabularly **does not mean dependence** between the passages. Paul never used the word "wisdom". Wisdom is also often personified as a female, not a male Christ.
-2. Still implies pre-existance. If you replace "wisdom" with "Christ" it means you need to proof that Paul meant Christ pre-existed as Wisdom pre-existed.
+2. Still implies preexistance. If you replace "wisdom" with "Christ" it means you need to proof that Paul meant Christ pre-existed as Wisdom pre-existed.
 3. Analogy works one-way. If one say "Wisdom has found her home in Christ" is not mean one could give Christ the credit for what Wisdom did before it became incarnated in Christ. It would be like punishing Nazi decendants for something their anchestors did.
 
 ### New Creation Language

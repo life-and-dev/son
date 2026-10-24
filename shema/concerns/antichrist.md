@@ -93,7 +93,7 @@ With this passage John made it clear that Jesus Christ was really born as like a
 > [!NOTE]
 > Some associate this scripture with repentance, baptism and receiving the Holy Spirit, but in this context it more likely was used as plain evidence that Jesus was a [genuinely human](../../human.md).
 
-In the context of 1 John 4:2-3, an obvious test would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious pre-existance](../../divine/pre-existance.md). Instead John was saying that **those follow Docetism** (rejecting that Jesus was a genuine human) are being deceived by the spirit of the **antichrist**.
+In the context of 1 John 4:2-3, an obvious test would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious preexistance](../../divine/preexistance.md). Instead John was saying that **those follow Docetism** (rejecting that Jesus was a genuine human) are being deceived by the spirit of the **antichrist**.
 
 > [!WARNING]
 > Today we have a similiar situation. Like the Docetians, the [Trinitarians](../../trinity.md) belief Jesus Christ was [divine](../../divine.md), although they also acknowledge his a *simultaneous [human nature](../../dual-nature.md)*. This makes them guilty of claiming that Jesus Christ was *not a genuine human*, because no other genuine human has a divine and human nature simultaneously.
