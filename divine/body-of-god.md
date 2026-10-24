@@ -1,0 +1,91 @@
+# Is Jesus God’s Body?
+
+Several passages suggest that Jesus is God's body in flesh.
+
+## John 1:1-18 (The Word Becoming Flesh)
+
+Many Christians define ["the Word" in John 1 as Jesus](../../name/word.md) to proof his pre-existance and participates in creation before he becames flesh. The sequence can describe one conscious subject throughout.
+
+The problem with that approach is that:
+
+- It requires a redefinition of the word "Word". Nowhere else, not even in the book of John does "Word" mean Jesus.
+- It requires an explanation of multiple paradoxes it create in John 1. For example:
+  - In John 1:1 the same "Word" was simultanously with God and was God Himself.
+  - God was never seen, yet Jesus was seen (John 1:18).
+- It requires an explanation of how God could be His own Son and be born (John 1:18) as a human without being an alien or avatar. No human pre-existed or can give birth to himself.
+- It requires an explanation of why John would use riddles to testify that Jesus is God instead of just plainly say so. John said that this is supposed to be a "witness" (John 1:34) not a clever riddle.
+- The divinity of Jesus conflicts with his conclusion at then end of John's book: "these have been written so that you may believe that Jesus is the Christ, the Son of God; and that believing you may have life in His name." Neither "Christ" nor "the Son" means God. This is not a figure of speech, because it requires "that believing you may have life", implying this is a salvation issue.
+
+If we keep [the original meaning of "word"](../../name/word.md), as it is used in the rest of John and the Bible, which means "utterance, promise or plan", then the Word is God the Father’s effective utterance, promise and plan, fulfilled in Jesus. Genesis 1; Psalm 33:6,9; Isaiah 55:11 provide the background: God the Father creates and accomplishes His purposes through speech. Describing that speech personally need not make it a second conscious being.
+
+On this reading, the Word becoming flesh means that God kept His promise. In other words, what was said before, became reality (flesh). Peter explained to unbelievers:
+
+> “Men of Israel, listen to these words: Jesus the Nazarene, **a man** attested to you by God with miracles and wonders and signs which God did through Him in your midst, just as you yourselves know— this Man, delivered over **by the predetermined plan and foreknowledge of God**, you nailed to a cross by the hands of lawless men and put Him to death. — Acts 2:22-23 (LSB)
+
+## Colossians 2:9 (God in a Human Body)
+
+The misleading paraphrased NLT reads:
+
+> “For *in* Christ lives all the fullness of ***God in a human body***. ” — Colossians 2:9 (NLT)
+
+This gives the impression that Christ is God's human body. Problems with this philosophy is that we as humans are concious living beings with real life experiences and a free will. If Christ was simply God's avatar, it would mean Christ was not a genuine human like us.
+
+### Addressing the word "in"
+
+The [Greek preposition ἐν](https://word.ofgod.info/semantics/en) commonly translated as "in" could also mean "on", "at", "by", "with" depending on the context, however the Bible translators choose "in" to support the idea that God is *inside* His Jesus-body. However, God is Spirit and [omnipresent](omnipresence.md).
+
+God's presence was not limited to Jesus' human body. A better translation might be "with" meaning to support Jesus.
+
+### Adressing the word "God"
+
+Paul did not use the word "God" in Colossians 2:9. The Greek *theotēs* (θειότης) means **deity**. [Thayer’s entry for *theotēs*](https://biblehub.com/greek/2320.htm) glosses it as “deity” and “the state of being God.” Thayer distinguishes it from *theiotēs*, treating the difference as essence in contrast to quality or attribute. For example the ESV reads:
+
+> “For *in* him the whole fullness of **deity** dwells bodily.” — Colossians 2:9 (ESV)
+
+### Context is not about Incarnation
+
+The Legacy Standard Bible is a relatively literal translation of the Greek text:
+
+> For **I want you to understand** how great a struggle I have on your behalf and for those who are at Laodicea, and for all those who have **not seen my face in the flesh**, so that their hearts may be encouraged, having been held together in love, even unto all the wealth of **the full assurance of understanding**, unto **the full knowledge of God’s mystery**, *that is,* Christ *Himself,* in whom are hidden all the treasures of **wisdom and knowledge**. I say this so that no one will delude you with persuasive argument. For even though I am **absent in body**, nevertheless **I am with you** in spirit, rejoicing to see your good order and the stability of your faith in Christ.
+>
+> Therefore as you received Christ Jesus the Lord, so **walk *in [by]* him**, having been firmly rooted and being built up *in [by]* him, and having been established *in [by]* your faith—just as you were instructed—and abounding with thanksgiving.
+>
+> See to it that no one takes you captive through **philosophy** and **empty deception**, according to the **tradition of men**, according to the **elementary principles of the world**, and not according to Christ. For *in [by]* him **all the fullness of Deity dwells bodily**, and *in [by]* him **you have been filled**, who is the head over all rule and authority;
+>
+> — Colossians 2:1-10 (LSB)
+
+As highlighted above, the context is about understanding, knowledge, wisdom in contrast to [philosophy](../trinity/development.md), [deception](texts.md), [tradition of men](../trinity.md), elementary principles of the world. In this setting "all the fullness of Deity" refers to **all the divine knowledge and wisdom**.
+
+A second theme is the concept of being physically absent "in the flesh" (Colossians 2:1), yet Paul is "with them in spirit" (Colossians 2:5). Likewise, Christ is physically absent "bodily", yet because the disciples "have been filled" by this knowledge, they are equiped to be [the body of Christ](https://kingdom.ofgod.info/christ/body) (1 Corinthians 12:27; Ephesians 4:1-16).
+
+## 1 Timothy 3:16 (God Manifested In Flesh)
+
+The NKJV reads, “**God** was manifested in the flesh” (1 Timothy 3:16, NKJV). That wording follows the Greek reading *theos ephanerōthē* (θεὸς ἐφανερώθη). If that were original, it would be an important text for the claim that God became incarnate.
+
+The ESV follows the reading printed in the major modern critical editions:
+
+> “Great indeed, we confess, is the mystery of godliness: **He** was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.” — 1 Timothy 3:16 (ESV)
+
+The key readings are *theos* (“God”), *hos* (ὃς, “who”), and *ho* (ὅ, “which”). The [NET Bible textual note](https://www.biblegateway.com/passage/?search=1%20Timothy%203%3A16&version=NET) reports *theos* in later corrections and Byzantine witnesses, and *ho* in the Latin tradition. It also describes the Alexandrian and Western evidence as favouring *hos*.
+
+The evidence is mixed, and the variant cannot be resolved by English translation preference alone. On the reported textual evidence, the critical reading is *hos*, “who.” The relative pronoun also fits the following masculine clauses: “vindicated,” “seen,” “proclaimed,” “believed on,” and “taken up.” *Ho* is a neuter reading and may refer to “the mystery.”
+
+Paul made in the same letter an explicit distinction:
+
+> For there is one God, and there is one mediator between God and men, the man Christ Jesus, — 1 Timothy 2:5 (ESV)
+
+Paul would not have contradicting himself within the same letter.
+
+## 1 John 4:2 (Christ Has Come In Flesh)
+
+John requires a confession of Jesus’ real coming in flesh:
+
+> “By this you know the Spirit of God: every spirit that confesses that **Jesus Christ has come in the flesh** is from God.” — 1 John 4:2 (ESV)
+
+In John's lifetime there was an ancient belief that [Christ was divine](../divine.md) but *not genuinely human*, called **Docetism**. This is evident from 1 John's opending where he made it clear that they seen, heard and touched Jesus Christ. These actions would have been unnecessary if his audience already thought Jesus was a human. Furthermore, in 1 John 5:5-8 he vividly describe Jesus Christ "came by water and blood", elements from a normal natural human baby's birth. He wanted to make sure his audience understood that Jesus was [genuine human](../../human.md).
+
+Now, in the context of 1 John 4:2-3, to ensure that the preacher was not another Decetism follower, an obvious test would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious pre-existance](pre-existance.md). Instead John was saying that **those follow Docetism** are being deceived by **[the spirit of the antichrist](../shema/concerns/antichrist.md)**.
+
+## Conclusion
+
+The [Word becoming flesh](#john-11-18-the-word-becoming-flesh) describes God’s promise fulfilled in Jesus, not God becoming a human avatar. In [Colossians 2:9](#colossians-29-god-in-a-human-body), the [word “in”](#addressing-the-word-in), [“deity”](#adressing-the-word-god), and the [surrounding context](#context-is-not-about-incarnation) do not say that the Father inhabits a human body. The [textual evidence for 1 Timothy 3:16](#1-timothy-316-god-manifested-in-flesh) does not establish that God became flesh, and the letter calls Jesus “the man Christ Jesus.” John’s confession that [Jesus truly came in flesh](#1-john-42-christ-has-come-in-flesh) affirms his real humanity, not that he was God’s body. Scripture therefore [distinguishes](../human/distinct.md) [the one LORD](../shema.md) from his [human Christ](../human.md): God is present and active in his Son, but Jesus is not God’s physical human body.

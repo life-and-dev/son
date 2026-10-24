@@ -28,6 +28,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Symbolism         | Readers interpret symbolic images or messages as literal descriptions.                                                 |
 > | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
 > | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
+> | Translation       | Biased translation that does not follow the original manuscirpts mislead readers.                                      |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
 | Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                        |
@@ -41,7 +42,6 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 
 | Scripture    | Divine Jesus Interpretation    | Rebuttal                                                                                                                                     |
 | ------------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| John 1:1-18  | "The Word became flesh"        | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                                   |
 | John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](pre-existance.md#john-313-descended-from-heaven)                                           |
 | John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](pre-existance.md#john-313-descended-from-heaven)                                  |
 | John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](pre-existance.md#john-175-glory-before-the-world) |
@@ -69,3 +69,20 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Ephesians 1:22-23 | Jesus “fills all in all”.                               | [Topic: the context concerns Jesus' authority and relationship to the church, not a claim that he personally occupies every location.](omnipresence.md#ephesians-122-410-filling-all-things)                  |
 | Ephesians 4:10    | Jesus ascended to “fill all things”.                    | [Topic: the passage concerns gifts and building his body; his work's reach does not establish personal omnipresence.](omnipresence.md#ephesians-122-410-filling-all-things)                                   |
 | Revelation 2:1    | Jesus walks among churches in different places.         | [Symbolism: walking among seven churches means symbolic oversight, not personal presence everywhere.](omnipresence.md#revelation-21-walking-among-churches)                                                   |
+
+### Body of God Interpretations
+
+| Scripture      | Divine Jesus Interpretation | Rebuttal                                                                                                                         |
+| -------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| John 1:1-18    | "The Word became flesh"     | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                       |
+| Colossians 2:9 | "God in a human body"       | [Translation: "whole fullness of deity dwells" referring to truth not essence](body-of-god.md#colossians-29-god-in-a-human-body) |
+| 1 Timothy 3:16 | "God manifested in flesh"   | [Translation: Should be "he (Jesus) manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                  |
+| 1 John 4:2     | "Christ has come in flesh"  | [Topic: Adressing Docetism, not affirming pre-existance](body-of-god.md#1-john-42-christ-has-come-in-flesh)                      |
+
+## Warning
+
+> See to it that no one takes you captive by **philosophy and empty deceit, according to human tradition**, according to the elemental spirits of the world, and **not according to Christ**. — Colossians 2:8 (ESV)
+
+If Christ did not directly teach something, we should not read [later philosophies](../trinity/development.md) back into biblical text according to human ([church](https://church.ofgod.info)) traditions.
+
+We should let the Bible form our theology (understanding of God), not the other way around.

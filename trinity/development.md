@@ -7,6 +7,12 @@ keywords: biblical monotheism, Shema, Nicene Creed, Arianism, Modalism, Christol
 
 Trinitarian theology did not yet exist when the monotheistic Bible was written. It developed gradually through later debates, creeds, and definitions into a theology to which churches could conform.
 
+A common argument by Trinitarians is that the concept already existed since Genesis 1, but it was only later developement that made it possible to formally explain this complex philosophy. However, Paul himself warns against this reasoning:
+
+> See to it that no one takes you captive by **philosophy and empty deceit, according to human tradition**, according to the elemental spirits of the world, and **not according to Christ**. — Colossians 2:8 (ESV)
+
+This implies that if Christ did not explain the [Modalism](../modalism.md), [Partialism](../partialism.md), [Subordinationism](../subordinationism.md), [Trinitarianism](../trinity.md) or any other philosophy, then these traditions are not from Christ.
+
 ## Monotheism
 
 ### ~1300 BC: Shema

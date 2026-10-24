@@ -19,6 +19,7 @@ How we understand sin:
 
 - **[Unforgivable sin](concerns/unforgivable-sin.md)**: If someone calls the Holy Spirit a force instead of God, could that be blasphemy against the Holy Spirit?
 - **[Blasphemy](concerns/blasphemy.md)**: If Jesus is God, would saying he is human but not Almighty God insult him?
+- **[Antichrist](concerns/antichrist.md)**: Do we have the spirit of the antichrist if we deny [the pre-existance of Christ](../divine/pre-existance.md)?
 - **[Worship](concerns/worship.md)**: If Jesus is God, could refusing him worship and honouring another lord become idolatry?
 
 How we understand God's character:
