@@ -31,12 +31,13 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Translation       | Biased translation that does not follow the original manuscirpts mislead readers.                                      |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
-| Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                        |
-| ---------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| John 20:28       | Thomas answered him, “My Lord and my God!”         | [Word Meaning: Here "God" means Christ.](thomas-god.md)                                         |
-| Galatians 1:1    | "nor through man, but through Jesus Christ"        | [Topic: about authority, not humanity.](texts/not-man.md)                                       |
-| Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                  |
-| Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md) |
+| Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                          |
+| ---------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| John 20:28       | Thomas answered him, “My Lord and my God!”         | [Word Meaning: Here "God" means Christ.](thomas-god.md)                                           |
+| Galatians 1:1    | "nor through man, but through Jesus Christ"        | [Topic: about authority, not humanity.](texts/not-man.md)                                         |
+| Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                    |
+| Hebrews 1:3      | "the exact imprint of His nature"                  | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13) |
+| Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)   |
 
 ### Preexistance Interpretations
 
