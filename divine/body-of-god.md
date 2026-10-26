@@ -24,7 +24,50 @@ On this reading, the Word becoming flesh means that God kept His promise. In oth
 
 ## Philippians 2:6-8 (Form Of God, Likeness of Men)
 
-> who, though he *was* in **the form of God**, did not count equality with God a thing to be grasped, but **emptied himself**, by taking the form of a servant, **being born in the likeness of men**. And being found in **human form**, he humbled himself by becoming obedient to the point of death, even death on a cross. — Philippians 2:6-8 (ESV)
+> who, ***though*** he ***was*** in the ***form*** of God, did not count equality with God a thing to be grasped, but emptied himself, ***by*** taking the ***form*** of a servant, ***being born*** in the likeness of men. And being found in human ***form***, he humbled himself by becoming obedient to the point of death, even death on a cross. — Philippians 2:6-8 (ESV)
+
+| Greek                                              | English (Actual)        | ESV                 | [Morphology](https://biblehub.com/grammar/greek.htm) |
+| -------------------------------------------------- | ----------------------- | ------------------- | ---------------------------------------------------- |
+| [hos](https://biblehub.com/greek/3739.htm)         | who                     | who                 | RelPro-NMS                                           |
+| ***MISSING!***                                     | -                       | ***though***        | -                                                    |
+| [en](https://biblehub.com/greek/1722.htm)          | in                      | in                  | Prep                                                 |
+| [morphē](https://biblehub.com/greek/3444.htm)      | [the] shape             | the ***form***      | N-DFS                                                |
+| [Theou](https://biblehub.com/greek/2316.htm)       | of God                  | of God              | N-GMS                                                |
+| [hyparchōn](https://biblehub.com/greek/5225.htm)   | existing                | ***was***           | V-PPA-NMS                                            |
+| [ouch](https://biblehub.com/greek/3756.htm)        | not                     | [did] not           | Adv                                                  |
+| [harpagmon](https://biblehub.com/greek/725.htm)    | something to be grasped | thing to be grasped | N-AMS                                                |
+| [hēgēsato](https://biblehub.com/greek/2233.htm)    | considered              | count               | V-AIM-3S                                             |
+| [to](https://biblehub.com/greek/3588.htm)          | -                       | -                   | Art-ANS                                              |
+| [einai](https://biblehub.com/greek/1510.htm)       | to be                   | -                   | V-PNA                                                |
+| [isa](https://biblehub.com/greek/2470.htm)         | equal                   | equality            | Adj-ANP                                              |
+| [Theō](https://biblehub.com/greek/2316.htm)        | with God                | with God            | N-DMS                                                |
+| [alla](https://biblehub.com/greek/235.htm)         | but                     | but                 | Conj                                                 |
+| [heauton](https://biblehub.com/greek/1438.htm)     | himself                 | himself             | RefPro-AM3S                                          |
+| [ekenōsen](https://biblehub.com/greek/2758.htm)    | emptied                 | emptied             | V-AIA-3S                                             |
+| [morphēn](https://biblehub.com/greek/3444.htm)     | [the] form              | the ***form***      | N-AFS                                                |
+| [doulou](https://biblehub.com/greek/1401.htm)      | of a servant            | of a servant        | N-GMS                                                |
+| [labōn](https://biblehub.com/greek/2983.htm)       | having taken            | ***by*** taking     | V-APA-NMS                                            |
+| [en](https://biblehub.com/greek/1722.htm)          | in                      | in                  | Prep                                                 |
+| [homoiōmati](https://biblehub.com/greek/3667.htm)  | [the] likeness          | the likeness        | N-DNS                                                |
+| [anthrōpōn](https://biblehub.com/greek/444.htm)    | of men                  | of men              | N-GMP                                                |
+| [genomenos](https://biblehub.com/greek/1096.htm)   | become                  | ***being born***    | V-APM-NMS                                            |
+| [kai](https://biblehub.com/greek/2532.htm)         | And                     | And                 | Conj                                                 |
+| [schēmati](https://biblehub.com/greek/4976.htm)    | in the state            | ***form***          | N-DNS                                                |
+| [heuretheis](https://biblehub.com/greek/2147.htm)  | having been found       | found in            | V-APP-NMS                                            |
+| [hōs](https://biblehub.com/greek/5613.htm)         | as                      | as                  | Adv                                                  |
+| [anthrōpos](https://biblehub.com/greek/444.htm)    | a man,                  | a man               | N-NMS                                                |
+| [etapeinōsen](https://biblehub.com/greek/5013.htm) | he humbled              | he humbled          | V-AIA-3S                                             |
+| [heauton](https://biblehub.com/greek/1438.htm)     | himself,                | himself             | RefPro-AM3S                                          |
+| [genomenos](https://biblehub.com/greek/1096.htm)   | having become           | becoming            | V-APM-NMS                                            |
+| [hypēkoos](https://biblehub.com/greek/5255.htm)    | obedient                | obedient            | Adj-NMS                                              |
+| [mechri](https://biblehub.com/greek/3360.htm)      | unto                    | to the point of     | Prep                                                 |
+| [thanatou](https://biblehub.com/greek/2288.htm)    | death,                  | death               | N-GMS                                                |
+| [thanatou](https://biblehub.com/greek/2288.htm)    | [the] death             | death               | N-GMS                                                |
+| [de](https://biblehub.com/greek/1161.htm)          | even                    | even                | Conj                                                 |
+| [staurou](https://biblehub.com/greek/4716.htm)     | of [a] cross.           | on a cross          | N-GMS                                                |
+
+> [!ERROR]
+> The translation errors are highlighted in ***bold italics*** in the above table. This is a clear example how Bible scripture were adjusted to compensate for the [Trinity Doctrine](../trinity.md).
 
 ### “Though he was in the form of God”
 
@@ -40,11 +83,17 @@ There is **no word “by” in Greek**. This is added by the translators to impl
 
 ### “born in the likeness of men”
 
-The Greek word translated ‘born’ is γενόμενος (ginomai) means to be, become, happen; to come into existence, be born. The general meaning is to **come into existence without any reference to any kind of [preexistence](./preexistance.md)**.
+The Greek word translated ‘born’ is γενόμενος (ginomai) **means to be, become, happen** or **to come into existence, be born**. The general meaning is to **come into existence without any reference to any kind of [preexistence](./preexistance.md)**.
 
 ### “in human form”
 
-The Greek word translated “form” here is **what something is** rather than what something appears to be. That is, Jesus is a man in composition and not just in appearance. The ESV **translates both the Greek words morphe and schema as “form” but these Greek words have a different meanings**. Schema pertains more to what something is including the **functional aspect of something** (BDAG) rather than the **outward appearance** (morphe). The English translation conflates morphe “form” (what something appears to be outwardly appearance) with scheme “form” (what something is in its composition). Rendering these two words ‘form’ in English obscures the difference. To maintain the distinction that is in Greek it would be more accurate to translate morphe as “display” or “appearance” and schema as “fashion” or “composition” (ontology). That is, Jesus is in the **display of God** but was brought into existence in the **composition of a man**.
+The Greek word translated “form” here is **what something is** rather than what something appears to be. That is, Jesus is a man in composition and not just in appearance.
+
+The ESV **translates both the Greek words morphe and schema as “form”** but these Greek words have a **different meanings**.
+
+The BDAG lexicon defines **schēma** as the generally recognized **state or form of something**, including its **functional aspect** — **what something actually is** in its composition and function, not merely what it looks like from the outside. Jesus was found in the composition of a man — he is a man in his actual being. The verb "was found" (heuretheis) is passive — he was recognized, discovered, identified by others as what he actually was: a human being. This is the consistent testimony of those who knew him: "Jesus of Nazareth, a man attested to you by God" (Acts 2:22); "the man Christ Jesus" (1 Timothy 2:5); "a man whom he has appointed" (Acts 17:31).
+
+The English translation conflates **morphe** “form” (what something appears to be outwardly appearance) with scheme “form” (what something is in its composition). Rendering these two words ‘form’ in English obscures the difference. To maintain the distinction that is in Greek it would be more accurate to translate morphe as “display” or “appearance” and schema as “fashion” or “composition” (ontology). That is, Jesus is in the **display of God** but was brought into existence in the **composition of a man**.
 
 A [literal translation of Philippians 2:6-8](https://preexistenceofchrist.com/understanding-philippians-2/) show that this passage does not teach incarnation but rather refutes it and [Trinitarian theology](../trinity.md). What is said in no uncertain terms is that Jesus was exalted and given the authority he has because of his obedience until death on a cross.  Rather than describing incarnation, this passage confirms [the Unitarian understanding of God](../shema.md).
 
