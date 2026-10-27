@@ -1,6 +1,6 @@
 ---
 description: Did Jesus live before his birth, or was the human Messiah present beforehand in God’s promise and purpose? A balanced biblical examination.
-keywords: Jesus pre-existence, human Messiah, Word of God, divine foreknowledge, John 1, John 17:5, biblical Unitarianism
+keywords: Jesus preexistence, human Messiah, Word of God, divine foreknowledge, John 1, John 17:5, biblical Unitarianism
 ---
 
 # Did Jesus Exist Before His Birth?
@@ -9,7 +9,7 @@ Did Jesus live before his birth, or did God the Father’s promise exist before 
 
 Several passages appear to describe an earlier heavenly life. Others present a promised human descendant whose coming was planned beforehand. A fair judgement must consider both patterns without confusing prior existence with deity. Scripture summaries below are paraphrases.
 
-Conscious pre-existence means a conscious Jesus living before his human birth. Evidence this are:
+Conscious preexistence means a conscious Jesus living before his human birth. Evidence this are:
 
 - [John 3:13](#john-313-descended-from-heaven), 6:38-62, 16:28 connect descent from heaven with departure to God the Father. This suggests [a heavenly origin and return](#john-638-62-come-down-from-heaven).
 - John 8:58 places Jesus before Abraham in language that naturally suggests [conscious temporal priority addressed in a different article](claims/i-am.md).
@@ -26,9 +26,9 @@ Existence in foreknowledge means a future Messiah already known and appointed by
 
 Does [the Bible](https://word.ofgod.info/downloads) contradict itself?
 
-## Examining Conscious Pre-Existence
+## Examining Conscious preexistence
 
-Some Unitarians, who identify God as one personal being, accept Jesus’ prior conscious existence. Even if the preexistance of Jesus could be proven, it would still not proof [modalism](../../modalism.md), [partialism](../../partialism.md), [subordinationism](../../subordinationism.md) or [trinitarianism](../../trinity.md). For example Mormons and Jehova Witnesses also belief in the preexistance of Jesus, yet they do not associate with all these mentioned groups. Debating whether Jesus eternally pre-existed or was created at some point in time is a different topic not addressed by this article.
+Some Unitarians, who identify God as one personal being, accept Jesus’ prior conscious existence. Even if the preexistance of Jesus could be proven, it would still not proof [modalism](../../modalism.md), [partialism](../../partialism.md), [subordinationism](../../subordinationism.md) or [trinitarianism](../../trinity.md). For example Mormons and Jehova Witnesses also belief in the preexistance of Jesus, yet they do not associate with all these mentioned groups. Debating whether Jesus eternally preexisted or was created at some point in time is a different topic not addressed by this article.
 
 Let's examamine the evidence for concious preexistance:
 
@@ -46,9 +46,9 @@ This is a textual variation. The longer reading of John 3:13 includes “who is 
 
 While it is true that the disciples witnessed Jesus been taken up in heaven (Acts 1:9), it significantly changes the meaning of the first occurrence of "heaven" in the same sentence.
 
-If the longer reading is correct, then it means the first occurrence of "heaven" should have the same meaning because John did not qualify that they have different meanings. Therefore, if the last instace of "heaven" means a physical location, then the first instance should also mean a physical location. Since there is no record that Jesus had been in heaven at that point in his life, the logical explanation is that he *must have pre-existed in a literal "heavenly realm"*.
+If the longer reading is correct, then it means the first occurrence of "heaven" should have the same meaning because John did not qualify that they have different meanings. Therefore, if the last instace of "heaven" means a physical location, then the first instance should also mean a physical location. Since there is no record that Jesus had been in heaven at that point in his life, the logical explanation is that he *must have preexisted in a literal "heavenly realm"*.
 
-However, if the shorter reading is correct, then "coming down from heaven" is most likely an [idiom which means "send by God"](https://word.ofgod.info/terms/heaven#idiomatic-usage) and do not support the preexistance claim. Jesus said multiple times directly that he was [send by God](../human/serve-god.md), but nowhere in Scripture does Jesus say directly that he pre-existed or that he literally came down from heaven.
+However, if the shorter reading is correct, then "coming down from heaven" is most likely an [idiom which means "send by God"](https://word.ofgod.info/terms/heaven#idiomatic-usage) and do not support the preexistance claim. Jesus said multiple times directly that he was [send by God](../human/serve-god.md), but nowhere in Scripture does Jesus say directly that he preexisted or that he literally came down from heaven.
 
 The context is Nicodemus, a Pharisee, asking questions to Jesus about the Kingdom of God. From the conversation we can see that Nicodemus did not understand the concept of being "born again in the Spirit". Jesus replied that if Nicodemus does not even accept their plain (earthly) testimonies, it would be useless to explain of how spiritual (heavenly) things work. Then **the narrator**, not Jesus, adds a comment "No one has ascended into heaven except he who descended from heaven" which qualifies Jesus as someone who would have been able to answer Nicodemus. Jesus did not avoid the answer because he was uncertain.
 
@@ -95,9 +95,9 @@ For more details read [this article](https://preexistenceofchrist.com/john175/).
 
 ## The Human Messiah in God’s Purpose
 
-The greatest challenge with a concious pre-existing Jesus, is that it means he had to be an alien. No human conciously pre-existed before his birth. This would put Jesus in the category an avatar or shape-shifter.
+The greatest challenge with a concious preexisting Jesus, is that it means he had to be an alien. No human conciously preexisted before his birth. This would put Jesus in the category an avatar or shape-shifter.
 
-Conscious-pre-existence interpretations can read the promises and birth accounts as describing the Son’s genuinely human life, while foreknowledge concerns someone already living. Deity interpretations must explain dependence within that human life and the Son’s relationship to God the Father. A created, subordinate Son can affirm dependence without claiming Almighty deity. The response below therefore distinguishes a case against Almighty deity from a judgement about personal origin; neither humanity nor foreknowledge alone decides the latter.
+Conscious-preexistence interpretations can read the promises and birth accounts as describing the Son’s genuinely human life, while foreknowledge concerns someone already living. Deity interpretations must explain dependence within that human life and the Son’s relationship to God the Father. A created, subordinate Son can affirm dependence without claiming Almighty deity. The response below therefore distinguishes a case against Almighty deity from a judgement about personal origin; neither humanity nor foreknowledge alone decides the latter.
 
 ### Birth and Human Sonship
 
@@ -113,18 +113,37 @@ Romans 5:12-19 sets Jesus beside Adam as a human representative whose obedience 
 
 Acts 2:22,30-36 presents a divinely attested man, David’s heir, who dies, is raised and is made Lord and Messiah. Acts 10:38 describes God the Father empowering Jesus with the Holy Spirit; Acts 17:31 identifies the appointed judge as a man whose resurrection guarantees his role. The movement from human life to exalted authority is explicit.
 
-1 Corinthians 15:21,45-49 presents the last Adam and the second man from heaven within an argument about resurrection bodies. The natural-before-spiritual sequence concerns that transformation. It is not a universal rule excluding all earlier heavenly life. Equally, the heavenly man of 1 Corinthians 15:47 can substantially describe the risen Messiah, without supplying a biography of a prior spirit-person.
-
-John 17:3 identifies God the Father as the only true God and Jesus as his sent Messiah. In John 20:17 the risen Jesus still calls him his God. John 5:19,30 describes the Son’s inability to act independently. First Corinthians 11:3 and 15:24-28 continue the pattern of headship and final subjection beyond earthly weakness.
+John 17:3 identifies God the Father as the only true God and Jesus as his sent Messiah. In John 20:17 the risen Jesus still calls him his God. John 5:19,30 describes the Son’s inability to act independently. 1 Corinthians 11:3 and 15:24-28 continue the pattern of headship and final subjection beyond earthly weakness. 1 Corinthians 15:21,45-49 presents the last Adam and the second man from heaven within an argument about resurrection bodies. The natural-before-spiritual sequence concerns that transformation. It is not a universal rule excluding all earlier heavenly life. Equally, the heavenly man of 1 Corinthians 15:47 can substantially describe the risen Messiah, without supplying a biography of a prior spirit-person.
 
 ### Foreknowledge Without a Prior Human Life
 
-2 Timothy 1:9 provides a particularly strong comparison. Grace is described as given to believers in Christ before the ages, although those beneficiaries did not need to exist personally then. A gift can be spoken of as already theirs because God the Father has determined it.
+Matthew 25:34 describes a kingdom prepared for later heirs. This demonstrates that God proactively plans purposes and subsequent fulfilment. For example, Paul wrote:
 
-Ephesians 1:4 similarly places believers’ choice in Christ before the world. Romans 8:29-30 connects foreknowledge and appointment with glorification spoken of as accomplished. 1 Peter 1:20 distinguishes Christ being foreknown before the world from his later manifestation. Matthew 25:34 describes a kingdom prepared for later heirs. These are demonstrable patterns of prior purpose and subsequent fulfilment.
+> [God] Who saved us and called us to a holy calling, not because of our works but because of His own purpose and grace, which **He gave us** *in [with]* Christ Jesus **before the ages began**, and which **now has been manifested** through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel — 2 Timothy 1:9-10 (ESV)
+
+This shows:
+
+1. That God had a purpose for us, including Christ Jesus, before Creation (the ages began).
+2. This purpose was only later manifested by Christ Jesus.
+
+> [!WARNING]
+> The Greek word ἐν (en) is a preposition which could mean "in", "with", "on", "at", "by", "among" depending on the context. However the ESV and many other modern English translations consistenly translate it as "in Christ" to give the impression which are inside some divine Christ.
+
+Ephesians 1:4 similarly places believers’ choice in Christ before the world. Romans 8:29-30 connects foreknowledge and appointment with glorification spoken of as accomplished.
+
+Peter explains the same message more clearly:
+
+> He *[Jesus]* was **foreknown before the foundation of the world** but was **made manifest in the last times** for the sake of you who through him are believers in God, **Who raised him from the dead** and **gave him glory**, so that your **faith and hope are in God**. — 1 Peter 1:20-21 (ESV)
+
+In this one sentence Peter make several important statements:
+
+1. **[Jesus did not preexist](#the-human-messiah-in-gods-purpose)**: Jesus was "foreknown" before creation ("foundation of the world"). If Jesus conciously preexisted since eternity, then God would have already known Jesus instead of "foreknown". Peter also makes it clear that Jesus only manifested later. This shows that Jesus was not active since the beginning.
+2. **[God is distinct from Jesus](../human/distinct.md)**: God raised him from the dead. A dead person is dead and cannot do anything and that is why Jesus needed a distict God.
+3. **[Jesus has a God](../human/has-a-god.md)**: Peter also says that God gave him glory. Only a higher authority can give glory. If God was giving Himself glory then His glory would have been unearned and selfish.
+4. **[Faith and hope are in God](https://kingdom.ofgod.info/life/righteousness)**: Peter focus his audience attention to God, distinct from Jesus, for [faith](https://word.ofgod.info/terms/faith) and [hope](https://kingdom.ofgod.info/life).
 
 ## Conclusion
 
-Jesus did not live as a conscious person before his human birth. John’s [word](../name/word.md) can be understood as God’s purpose fulfilled in Jesus, while the descent-from-heaven language can describe the mission God sent him to carry out as seen in the sections that discuss [John 1:1-18](#john-11-18-the-word-becoming-flesh), [John 3:13](#john-313-descended-from-heaven) and [John 6:38-62](#john-638-62-come-down-from-heaven). Jesus’ glory before the world can likewise be understood as held in God’s purpose, just as Scripture speaks of grace and believers as [chosen beforehand](#john-175-glory-before-the-world) or [foreknowledge without a prior human life](#foreknowledge-without-a-prior-human-life).
+Jesus did not live as a conscious person before his human birth. John’s [word](../name/word.md) can be understood as God’s purpose fulfilled in Jesus, while the descent-from-heaven language can describe the mission God sent him to carry out as seen in the sections, [John 3:13](#john-313-descended-from-heaven) and [John 6:38-62](#john-638-62-come-down-from-heaven). Jesus’ glory before the world can likewise be understood as held in God’s purpose, just as Scripture speaks of grace and believers as [chosen beforehand](#john-175-glory-before-the-world) or [foreknowledge without a prior human life](#foreknowledge-without-a-prior-human-life).
 
 This reading fits the promised descendant who is born as a human, obeys God, and is later raised and exalted by Him ([birth and human sonship](#birth-and-human-sonship); [resurrection, exaltation and dependence](#resurrection-exaltation-and-dependence)). These passages do not make foreknowledge alone a proof that no earlier conscious life was possible. Rather, taken together, they support the conclusion that Jesus’ personal life began with his human birth and that the earlier language speaks of God’s promise, purpose, and Messiah’s later exaltation.
