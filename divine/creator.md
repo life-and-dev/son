@@ -223,7 +223,7 @@ Some argue that the Father acted as architect and enabled Jesus to do the work. 
 
 > He has delivered us from [the power of darkness](https://kingdom.ofgod.info/darkness) and conveyed us into [the kingdom](https://kingdom.ofgod.info) of the Son of His love, in whom we have [redemption through his blood](https://kingdom.ofgod.info/covenants/christ), the [forgiveness](https://word.ofgod.info/terms/forgiveness) of sins.
 >
-> He is the image of [the invisible God](https://ofgod.info/appearance), [the firstborn](../divine/firstborn.md) over all creation. **For by him all things were created that are in [heaven](https://word.ofgod.info/terms/heaven) and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through him and for him.** And he is before all things, and in him all things consist. And he is the head of [the body](https://kingdom.ofgod.info/christ/body), [the church](https://church.ofgod.info), who is the beginning, [the firstborn](../divine/firstborn.md) from the dead, that in all things he may have the preeminence.
+> He is the [image](https://biblehub.com/greek/1504.htm) of [the invisible God](https://ofgod.info/appearance), [the firstborn](../divine/firstborn.md) over all creation. **For by him all things were created that are in [heaven](https://word.ofgod.info/terms/heaven) and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through him and for him.** And he is before all things, and in him all things consist. And he is the head of [the body](https://kingdom.ofgod.info/christ/body), [the church](https://church.ofgod.info), who is the beginning, [the firstborn](../divine/firstborn.md) from the dead, that in all things he may have the preeminence.
 >
 > For it pleased [the Father](https://ofgod.info) that in him all the fullness should dwell, and by him to reconcile all things to himself, by him, whether things on earth or things in [heaven](https://word.ofgod.info/terms/heaven), having made peace through the blood of his [cross](https://kingdom.ofgod.info/christ/crucifixion).
 >
@@ -266,11 +266,12 @@ Verse 17a-18a serves as a summary of what "all things" means and serve as a conc
 ### Problems with Creation Readings of Colossians 1:16
 
 1. The context of Colossians 1:13-14 is **about redemption, not creation**. Likewise, subsequent context Colossians 1:21-22 are also redemptive. What would flow more naturally from redemption (Christ saving us from sin) is the do doctrine of the church instead of creation theory. According to Sean, most scholar generally agree that Colossians 1:15-20 were an insertion. If one reads Colossians 1:1-14 and then skips to verse 21 and continue, the text reads smoothly with no breaks or discontinuality. Scholars are debating whether Paul wrote the inserted the Colossians 1:15-20 poetic unit in the text. *It is possible that he cited it from somewhere else.*
-2. Biblically to be made in the image of God is **to be human** (Genesis 1:26- 27). The bible does not mention some angelic being been created in His image. **Nobody believes Jesus was a human at Creation.** Colossians 1:16 is therefore not speaking about something that happened at the Creation but something that happened during or after Jesus human life.
-3. [Firstborn](../divine/firstborn.md) of some class, means to be the most the first or most important in that class. For example, **Jesus was not the first human being been born** of creation.
-4. As seen [above](#colossians-1), if "in him" is the correct phrase to use in Colossians 1:16, it changes the meaning from *"Jesus is the Creator"* to *"being in Jesus Church/Kingdom"*.
-5. Paul mentions at verse 18 that Christ is the "head of the body of the Church". If this was about Creation it meant *the Church was the entire universe*.
-6. **Second Creator** contradicts clear exclusive statements (Isaiah 44:24). The same "all things" phrase are used in both passages.
+2. The word Greek word [eikón](https://biblehub.com/greek/1504.htm) translated as "image" in Colossians 1:15 is similiar to the English word icon, which means to **resemble** something. This verse disprove that Jesus is God because it means that he only resembled God.
+3. Biblically to be made in the image of God is **to be human** (Genesis 1:26-27). The bible does not mention some angelic being been created in His image. **Nobody believes Jesus was a human at Creation.** Colossians 1:16 is therefore not speaking about something that happened at the Creation but something that happened during or after Jesus human life.
+4. [Firstborn](../divine/firstborn.md) of some class, means to be the most the first or most important in that class. For example, **Jesus was not the first human being been born** of creation.
+5. As seen [above](#colossians-1), if "in him" is the correct phrase to use in Colossians 1:16, it changes the meaning from *"Jesus is the Creator"* to *"being in Jesus Church/Kingdom"*.
+6. Paul mentions at verse 18 that Christ is the "head of the body of the Church". If this was about Creation it meant *the Church was the entire universe*.
+7. **Second Creator** contradicts clear exclusive statements (Isaiah 44:24). The same "all things" phrase are used in both passages.
 
 James D.G. Dunn argues:
 

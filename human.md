@@ -141,7 +141,7 @@ Some argue that Paul taught that Jesus existed before creation:
 >
 > ...
 >
-> He is the beginning, **the firstborn from the dead**, that in everything he might be preeminent.
+> He is the beginning, **the firstborn from the dead**, that in everything he might be [preeminent](divine/preexistance.md).
 >
 > — Colossians 1:13-15,18 (ESV)
 
