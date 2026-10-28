@@ -142,7 +142,7 @@ If John intended "the Word" in John 1 to mean "Jesus," we would expect him to us
 
 ### John Uses "The Word" for Sayings and Teachings
 
->  For here **the saying** ([ho logos](https://biblehub.com/greek/3056.htm)) holds true, 'One sows and another reaps.' — John 4:37 (ESV)
+> For here **the saying** ([ho logos](https://biblehub.com/greek/3056.htm)) holds true, 'One sows and another reaps.' — John 4:37 (ESV)
 
 > When many of his disciples heard it, they said, "This is a hard **saying** ([ho logos](https://biblehub.com/greek/3056.htm)); who can listen to it?" — John 6:60 (ESV)
 
@@ -201,8 +201,8 @@ For example:
 
 > Jesus said to them, "If God were your Father, you would love me, for I came from God and I am here. I came not of my own accord, but he sent me. Why do you not understand what I say? It is because you cannot bear to hear **my word** ([logon](https://biblehub.com/greek/3056.htm))." — John 8:42-43 (ESV)
 
-> Jesus answered, "I do not have a demon, but I honor my Father, and you dishonor me. Yet I do not seek my own glory; there is One who seeks it, and He is the judge. Truly, truly, I say to you, if anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never see death."<br/>
-> The Jews said to him, "Now we know that you have a demon! Abraham died, as did the prophets, yet you say, 'If anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never taste death.' Are you greater than our father Abraham, who died? And the prophets died! Who do you make yourself out to be?"<br/>
+> Jesus answered, "I do not have a demon, but I honor my Father, and you dishonor me. Yet I do not seek my own glory; there is One who seeks it, and He is the judge. Truly, truly, I say to you, if anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never see death."  
+> The Jews said to him, "Now we know that you have a demon! Abraham died, as did the prophets, yet you say, 'If anyone keeps **my word** ([logon](https://biblehub.com/greek/3056.htm)), he will never taste death.' Are you greater than our father Abraham, who died? And the prophets died! Who do you make yourself out to be?"  
 > Jesus answered, "If I glorify myself, my glory is nothing. It is my Father Who glorifies me, of Whom you say, 'He is our God.' But you have not known Him. I know Him. If I were to say that I do not know Him, I would be a liar like you, but I do know Him and I keep **His word** ([logon](https://biblehub.com/greek/3056.htm)).
 >
 > — John 8:49-55 (ESV)
@@ -346,7 +346,7 @@ This interpretation aligns with Paul's summary:
 
 1. **John uses the definite article three times**: "THE Word" (HO LOGOS) - He's referring to a specific word, not just any word
 
-2. **"Logos" has many possible meanings** - We've already seen it can mean plan, promise, command, teaching, prophecy (see [What Does "The Word" Mean?](#what-does-the-word-logos-mean))
+2. **"Logos" has many possible meanings** - We've [already seen](#the-word-according-to-the-bdag-greek-english-lexicon) it can mean plan, promise, command, teaching, prophecy
 
 3. **John refers to God twice in different grammatical forms**:
    - "WITH God" (PROS THEON) - with preposition + accusative case
@@ -480,7 +480,7 @@ If "the Word was God" means Jesus is God Almighty, and the Father is God Almight
 - God's word/plan is **divine** (because it comes from God)
 - No contradiction with monotheism
 
-For detailed discussion of biblical monotheism and the Shema, see [The Shema: Hear O Israel](https://eternal.family.net.za/bible/concepts/shema)
+For detailed discussion of biblical monotheism and the Shema, see [The Shema: Hear O Israel](../shema.md)
 
 **Key insight**: Understanding "the Word" as God's divine plan preserves the strict monotheism that Jesus himself affirmed.
 
@@ -628,7 +628,7 @@ This ties back to "the Word" (God's plan) becoming flesh.
 
 #### Does This Mean Incarnation?
 
-Some claim this proves [Jesus was God incarnate](https://eternal.family.net.za/god/son/essence/as-god/incarnation) - that God became human.
+Some claim this proves [Jesus was God incarnate](../divine/preexistance.md) - that God became human.
 
 **Alternative understanding**: "The word became flesh" = **God's promised plan materialized** when Jesus was born.
 
@@ -648,7 +648,7 @@ Some claim this proves [Jesus was God incarnate](https://eternal.family.net.za/g
 
 #### Does "Before Me" Mean Pre-existence?
 
-John the Baptist was older than Jesus, so "he was before me" seems puzzling. Does it mean Jesus [pre-existed](https://eternal.family.net.za/god/son/essence/as-god/incarnation)?
+John the Baptist was older than Jesus, so "he was before me" seems puzzling. Does it mean Jesus [pre-existed](../divine/preexistance.md)?
 
 **NO.** The Greek word "protos" (translated "before") can also mean:
 
@@ -801,9 +801,9 @@ When we read "the word" as "God's plan/promise":
 
 ### "What About Colossians 1 and Hebrews 1?"
 
-Some cite Colossians 1:15-17 and Hebrews 1:2-3 as proof that Jesus created all things, arguing this supports the view that "the Word" in John 1 is Jesus himself as a pre-existent divine creator.
+Some cite Colossians 1:15-17 and Hebrews 1:2-3 as [proof that Jesus created all things](../divine/creator.md), arguing this supports the view that "the Word" in John 1 is Jesus himself as a pre-existent divine creator.
 
-However, both passages use language indicating Jesus as God's **agent** or **instrument**, not as the independent creator:
+However, both passages use language indicating Jesus as God's [**agent** or **instrument**](../shema/agency.md), not as the independent creator:
 
 - Colossians 1:16: "all things were created **through him** and **for him**"
 - Hebrews 1:2: "**through whom** also he created the world"
@@ -811,8 +811,6 @@ However, both passages use language indicating Jesus as God's **agent** or **ins
 The Greek preposition "dia" (through) indicates **agency**, not direct action. God created through Jesus in the sense that all creation serves God's plan, which centers on Jesus. All things were made according to God's plan (the Word), which was fulfilled in Jesus.
 
 Additionally, these passages must be read in their full context. Colossians 1 describes Jesus as "the image of the invisible God" and "the firstborn of all creation." An image is not the same as the origin. Adam was also created in God's image, yet Adam was not the creator.
-
-For detailed analysis of these passages and their context, see [Is Jesus the Creator?](https://eternal.family.net.za/god/son/essence/as-god/creator)
 
 ### "What About 'Before Abraham Was, I Am'?"
 
@@ -830,7 +828,7 @@ At first glance, this seems to claim Jesus existed before Abraham. However, seve
 
 **Consistency with John's Gospel**: Throughout John's Gospel, "the Word" refers to God's plan and message, not to Jesus as a pre-existent divine person. John 8:58 must be interpreted consistently with this pattern.
 
-For detailed analysis of this passage and its context, see [Did Jesus Claim to Be "I AM"?](https://eternal.family.net.za/god/son/essence/as-god/claims/i-am)
+For detailed analysis of this passage and its context, see [Did Jesus Claim to Be "I AM"?](../divine/claims/i-am.md)
 
 ## What This Means for You
 
