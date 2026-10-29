@@ -73,15 +73,11 @@ Some scholars question this verse's validity based on two factors:
 
 [ljthriepland](https://www.followintruth.com/in-the-name-of-the-father-son-and-the-holy-spirit-matthew-28-19) also points out:
 
-> In fact the Greek word translated as name in Matthew 28:19 is ὄνομα onoma, and this is in the **singular form** in this verse. The verse does not say in the NAMES of the father, son and Holy Ghost but name as in one name. The in the singular name of the father son and Holy Ghost. The singular name of the triune God however, if the triune God were correct would not be Jesus but YHWH.
+> In fact the Greek word translated as name in Matthew 28:19 is ὄνομα onoma, and this is in the **singular form** in this verse. The verse does not say in the NAMES of the father, son and Holy Ghost but name as in one name. The in the singular name of the father son and Holy Ghost. The singular name of the triune God however, if the triune God were correct **would not be Jesus but YHWH**.
 
 However, it is important to note that while these manuscript arguments have been made, [Mark Clarke](http://godskingdomfirst.org/Commission.htm) provides important context:
 
 > So the problems, which seem to demand a forsaking of all known manuscripts in favor of loosely paraphrased references in Eusebius, all disappear when one realizes that Matthew 28:19 **was not meant to be a formula**, but simply a description of what the new disciples would be baptized into.  The Jews knew of the Father, and were aware of the workings of the holy spirit, but the identification of Jesus as the Son of God was now crucial to their baptism.  Gentiles, on the other hand, may or may not have known God as a Father, or His holy spirit working in the world, and would need to be introduced into that knowledge as well as that of Christ.  This would be a reasonable description of the Commission to preach and teach to “all nations.”  All three, God, Jesus, and the holy spirit (which is also called the spirit of Christ) are instrumental in the entire plan of salvation.  Thus being baptized as a response to the Gospel can certainly be described as being baptized “in the name of the Father, and of the Son, and of the holy spirit,” since **there is no reference in that verse to the Trinitarian concepts of coequality, coexistence, or triune persons.  The words of the Great Commission were in fact turned into a Trinitarian baptismal formula in later years**, but there is nothing to indicate that this was the original meaning or intent of the phrase.
-
-## Missing Trinity Definition
-
-Even if Matthew 28:19 is 100% correctly translated and does include *"the name of the Father and of the Son and of the Holy Spirit"*, it still does not prove that they are 3 components of [the Godhead](https://eternal.family.net.za/bible/concepts/godhead) or define [the Trinity](../index.md).
 
 ## Confusing identity with authority
 
@@ -104,6 +100,16 @@ The biblical example illustrates this usage:
 > "Rulers of the people and elders, if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed, let it be known to all of you and to all the people of Israel that **by the name of** Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead — by him this man is standing before you well..."
 >
 > — Acts 4:7-10 (ESV)
+
+Even if Matthew 28:19 is 100% correctly translated and does include *"the name of the Father and of the Son and of the Holy Spirit"*, it still does not prove that they are 3 persons of [the Trinity](../../trinity.md), because it could also be understood in terms of [agency](../../shema/agency.md). The Father commissioned His Son by His Spirit who likewise commission his disciples in the same authority ([name](https://word.ofgod.info/terms/name)). That could explain the singular authority, because it comes from the same source.
+
+## Contradicting Trinity Doctrine
+
+Matthew 28:18 is often skipped in favour of the Trinity doctrine:
+
+> And Jesus came and said to them, “All authority in heaven and on earth **has been given to me**. — Matthew 28:18 (ESV)
+
+> The verb edothē — aorist passive of didōmi, "to give" — is decisive. Authority was given to Jesus. He did not inherently possess it; he received it. The passive voice points to **God as the giver**, consistent with the entire New Testament witness: "God has made him both Lord and Christ" (Acts 2:36); "God exalted him at his right hand as Leader and Savior" (Acts 5:31); "the Father has given all judgment to the Son" (John 5:22); God "seated him at his right hand in the heavenly places, far above all rule and authority" (Ephesians 1:20-21). **A being who is ontologically God does not receive authority** — God possesses all authority by nature. The fact that Jesus' universal authority is granted, not inherent, is the clearest possible indication that **he is God's appointed [agent](../../shema/agency.md), not God himself**. — [CoreBible](https://corebible.app/MAT/28?text=matt)
 
 ## Conclusion
 
