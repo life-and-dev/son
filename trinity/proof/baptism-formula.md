@@ -54,6 +54,10 @@ These passages emphasize faith and life through the Son of God, not a descriptio
 
 The fourth-century codices [Sinaiticus and Vaticanus contain the triadic clause](https://greeknewtestament.net/mt28-19). No extant first- or second-century Greek manuscript preserving this verse was located in my research. This is a limit on the evidence located, not proof that the clause was added later.
 
+Earlier fragments of Matthew do survive, but none of the examples I could find preserve Matthew 28:19. For example, [𝔓104](https://portal.sds.ox.ac.uk/articles/online_resource/P_Oxy_LXIV_4404_Matthew_XXI_34-37_43_and_45_/21178702), dated approximately to the second half of the second century, preserves parts of Matthew 21. [𝔓64 and 𝔓67](https://www.magd.ox.ac.uk/blog/the-magdalen-papyrus-p64-possibly-the-earliest-known-fragments-of-the-new-testament-or-of-a-book/), dated approximately to the late second or early third century, preserve parts of chapters 3, 5, and 26.
+
+Earlier literary evidence also differs from a surviving Gospel manuscript. [Tertullian's *On Baptism* 13](https://www.tertullian.org/articles/evans_bapt/evans_bapt_text_trans.htm), written around the turn of the third century, attributes a commission with *Father, Son, and Holy Spirit* wording to the Lord. The work's [sole known surviving manuscript](https://www.tertullian.org/manuscripts/trecensis.htm) dates to the twelfth century. If substantially transmitted as written, this passage indicates that such wording circulated before the fourth century.
+
 [Eusebius' Demonstratio Evangelica 3](https://www.tertullian.org/fathers/eusebius_de_05_book3.htm) gives a shorter commission including “in my name.” It may be a selective quotation or paraphrase and it does not by itself establish a shorter manuscript reading of Matthew. The [English translation of Theophania 4.8](https://www.tertullian.org/fathers/eusebius_theophania_05book4.htm), from Syriac, includes the full clause. It is not firsthand evidence from an independently inspected Greek text.
 
 The English translation of [Aphrahat's Demonstration 1](https://www.newadvent.org/fathers/370101.htm) also has short wording. However, its Matthew attribution may be editorial.
@@ -98,4 +102,4 @@ No Supreme God receives authority from another person.
 
 The [baptism accounts](#baptism-in-jesus-name) emphasize Jesus without documenting every spoken formula.
 
-Certain [witnesses](#textual-evidence) hint that Matthew's triadic clause could be an interpolation, but no concrete evidence could be found. Even accepting the clause, neither the [singular “name”](#name-and-authority) nor the mention of three establishes the Trinity.  The [authority given to Jesus](#contradicting-trinity-doctrine) is consistent with the scriptural distinction between God the Father and his commissioned Son.
+Certain [witnesses](#textual-evidence) hint that Matthew's triadic clause could be an interpolation, but no concrete evidence could be found. Even accepting the clause, neither the [singular “name”](#name-and-authority) nor the mention of three establishes the Trinity. The [authority given to Jesus](#contradicting-trinity-doctrine) is consistent with the scriptural distinction between God the Father and his commissioned Son.
