@@ -1,35 +1,33 @@
 ---
-description: Analysis of Matthew 28:19's baptism formula examining scriptural evidence, early church records, and linguistic interpretation.
-keywords: Matthew 28:19, trinitarian baptism formula, baptism in Jesus name, apostolic baptism practice, Eusebius manuscript evidence, Shem Tov Hebrew Matthew, baptismal authority vs identity, Great Commission baptism
+description: Analysis of Matthew 28:19, baptism in Jesus' name, early witnesses, and the Trinity.
+keywords: Matthew 28:19, baptism formula, baptism in Jesus name, Eusebius, Shem Tob Hebrew Matthew, authority, Trinity
 ---
 
 # The Baptism Formula
 
-This article examines the trinitarian baptism formula found in Matthew 28:19 and its relationship to other New Testament baptismal accounts. The analysis considers scriptural evidence, early church historical records, and linguistic interpretation to evaluate the theological implications of this passage.
+Matthew 28:19 names the Father, the Son, and the Holy Spirit. Some Christians take this as a baptismal formula and evidence for the Trinity. This article distinguishes the wording of Matthew, baptismal practice, the history of the text, and the doctrine inferred from it.
 
-Most modern English Bible translations present:
+> Go therefore and make disciples of all nations, baptizing them **in the name of the Father and of the Son and of the Holy Spirit**, ... — Matthew 28:19 (ESV)
 
-> Go therefore and make disciples of all nations, baptizing them in the name of ***the Father and of the Son and of the Holy Spirit***, ... — Matthew 28:19 (ESV)
+## Baptism in Jesus' name
 
-## No support as a baptism formula
+Acts repeatedly associates baptism with Jesus' name:
 
-There are no other scriptures that explicitly use Matthew 28:19 as a baptism formula. Instead, the apostolic practice consistently demonstrates baptism in Jesus' name only, for example:
-
-> And Peter said to them, "Repent and be **baptized every one of you in the name of Jesus Christ** for the forgiveness of your sins, and you will receive the gift of the Holy Spirit." — Acts 2:38 (ESV)
+> And Peter said to them, “Repent and be **baptized every one of you in the name of Jesus Christ** for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.” — Acts 2:38 (ESV)
 
 > They had only been **baptized in the name of the Lord Jesus**. — Acts 8:16 (ESV)
 
 > And he commanded them to be **baptized in the name of Jesus Christ**. — Acts 10:48 (ESV)
 
-> On hearing this, they were **baptized in the name of the Lord Jesus**. And when Paul had laid his hands on them, the Holy Spirit came on them, and they began speaking in tongues and prophesying. — Acts 19:5-6 (ESV)
+> On hearing this, they were **baptized in the name of the Lord Jesus**. — Acts 19:5 (ESV)
 
 > And he said, 'The God of our fathers appointed you to know his will, to see the **Righteous One** and to hear a voice from his mouth; for you will be a witness for him to everyone of what you have seen and heard. And now why do you wait? Rise and be **baptized and wash away your sins, calling on his name**.' — Acts 22:14-16 (ESV)
 
 > For as many of you as were **baptized into Christ** have put on Christ. — Galatians 3:27 (ESV)
 
-Some scholars propose that the apostolic practice of baptizing "in Jesus' name" represents a shorthand reference to the fuller trinitarian formula. However, the consistent pattern throughout Acts suggests an intentional emphasis on Jesus' unique role in salvation rather than an abbreviated formula.
+These passages emphasize Jesus and the response to him. They do not record the exact words spoken at every baptism. This shows that it is more important to baptize under the correct authority or intention than to say the correct formulation.
 
-## Cross-references of Matthew 28:19
+## Related commission passages
 
 A cross-reference of the same verse excludes the trinity formula:
 
@@ -44,52 +42,31 @@ Luke's account does not mention the Father or the Holy Spirit by name in this pa
 >
 > — Acts 1:4-8 (ESV)
 
-Jesus does **not** declare *"you will be witnesses to the Holy Trinity"*.
+Jesus does **not** declare *"you will be witnesses to the Trinity"*.
 
-The following verses omit "the name of the Father" and "the name of the Holy Spirit".
+> But these are written so that you may believe that **Jesus is the Christ, the Son of God**, and that by believing you may have life in his name. — John 20:31 (ESV)
 
-> "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book: But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing **ye might have life through his name**" — John 20:30-31 (KJV)
+> I write these things to you who believe in **the name of the Son of God**, that you may know that you have eternal life. — 1 John 5:13 (ESV)
 
-> "These things have I written unto you that believe on **the name of the Son of God**; that ye may know that ye have eternal life" — 1 John 5:13 (KJV)
+These passages emphasize faith and life through the Son of God, not a description of God's nature as a Trinity.
 
-### Validity of Matthew 28:19
+## Textual evidence
 
-> The Greek Christian Justin Martyr, who wrote in the middle of the second century, never quoted "in the name of the Father, and of the Son, and of the Holy Ghost," nor did Aphraates (Aphrahat The Persian Sage) in the early fourth century, neither the great theologian Origen, nor Hermas the shepherd. — https://7th-day.info/great-commission-of-matthew-2819-20/
+The fourth-century codices [Sinaiticus and Vaticanus contain the triadic clause](https://greeknewtestament.net/mt28-19). No extant first- or second-century Greek manuscript preserving this verse was located in my research. This is a limit on the evidence located, not proof that the clause was added later.
 
-Some scholars question this verse's validity based on two factors:
+[Eusebius' Demonstratio Evangelica 3](https://www.tertullian.org/fathers/eusebius_de_05_book3.htm) gives a shorter commission including “in my name.” It may be a selective quotation or paraphrase and it does not by itself establish a shorter manuscript reading of Matthew. The [English translation of Theophania 4.8](https://www.tertullian.org/fathers/eusebius_theophania_05book4.htm), from Syriac, includes the full clause. It is not firsthand evidence from an independently inspected Greek text.
 
-> 1. they are not quoted by some early Church Fathers (notably Eusebius), and
-> 2. they seem to [contradict other sections of Scripture](https://7th-day.info/great-commission-of-matthew-2819-20/), when not properly understood.
->
-> This argument was first put forth by the nineteenth century Biblical scholar, F. C. Conybeare (1856-1924).
->
-> ...
->
-> "We now have the Hebrew Matthew Gospel, a manuscript that was preserved by the Jews from the first century. In this Shem Tov MS, the text at Matthew 28:19 does not contain the Trinitarian statement."
->
-> ...
->
-> — [Mark Clarke](http://godskingdomfirst.org/Commission.htm)
+The English translation of [Aphrahat's Demonstration 1](https://www.newadvent.org/fathers/370101.htm) also has short wording. However, its Matthew attribution may be editorial.
 
-[ljthriepland](https://www.followintruth.com/in-the-name-of-the-father-son-and-the-holy-spirit-matthew-28-19) also points out:
+### Shem-Tob's Hebrew Matthew
 
-> In fact the Greek word translated as name in Matthew 28:19 is ὄνομα onoma, and this is in the **singular form** in this verse. The verse does not say in the NAMES of the father, son and Holy Ghost but name as in one name. The in the singular name of the father son and Holy Ghost. The singular name of the triune God however, if the triune God were correct **would not be Jesus but YHWH**.
+Shem-Tob's Hebrew Matthew appears in *Even Bohan*, composed in 1380 and later revised; surviving copies are later. The precise wording of its Matthew 28:19 ending has not been independently verified here. Its ancestry is disputed: see [William L. Petersen’s critique](https://doi.org/10.15699/tc.3.1998.08) and [his related discussion](https://doi.org/10.1017/s0028688500016696). A first-century Shem-Tob manuscript has not been established, and this witness does not prove an interpolation. The inaccessible original-language editions and manuscript images cited in the supplied research have not been independently inspected for this article.
 
-However, it is important to note that while these manuscript arguments have been made, [Mark Clarke](http://godskingdomfirst.org/Commission.htm) provides important context:
+## Name and authority
 
-> So the problems, which seem to demand a forsaking of all known manuscripts in favor of loosely paraphrased references in Eusebius, all disappear when one realizes that Matthew 28:19 **was not meant to be a formula**, but simply a description of what the new disciples would be baptized into.  The Jews knew of the Father, and were aware of the workings of the holy spirit, but the identification of Jesus as the Son of God was now crucial to their baptism.  Gentiles, on the other hand, may or may not have known God as a Father, or His holy spirit working in the world, and would need to be introduced into that knowledge as well as that of Christ.  This would be a reasonable description of the Commission to preach and teach to “all nations.”  All three, God, Jesus, and the holy spirit (which is also called the spirit of Christ) are instrumental in the entire plan of salvation.  Thus being baptized as a response to the Gospel can certainly be described as being baptized “in the name of the Father, and of the Son, and of the holy spirit,” since **there is no reference in that verse to the Trinitarian concepts of coequality, coexistence, or triune persons.  The words of the Great Commission were in fact turned into a Trinitarian baptismal formula in later years**, but there is nothing to indicate that this was the original meaning or intent of the phrase.
+Some argue that the singular Greek **ὄνομα** (“name”) in Matthew 28:19 proves one shared divine name and therefore the Trinity. The singular alone establishes neither a shared divine name nor a three-person God. The phrase is usually used in terms of [association or authority](https://word.ofgod.info/name).
 
-## Confusing identity with authority
-
-In English, the word "name" could mean either "identity" or "authority". Because of this, some people argue that if the identity of the Father, the Son, and the Holy Spirit is the same identity, this proves that they are the same being.
-
-Jesus also did not instruct his disciples to change their names to "Jesus" or "Christ" or "[Christians](https://eternal.family.net.za/bible/concept/christian)".
-
-The phrase "in the name of" someone means under the [authority](https://eternal.family.net.za/biblical/concepts/name) of a superior person. The servant has the right or has been ordered to do certain things.
-
-For example, when Caesar sent his troops to conquer a country, they did it in the "name of Caesar," which means they had been ordered and had the support of Caesar to do so.
-
-The biblical example illustrates this usage:
+For example, Acts illustrates the association of name with authority:
 
 > And when they had set them in the midst, they inquired,
 >
@@ -101,20 +78,24 @@ The biblical example illustrates this usage:
 >
 > — Acts 4:7-10 (ESV)
 
-Even if Matthew 28:19 is 100% correctly translated and does include *"the name of the Father and of the Son and of the Holy Spirit"*, it still does not prove that they are 3 persons of [the Trinity](../../trinity.md), because it could also be understood in terms of [agency](../../shema/agency.md). The Father commissioned His Son by His Spirit who likewise commission his disciples in the same authority ([name](https://word.ofgod.info/terms/name)). That could explain the singular authority, because it comes from the same source.
+Even if Matthew 28:19 is 100% correctly translated and does include the phrase *"the name of the Father and of the Son and of the Holy Spirit"*, it still does not prove that they are 3 persons of [the Trinity](../../trinity.md). This authority could be understood in terms of delegated [agency](../../shema/agency.md). The Father commissioned His Son and likewise the Son commission his disciples in the same authority ([name](https://word.ofgod.info/terms/name)) by the Spirit of his Father. That could explain the singular authority, because it is the same authority that originates from God the Father.
 
 ## Contradicting Trinity Doctrine
 
-Matthew 28:18 is often skipped in favour of the Trinity doctrine:
+The previous verse in Matthew 28:18 actually contradicts the Trinity doctrine, which states that the Father, the Son and the Holy Spirit are 3 co-equal persons. Yet Mattew wrote:
 
 > And Jesus came and said to them, “All authority in heaven and on earth **has been given to me**. — Matthew 28:18 (ESV)
 
 > The verb edothē — aorist passive of didōmi, "to give" — is decisive. Authority was given to Jesus. He did not inherently possess it; he received it. The passive voice points to **God as the giver**, consistent with the entire New Testament witness: "God has made him both Lord and Christ" (Acts 2:36); "God exalted him at his right hand as Leader and Savior" (Acts 5:31); "the Father has given all judgment to the Son" (John 5:22); God "seated him at his right hand in the heavenly places, far above all rule and authority" (Ephesians 1:20-21). **A being who is ontologically God does not receive authority** — God possesses all authority by nature. The fact that Jesus' universal authority is granted, not inherent, is the clearest possible indication that **he is God's appointed [agent](../../shema/agency.md), not God himself**. — [CoreBible](https://corebible.app/MAT/28?text=matt)
 
+Another example is:
+
+> “Therefore let all the house of Israel know for certain that **God has made Him both Lord and Christ**—this Jesus whom you crucified.” — Acts 2:36 (LSB)
+
+No Supreme God receives authority from another person.
+
 ## Conclusion
 
-This analysis demonstrates that the controversy over Matthew 28:19's textual validity and interpretation may miss the broader theological point. Whether the trinitarian formula is original or represents a later development, baptism theologically involves the Father, Son, and Holy Spirit. Baptism cannot be accomplished without:
+The [baptism accounts](#baptism-in-jesus-name) emphasize Jesus without documenting every spoken formula.
 
-* the Father, because he has to permit us to be adopted as His children (Psalm 68:5; Romans 8:14; Galatians 3:26; Ephesians 1:5),
-* God's Son, because he reconciled us by his blood so that we could be forgiven (Matthew 26:26-28; 1 John 1:7; Acts 20:28; Colossians 1:20; Ephesians 1:7; Hebrews 9:14,22; Hebrews 10:19; Hebrews 13:12; Luke 22:20) which allows us to become a new creation (John 3:3; 2 Corinthians 5:17; 1 Peter 1:23)
-* [the Holy Spirit](holy-spirit.md), because the Holy Spirit gives birth (life) to our spirit (John 3:5-6; John 6:63; Titus 3:5)
+Certain [witnesses](#textual-evidence) hint that Matthew's triadic clause could be an interpolation, but no concrete evidence could be found. Even accepting the clause, neither the [singular “name”](#name-and-authority) nor the mention of three establishes the Trinity.  The [authority given to Jesus](#contradicting-trinity-doctrine) is consistent with the scriptural distinction between God the Father and his commissioned Son.
