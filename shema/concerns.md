@@ -24,7 +24,8 @@ How we understand sin:
 
 How we understand God's character:
 
-- **[Love of God](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
+- **[Eternal Love](concerns/eternal-love)**: If love requires an object to love. How can the loving God be loving before Creation?
+- **[God's love for His son](concerns/love-of-god.md)**: Would it be cruel for the Father to send His Son to die rather than die Himself?
 - **[Mediation](concerns/mediation.md)**: If Jesus is human, how can he mediate between the Father and billions of humans?
 
 How we view fellow Christians:
@@ -32,7 +33,8 @@ How we view fellow Christians:
 - **[Fellowship](concerns/fellowship.md)**: If Jesus remains a human person, how can he be close to believers across the world?
 - **[Majority](concerns/majority.md)**: If so many Christians have confessed Jesus as Almighty God for centuries, how could they all be mistaken? Why was this not resolved during the Reformation?
 
-On the other hand, there are also benefits in believing in a human Christ.
+> [!TIP]
+> Click on the above links to reveal the answers to these questions.
 
 # Benefits of a Human Christ
 
