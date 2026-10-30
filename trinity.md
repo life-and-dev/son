@@ -6,7 +6,7 @@ keywords: Trinity, Godhead, Tertullian, Nicene Creed, biblical unitarianism, Jes
 
 When I first studied [the Bible](https://word.ofgod.info) as a new believer, I accepted the Trinity as a fundamental truth in Trinitarian Christianity. But as I dug deeper into Scripture, historical documents, and early church writings, troubling questions emerged:
 
-* If the Trinity is central to Trinitarian Christianity, why do [even Trinitarian scholars admit the doctrine isn&#39;t found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
+* If the Trinity is central to Trinitarian Christianity, why do [even Trinitarian scholars admit the doctrine isn't found in the Bible?](https://thegodofjesus.com/reasons-to-believe/shocking-admissions)
 * How could the apostles preach salvation without ever mentioning it in their letters?
 * Why did it take over 300 years after Christ for [the church](https://church.ofgod.info) to [formalize this doctrine](https://church.ofgod.info/evolution)?
 * Why are there so [many variations of the Trinity doctrine](#the-development-of-the-trinity-theology) and which one is correct?
