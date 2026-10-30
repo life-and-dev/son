@@ -63,9 +63,9 @@ This fits Jeremiah’s promise of a law written within. In 2 Corinthians 3:3–6
 
 ## Why a human Messiah matters
 
-Romans 5:15–19 does not apologise for the obedient one **being a man**. That is central to its contrast with Adam. God anointed Jesus (Acts 10:38), raised him from death (Acts 2), and exalted the one who had obeyed even to death (Philippians 2:8–11). The Father’s help and the resurrection do not make Jesus’ obedience or suffering unreal. They show whose purpose his costly, willing act fulfilled.
+> Therefore he had to be **made like his brothers in every respect**, so that he might become a merciful and faithful high priest in [the service of God](../../human/serve-god.md), **to make propitiation for the sins** of the people. — Hebrews 2:17 (ESV)
 
-Trinitarian Christians also affirm that Jesus truly suffered as a human being and distinguish the Father from the Son. The disagreement should not be framed as though they necessarily believe in fake suffering. The question here is whether Scripture needs Jesus to be Almighty God for his sacrifice to be effective. These passages instead place confidence in the Father’s gracious covenant and his genuinely human Messiah.
+Romans 5:15–19 does not apologise for the obedient one **being a man**. That is central to its contrast with Adam. God anointed Jesus (Acts 10:38), raised him from death (Acts 2), and exalted the one who had obeyed even to death (Philippians 2:8–11). The Father’s help and the resurrection do not make Jesus’ obedience or suffering unreal. They show whose purpose his costly, willing act fulfilled.
 
 ## What faith in Jesus confesses
 
