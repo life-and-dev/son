@@ -68,13 +68,15 @@ In the same context Jesus defended Himself with Deuteronomy 8:3 which teaches th
 
 If Jesus was truly tempted, as written in Matthew 4:1 and Luke 4:2, then it would mean that Jesus did not have all authority at that moment, otherwise the devil's offer for more kingdoms (Matthew 4:9; Luke 4:5-6) **would not have been a temptation** to Jesus, because God already owns everything (Psalm 24:1).
 
-Jesus referred to God as Someone distinct from Himself (Matthew 4:6-7; Luke 4:12).
+Jesus referred to [God as Someone distinct](../human/distinct.md) from Himself (Matthew 4:6-7; Luke 4:12).
 
 If Jesus was God, it would not have made sense for the devil to even try to ask Jesus to worship him (Luke 4:7) because **God would have had no motivation to worship anything**. But if Jesus was a human who knew that He would be crucified, then this temptation could have been a convenient shortcut to bypass the suffering He knew He would endure and instantly receive power and glory with very little effort and still "save" His people.
 
 Jesus never told the devil that the devil should worship Him, but instead warned the devil that only God should be worshipped as another party. This implies that both He and the devil knew that He is not God. (Matthew 4:10; Luke 4:8)
 
 The devil quotes a scripture of God commanding His angels to protect Jesus (Matthew 4:5-7; Luke 4:9-11). If Jesus was God then **the devil would have quoted the wrong scripture** and Jesus would have had no need to respond. Yet, the devil knew exactly who and what God was (James 2:19).
+
+> Therefore he *[the Son]* **had to be made like his brothers in every respect**, so that he might become a merciful and faithful high priest [in the service of God](../human/serve-god.md), to make propitiation for the sins of the people. For because he himself has suffered **when tempted**, he is able to help those who are being tempted. Therefore, holy brothers, you who share in a heavenly [calling](https://ofgod.info/calling), consider Jesus, the apostle and high priest of our confession, who was faithful to him who appointed him, just as Moses also was faithful in all God’s house. — Hebrews 2:17 - 3:2 (ESV)
 
 ## Conclusion
 
