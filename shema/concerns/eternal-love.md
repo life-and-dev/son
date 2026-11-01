@@ -1,3 +1,8 @@
+---
+description: "The claim that God needed another eternal person to love raises questions about love, creation, and God's character."
+keywords: eternal love, divine love before creation, unitarian argument, object of love, God's character
+---
+
 # Eternal Love
 
 All Christians agree that God has this characteristic of love. However, since God is an eternal God with no beginning, it would imply that **there were a period before Creation where God was alone**, because He had not created anyone else yet.
