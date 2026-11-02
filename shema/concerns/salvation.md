@@ -3,11 +3,19 @@ description: What it means to believe in Jesus, the gospel preached by Jesus and
 keywords: salvation, faith, believe in Jesus, gospel, repentance, resurrection
 ---
 
-# Salvation
+# Salvation by Faith in Jesus
 
-Believing in Jesus is not merely agreeing that he exists or trying to produce enough certainty to be saved. It means trusting the Father and his promises through Jesus. The Father calls people to repent and receive salvation through his Son’s death and resurrection.
+One argument says that because Romans 10:12–13 applies Joel 2:32’s promise about calling on the LORD to the “Lord” named in Paul’s discussion of Jesus, *saving confession must identify Jesus as Almighty God.*
 
-## What believing means
+That is an interpretation of Paul’s use of Joel. It is not the wording of a stated requirement to confess the [divinity of Jesus](../../divine.md). This belief contradicts what Jesus prayer to [his distinct true God](../../human/distinct.md):
+
+> And **this is eternal life**, that they know you, **the only true God**, and **Jesus Christ whom you have sent**. — John 17:3 (ESV)
+
+Paul says people confess Jesus as Lord and believe that the Father raised him (Romans 10:9–10). He then quotes Joel's promise of salvation to everyone who calls on [the name of the LORD](https://ofgod.info/name) and asks how people can call without believing, hear without preaching, or hear unless messengers are sent (Romans 10:13–15). “Call on him” follows hearing and believing. Paul does not define it as confession.
+
+The [recorded preaching and responses](#what-the-apostles-preached-after-the-resurrection) announce God’s action through Jesus and call people to repent, believe, and respond to him. They do not present assent to the [Trinitarian doctrine](../../trinity.md) or any [other Greek philosophies](../../trinity/development.md) as a condition of salvation. This addresses stated conversion requirements, not everything any believer might later conclude about Jesus. The question of being [known by Jesus](known-by-jesus.md) should likewise not be reduced to reciting a particular formula.
+
+## What Faith Means
 
 Biblical [faith means trust in God](https://word.ofgod.info/terms/faith#the-meaning-of-faith) which is reliance on who God is and what He has promised. Abraham “**believed** the LORD, and he counted it to him as righteousness” (Genesis 15:6). He was “**fully convinced** that God was able to do what he had promised” (Romans 4:21).
 
@@ -185,14 +193,6 @@ When a jailer asked Paul and Silas what he must do to be saved, they answered, �
 Salvation is “by **grace** ... through **faith**,” God’s gift, “not a result of works”; believers are nevertheless created in Christ Jesus “for **good works**” (Ephesians 2:8–10). Paul describes “faith **working through love**” (Galatians 5:6). James challenges a claim to faith that gives no help to a brother or sister in need: even demons believe that God is one, and faith without works is dead (James 2:14–19, 26). Obedience and love are responses to grace, not its purchase price.
 
 That response includes [shared service](fellowship.md), not only private conviction. Paul describes members of one body using differing gifts for others (Romans 12:4–8), and the church growing as each part works properly (Ephesians 4:11–16).
-
-## Must I confess Jesus as Almighty God?
-
-One argument says that because Romans 10:12–13 applies Joel 2:32’s promise about calling on the LORD to the “Lord” named in Paul’s discussion of Jesus, *saving confession must identify Jesus as Almighty God.* That is an interpretation of Paul’s use of Joel. It is not the wording of a stated requirement to confess a Trinity.
-
-Paul says people confess Jesus as Lord and believe that the Father raised him (Romans 10:9–10). He then quotes Joel's promise of salvation to everyone who calls on [the name of the LORD](https://ofgod.info/name) and asks how people can call without believing, hear without preaching, or hear unless messengers are sent (Romans 10:13–15). “Call on him” follows hearing and believing. Paul does not define it as confession.
-
-The [recorded preaching and responses](#what-the-apostles-preached-after-the-resurrection) announce God’s action through Jesus and call people to repent, believe, and respond to him. They do not present assent to Trinitarian doctrine as a condition of salvation. This addresses stated conversion requirements, not everything any believer might later conclude about Jesus. The question of being [known by Jesus](known-by-jesus.md) should likewise not be reduced to reciting a particular formula.
 
 ## Conclusion
 
