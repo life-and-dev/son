@@ -98,6 +98,10 @@ Exodus 23:20-22 adds a commissioned angel: the LORD sends the messenger, command
 
 The mistaken inference treats a first-person pronoun, shared title, divine work, or name-bearing as sufficient proof of identity. The narratives above show why the relationship must instead be established from context.
 
+> For he whom God has sent **utters the words of God**, for He gives the Spirit without measure. — John 3:34 (ESV)
+
+In this case Jesus was "the Son" whom God has sent with His words.
+
 ### Angel of the LORD
 
 Exodus 23:20-22 distinguishes the LORD who sends from the angel sent ahead of Israel. The messenger carries authority connected with the LORD's name:
@@ -150,7 +154,39 @@ Paul's description of mediation expressly identifies Jesus as human:
 
 Acts 2:22 likewise identifies Jesus as a man and credits the Father with performing mighty works through him. Acts 10:38 describes the Father anointing Jesus with the Holy Spirit and power, and explains his good works by the Father's presence with him. Together, these passages support a genuinely human Son and Christ whose commission and power come from the Father.
 
-### Words, Works, and Authority
+### Delegated Authority
+
+Jesus healed on a Sabbath (John 5:1-9) and commanded the healed man to take up his bed (John 5:10), most likely as an act of faith. The Jews complained that it was not a lawful act to take up the bed on the Sabbath and persecuted Jesus for this reason (John 5:11-16).
+
+> But Jesus answered them, “My Father is working until now, and I am working.”
+>
+> This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even **calling God his own Father, making himself equal with God**.
+>
+> — John 5:17-18 (ESV)
+
+Jesus explains his agency with God:
+
+> So Jesus said to them, “Truly, truly, I say to you, the Son **can do nothing** of his own accord, but **only what he sees the Father doing**. For whatever the Father does, that the Son does likewise. For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.
+>
+> For the Father judges no one, but has **given** all judgment to the Son, that all may honor the Son, **just as they honor the Father**. Whoever does not honor the Son does not honor the Father **Who sent him**. Truly, truly, I say to you, whoever hears **my word** and **believes Him Who sent me** has eternal life. He does not come into judgment, but has passed from death to life.
+>
+> “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live. For as **the Father has life** in Himself, so **He has granted the Son also to have life** in himself.
+>
+> And **He has given him** authority to execute judgment, because he is [the Son of Man](../name/son-of-man.md). Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to [the resurrection](https://kingdom.ofgod.info/death/resurrection) of [life](https://kingdom.ofgod.info/life), and those who have done evil to the [resurrection](https://kingdom.ofgod.info/death/resurrection) of [judgment](https://kingdom.ofgod.info/death/judgement).
+>
+> “**I can do nothing on my own**. **As I hear, I judge**, and my judgment is just, because **I seek not my own will but the will of Him who sent me**.
+>
+> — John 5:20-31 (ESV)
+
+Jesus also explained this same concept to a diferent crowd:
+
+> I have much to say about you and much to judge, but **He Who sent me** is true, and **I declare to the world **what I have heard from Him**.”
+>
+> They did not understand that he had been speaking to them about the Father.
+>
+> So Jesus said to them, “When you have lifted up [the Son of Man](../name/son-of-man.md), then you will know that I am he, and that **I do nothing on my own authority, but speak just as the Father taught me**. And **He who sent me is with me**. He has not left me alone, for **I always do the things that are pleasing to Him**.”
+>
+> — John 8:26-29 (ESV)
 
 Jesus' statement about seeing the Father must be read with its explanation:
 
@@ -182,6 +218,7 @@ flowchart TD
     S -.->|recognises| F
 ```
 
+> [!TIP]
 > Solid arrows show sending  
 > Dotted arrows show reception recognising the sender through his representative.
 

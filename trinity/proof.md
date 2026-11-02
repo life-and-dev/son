@@ -181,6 +181,12 @@ The relevant Hebrew is *lānû* (לָנוּ), "for us". It is the preposition *l
 
 Isaiah 6 places the plural within a throne-room vision attended by seraphim (Isaiah 6:1-7), making a divine-council comparison especially natural. Trinitarians may instead understand the wording as compatible with intra-divine speech, and self-deliberation is also proposed. The verse does not specify the addressee or define divine persons. It therefore cannot, by itself, establish co-equal, co-eternal persons or disprove a Trinitarian reading.
 
+### John 5:18
+
+> This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God. — John 5:18 (ESV)
+
+Out of context, it seems like this verse support the [Trinitarian] formula that defines *the Son is equal with the Father*. However, Jesus' own response in verses John 5:19–29 is [a systematic, point-by-point denial of independent divine authority](proof/equal-with-god.md). Every claim Jesus makes is explicitly grounded in [delegation from the Father](../shema/agency.md).
+
 ## Greek Lexicon
 
 Most scholars agree the Father is God because it is plainly stated in multiple scriptures. But what about the other members of the Godhead?
