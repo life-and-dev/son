@@ -126,7 +126,7 @@ Why do scholars consider the shorter reading original?
 - Likely scribal addition: Ephesians 1:7 contains the exact phrase. A copyist may have added it to Colossians 1:14 to harmonize the two passages.
 - No obvious reason for removal: If Paul originally wrote “through his blood,” it is difficult to explain why so many independent manuscript traditions would omit it.
 
-That wording is firmly supported by Greek manuscript evidence. This is also why modern translations such as the ESV, NIV, NASB and LSB omit the phrase in Colossians 1:14.
+That wording is firmly supported by Greek manuscript evidence. This is also why **modern translations such as the ESV, NIV, NASB and LSB omit the phrase** in Colossians 1:14.
 
 This does not mean that redemption through Christ's blood is an unbiblical teaching. Ephesians 1:7 explicitly states:
 
