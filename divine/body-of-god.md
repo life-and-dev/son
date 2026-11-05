@@ -66,7 +66,7 @@ On this reading, the Word becoming flesh means that God kept His promise. In oth
 | [de](https://biblehub.com/greek/1161.htm)          | even                    | even                | Conj                                                 |
 | [staurou](https://biblehub.com/greek/4716.htm)     | of [a] cross.           | on a cross          | N-GMS                                                |
 
-> [!ERROR]
+> ![ERROR]
 > The translation errors are highlighted in ***bold italics*** in the above table. This is a clear example how Bible scripture were adjusted to compensate for the [Trinity Doctrine](../trinity.md).
 
 ### “Though he was in the form of God”
