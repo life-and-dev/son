@@ -79,6 +79,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | ----------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | John 1:1-18       | "The Word became flesh"        | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                                |
 | Philippians 2:6-8 | "Form Of God, Likeness of Men" | [Translation: multiple errors: changing tense, adding words, changing words](body-of-god.md#philippians-26-8-form-of-god-likeness-of-men) |
+| Colossians 1:14   | "Redemption through his blood" | [Textual Variation: "through his blood" was added in later manuscripts.](body-of-god.md#colossians-114-through-his-blood)                 |
 | Colossians 2:9    | "God in a human body"          | [Translation: "whole fullness of deity dwells" referring to truth not essence](body-of-god.md#colossians-29-god-in-a-human-body)          |
 | 1 Timothy 3:16    | "God manifested in flesh"      | [Translation: Should be "he (Jesus) manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                           |
 | 1 John 4:2        | "Christ has come in flesh"     | [Topic: Adressing Docetism, not affirming preexistance](body-of-god.md#1-john-42-christ-has-come-in-flesh)                                |
