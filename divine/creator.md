@@ -243,17 +243,17 @@ A very literal translation of Colossians 1:15-20 by [Sean Finnegan](https://yout
 
 | Verse | Strophe 1: Colossian 1:15-18a                         | Verse | Strope 2: Colossians 1:18b-20                   |
 | ----- | ----------------------------------------------------- | ----- | ----------------------------------------------- |
-| 15a   | who is [the] image of the invisible God,              | 18b   | who is [the] beginning,                         |
-| 15b   | firstborn of all creation                             | 18c   | firstborn from the dead,                        |
-| -     | -                                                     | 18d   | in order that he may be first in all things,    |
-| 16a   | for in him were created all things                    | 19    | for in him was pleased all the fulness to dwell |
-| 16b   | in the heavens and upon the earth,                    | -     | -                                               |
-| 16c   | the visible and the invisible,                        | -     | -                                               |
-| 16d   | whether throne or dominions or domains or authorities | -     | -                                               |
-| 16e   | all things have been created through him and for him  | 20a   | and through him to reconcile all things in him  |
-| 17a   | and he is before all things                           | 20b   | making peace through the blood of his cross     |
-| 17b   | and all things hold together in him                   | 20c   | whether the things upon the earth               |
-| 18a   | and he is the head of the body of the Church          | 20d   | or the things in the heavens                    |
+| 15a   | WHO IS [THE] IMAGE OF THE INVISIBLE GOD,              | 18b   | WHO IS [THE] BEGINNING,                         |
+| 15b   | FIRSTBORN OF ALL CREATION                             | 18c   | FIRSTBORN FROM THE DEAD,                        |
+| -     | -                                                     | 18d   | IN ORDER THAT HE MAY BE FIRST IN ALL THINGS,    |
+| 16a   | FOR IN HIM WERE CREATED ALL THINGS                    | 19    | FOR IN HIM WAS PLEASED ALL THE FULNESS TO DWELL |
+| 16b   | IN THE HEAVENS AND UPON THE EARTH,                    | -     | -                                               |
+| 16c   | THE VISIBLE AND THE INVISIBLE,                        | -     | -                                               |
+| 16d   | WHETHER THRONE OR DOMINIONS OR DOMAINS OR AUTHORITIES | -     | -                                               |
+| 16e   | ALL THINGS HAVE BEEN CREATED THROUGH HIM AND FOR HIM  | 20a   | AND THROUGH HIM TO RECONCILE ALL THINGS IN HIM  |
+| 17a   | AND HE IS BEFORE ALL THINGS                           | 20b   | MAKING PEACE THROUGH THE BLOOD OF HIS CROSS     |
+| 17b   | AND ALL THINGS HOLD TOGETHER IN HIM                   | 20c   | WHETHER THE THINGS UPON THE EARTH               |
+| 18a   | AND HE IS THE HEAD OF THE BODY OF THE CHURCH          | 20d   | OR THE THINGS IN THE HEAVENS                    |
 
 Sean explains that although the strophes are not a perfect symmetry of each other, they do align a lot. The gaps were possibly caused by elaborations.
 
