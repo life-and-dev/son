@@ -97,6 +97,43 @@ The English translation conflates **morphe** “form” (what something appears 
 
 A [literal translation of Philippians 2:6-8](https://preexistenceofchrist.com/understanding-philippians-2/) show that this passage does not teach incarnation but rather refutes it and [Trinitarian theology](../trinity.md). What is said in no uncertain terms is that Jesus was exalted and given the authority he has because of his obedience until death on a cross.  Rather than describing incarnation, this passage confirms [the Unitarian understanding of God](../shema.md).
 
+## Colossians 1:14 (Through His Blood)
+
+> He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in Whom *[God]* we have redemption ***through His blood***, the forgiveness of sins. — Colossians 1:13-14 (NKJV)
+
+The context shows that the "Whom" refers to God, because it distinctly mention "the kingdom of the Son of His love". Since Jesus did not had a son, this could only refer to God the Father. However, the Bible is clear the Jesus was crucified and this is used as evidence that *the blood of Jesus is God's own blood*.
+
+However, this is a textual additional added in the medieval times, absent from earlier more reliable manuscripts.
+
+> tc διὰ τοῦ αἵματος αὐτοῦ (dia tou {aimato" autou, “through his blood”) is read at this juncture by several minuscule mss (614 630 1505 2464 al) as well as a few, mostly secondary, versional and patristic witnesses... **the testimony on behalf of the shorter reading is quite overwhelming**: {א A B C D F G Ψ 075 0150 6 33 1739 1881 Ï latt co as well as several other versions and fathers}. — [NETBible Commentary](https://classic.net.bible.org/verse.php/verse.php?book=Col&chapter=1&tab=commentaries&verse=14&)
+
+In other words, the phrase “through his blood” is absent from the earliest and most reliable manuscripts. The following table summarizes the evidence:
+
+| Manuscript                        | Approximate date | “Through his blood”   |
+| --------------------------------- | ---------------- | --------------------- |
+| Papyrus 46 (𝔓46)                  | AD 200           | Absent                |
+| Codex Vaticanus (B)               | AD 325–350       | Absent                |
+| Codex Sinaiticus (א)              | AD 330–360       | Absent                |
+| Codex Alexandrinus (A)            | AD 400–440       | Absent                |
+| Later Greek minuscule manuscripts | Mainly medieval  | Present in a minority |
+
+The NET Bible's textual apparatus confirms that the evidence for the shorter reading is overwhelming.
+
+Why do scholars consider the shorter reading original?
+
+- Earlier evidence: The oldest important Greek witnesses omit the phrase.
+- Broad agreement: Manuscripts from different textual traditions support the shorter reading.
+- Likely scribal addition: Ephesians 1:7 contains the exact phrase. A copyist may have added it to Colossians 1:14 to harmonize the two passages.
+- No obvious reason for removal: If Paul originally wrote “through his blood,” it is difficult to explain why so many independent manuscript traditions would omit it.
+
+That wording is firmly supported by Greek manuscript evidence. This is also why modern translations such as the ESV, NIV, NASB and LSB omit the phrase in Colossians 1:14.
+
+This does not mean that redemption through Christ's blood is an unbiblical teaching. Ephesians 1:7 explicitly states:
+
+> “In whom we have redemption through his blood, the forgiveness of sins...”
+
+But in the context of Ephesians 1:7, the "whom" refers to Christ and not God the Father, which is correct.
+
 ## Colossians 2:9 (God in a Human Body)
 
 The misleading paraphrased NLT reads:
