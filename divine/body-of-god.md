@@ -66,36 +66,40 @@ On this reading, the Word becoming flesh means that God kept His promise. In oth
 | [de](https://biblehub.com/greek/1161.htm)          | even                    | even                | Conj                                                 |
 | [staurou](https://biblehub.com/greek/4716.htm)     | of [a] cross.           | on a cross          | N-GMS                                                |
 
-> ![ERROR]
+> [!CAUTION]
 > The translation errors are highlighted in ***bold italics*** in the above table. This is a clear example how Bible scripture were adjusted to compensate for the [Trinity Doctrine](../trinity.md).
 
 ### “Though he was in the form of God”
 
 The Greek verb hyparcho is translated as *“he was”* here. This gives the impression that "he was" in the form of God before he was made in the likeness of man.
 
-The Greek verb is in the **present active voice** (not the aorist) meaning “he is” or “he has” rather than “he was”. That is, Jesus is **now** in form of God. The first part of Philippians 2:6 refers to the **present circumstances** of now being in the form of God having been exalted and being given a name above every name (Philippians 2:9-11). Some translations render this as “being in the form of God” which is more correct than “he was”.
+The Greek verb is not an aorist, but in the **present active voice**, meaning “he is” or “he has” rather than “he was”. That is, Jesus is **now** in form of God. The first part of Philippians 2:6 refers to the **present circumstances** of now being in the form of God having been exalted and being given a name above every name (Philippians 2:9-11). Some translations render this as “being in the form of God” which is more correct than “he was”.
 
 The word **“though” is not in the Greek text** and is an **interpretive interpolation**. An interpolation is a new or spurious matter inserted into the text. In this case, it is used to bias the reader to give the impression that the statement is to be contrasted with what comes after in Philippians 2:6 “did not count equality with God a thing to be grasped.” Adding the word “though” to “he was” is a biased interpretive decision that goes beyond what the actual text conveys.
 
 ### “by taking the form of a servant”
 
-There is **no word “by” in Greek**. This is added by the translators to imply that Jesus made the decision to become a man. “By” in this case is another **interpretive interpolation** (new or spurious matter inserted into the text).
+There is **no word “by” in Greek**. “By” in this case is another **interpretive interpolation**. This word was **added by the translators** to imply that Jesus made the decision to become a man.
 
 ### “born in the likeness of men”
 
-The Greek word translated ‘born’ is γενόμενος (ginomai) **means to be, become, happen** or **to come into existence, be born**. The general meaning is to **come into existence without any reference to any kind of [preexistence](./preexistance.md)**.
+The Greek word translated ‘born’ is γενόμενος (ginomai) **means to be, become, happen** or **to come into existence, be born**. The general meaning is to **come into existence without any reference to any kind of [preexistence](preexistance.md)**.
 
 ### “in human form”
 
-The Greek word translated “form” here is **what something is** rather than what something appears to be. That is, Jesus is a man in composition and not just in appearance.
-
 The ESV **translates both the Greek words morphe and schema as “form”** but these Greek words have a **different meanings**.
 
-The BDAG lexicon defines **schēma** as the generally recognized **state or form of something**, including its **functional aspect** — **what something actually is** in its composition and function, not merely what it looks like from the outside. Jesus was found in the composition of a man — he is a man in his actual being. The verb "was found" (heuretheis) is passive — he was recognized, discovered, identified by others as what he actually was: a human being. This is the consistent testimony of those who knew him: "Jesus of Nazareth, a man attested to you by God" (Acts 2:22); "the man Christ Jesus" (1 Timothy 2:5); "a man whom he has appointed" (Acts 17:31).
+The Greek word **schēma** refers to what something is in its composition. The BDAG lexicon defines schēma as the generally recognized **state or form of something**, including its **functional aspect** — **what something actually is** in its composition and function, not merely what it looks like from the outside. Jesus was found in the composition of a man — he is a man in his actual being. The verb "was found" (heuretheis) is passive — he was recognized, discovered, identified by others as what he actually was: a human being. This is the consistent testimony of those who knew him: "Jesus of Nazareth, a man attested to you by God" (Acts 2:22); "the man Christ Jesus" (1 Timothy 2:5); "a man whom he has appointed" (Acts 17:31).
 
-The English translation conflates **morphe** “form” (what something appears to be outwardly appearance) with scheme “form” (what something is in its composition). Rendering these two words ‘form’ in English obscures the difference. To maintain the distinction that is in Greek it would be more accurate to translate morphe as “display” or “appearance” and schema as “fashion” or “composition” (ontology). That is, Jesus is in the **display of God** but was brought into existence in the **composition of a man**.
+The Greek word **morphe** refers to the outward appearance of something.
 
-A [literal translation of Philippians 2:6-8](https://preexistenceofchrist.com/understanding-philippians-2/) show that this passage does not teach incarnation but rather refutes it and [Trinitarian theology](../trinity.md). What is said in no uncertain terms is that Jesus was exalted and given the authority he has because of his obedience until death on a cross.  Rather than describing incarnation, this passage confirms [the Unitarian understanding of God](../shema.md).
+The English translation conflates **morphe** with **schēma** and renders both as “form” in English which obscures the difference. To maintain the distinction that is in Greek it would be more accurate to translate morphe as “display” or “appearance” and schema as “fashion” or “composition” (ontology).
+
+That is, Jesus is **a man in composition** and not just in appearance, but the **display of God**.
+
+A [literal translation of Philippians 2:6-8](https://preexistenceofchrist.com/understanding-philippians-2/) show that this passage does not teach incarnation but rather refutes it and [Trinitarian theology](../trinity.md). This is possibly why the church found it necessary to change the text to protect the Trinitarian doctrine.
+
+What is said in no uncertain terms is that Jesus was exalted and given the authority he has because of his obedience until death on a cross.  Rather than describing incarnation, this passage confirms [the Unitarian understanding of God](../shema.md).
 
 ## Colossians 1:14 (Through His Blood)
 
