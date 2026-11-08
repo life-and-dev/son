@@ -59,56 +59,44 @@ The phrase is also used as a simple self-identification or a question of identit
 
 ## God’s Name
 
-The answer in Exodus 3 should be read as one connected message rather than a divine name. God assures Moses of His presence, describes His continuing faithfulness, and identifies Himself as Israel’s ancestral God.
+God assures Moses of His presence, describes His continuing faithfulness, and identifies Himself as Israel’s ancestral God.
 
-God first promises Moses:
+> So now, come and I will send you to Pharaoh, and so you shall bring My people, the sons of Israel, out of Egypt.”
+> But Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the sons of Israel out of Egypt?” And He said, “Certainly **I will be** with you, and this shall be the sign to you that it is I who have sent you: when you have brought the people out of Egypt, you shall serve God at this mountain.”
+> Then Moses said to God, “Behold, I am about to come to the sons of Israel, and I will say to them, ‘The God of your fathers has sent me to you.’ And they will say to me, ‘What is His name?’ What shall I say to them?”  
+> And God said to Moses, *“I AM WHO I AM”*; and He said, “Thus you shall say to the sons of Israel, ‘*I AM* has sent me to you.’” And God furthermore said to Moses, “Thus you shall say to the sons of Israel, ‘**[Yahweh](https://ofgod.info/name#yhwh)**, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ **This is My name** forever, and this is My memorial-name from generation to generation.
+>
+> — Exodus 3:10-15 (LSB)
 
-> “I will certainly be with you.” — Exodus 3:12 (NKJV)
+Most English bibles translate Exodus 3:14 as "I AM WHO I AM" to align with John 5:58. However, the REV Bible commentator notes:
 
-The Hebrew expression translated “I will be” is *’ehyeh*. The same verb appears in God’s following declaration:
+> a number of versions have **“I will become [or “be”] what I will become”** as an acceptable translation and put in a marginal note to that effect (cf. CEB, HCSB, ESV, NAB, NET, NIV, NLT, NRSV). There are other sources that support the reading “I will be” as well. For example, Theodotion and Aquila’s Greek Translations of the Torah (130–150AD) have, **“I will be who I will be”** (“εσομαι ὅς εσομαι;” esomai hos esomai). So they certainly capture the future tense of the Hebrew.a Also, the Aramaic Targums of Onkelos and Neofiti preserve the future tense “will be” of אֶֽהְיֶ֑ה in Exodus 3:14.b Also, William Propp’s Translation in the Anchor Bible series of Exodus 3:14 is, “Then Deity said to Moses, ‘I will be who I will be.’” And He said, “Thus you will say to Israel’s Sons: ‘I-will-be’ has sent me to you.” — [REV Bible Commentary](https://revbible.com/comm/Exodus/chapter3/14)
 
-> “I AM WHO I AM.” And He said, “Thus you shall say to the children of Israel, ‘I AM has sent me to you.’” — Exodus 3:14 (NKJV)
+The same verb also occurs in other places where it is translated as “will be”. For example Exodus 4:12,15; Deutoronomy 31:23; Joshua 1:5.
 
-The Hebrew *’ehyeh ’asher ’ehyeh* may also be translated “I will be what I will be.” Because verse 12 has already promised, “I will be with you,” verse 14 can reasonably be understood as an assurance of God’s continuing presence and faithfulness. Traditional Jewish interpretation also connects *’ehyeh* with God being present with His people in their suffering.
+> The Hebrew verb translated as “will be” is an **imperfect verb**, not a present tense verb. The imperfect verb in Hebrew is usually a **future tense**. — [REV Bible Commentary](https://revbible.com/comm/Exodus/chapter3/14)
 
-God then identifies Himself more fully:
+The "name", "I Will Be Who I Will Be" is related to [God's name YHWH](https://ofgod.info/name#yhwh).
 
-> “The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you. **This is My name** forever.” — Exodus 3:15 (NKJV)
+> it is derived from the trilateral root (H-V-H), which is from an earlier root (H-Y-H) “to be.” Even that does “double duty,” because it can both refer to God, who is Eternal and who “is,” and it can refer to what He will become and do. — [REV Bible Commentary](https://revbible.com/comm/Exodus/chapter3/14)
 
-[“The LORD” represents **YHWH**](https://ofgod.info/yhwh). The words “the God of Abraham, Isaac, and Jacob” identify the bearer of that name as the God already known by Israel’s ancestors. The combined message may therefore be expressed as follows: “I will be with you. I am the same God who was faithful to your fathers. YHWH, their God, has sent you.”
+It is [common through the Bible that God uses agents](../../shema/agency.md) to speak on His behalf. Due to the way Exodus 3 is translated the message often gets lost:
 
-This is a contextual explanation rather than a word-for-word translation of verse 14. Verse 14 does not contain the words “with you,” and verse 15 does not literally say, “I was with your fathers.” Nevertheless, those ideas arise naturally from the connected statements in verses 6 to 15.
+1. God sends Moses to Pharaoh with a command "bring My people, the children of Israel, out of Egypt".
+2. Moses note that he has no authority ("whom am I that I should go to Pharaoh"?).
+3. God responds that Moses will act under His authority ("I will be with you")
+4. Moses also asked how he should identify God to the people of Israel.
+5. God responds:
+   - Assures Moses that He will be with him with the Pharaoh and be with him with the Israelites ("I will be ... I will be")
+   - Moses had to act as God's [agent](../../shema/agency.md) ("send you")
+   - Then God answered Moses' question and identified Himself as "[Yahweh](https://ofgod.info/name#yhwh), the God of your fathers... This is My name forever" and that is exactly how Moses identified God to the Pharoah and to the Israelites as "Yahweh".
+   - It is also how God would like to be remembered
 
-### What “Name” Communicates
-
-In Scripture, a name can communicate more than a personal label. It may [represent the bearer’s identity, reputation, presence, or authority](https://word.ofgod.info/terms/name). When someone acts “in the name” of another person, that person acts under the authority of the one who sent him.
-
-This does not mean that YHWH is not a real name. It means that God’s name carries the identity and authority of its bearer. By telling Israel that "YHWH, the God of Abraham, Isaac, and Jacob", had sent him, Moses identified both **the source** of his commission and **the authority** under which he acted.
-
-God therefore did not merely give Moses a word to pronounce. He gave Moses a message of divine presence, covenantal continuity, and delegated authority:
-
-1. God would be with Moses.
-2. God would prove faithful to Israel.
-3. He was the same God known by Abraham, Isaac, and Jacob.
-4. Moses spoke under His authority.
+"I AM WHAT I AM" is not God's designation. Moses never identified God this way to either the Pharaoh or to the Israelites. Instead Moses identified God as "[Yahweh](https://ofgod.info/name#yhwh) or the God of our fathers... (Exodus 5:1,3; 7:16; 8:10,22; 9:1,13; 10:3,9,25, etc.)
 
 ### Why This Does Not Identify Jesus as YHWH
 
 The Greek translation of Exodus 3:14 says *egō eimi ho ōn*, “I am the One who is,” and then identifies the sender as *ho ōn*, “the One who is.” John 8:58 does not reproduce this complete expression. **Jesus says only** *egō eimi*, the **ordinary Greek words** “I am.”
-
-Acts 3:13 preserves the distinction:
-
-> “**The God of Abraham, Isaac, and Jacob, the God of our fathers**, glorified **His Servant Jesus**.” — Acts 3:13 (NKJV)
-
-The grammar shows that “The God of Abraham, Isaac, and Jacob” performs the action and that “His Servant Jesus” receives the action. Peter therefore [distinguishes](../../human/distinct.md) Jesus from the One he calls the God of the patriarchs. This would create a contradiction if Jesus was claiming to be “The God of Abraham, Isaac, and Jacob” in John 8:58.
-
-### The Septuagint Evidence
-
-The Greek translation of the Old Testament, the Septuagint, provides further clarity. In Exodus 3:14, the title is rendered differently than the phrase Jesus used.
-
-> And God said to Moses: “I am (εγω ειμι) **THE ONE WHO IS (ο ων).**” … ‘You are to tell the children of Israel this: “**THE ONE WHO IS (ο ων)** has sent me to you.’” — Exodus 3:14
-
-The author of the Gospel of John was likely familiar with the Septuagint. If Jesus were claiming the divine name from Exodus, he would be expected to use the title *ho on* (the one who is). This is the specific name God identifies as in that passage. Instead, Jesus used the common *egō eimi*.
 
 ## Identifying the Context
 
