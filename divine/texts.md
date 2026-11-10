@@ -47,6 +47,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](preexistance.md#john-313-descended-from-heaven)                                           |
 | John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](preexistance.md#john-313-descended-from-heaven)                                  |
+| John 16:28   | "Come from God"                | [Topic: Jesus announces end of his ministry, not incarnation.](preexistance.md#john-1626-30-came-from-god)                                          |
 | John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](preexistance.md#john-175-glory-before-the-world) |
 
 ### Creator Interpretations
