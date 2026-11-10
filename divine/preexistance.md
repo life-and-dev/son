@@ -11,7 +11,7 @@ Several passages appear to describe an earlier heavenly life. Others present a p
 
 Conscious preexistence means a conscious Jesus living before his human birth. Evidence this are:
 
-- [John 3:13](#john-313-descended-from-heaven), 6:38-62, 16:28 connect descent from heaven with departure to God the Father. This suggests [a heavenly origin and return](#john-638-62-come-down-from-heaven).
+- [John 3:13](#john-313-descended-from-heaven), [6:38-62](#john-638-62-come-down-from-heaven), [16:28](#john-1626-30-came-from-god) connect descent from heaven with departure to God the Father.
 - John 8:58 places Jesus before Abraham in language that naturally suggests [conscious temporal priority addressed in a different article](claims/i-am.md).
 - John 17:5,24 describes glory and love before the world. This supports [an earlier relationship with God the Father](#john-175-glory-before-the-world).
 - Various other scriptures implying [Jesus is the Creator addressed in a different article](creator.md).
@@ -72,6 +72,23 @@ In John 6:38-62 it seems like Jesus speaks of his own descent, not merely a mess
 > Jesus said to them, “**I am the bread** of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst. But I said to you that you have seen me and yet do not believe. All that **the Father gives** me will come to me, and whoever comes to me I will never cast out. For **I have come down from heaven**, not to do my own will but the will of **Him Who sent me**. And this is the will of **Him Who sent me**, that I should lose nothing of all that **He has given me**, but raise it up on the last day. — John 6:35-39 (ESV)
 
 Here Jesus was addressing his audience using idioms or figures of speach. Nobody though that Jesus was a literal bread. He makes it clear that the authority he has was given by the Father and with this authority. Then he explains that "come down from heaven" means to be "sent by Him" (the Father) for our benefit.
+
+### John 16:26-30 (Came from God)
+
+> In that day you will ask in my name, and I do not say to you that I will ask *{the}* Father *{on your behalf}*; for the Father Himself loves you, because you have loved me and have believed that **I came from *{God}***. ***{I came from the Father and}* have come into the world**, and now I am leaving the world and going to the Father.” — John 16:26-28 (ESV)
+
+As this scripture is usually translated, it appears that Jesus is describing an incarnation circuit: from God to the world and back to God.
+
+> [!WARNING]
+> **Multiple textual variations** exist in the source manuscripts, suggesting **tampering** with Scripture. I updated the above scripture with *{italic curly braces}* to show where variations occur. The translators had to choose which manscripts to use, and which to ignore based on their understanding of the Scripture.
+
+Without the textual variations, all that is left is:
+
+> In that day you will ask in my name, and I do not say to you that I will ask ***my*** Father; for the Father Himself loves you, because you have loved me and have believed that **I have come into the world**, and now **I am leaving the world** and **going to the Father**.” — John 16:26-28 (ESV)
+
+This shows Jesus is distinct from the Father. The passage is not about incarnation, but it stead Jesus warned his disciples that his ministry in the world was about to end and that would be going to God, his Father.
+
+> God fathered Jesus in Mary's womb; God was Jesus' source and origin. Jesus thus "came from" the Father when God brought him into existence. The phrase ***"came into the world"* does not require prior existence outside the world any more than John the Baptist's "coming" did**. Luke 7:33-34 provides a direct parallel: "**John the Baptist has come** eating no bread and drinking no wine... The Son of Man has come eating and drinking." **Both "came" into public ministry—neither descended from heaven.** Jesus' statement that he is "going to the Father" refers to his **post-resurrection exaltation**. Jesus knew from Scripture that after his suffering he would be glorified and seated at God's right hand. Speaking at the Last Supper on the eve of his arrest, he tells his disciples what is about to unfold. The language describes Jesus' origin from God, **his earthly ministry, and his coming exaltation**—not a preexistent divine being incarnating and then returning to heaven. For fuller analysis, see [https://preexistenceofchrist.com/preexistence-passages-in-john/](https://preexistenceofchrist.com/preexistence-passages-in-john/) — [AICNT Commentary](https://corebible.app/JHN/16?verseNumber=%2226%22&translation=AICNT).
 
 ### John 17:5 (Glory Before the World)
 

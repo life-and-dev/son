@@ -115,54 +115,24 @@ These passages establish the article’s humanity evidence. The next question is
 
 ## Pre-existence Claims
 
-However, many would disagree that Jesus existed only from his birth.
+However, many would disagree that Jesus existed only from his birth. [Several scriptures are interpreted as claiming pre-existence](divine/claims/preexistence.md), but none of them explicitly say that Jesus pre-existed.
 
-### Abraham Saw Jesus
+For example:
 
-A common argument appeals to Jesus’s statement in John 8:49-51, "**before Abraham was**, I am". His opponents understood him to claim existence before Abraham’s birth. This article questions whether that interpretation follows, given Jesus’s reference to the Father’s glorification and Abraham’s vision of the future (John 8:52-54):
+* It relies on [a misquotation of Genesis 1:26-27 to assumes that Jesus helped God to create mankind](divine/creator.md#genesis-126-man-in-our-image).
+* It relies on [a specific textual variation of John 3:13](divine/preexistance.md#john-313-descended-from-heaven) in later manuscripts.
+* It relies to [interpret the narrator's comment as Jesus own words in John 6:38-62](divine/preexistance.md#john-313-descended-from-heaven) to confusing the timing of Jesus ascention.
+* It relies on [a misunderstanding that Jesus agreed with his opponents in John 8:58](divine/preexistance.md#john-858-before-abraham) that he existed before Abraham.
+* It relies on [a specific textual variation of John 16:28](divine/preexistance.md#john-1626-30-came-from-god) to give the impression that Jesus was talking about incarnation instead of his ministry.
+* It relies on [an interpretation that confuses God's foretold plan and glory with literal preexistance in John 17:5](divine/preexistance.md#john-175-glory-before-the-world)
+* It relies on [a mistranslation to present Jesus as "the Author of life"](divine/creator.md#john-111-author-of-life) suggesting that Jesus created life instead of saving life.
 
-> Your father Abraham rejoiced that he would **see my day**. He saw it and was glad. — John 8:56 (ESV)
+Existence in foreknowledge means a future Messiah already known and appointed by God the Father, without an earlier conscious life. Foreordination means appointment beforehand. Evidence this are:
 
-Jesus never said that "he saw Abraham". The phrase, "see my day", is a future event from Abraham's perspective.
-
-In the same chapter, Jesus told his opponents that he was "a man":
-
-> Jesus said to them, "If you were Abraham's children, you would be doing the works Abraham did, but now you seek to kill me, ***a man*** who has told you the truth that I heard from God." — John 8:39-40 (ESV)
-
-If Jesus’s statement were understood as a claim to divinity, the article argues that its relation to his description of himself as a man would require explanation within a two-nature account.
-
-### Firstborn of Creation
-
-Some argue that Paul taught that Jesus existed before creation:
-
-> He has delivered us from the domain of darkness and transferred us to the kingdom of His beloved Son, in whom we have redemption, the forgiveness of sins.
->
-> He is the image of the invisible God, **[the firstborn](../divine/firstborn.md) of all creation**.
->
-> ...
->
-> He is the beginning, **the firstborn from the dead**, that in everything he might be [preeminent](divine/preexistance.md).
->
-> — Colossians 1:13-15,18 (ESV)
-
-"Firstborn" does not mean chronologically "first created".
-
-* "first" means most important.
-* "born" limits the scope to those who were born in a particular family.
-
-In this article’s interpretation of Colossians, it would mean that he would inherit more from the Father than any other created being. On that interpretation, Jesus would therefore be a creature.
-
-> For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be **the firstborn among many brothers**. — Romans 8:29 (ESV)
-
-In this context, Paul claims that Jesus is the most important brother among many brothers. This contributes to the article’s presentation of Jesus as human like his brothers.
-
-### Virgin Conception
-
-Some argue that the virgin conception proves that Jesus was not an ordinary human child. The virgin conception is extraordinary and affirms God’s initiative in Jesus’s origin. It does not itself say that Jesus is God:
-
-> “For that which is conceived in her is **from the Holy Spirit**. She will bear a son, and you shall call his name Jesus.” — Matthew 1:20-21 (ESV)
-
-A miraculous conception can mark God’s appointed Messiah without changing the repeated presentation of him as human.
+* Matthew 1:1,18-20 and Romans 1:3-4 locate Jesus within human descent and birth. This directly supports [a genuinely human Messiah](divine/preexistance.md#birth-and-human-sonship).
+* Romans 5:12-19 and 1 Corinthians 15:21,45-49 present Jesus as Adam’s human counterpart, with [heavenly life understood through resurrection](divine/preexistance.md#resurrection-exaltation-and-dependence).
+* John 17:3, 20:17 and 1 Corinthians 15:24-28 distinguish Jesus from his God. This supports [continuing dependence rather than independent deity](divine/preexistance.md#resurrection-exaltation-and-dependence).
+* Ephesians 1:4; 2 Timothy 1:9; 1 Peter 1:20 describe prior choice, grace and foreknowledge. They establish [purpose before personal manifestation](divine/preexistance.md#foreknowledge-without-a-prior-human-life).
 
 ## Jesus and God
 
