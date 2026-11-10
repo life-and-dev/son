@@ -177,8 +177,6 @@ The Father is described as “from whom are all things” (ἐξ οὗ τὰ π�
 
 In Paul's language "all things" refers to all knowledge or all wisdom, instead of creation.
 
-The explicit identification of God the Father as [the one God](../shema.md) also matters. Even prior personal mediation would not by itself establish that Jesus is Almighty God.
-
 ### Translation Comparison
 
 Some argue that the Father acted as architect and enabled Jesus to do the work. This interpretation notes that “created”, added by some translators, is absent from the Greek text shown in the [Interlinear Bible](https://biblehub.com/interlinear/1_corinthians/8-6.htm):

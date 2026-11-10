@@ -126,6 +126,9 @@ For example:
 * It relies on [a specific textual variation of John 16:28](divine/preexistance.md#john-1626-30-came-from-god) to give the impression that Jesus was talking about incarnation instead of his ministry.
 * It relies on [an interpretation that confuses God's foretold plan and glory with literal preexistance in John 17:5](divine/preexistance.md#john-175-glory-before-the-world)
 * It relies on [a mistranslation to present Jesus as "the Author of life"](divine/creator.md#john-111-author-of-life) suggesting that Jesus created life instead of saving life.
+* It relies on [quoting 1 Corinthians 8:6 out of context](divine/creator.md#1-corinthians-86-through-whom-all-things-exist) to suggest that Jesus created "all things", instead of addressing the topic which is "things offered to idols".
+
+In all of the above passages, the context was never about incarnation or preexistance. It would really be odd for the bible autor to address a specific topic then suddenly switch to incarnation and then back to the original topic without explaining to the Monotheistic Jews how there could be multiple gods.
 
 Existence in foreknowledge means a future Messiah already known and appointed by God the Father, without an earlier conscious life. Foreordination means appointment beforehand. Evidence this are:
 
