@@ -136,6 +136,25 @@ Matthew 28:2,5-6 likewise identifies an angel at the tomb who announces what has
 
 Treating representation as proof of deity **uses a role to settle a different question about nature**. The passages concerning Jesus should instead be read for what they say about his Father or his received commission.
 
+### Jesus is the Christ
+
+Some people mistakenly belief *"Christ" is [God's name](https:://ofgod.info/name)* such that everytime they read "Christ" they think it is God personally.
+
+["Christ"](https://kingdom.ofgod.info/christ) is the Greek form of "Messiah" as explained by John himself (John 1:41, 4:25). Messiah is an English translation of the Hebrew word [mashiyach](https://biblehub.com/hebrew/4899.htm) pronounced mah-shee'-akh. Both Christ and Messiah means **the annointed one**.
+
+> As for the word that He sent to Israel, preaching good news of peace through Jesus **Christ** (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how **God anointed Jesus** of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, **for God was with him**. — Acts 10:36-38 (ESV)
+
+To be anointed as the king, prophet, saviour and so forth, you **need a superior authority**. **God is the superior authority of Jesus** because **God anointed Jesus**. God does not need to anoint Himself because He is already almighty. Paul explains that as God's anointed, Jesus act on behalf of God with God's power. For example Jesus was able to heal those oppressed by the devil. Then Peter explains, this is possible because **"God was with him"**. This shows that the source of this power was not Jesus independant nature, but [the Holy Spirit of God](../trinity/holy-spirit.md) working through Jesus.
+
+Paul continues:
+
+> And he commanded us to preach to the people and to testify that **he is the one appointed by God** to be judge of the living and the dead. — Acts 10:42 (ESV)
+
+This too shows delegated authority as "the one appointed by God" to be the judge on behalf of God.
+
+> [!NOTE]
+> Everytime an apostle calls Jesus "Christ", he declares that [Jesus is God's anointed servant](../human/serve-god.md) and [not God Himself](../human/has-a-god.md).
+
 ### The Father and His Human Son
 
 Jesus addresses the Father in John 17 and distinguishes him from the one sent:
