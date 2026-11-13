@@ -32,14 +32,16 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Translation       | Biased translation that does not follow the original manuscirpts mislead readers.                                      |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
-| Scripture        | Divine Jesus Interpretation                        | Rebuttal                                                                                                            |
-| ---------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| John 5:18        | "making himself coequal with God"                  | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/equal-with-god.md) |
-| John 20:28       | Thomas answered him, “My Lord and my God!”         | [Word Meaning: Here "God" means Christ.](thomas-god.md)                                                             |
-| Galatians 1:1    | "nor through man, but through Jesus Christ"        | [Topic: about authority, not humanity.](texts/not-man.md)                                                           |
-| Titus 2:13       | "our great God and Savior Jesus Christ"            | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                                      |
-| Hebrews 1:3      | "the exact imprint of His nature"                  | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                   |
-| Revelation 22:13 | "I am the Alpha and the Omega, the first and last" | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                     |
+| Scripture        | Divine Jesus Interpretation                                            | Rebuttal                                                                                                                         |
+| ---------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Isaiah 9:6       | "for to us a child is born ... he shall be called "Everlasting Father" | [Textual Variation](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Everlasting Father" is missing in earlier manuscript |
+| Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God"         | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader"               |
+| John 5:18        | "making himself coequal with God"                                      | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/equal-with-god.md)              |
+| John 20:28       | Thomas answered him, “My Lord and my God!”                             | [Word Meaning: Here "God" means Christ.](thomas-god.md)                                                                          |
+| Galatians 1:1    | "nor through man, but through Jesus Christ"                            | [Topic: about authority, not humanity.](texts/not-man.md)                                                                        |
+| Titus 2:13       | "our great God and Savior Jesus Christ"                                | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/great-god.md)                                                   |
+| Hebrews 1:3      | "the exact imprint of His nature"                                      | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                                |
+| Revelation 22:13 | "I am the Alpha and the Omega, the first and last"                     | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                                  |
 
 ### Preexistance Interpretations
 
@@ -47,7 +49,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](preexistance.md#john-313-descended-from-heaven)                                           |
 | John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](preexistance.md#john-313-descended-from-heaven)                                  |
-| John 16:28   | "Come from God"                | [Topic: Jesus announces end of his ministry, not incarnation.](preexistance.md#john-1626-30-came-from-god)                                          |
+| John 16:28   | "Come from God"                | [Topic: Jesus announces end of his ministry, not incarnation.](preexistance.md#john-1626-30-came-from-god)                                  |
 | John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](preexistance.md#john-175-glory-before-the-world) |
 
 ### Creator Interpretations
