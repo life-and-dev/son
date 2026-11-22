@@ -12,7 +12,11 @@ The most disputed textual variations are:
 
 Most scholars agree that these scriptures were corrupted by later Latin manuscript editions, because it changes the meaning of the text significantly.
 
+Bart D. Ehrman in the book "The Orthodox Corruption of Scripture" said that [scribes didn't just translate the text, they interpreted it. And sometimes the interpretation became the text](https://youtu.be/inKyhLUpbk4?si=UdZKv-jQ_eLY06Wy).
+
 None of the follow major manuscripts support Trinitarian view of the scriptures listed below: Nestle 1904, Westcott & Hort 1881, NA27/UBS4, Greek Orthodox, Tischendorf 8th Edition, Scriveners Textus Receptive 1894, Stephanus Textus Receptive 1550.
+
+If you belief the truth and you belief [the Word of God](https://word.ofgod.info) is the truth, you should not need to change God's words to support the truth.
 
 ## John 19:40
 

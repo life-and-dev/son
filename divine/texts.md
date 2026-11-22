@@ -99,6 +99,7 @@ It is possible that scribes made human errors in the copy process, however it is
 | [Titus 3:6](textual-corruptions.md#titus-36)                           | "Jesus our **God** *and* Saviour"                                              | "Jesus **our Saviour**"                                                                 |
 | [Hebrews 1:3](https://word.ofgod.info/books/hebrews#hebrews-13)        | "His Son ... is ... the exact imprint of His **nature**"                       | "His Son ... who being ... the express image of His **person**"                         |
 | [Hebrews 13:20](textual-corruptions.md#hebrews-1320)                   | "... our **God** Jesus ..."                                                    | "... our **Lord** Jesus ..."                                                            |
+| [1 John 5:7-8](../trinity/proof/3-witnesses.md)                        | lists the 3 persons of the Trinity as witnesses                                | no Trinity persons mentioned                                                            |
 | [Jude 1:5](texts/jude-1-5.md)                                          | "**Jesus** who saved a people out of the land of Egypt"                        | "**The LORD** having saved the people out of the land of Egypt"                         |
 
 ## Warning

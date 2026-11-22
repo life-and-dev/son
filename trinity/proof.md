@@ -234,7 +234,7 @@ However, Trinitarian Christians practise [Monotheism](development.md#monotheism)
 Some modern Bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
 
 * [Matthew 28:19](proof/baptism-formula.md)
-* [John 1:18](../divine/john-1-18.md)
+* [John 1:18](../divine/texts/john-1-18.md)
 * [1 John 5:7-8](proof/3-witnesses.md)
 
 ## Paul's Closing
