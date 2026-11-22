@@ -7,7 +7,7 @@ keywords: Jesus' omnipresence, Matthew 18:20, Matthew 28:20, Jeremiah 23:24, Eph
 
 The [human location passages](../human/limitations.md#jesus-is-not-omnipresent) (like John 11:14-15; 14:2-4,28; 16:28; 17:11-13; Acts 1:6-11) portray Jesus in one place rather than another, and as departing and returning even after his exaltation and ascention.
 
-However, Jesus promises to be [among](#matthew-1820-gathering-in-jesus-name) those gathered in his name and to be [with](#matthew-2820-with-disciples-to-the-end) his disciples to the end of the age. Other passages speak of [filling all things](#ephesians-122-410-filling-all-things), [making a home with believers](#john-1420-23-indwelling) and being in heaven and earth [simultaneously](#john-313-simultaneously-on-earth--heaven). Do these statements establish omnipresence?
+However, Jesus promises to be [among](#matthew-1820-gathering-in-jesus-name) those gathered in his name and to be [with](#matthew-2820-with-disciples-to-the-end) his disciples to the end of the age. Other passages speak of [filling all things](#ephesians-122-410-filling-all-things), [making a home with believers](#john-1420-23-indwelling). Do these statements establish omnipresence?
 
 ## Defining Omnipresence
 
@@ -27,7 +27,29 @@ The Father explicitly describes his universal reach:
 
 The Father fills heaven and earth and sees hidden people.
 
-## Matthew 18:20 (Gathering in Jesus Name)
+## Arguments
+
+The following scriptpure are often quoted to proof the omnipresence of Jesus:
+
+- **Matthew 18:20:** *Jesus is present wherever followers gather in his name.* The [disciplinary context and Paul's comparable “presence in spirit”](#matthew-1820-gathering-in-jesus-name) show that presence language need not establish omnipresence.
+
+- **Matthew 28:20:** *Jesus is with all his disciples always.* His [promise of continuing support](#matthew-2820-with-disciples-to-the-end) concerns their mission and does not explicitly assert personal presence everywhere.
+
+- **Acts 18:9-10:** *“I am with you” means Jesus is present with Paul.* Even if the speaker is Jesus, [assurance of help and protection](#acts-189-10-assurance-and-human-protection) does not establish presence everywhere.
+
+- **Acts 23:11:** *The Lord stood beside Paul.* A [particular encounter or reassurance](#acts-189-10-assurance-and-human-protection) does not establish simultaneous presence everywhere.
+
+- **John 14:20-23:** *Jesus lives inside every believer.* [Mutual indwelling](#john-1420-23-indwelling) concerns love, obedience and relationship rather than establishing personal presence at every location.
+
+- **Ephesians 1:22-23:** *Jesus “fills all in all”.* The [context concerns his authority and relationship to the church](#ephesians-122-410-filling-all-things), not an explicit claim that he personally occupies every location.
+
+- **Ephesians 4:10:** *Jesus ascended to “fill all things”.* The [surrounding passage describes gifts and the building of his body](#ephesians-122-410-filling-all-things), so his work's reach does not establish personal omnipresence.
+
+- **Revelation 2:1:** *Jesus walks among churches in different places.* [Symbolic oversight of seven churches](#revelation-21-walking-among-churches) does not establish personal presence everywhere.
+
+These passages provide no solid evidence that Jesus is [omnipresent](#defining-omnipresence).
+
+### Matthew 18:20 (Gathering in Jesus Name)
 
 In contrast to the LORD's omnipresence, Jesus' promise addresses followers gathered under his authority:
 
@@ -43,20 +65,20 @@ In contrast to the LORD's omnipresence, Jesus' promise addresses followers gathe
 >
 > — Matthew 18:15-20 (ESV)
 
-Gathering [in Jesus' name](../../name.md) expresses allegiance to him and acting under his authority. [Jesus' authority is exercised through his commissioned followers.](#the-logic-of-representation) He made this promise while his disciples regarded him as their Rabbi. Jesus could not have been physically present at every location where his disciples gathered.
+Gathering [in Jesus' name](../../name.md) expresses allegiance to him and acting under his authority. [Jesus' authority is exercised through his commissioned followers.](../shema/agency.md) He made this promise while his disciples regarded him as their Rabbi. Jesus could not have been physically present at every location where his disciples gathered.
 
 > [!WARNING]
 > Some bible translations add paragraph breaks or biased titles to the text which were not part of the original manuscripts. This gives the impression that the topic changed from dealing with sin to *omnipresence*.
 >
 > When Matthew's message should be read together as it was originally intended.
 
-### Paul's Presence in Spirit
+#### Paul's Presence in Spirit
 
 > When you are assembled **in the name of the Lord Jesus** and **my spirit is present**, with the **power of our Lord Jesus**, you are to deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord. — 1 Corinthians 5:4-5 (ESV)
 
 Paul, a human messenger, describes his spirit as present in a disciplinary assembly. A plausible interpretation is [*Paul shares the assembly's judgement and purpose through his message and entrusted authority without being bodily present.*](https://hermeneutics.stackexchange.com/questions/50129/colossians-25-i-am-present-with-you-in-spirit-is-this-literal-or-metaphor) Paul could not have meant "omnipresence". **"Presence" language does not establishes omnipresence.**
 
-## Matthew 28:20 (With Disciples to the End)
+### Matthew 28:20 (With Disciples to the End)
 
 > And Jesus came and said to them, "All authority in heaven and on earth **has been given to me**. Go therefore and **make disciples of all nations**, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **teaching them to observe all that I have commanded you**. And behold, **I am with you always, to the end of the age**." — Matthew 28:18-20 (ESV)
 
@@ -80,7 +102,7 @@ Furthermore, a parallel witness in the book of Acts states:
 
 This shows that the disciples did not think that Jesus was [omnipresent](#omnipresence).
 
-## Acts 18:9-10 (Assurance and Human Protection)
+### Acts 18:9-10 (Assurance and Human Protection)
 
 In the Corinth vision, the speaker is called "the Lord", **not explicitly Jesus**.
 
@@ -112,27 +134,13 @@ The Greek ἐπιστὰς αὐτῷ means “having stood beside him”. This 
 
 Acts 23:11 does not specify that Paul saw a material body of "the Lord", but more likely that "the Lord" help and protected him through means of circumstances and people.
 
-## John 3:13 (Simultaneously On Earth & Heaven)
-
-> No one has **ascended to heaven** but He who **came down from heaven**, that is, the Son of Man ***who is in heaven***. — John 3:13 (NKJV)
-
-The ESV omits the longer ending, **“who is in heaven”**. A [NET textual note](https://www.biblegateway.com/passage?search=John+3%3A13-15&version=NET%3BESV) records its omission in P66, P75, א and B. The shorter text, preferred here, describes ascent and descent without explicitly asserting simultaneous heavenly residence.
-
-> No one has **ascended into heaven** except he who **descended from heaven**, the Son of Man. — John 3:13 (ESV)
-
-The longer reading is textually disputed, because it would imply a contradiction that requires Jesus to be simultaneously present in both heaven and on earth.
-
-This statement is not a quotation of Jesus words, but instead a commentary added by either a scribe or the author of the book of John to testify that Jesus has in the meantime ascended to heaven.
-
-The addition of this commentary which happens to be a textual variation cannot reliably be used to proof or disproof Jesus omnipresence.
-
-## John 14:20-23 (Indwelling)
+### John 14:20-23 (Indwelling)
 
 [The Greek preposition *en*](https://word.ofgod.info/semantics/en), a small word that links words, is commonly translated “in” and has several possible meanings depending on context. [BibleHub’s Strong’s Greek 1722 entry](https://biblehub.com/greek/1722.htm) collects Strong’s and Thayer’s Bible word-reference works and is not an original scholarly source. It lists “in, on, at, by, with, among”, including uses where “in” shows the means by which something happens. A word’s possible meanings alone do not determine its meaning in John 14–17; the surrounding passage and grammar control the sense. It should not automatically be read as being literally inside someone.
 
 John 14 connects this language about being in each other with love, obedience, and the Father and Son making their home with the disciple. [The context therefore describes **presence in a relationship**](divine/claims/in-god.md), not a statement that Jesus is omnipresent *inside* believers.
 
-## Ephesians 1:22, 4:10 (Filling All Things)
+### Ephesians 1:22, 4:10 (Filling All Things)
 
 > And he put **all things under his feet** and gave him as **head over all things to the church**, which is [his body](https://kingdom.ofgod.info/christ/body), **the fullness** of him who **fills all in all**. — Ephesians 1:22-23 (ESV)
 
@@ -150,7 +158,7 @@ The letter's other uses of **fullness** reinforce this context. Believers are to
 
 These passages concern Christ's headship and the life, ministry and growth of his church. They do not establish [personal omnipresence](#defining-omnipresence).
 
-## Revelation 2:1 (Walking Among Churches)
+### Revelation 2:1 (Walking Among Churches)
 
 > “To the angel of the church in Ephesus write: ‘The words of him who holds the seven stars in his right hand, **who walks among the seven golden lampstands**. — Revelation 2:1 (ESV)
 
@@ -158,24 +166,20 @@ Revelation 1:20 identifies the lampstands as seven churches. Some view this as e
 
 **Symbolic walking does not explicitly claim presence** at every location.
 
-## Summary
+## Refute
 
-- **Matthew 18:20:** *Jesus is present wherever followers gather in his name.* The [disciplinary context and Paul's comparable “presence in spirit”](#matthew-1820-gathering-in-jesus-name) show that presence language need not establish omnipresence.
+> Then Jesus told them plainly, “Lazarus has died, and for your sake **I am glad that I was not there**, so that you may believe. But let us go to him.” — John 11:14-15 (ESV)
 
-- **Matthew 28:20:** *Jesus is with all his disciples always.* His [promise of continuing support](#matthew-2820-with-disciples-to-the-end) concerns their mission and does not explicitly assert personal presence everywhere.
+Now, some argue that this was Jesus in his limited human form before he was crucified, but Jesus also talks about what he will do in the future after his resurrection, ascension, and exaltation, which shows that even then his presence would still be limited in space.
 
-- **Acts 18:9-10:** *“I am with you” means Jesus is present with Paul.* Even if the speaker is Jesus, [assurance of help and protection](#acts-189-10-assurance-and-human-protection) does not establish presence everywhere.
+> In my Father’s house are many rooms. If it were not so, would I have told you that **I go** to prepare a place for you? And if **I go** and prepare a place for you, **I will come again** and will take you to myself, that **where I am** you may be also. And you know the way to **where I am going**. — John 14:2-4 (ESV); 16:28
 
-- **Acts 23:11:** *The Lord stood beside Paul.* A [particular encounter or reassurance](#acts-189-10-assurance-and-human-protection) does not establish simultaneous presence everywhere.
+And
 
-- **John 3:13:** *Jesus was in heaven while on earth.* The [longer reading is textually disputed](#john-313-simultaneously-on-earth--heaven), and presence in two places would not by itself establish omnipresence.
+> You have heard me say to you, ‘***I am going away and coming back to you.***’ If you loved me, you would rejoice because I said, ‘***I am going to the Father***,’ for my Father is greater than I. — John 14:28 (NKJV)
 
-- **John 14:20-23:** *Jesus lives inside every believer.* [Mutual indwelling](#john-1420-23-indwelling) concerns love, obedience and relationship rather than establishing personal presence at every location.
+And
 
-- **Ephesians 1:22-23:** *Jesus “fills all in all”.* The [context concerns his authority and relationship to the church](#ephesians-122-410-filling-all-things), not an explicit claim that he personally occupies every location.
+> And **I am no longer in the world, but they are in the world, and I am coming** to You. Holy Father, keep them in Your name, which You have given me, that they may be one, even as we are one. While **I was with them**, I kept them in Your name, which you have given me. I have guarded them, and not one of them has been lost except the son of destruction, that the Scripture might be fulfilled. But now **I am coming** to you, and these things I speak in the world, that they may have my joy fulfilled in themselves. — John 17:11-13 (ESV)
 
-- **Ephesians 4:10:** *Jesus ascended to “fill all things”.* The [surrounding passage describes gifts and the building of his body](#ephesians-122-410-filling-all-things), so his work's reach does not establish personal omnipresence.
-
-- **Revelation 2:1:** *Jesus walks among churches in different places.* [Symbolic oversight of seven churches](#revelation-21-walking-among-churches) does not establish personal presence everywhere.
-
-These passages provide no solid evidence that Jesus is [omnipresent](#defining-omnipresence).
+Jesus never claimed to be omnipresent. This interpretation is read back into Scripture because God is omnipresent. If Jesus is not omnipresent, this proves that he is not the omnipresent God the church claims him to be.

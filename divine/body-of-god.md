@@ -176,7 +176,11 @@ A second theme is the concept of being physically absent "in the flesh" (Colossi
 
 ## 1 Timothy 3:16 (God Manifested In Flesh)
 
-The NKJV reads, “**God** was manifested in the flesh” (1 Timothy 3:16, NKJV). That wording follows the Greek reading *theos ephanerōthē* (θεὸς ἐφανερώθη). If that were original, it would be an important text for the claim that God became incarnate.
+The KJV and NKJV reads:
+
+> ***God*** was manifested in the flesh...
+
+That wording follows the Greek reading *theos ephanerōthē* (θεὸς ἐφανερώθη). If that were original, it would be an important text for the claim that God became incarnate. This is a recording from the TR (Textus Receptus) on which the KJV and NKJV is based. However, the Codex Vaticanus and Codex Sinaiticus of the fourth centuries does not contain render "God".
 
 The ESV follows the reading printed in the major modern critical editions:
 
@@ -184,7 +188,11 @@ The ESV follows the reading printed in the major modern critical editions:
 
 The key readings are *theos* (“God”), *hos* (ὃς, “who”), and *ho* (ὅ, “which”). The [NET Bible textual note](https://www.biblegateway.com/passage/?search=1%20Timothy%203%3A16&version=NET) reports *theos* in later corrections and Byzantine witnesses, and *ho* in the Latin tradition. It also describes the Alexandrian and Western evidence as favouring *hos*.
 
-The evidence is mixed, and the variant cannot be resolved by English translation preference alone. On the reported textual evidence, the critical reading is *hos*, “who.” The relative pronoun also fits the following masculine clauses: “vindicated,” “seen,” “proclaimed,” “believed on,” and “taken up.” *Ho* is a neuter reading and may refer to “the mystery.”
+Therefore, [Nestle 1904, Westcott & Hort 1881, NA27 / UBS4, Tischendorf 8th Edition all render "he".](https://youtu.be/inKyhLUpbk4?si=66D88eUldQw5zZqr)
+
+> The reading *theos* arose either (a) **accidentally**, or (b) **deliberately**, either to supply a substantive for the following six verbs, or, with less probability, to provide greater **dogmatic precision**. — A Textual Commentary on the Greek New Testament (United Bible Society, New York, 1975), p. 641
+
+In other words, it could be deliberately changed [to produce a verse that more clearly supports the Trinitarian position](https://youtu.be/inKyhLUpbk4?si=66D88eUldQw5zZqr).
 
 Paul made in the same letter an explicit distinction:
 

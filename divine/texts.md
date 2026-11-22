@@ -27,28 +27,24 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Grammar & Scope   | Readers differ over grammatical relationships, clause attachments, or the scope of qualifiers, negation, or modifiers. |
 > | Referent ID       | Readers identify different people, things, or events through a pronoun, title, or description.                         |
 > | Symbolism         | Readers interpret symbolic images or messages as literal descriptions.                                                 |
-> | Textual Variation | Different manuscript readings may mean readers are not comparing identical wording.                                    |
 > | Topic             | Readers differ over which issue or topic the statement addresses in context.                                           |
-> | Translation       | Biased translation that does not follow the original manuscirpts mislead readers.                                      |
+> | Translation       | Misleading translation that does not follow the manuscript.                                      |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
-| Scripture        | Divine Jesus Interpretation                                            | Rebuttal                                                                                                                         |
-| ---------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Isaiah 9:6       | "for to us a child is born ... he shall be called "Everlasting Father" | [Textual Variation](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Everlasting Father" is missing in earlier manuscript |
-| Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God"         | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader"               |
-| John 5:18        | "making himself coequal with God"                                      | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/equal-with-god.md)              |
-| John 12:41       | "Isaiah ... saw his glory"                                             | [Textual Variation](texts/john-12-41.md): Should be "the glory of his God"                                                       |
-| John 20:28       | Thomas answered him, “My Lord and my God!”                             | [Word Meaning: Here "God" means Christ.](texts/john-20-28.md)                                                                    |
-| Galatians 1:1    | "nor through man, but through Jesus Christ"                            | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                                  |
-| Titus 2:13       | "our great God and Savior Jesus Christ"                                | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/titus-2-13.md)                                                  |
-| Hebrews 1:3      | "the exact imprint of His nature"                                      | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                                |
-| Revelation 22:13 | "I am the Alpha and the Omega, the first and last"                     | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                                  |
+| Scripture        | Divine Jesus Interpretation                                    | Rebuttal                                                                                                            |
+| ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God" | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader"  |
+| John 5:18        | "making himself coequal with God"                              | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/equal-with-god.md) |
+| John 20:28       | Thomas answered him, “My Lord and my God!”                     | [Word Meaning: Here "God" means Christ.](texts/john-20-28.md)                                                       |
+| Galatians 1:1    | "nor through man, but through Jesus Christ"                    | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                     |
+| Titus 2:13       | "our great God and Savior Jesus Christ"                        | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/titus-2-13.md)                                     |
+| Hebrews 1:3      | "the exact imprint of His nature"                              | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                   |
+| Revelation 22:13 | "I am the Alpha and the Omega, the first and last"             | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                     |
 
 ### Preexistance Interpretations
 
 | Scripture    | Divine Jesus Interpretation    | Rebuttal                                                                                                                                    |
 | ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| John 3:13    | "Descended from heaven"        | [Textual Variation: Changes meaning of "heaven".](preexistance.md#john-313-descended-from-heaven)                                           |
 | John 6:38-62 | "Come down from heaven"        | [Grammar & Scope: Narrator's comment confused with Jesus.](preexistance.md#john-313-descended-from-heaven)                                  |
 | John 16:28   | "Come from God"                | [Topic: Jesus announces end of his ministry, not incarnation.](preexistance.md#john-1626-30-came-from-god)                                  |
 | John 17:5    | Glory before the world existed | [Concept Confusion: Jesus did not pre-exist literally, but in God's foretold plan (word).](preexistance.md#john-175-glory-before-the-world) |
@@ -71,7 +67,6 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Matthew 28:20     | Jesus is with all his disciples always.                 | [Topic: Jesus promises continuing mission support, not explicit personal presence everywhere.](omnipresence.md#matthew-2820-with-disciples-to-the-end)                                                        |
 | Acts 18:9-10      | “I am with you” means Jesus is present with Paul.       | [Referent ID: the speaker is unidentified; Word Meaning: even if Jesus, assurance of help and protection does not establish presence everywhere.](omnipresence.md#acts-189-10-assurance-and-human-protection) |
 | Acts 23:11        | The Lord stood beside Paul.                             | [Topic: a particular encounter or reassurance does not establish simultaneous presence everywhere.](omnipresence.md#acts-189-10-assurance-and-human-protection)                                               |
-| John 3:13         | Jesus was in heaven while on earth.                     | [Textual Variation: the longer textual variant is disputed; compare Bible translations.](omnipresence.md#john-313-simultaneously-on-earth--heaven)                                                            |
 | John 14:20-23     | Jesus lives in every believer.                          | [Word Meaning: "in" links love, obedience and relationship, not physical location inside believers.](omnipresence.md#john-1420-23-indwelling)                                                                 |
 | Ephesians 1:22-23 | Jesus “fills all in all”.                               | [Topic: the context concerns Jesus' authority and relationship to the church, not a claim that he personally occupies every location.](omnipresence.md#ephesians-122-410-filling-all-things)                  |
 | Ephesians 4:10    | Jesus ascended to “fill all things”.                    | [Topic: the passage concerns gifts and building his body; his work's reach does not establish personal omnipresence.](omnipresence.md#ephesians-122-410-filling-all-things)                                   |
@@ -83,15 +78,29 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | ----------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | John 1:1-18       | "The Word became flesh"        | [Concept Confusion: "Word" never means Christ literally.](../name/word.md)                                                                |
 | Philippians 2:6-8 | "Form Of God, Likeness of Men" | [Translation: multiple errors: changing tense, adding words, changing words](body-of-god.md#philippians-26-8-form-of-god-likeness-of-men) |
-| Colossians 1:14   | "Redemption through his blood" | [Textual Variation: "through his blood" was added in later manuscripts.](body-of-god.md#colossians-114-through-his-blood)                 |
 | Colossians 2:9    | "God in a human body"          | [Translation: "whole fullness of deity dwells" referring to truth not essence](body-of-god.md#colossians-29-god-in-a-human-body)          |
-| 1 Timothy 3:16    | "God manifested in flesh"      | [Translation: Should be "he (Jesus) manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                           |
 | 1 John 4:2        | "Christ has come in flesh"     | [Topic: Adressing Docetism, not affirming preexistance](body-of-god.md#1-john-42-christ-has-come-in-flesh)                                |
+
+## Textual Corruptions
+
+If the Trinity was the truth or Jesus was truly the Almighty God Himself, then [it would not have been necessary to alter the Bible's texts in order to support this view](https://youtu.be/inKyhLUpbk4?si=66D88eUldQw5zZqr). Yet we find that many "textual variations" that was introduced in later copies favour the Trinity or at least the divinity of Jesus.
+
+It is possible that scribes made human errors in the copy process, however it is very suspicious that a clear pattern emerge when comparing "textual variations". Especially if one consider that these copies took place [during the period when the Trinity doctrine was highly debated among church fathers](https://youtu.be/inKyhLUpbk4?si=kAnhnANd4_ITy56a). A scribe would have been expected to make absolutely sure that texts that would be used in debates to proof or refute the Trinity would be an undisputable copy, unless he deliberately adjust the bible text to fit his view.
+
+| Scripture       | Textual Variant                                                                | Original Text                                                                                                                             |
+| --------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Isaiah 9:6      | "for to us a child is born ... he shall be called ... **"Everlasting Father"** | [*"Everlasting Father"* was added](https://prophecies.ofgod.info/trinitarian/isaiah-9-6)                                                  |
+| John 1:18       | "the ... Son **who is himself God**"                                           | ["the only begotten Son"](texts/john-1-18.md)                                                                                             |
+| John 3:13       | "the Son of Man **who is in heaven**"                                          | [The add phrase "who is in heaven" changes idiom to literal heaven implying preexistance](preexistance.md#john-313-descended-from-heaven) |
+| John 12:41      | "Isaiah ... saw his *[Jesus]* glory"                                           | ["Isaiah ... saw the glory of his **God**"](texts/john-12-41.md)                                                                          |
+| Colossians 1:14 | "in *[God]* we have redemption **through His blood**."                         | ["in *[God]* we have redeption."](body-of-god.md#colossians-114-through-his-blood)                                                        |
+| 1 Timothy 3:16  | "**God** manifested in flesh"                                                  | ["**he** *[Jesus]* manifested in flesh"](body-of-god.md#1-timothy-316-god-manifested-in-flesh)                                            |
+| Hebrews 1:3     | "His Son ... is ... the exact imprint of His **nature**"                       | ["His Son ... who being ... the express image of His **person**"](https://word.ofgod.info/books/hebrews#hebrews-13)                       |
 
 ## Warning
 
 > See to it that no one takes you captive by **philosophy and empty deceit, according to human tradition**, according to the elemental spirits of the world, and **not according to Christ**. — Colossians 2:8 (ESV)
 
-If Christ did not directly teach something, we should not read [later philosophies](../trinity/development.md) back into biblical text according to human ([church](https://church.ofgod.info)) traditions.
+We should not read [later philosophies](../trinity/development.md) back into biblical text according to human ([church](https://church.ofgod.info)) traditions. This is especially important when it contradict Christ's own teachings.
 
 We should let the Bible form our theology (understanding of God), not the other way around.

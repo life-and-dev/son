@@ -165,7 +165,7 @@ If Jesus were omnipresent:
 * Then Jesus would have been able to appear to each human individually and deal with each individual simultaneously on a personal level. This would have made his disciples redundant.
 * Then Jesus would have no need to come back.
 
-However, as physical human beings, we need physical care like food, shelter, encouragement, and so forth. This problem is solved by [the body of Christ](https://eternal.family.net.za/kingdom/body), which is supposed to continue the work that Christ had started.
+However, as physical human beings, we need physical care like food, shelter, encouragement, and so forth. This problem is solved by [the body of Christ](https:/kingdom.ofgod.info/christ/body), which is supposed to continue the work that Christ had started.
 
 ## Even Jesus' Works Are Limited
 
