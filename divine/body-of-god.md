@@ -22,6 +22,44 @@ On this reading, the Word becoming flesh means that God kept His promise. In oth
 
 > “Men of Israel, listen to these words: Jesus the Nazarene, **a man** attested to you by God with miracles and wonders and signs which God did through Him in your midst, just as you yourselves know— this Man, delivered over **by the predetermined plan and foreknowledge of God**, you nailed to a cross by the hands of lawless men and put Him to death. — Acts 2:22-23 (LSB)
 
+## Acts 20:28 (God's Own Blood)
+
+> “Pay careful attention to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to care for the church of **God**, which he obtained with his own blood.” — Acts 20:28 (ESV)
+
+This Trinitarian reading direct **God** to its nearest possessor, so “his own blood” means God’s blood. A [two-natures theology](../../dual-nature.md) does not usually claim that the Father bled or that the divine nature consists of flesh. It says that the *one person of God the Son* truly shed blood according to the human nature he *assumed*.
+
+### Textual Variations
+
+The verse deserves careful treatment. It contains both a manuscript variant and a grammatical ambiguity. Comparing the [Textual Varations](https://corebible.app/ACT/20?verseNumber=%2228%22&translation=AICNT):
+
+- Manuscripts that read "**God**": ℵ(01) B(03) TR NA28 SBLGNT
+- Other early manuscripts that read “**the Lord**”: A(02) C(04) D(05) THGNT
+- Manuscripts that read “**the Lord and God**”: BYZ
+
+Therefore, the American Standard Version render:
+
+> Take heed unto yourselves, and to all the flock, in which the Holy Spirit hath made you bishops, to feed the church of **the Lord** which he purchased with his own blood. — Acts 20:28 (ASV)
+
+The Aramaic bible translation render:
+
+> Take heed therefore to yourselves and to all the flock, over which the Holy Spirit has appointed you overseers, to feed the church of **Christ** which he has purchased with his blood. — Acts 20:28 (Lamsa)
+
+Although the "God" reading is coherent within Trinitarian doctrine. Acts 20:28 itself, however, does not mention an *incarnation*, a *divine* Son or *two natures*. Those ideas are brought to the text to explain its unusual wording.
+
+The “God” reading still does not require God Almighty to possess blood, because the following phrase has its own ambiguity.
+
+“The Lord” or “Christ” reading would naturally direct the blood language to Jesus.
+
+Ancient witnesses differ between “the church of **God**” and “the church of the **Lord (Christ)**”. Later manuscripts also preserve a combined reading.
+
+### God and Jesus in Acts
+
+Acts repeatedly identifies who died and who raised him. Jesus is “a man attested to you by God”; lawless men crucify and kill him; “God raised him up” (Acts 2:22–24, ESV). God then makes this Jesus “both Lord and Christ” (Acts 2:36). Peter later says, “The God of our fathers raised Jesus, whom you killed by hanging him on a tree” and exalted him as Savior (Acts 5:30–31, ESV). God anointed Jesus of Nazareth with the Holy Spirit and power (Acts 10:38).
+
+These are not merely statements that Jesus differs from the Father. Mainstream Trinity already affirms that difference. They form a positive agency pattern: the one God empowers, raises, exalts, and saves through the human Messiah. Within Acts, “his own [Son]” therefore has an available referent, and the church’s purchase can be God’s act accomplished through Jesus’ blood.
+
+Other New Testament writers speak more explicitly. God put Christ forward “as a propitiation by his blood” (Romans 3:25, ESV). Christ “offered himself without blemish to God” (Hebrews 9:14, ESV). In Revelation the slain Lamb’s blood ransoms people “for God” (Revelation 5:9, ESV). The blood belongs to Christ; the saving plan, acceptance, and redeemed people belong to God.
+
 ## Philippians 2:6-8 (Form Of God, Likeness of Men)
 
 > who, ***though*** he ***was*** in the ***form*** of God, did not count equality with God a thing to be grasped, but emptied himself, ***by*** taking the ***form*** of a servant, ***being born*** in the likeness of men. And being found in human ***form***, he humbled himself by becoming obedient to the point of death, even death on a cross. — Philippians 2:6-8 (ESV)
@@ -213,3 +251,5 @@ Now, in the context of 1 John 4:2-3, to ensure that the preacher was not another
 ## Conclusion
 
 The [Word becoming flesh](#john-11-18-the-word-becoming-flesh) describes God’s promise fulfilled in Jesus, not God becoming a human avatar. In [Colossians 2:9](#colossians-29-god-in-a-human-body), the [word “in”](#addressing-the-word-in), [“deity”](#adressing-the-word-god), and the [surrounding context](#context-is-not-about-incarnation) do not say that the Father inhabits a human body. The [textual evidence for 1 Timothy 3:16](#1-timothy-316-god-manifested-in-flesh) does not establish that God became flesh, and the letter calls Jesus “the man Christ Jesus.” John’s confession that [Jesus truly came in flesh](#1-john-42-christ-has-come-in-flesh) affirms his real humanity, not that he was God’s body. Scripture therefore [distinguishes](../human/distinct.md) [the one LORD](../shema.md) from his [human Christ](../human.md): God is present and active in his Son, but Jesus is not God’s physical human body.
+
+Blood belongs to mortal embodied life: “the life of the flesh is in the blood” (Leviticus 17:11). Scripture says that God is spirit (John 4:24), is immortal (1 Timothy 1:17), and is not a man (Numbers 23:19). Jesus, by contrast, says after his resurrection that a spirit does not have flesh and bones as he has (Luke 24:39). The ordinary scriptural answer is therefore no: God Almighty does not have blood, while the genuinely [human Jesus](../human.md) did.
