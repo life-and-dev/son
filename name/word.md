@@ -5,7 +5,7 @@ keywords: logos, John 1, Word of God, Greek linguistics, biblical interpretation
 
 # The Word With God
 
-I was taught that "the Word" is another name for Jesus. That Jesus existed as "the Word" before he was born. That John 1:1 proves Jesus is God himself.
+I was taught that "the Word" is another name for Jesus and that John 1:1 proves Jesus [preexisted as God Himself](../divine/preexistance.md).
 
 But something didn't sit right. John 1:1 says:
 
@@ -35,19 +35,7 @@ The Bible itself demonstrates this wide range. "Logos" appears over 300 times in
 
 account, appearance, book, command, conversation, eloquence, flattery, grievance, instruction, matter, message, ministry, news, proposal, question, reason, reply, report, rule, rumor, saying, sentence, speech, story, teaching, testimony, truth, and more.
 
-**This matters**: Whichever meaning we assign to "the word" in John 1 drastically changes the message.
-
-### "The Word" According to Strong's Concordance
-
-|                   | Strong's Concordance                                 |
-| ----------------- | ---------------------------------------------------- |
-| logos             | a word (as embodying an idea), a statement, a speech |
-| Original Word     | λόγος, ου, ὁ                                         |
-| Part of Speech    | Noun, Masculine                                      |
-| Transliteration   | logos                                                |
-| Phonetic Spelling | log'-os                                              |
-| Definition        | a word (as embodying an idea), a statement, a speech |
-| Usage             | a word, speech, divine utterance, analogy.           |
+Whichever meaning we assign to "the word" in John 1 **drastically changes John's intended message**.
 
 ### "The Word" According to the BDAG Greek-English Lexicon
 
@@ -67,7 +55,20 @@ The BDAG lexicon (the standard scholarly Greek-English dictionary) shows how "lo
 | preaching   | 1 Timothy 5:17 - "those whose work is preaching"         |
 | said        | Romans 15:18 - "what I have said"                        |
 
-***"Logos" is NOT typically used to designate a person, but rather ideas, statements, plans, commands, or messages.***
+### "The Word" According to Strong's Concordance
+
+|                   | Strong's Concordance                                 |
+| ----------------- | ---------------------------------------------------- |
+| logos             | a word (as embodying an idea), a statement, a speech |
+| Original Word     | λόγος, ου, ὁ                                         |
+| Part of Speech    | Noun, Masculine                                      |
+| Transliteration   | logos                                                |
+| Phonetic Spelling | log'-os                                              |
+| Definition        | a word (as embodying an idea), a statement, a speech |
+| Usage             | a word, speech, divine utterance, analogy.           |
+
+> [!NOTE]
+> "Logos" is NOT typically used to designate a person, but rather ideas, statements, plans, commands, or messages.
 
 ## How Other Apostles Define "The Word of God"
 
@@ -111,7 +112,7 @@ Paul also writes to Titus:
 
 Paul identifies "the Word of God" as **God's promise** that was fulfilled when God raised Jesus and made salvation available.
 
-### Peter (2 Peter): "The Word" as God's Promise About Creation and Future
+### Peter: "The Word" as God's Promise About Creation and Future
 
 > For they deliberately overlook this fact, that the heavens existed long ago, and the earth was formed out of water and through water **by the word of God**, and that by means of these the world that then existed was deluged with water and perished. But **by the same word** the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly. But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to **fulfill His promise** as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 >
@@ -138,39 +139,7 @@ Notice the pattern: The early apostles **consistently** understood "the Word of 
 
 Having seen how the other apostles consistently used "the Word of God" to mean God's plan or promise, let's examine whether John's usage aligns with theirs.
 
-If John intended "the Word" in John 1 to mean "Jesus," we would expect him to use "the word" ([ho logos](https://biblehub.com/greek/3056.htm)) consistently as a title for Jesus throughout his gospel. Let's examine how John actually uses this exact Greek phrase:
-
-### John Uses "The Word" for Sayings and Teachings
-
-> For here **the saying** ([ho logos](https://biblehub.com/greek/3056.htm)) holds true, 'One sows and another reaps.' — John 4:37 (ESV)
-
-> When many of his disciples heard it, they said, "This is a hard **saying** ([ho logos](https://biblehub.com/greek/3056.htm)); who can listen to it?" — John 6:60 (ESV)
-
-> Jesus answered them "...you seek to kill me because **my word** ([ho logos](https://biblehub.com/greek/3056.htm)) finds no place in you." — John 8:37 (ESV)
-
-> But **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that is written in their Law must be fulfilled. — John 15:25 (ESV)
-
-### John Uses "The Word" for Prophecies
-
-> Though he *(Jesus)* had done so many signs before them, they still did not believe in him, so that **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) spoken by the prophet Isaiah might be fulfilled:
->
-> "Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?" (Isaiah 53:1)
->
-> — John 12:37-38 (ESV)
-
-> This was to fulfill **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that he had spoken. — John 18:9 (ESV)
-
-> This was to fulfill **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that Jesus had spoken to show by what kind of death he was going to die. — John 18:32 (ESV)
-
-### John Uses "The Word" for God's Message and Truth
-
-> Jesus answered them, "Is it not written in your Law, 'I said, you are gods'? If he called them gods to whom **the word of God** ([ho logos](https://biblehub.com/greek/3056.htm)) came — and Scripture cannot be broken — do you say of him whom the Father consecrated and sent into the world, 'You are [blaspheming](https://word.ofgod.info/terms/blasphemy),' because I said, '[I am the Son of God](son-of-god.md)'? — John 10:34-36 (ESV)
-
-> And Jesus cried out and said, "Whoever believes in me, believes not in me but in Him who sent me. And whoever sees me sees Him Who sent me. I have come into the world as light, so that whoever believes in me may not remain in darkness. If anyone hears **my words** and does not keep them, I do not judge him; for I did not come to judge the world but to save the world. The one who rejects me and does not receive my words has a Judge; **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that I have spoken will judge him on the last day. For I have not spoken on my own authority, but the Father who sent me has himself given me a commandment — what to say and what to speak." — John 12:44-50 (ESV)
-
-> Jesus spoke these words, lifted up his eyes to heaven, and said, "Father... I have given them **Your word** ([logon](https://biblehub.com/greek/3056.htm)); and the world has hated them because they are not of the world, just as I am not of the world... Sanctify them by Your truth. **Your word** ([ho logos](https://biblehub.com/greek/3056.htm)) is truth. — John 17:14-17 (NKJV)
-
-### How John Defines "The Word"
+If John intended "the Word" in John 1 to mean "Jesus," we would expect him to use "the word" ([ho logos](https://biblehub.com/greek/3056.htm)) consistently as a title for Jesus throughout his gospel.
 
 | Meaning of "word"                 | Scripture                                                                                                    |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -209,7 +178,42 @@ For example:
 
 > "I do not ask for these only, but also for those who will believe in me through **their word** ([logou](https://biblehub.com/interlinear/john/17-20.htm)), that they may all be one, just as You, Father, are in me, and I in You, that they also may be in us, so that the world may believe that You have sent me." — John 17:20-21 (ESV)
 
-Notice: **Jesus** spoke **the word**. The disciples believed **the word** that **Jesus** spoke. These are distinct concepts.
+> [!NOTE]
+> **Jesus** spoke **the word**. The disciples believed **the word** that **Jesus** spoke. These are distinct concepts.
+
+### Ho Logos
+
+Some would argue that "ho logos", the phrase used in John 1, is a special case. Let's examine a few examples how John actually uses this exact Greek phrase, "ho logos":
+
+#### John Uses "The Word" for Sayings and Teachings
+
+> For here **the saying** ([ho logos](https://biblehub.com/greek/3056.htm)) holds true, 'One sows and another reaps.' — John 4:37 (ESV)
+
+> When many of his disciples heard it, they said, "This is a hard **saying** ([ho logos](https://biblehub.com/greek/3056.htm)); who can listen to it?" — John 6:60 (ESV)
+
+> Jesus answered them "...you seek to kill me because **my word** ([ho logos](https://biblehub.com/greek/3056.htm)) finds no place in you." — John 8:37 (ESV)
+
+> But **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that is written in their Law must be fulfilled. — John 15:25 (ESV)
+
+#### John Uses "The Word" for Prophecies
+
+> Though he *(Jesus)* had done so many signs before them, they still did not believe in him, so that **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) spoken by the prophet Isaiah might be fulfilled:
+>
+> "Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?" (Isaiah 53:1)
+>
+> — John 12:37-38 (ESV)
+
+> This was to fulfill **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that he had spoken. — John 18:9 (ESV)
+
+> This was to fulfill **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that Jesus had spoken to show by what kind of death he was going to die. — John 18:32 (ESV)
+
+#### John Uses "The Word" for God's Message and Truth
+
+> Jesus answered them, "Is it not written in your Law, 'I said, you are gods'? If he called them gods to whom **the word of God** ([ho logos](https://biblehub.com/greek/3056.htm)) came — and Scripture cannot be broken — do you say of him whom the Father consecrated and sent into the world, 'You are [blaspheming](https://word.ofgod.info/terms/blasphemy),' because I said, '[I am the Son of God](son-of-god.md)'? — John 10:34-36 (ESV)
+
+> And Jesus cried out and said, "Whoever believes in me, believes not in me but in Him who sent me. And whoever sees me sees Him Who sent me. I have come into the world as light, so that whoever believes in me may not remain in darkness. If anyone hears **my words** and does not keep them, I do not judge him; for I did not come to judge the world but to save the world. The one who rejects me and does not receive my words has a Judge; **the word** ([ho logos](https://biblehub.com/greek/3056.htm)) that I have spoken will judge him on the last day. For I have not spoken on my own authority, but the Father who sent me has himself given me a commandment — what to say and what to speak." — John 12:44-50 (ESV)
+
+> Jesus spoke these words, lifted up his eyes to heaven, and said, "Father... I have given them **Your word** ([logon](https://biblehub.com/greek/3056.htm)); and the world has hated them because they are not of the world, just as I am not of the world... Sanctify them by Your truth. **Your word** ([ho logos](https://biblehub.com/greek/3056.htm)) is truth. — John 17:14-17 (NKJV)
 
 ### John's Usage Aligns with Other Apostles
 
@@ -251,16 +255,17 @@ John explicitly states his goal:
 >
 > — John 20:31 (ESV)
 
-John wants readers to believe Jesus is the Christ (Messiah) and the Son of God. NOT that Jesus is God himself or a pre-existent divine "Word" entity.
+John wants readers to believe Jesus is [the Christ](https://kingdom.ofgod.info/christ) and [the Son of God](../index.md). NOT that Jesus is God himself or a [preexistent divine "Word" entity](../divine/preexistance.md). Christ does not mean supreme God.  
 
 John's gospel includes multiple witnesses testifying about Jesus:
 
-- John the Baptist: "Behold the Lamb of God" (John 1:29,36)
-- John the Baptist: "This is the Son of God" (John 1:34)
-- Andrew: "We have found the Messiah" (John 1:41)
-- Nathanael: "You are the Son of God; you are the King of Israel" (John 1:49)
+- John the Baptist: "Behold the Lamb of God" (John 1:29,36). "Lamb **of** God" shows that God gave a sacrifice, instead of God being the Lamb Himself.
+- John the Baptist: "This is the Son of God" (John 1:34). "The Son of God" also shows Jesus is not God Himself. Nothing is a son of itself. If Jesus was a special incarnation, copy or avatar of God, then the bible authors should not have used misleading familiar concepts like "son" to describe Jesus relationship with God. To title "Son of God" has nothing to do with divinity. This is often confused with Greek Mythology where the gods had divine children. In [every case where the phrase "son of God" was used in the Bible](sons-of-god.md), it was referring to a different person then God.
+- Andrew: "We have found the Messiah" (John 1:41). "Christ" is the Greek transliteration of Messiah and Messiah means "anointed one". One only be anointed if a higher authority anointed one.
+- Nathanael: "You are the Son of God; you are the King of Israel" (John 1:49). Not the "God of Israel", but the King appointed by God.
 
-**Note**: If John was testifying about the Trinity in chapter 1, why did he fail to mention the Holy Spirit in his introduction?
+> [!NOTE]
+> If the purpose of John 1 was to introduce the [Trinity](../trinity.md), he would have mentioned [the Holy Spirit](../trinity/holy-spirit.md) person too.
 
 Let's now examine John 1 verse by verse.
 
@@ -280,25 +285,25 @@ If we read "the Word" (logos) as "Jesus" John 1 becomes confusing and contradict
 
 ### If "The Word" = God's Plan
 
-John more likely intended this message (paraphrased with "Word" = God's plan/promise):
-
-All checks complete: revised wording now preserves article’s plan theology and makes each referent shift explicit.
+[As with the message of other apostles](#how-other-apostles-define-the-word-of-god), John more likely intended this message (paraphrased with "Word" = God's plan/promise):
 
 ## Proposed Paraphrase
 
 > ### John 1:1–18
 >
-> In the beginning was *God’s plan*, and *God’s plan* was with God *[as his purpose]*, and *God’s plan* was *divine in nature*. *This plan* was in the beginning with God. All things were made *according to it* *[by God’s command]*, and without *it* was not any thing made that was made. In *this plan* was life *[that is, salvation]*, and the life was the light of men. The light *[of the gospel]* shines in the darkness *[of deception]*, and the darkness has not overcome it.
+> In the beginning was *God’s plan*, and *God’s plan* was with God *[as his purpose]*, and *God’s plan* was *divine*. *This plan* was in the beginning with God. All things were made *according to it* *[by God’s command]*, and without *it* was not any thing made that was made. In *this plan* was [life](https://kingdom.ofgod.info/life) *[that is salvation]*, and the life was the [light](https://kingdom.ofgod.info/light) *[truth leading to salvation]* of men. The light shines in the [darkness](https://kingdom.ofgod.info/darkness) *[of deception]*, and the darkness has not overcome it.
 >
-> There was a man sent from God, whose name was John. He came as a witness, to bear witness about the light *[of the gospel]*, that all might believe through *John’s testimony*. *John* was not the light, but came to bear witness about the light. The true light *[of the gospel]*, which gives light to everyone, was coming into the world *[through Jesus, who revealed it]*.
+> There was a man sent from God, whose name was John. He came as a witness, to bear witness about the light, that all might believe through *John’s testimony*. *John* was not the light *[his own idea]*, but came to bear witness about the light *[God's plan for salvation by Jesus]*. The true light, which gives light to everyone, was coming *[through John's ministry]* into the world *[of lost people]*.
 >
-> *Jesus* was in the world, and *people who received him were made God’s children* through him, yet the world did not know him. He came to his own *[people]*, and his own people did not receive him. But to all who did receive him, who believed in his *authority*, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+> *Jesus* was in the world, and *people who received him were made God’s children* through him, yet the world did not know him. He came to his own *[nation]*, and his own people did not receive him. But to all who did receive him, who believed in his *authority*, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 >
-> And *God’s plan was fulfilled in the human life of Jesus, who* dwelt among us, and we have seen *God’s* glory *[revealed through him]*, glory as of the only *[begotten]* Son from the Father, full of grace and truth.
+> And *God’s plan was fulfilled in the human life of Jesus, who* dwelt among us, and we have seen *God’s* glory *[revealed by him]*, glory as of the *[[unique](https://corebible.app/JHN/1?verseNumber=%2228%22&translation=AICNT)]* Son from the Father, full of grace and truth.
 >
 > John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me *[in rank and status]*.’”
 >
-> For from his fullness *[of God’s grace]* we have all received, grace upon grace. For the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God; *the only begotten Son*, who is at the Father’s side, he has made *the Father* known.
+> For from his *[fullfilling of the law]* we have all received, grace upon grace. For the law was given through Moses; grace and truth came through Jesus Christ.
+>
+> No one has ever seen God; *the only begotten Son*, who is at the Father’s side, he has made *the Father* known.
 >
 > — John 1:1–18 (interpretive paraphrase based on the ESV)
 
@@ -671,7 +676,7 @@ Scholars interpret this differently:
 
 1. Jesus was "full of God" (supports deity claims) ❌ - John is not discussing Jesus's essence here
 2. Jesus "fulfilled" Christ prophecies ❌ - Already said in v14
-3. Jesus brought the **fullness of God's grace** ✅ - Contrasted with "law through Moses"
+3. Jesus **fullfilled the law** ✅ - As explained that "the law was given through Moses"
 
 **Best interpretation**: Jesus completed/supplied/fulfilled God's grace. Grace and truth came through Jesus Christ, whereas the law came through Moses.
 
@@ -681,7 +686,7 @@ This connects to "the word became flesh" - God's plan to bring grace was fulfill
 
 > No one has ever seen God; **God the only *Son***, who is at the Father’s side, he has made him known. — John 1:18 (ESV)
 
-John 1:18 has two Greek textual readings and is a textual and translation dispute, not proof for doctrine. For example KJV renders "the only *begotten* Son", NASB renders "the only *begotten* God". The Greek text actually translates “only God” (`μονογενὴς θεός`, *monogenēs theos*) and does not the word "Son". The ESV selects `μονογενὴς θεός` (only God) but add "Son" so that it renders *“God the only **Son**”*.
+John 1:18 has two Greek textual readings and is a [textual and translation dispute, not proof for doctrine](../divine/texts/john-1-18.md). For example KJV renders "the only *begotten* Son", NASB renders "the only *begotten* God". The Greek text actually translates “only God” (`μονογενὴς θεός`, *monogenēs theos*) and does not the word "Son". The ESV selects `μονογενὴς θεός` (only God) but add "Son" so that it renders *“God the only **Son**”*.
 
 The alternative Greek variant “the only Son” (`ὁ μονογενὴς υἱός`, *ho monogenēs huios*) contains the Greek word for "Son", but not "God".
 
@@ -714,7 +719,7 @@ Jesus never teached about the triune God (Father, Son, Holy Spirit). Instead, Je
 **Examples**:
 
 - **Samaritan woman** (John 4:1-42) - Jesus said he was [the Messiah](https://kingdom.ofgod.info/christ), told her to worship the Father, reinforcing belief in one God
-- **Disciples** (Matt 16:17-20) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), reinforced that God the Father revealed this
+- **Disciples** (Matthew 16:17-20) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), reinforced that God the Father revealed this
 - **Blind man** (John 9:35-38) - Jesus taught he was [the Messiah](https://kingdom.ofgod.info/christ), not God
 - **Rich young ruler** (Mark 10:17-18) - Jesus corrected him: "Only God is good" (implying Jesus is not God)
 
