@@ -228,7 +228,18 @@ Paul described Jesus as the mediator **between** God and humanity, a role that w
 
 He also wrote that Christ intercedes for believers at the right hand of God, again implying a separate role.
 
-> It is Christ who died, and furthermore is also risen, who is even at the **right hand of God**, who also makes intercession for us. — Romans 8:34 (NKJV)
+> What then shall we say to these things?  
+> If God is for us, who can be against us?  
+> **He who did not spare His own son but gave him up** for us all, how will **He not also with him** graciously give us all things?  
+> Who shall bring any charge against God’s elect?
+>
+> It is **God who justifies**. Who is to condemn? Christ **Jesus is the one who died**⁠ — more than that, who was raised⁠ — who is **at the right hand of God**, who indeed is **interceding** for us.
+>
+> — Romans 8:31-34 (ESV)
+
+The language Paul uses shows that the son is the same person as God. In addition Paul shows "God who justifies", but Jesus "who died". Being at "the right hand" of someone also requires to distinct persons. Nobody is at the right hand of himself. It would also be unnecessary for Jesus to intercede to himself if he was God.
+
+Some would argue, that these texts refers to Jesus human form in his *pre-incarnation state*. However, these texts were written after Jesus was rised, exalted and ascended.
 
 ### The Author of Hebrews on Jesus's Priesthood
 

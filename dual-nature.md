@@ -34,9 +34,9 @@ The church creeds require Jesus to be the divine God. However, divine attributes
 
 ## Chalcedonian Solution
 
-To solve these tensions [the Chalcedonian Christianity](https://www.ewtn.com/catholicism/library/definition-on-the-two-natures-of-christ-1454) formalized in 451 AD a doctrine that teaches that Jesus has ***two natures***, namely divine and human. This means all divine god attributes are solved by his divine nature and all human attributes are solved by his human nature.
+To solve these tensions [the Chalcedonian Council](https://www.ewtn.com/catholicism/library/definition-on-the-two-natures-of-christ-1454) formalized the Christology doctrine in 451 AD that teaches that Jesus has ***two natures***, namely divine and human. This means all divine god attributes are solved by his divine nature and all human attributes are solved by his human nature.
 
-A **nature** describes what someone is. A **person** identifies who someone is. Chalcedon therefore affirmed one person with two natures, preserving the properties of each.
+A **nature** (physis) describes what someone is. A **person** (hypostatis) identifies who someone is. Christology therefore affirmed one person with two natures, preserving the properties of each.
 
 ```mermaid
 flowchart TD
@@ -44,7 +44,7 @@ flowchart TD
     H["Human nature"] --> S
 ```
 
-The name for this claim is **hypostatic union** which means that Jesus' *divine and human natures are joined in the same hypostasis*.
+The **hypostatic union** concept defines that the *divine and human natures are joined in the same hypostasis*.
 
 This union was meant to keep three claims together:
 
@@ -55,12 +55,12 @@ This union was meant to keep three claims together:
 > [!TIP]
 > If [Jesus is only human](human.md), then no Greek philosophical explanations or unions are needed.
 
-When faced with oxymorons like [immortal death](#immortal-death), [eternally begotten](#eternally-begotten), [known unknown](#known-unknown), [innocent guilt](#innocent-guilt) and [divine human](#divine-human) Chalcedonian explanations appeal to the above mentioned formula so that each nature satisfy its properties. For example, they would say *Jesus divine nature is [omnipresent](divine/omnipresence.md)*, but his human can nature leave and return.
+When faced with oxymorons like [immortal death](#immortal-death), [eternally begotten](#eternally-begotten), [known unknown](#known-unknown), [innocent guilt](#innocent-guilt) and [divine human](#divine-human) Christological explanations appeal to the above mentioned formula so that each nature satisfy its properties. For example, they would say *Jesus divine nature is [omnipresent](divine/omnipresence.md)*, but his human can nature leave and return.
 
 > [!WARNING]
 > An explanation can show how its own claims might fit together without establishing that those claims are true.
 
-The Chalcedon's formula must therefore be [tested against the bible passages](shema.md) it seeks to explain.
+Christology must therefore be [tested against the bible passages](shema.md) it seeks to explain.
 
 ### Immortal Death
 
@@ -82,7 +82,7 @@ Likewise, 1 Peter 3:18 contrasts being put to death in the flesh with being made
 
 ### Eternally Begotten
 
-Classical Christology understands *eternal generation* as the Son's timeless relation to God the Father, not a birth at a moment in time. On that account, ***begotten does not mean born*** like it does for all other people.
+Christology understands *eternal generation* as the Son's timeless relation to God the Father, not a birth at a moment in time. On that account, ***begotten does not mean born*** like it does for all other people.
 
 Changing the meaning of "begot" (birth) to "eternally generated" is neither biblical nor does it solve the contradiction.
 
@@ -131,9 +131,9 @@ However, if "bearing sins" meant "becoming sinful" to make the dealth penalty fa
 
 ### Divine Human
 
-Chalcedonian Christology affirms genuine humanity while claiming that the same person also possesses a divine nature.
+Christology affirms genuine humanity while claiming that the same person also possesses a divine nature.
 
-Consequently, showing that Jesus is [a real human being](human.md) does not, by itself, refute Chalcedon. The council already affirms that claim.
+Consequently, showing that Jesus is [a real human being](human.md) does not, by itself, refute Christology. The council already affirms that claim.
 
 The disputed addition is **a divine nature belonging to the same person**. Evidence establishing humanity cannot simply be treated as evidence establishing that additional nature.
 
@@ -143,7 +143,7 @@ The risen Jesus still distinguishes himself from the one he calls his God:
 
 > *“I am ascending to my Father and your Father, to **my God and your God**.”* — John 20:17 (ESV)
 
-A Chalcedonian reply assigns this relationship to the Son's humanity. The question is whether the text supports that restriction.
+Christology assigns this relationship to the Son's humanity. The question is whether the text supports that restriction.
 
 Philosophical terms such as *hypostasis* and *consubstantial* express the doctrine, but it do not independently establish its truth.
 
@@ -157,7 +157,7 @@ Faith does not mean to *accept contradictions as the truth*. [Faith means to tru
 
 ## Conclusion
 
-The [Chalcedonian formula](#chalcedonian-solution) is unreliable as the controlling interpretation of the passages examined. Its [knowledge explanation](#known-unknown) qualifies the Son's stated ignorance, its [death explanation](#immortal-death) adds an immortal divine life continuing through his death, and [eternal generation](#eternally-begotten) requires a timeless relationship that father-and-son language does not itself establish.
+The [Chalcedonian Christology](#chalcedonian-solution) is unreliable as the controlling interpretation of the passages examined. Its [knowledge explanation](#known-unknown) qualifies the Son's stated ignorance, its [death explanation](#immortal-death) adds an immortal divine life continuing through his death, and [eternal generation](#eternally-begotten) requires a timeless relationship that father-and-son language does not itself establish.
 
 These qualifications must be demonstrated from Scripture, not accepted because the formula needs them. [Technical terms](#divine-human) organise the doctrine but cannot establish its truth, while [mystery](#obvious-mystery) cannot supply missing evidence. Later philosophical distinctions must therefore be tested against the biblical text, not read back into it as though the biblical authors had already taught them.
 
