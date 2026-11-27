@@ -58,7 +58,7 @@ Now with this context read 1 John 3 & 4 again:
 >
 > And **this is His commandment**, that **we [believe](https://word.ofgod.info/terms/faith) in [the name of His Son Jesus Christ](../../name.md)**, and love one another, just as **He gave a commandment to us**. And **the one who keeps His commandments abides in Him, and He in him**. **We know by this that He abides in us, by the Spirit whom He gave us**.  Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. **By this you know the Spirit of God**:
 >
-> - every spirit that confesses that Jesus Christ has come in the flesh is from God, and
+> - every spirit that confesses that Jesus Christ has **come in the flesh** is from God, and
 > - every spirit that does not confess Jesus is not from God. This is the *spirit* of the antichrist, of which you have heard that it is coming, and now it is already in the world.
 >
 > You are from God, little children, and have overcome them; because **greater is He who is in you** than he who is in the world.
@@ -108,10 +108,10 @@ At the end of the book John warns about deceptions and explain what we should be
 >
 > — 1 John 5:1-8 (LSB)
 
-With this passage John made it clear that Jesus Christ was really born as like any ordinary human being in water and blood. Then he highlights that the Spirit witness in truth that he is ["the Son of God"](https://son.ofgod.info) and not God Himself.
+With this passage John made it clear that Jesus Christ was really born as like any ordinary human being in water and blood. The words “not with water only” in 1 John 5:6 appear to be a deliberate correction of a particular belief about Jesus circulating among early Christians. Then he highlights that the Spirit witness in truth that he is ["the Son of God"](https://son.ofgod.info) and not God Himself.
 
 > [!NOTE]
-> Some associate this scripture with repentance, baptism and receiving the Holy Spirit, but in this context it more likely was used as plain evidence that Jesus was a [genuinely human](https://son.ofgod.info/human).
+> Some associate this scripture with repentance, baptism and receiving the Holy Spirit, but in this context of 1 John 4:2 it more likely was used as plain evidence that Jesus was a [genuinely human](../../human.md).
 
 > [!CAUTION]
 > The Roman Catholic church had to carefully added 1 John 5:7-8, to the TR (Textus Receptive), because this passage [refutes the Trinity Doctrine](https://son.ofgod.info/trinity) of 3 divine persons of which Jesus is supposed to be one of them. If John testifies that Jesus was a naturally born human, born in water and blood, then the Trinity fails because it requires *[Jesus to be divine](https://son.ofgod.info/divine)*.
