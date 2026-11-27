@@ -23,26 +23,60 @@ The textual variant is evident when comparing different Bible translations:
 
 > For there are three that bear record *in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth,* the Spirit, and the water, and the blood: and these three agree in one. — 1 John 5:7-8 (KJV)
 
-vs
+> [!CAUTION]
+> The Roman Catholic church had to carefully added the [Trinity persons](../../trinity.md) to 1 John 5:7-8 of the TR (Textus Receptive) from which the KJV was translated.
+
+Although this addition is present in the Latin Vulgate, this expanded text is not found as the base text in any Greek manuscript before the 12th century. Therefore, most other English Bible translations like the ESV, NASB95, NIV, NLT, DARBY, CSB, HCSB, GW, GNB, etc. omit the [corrupted](../../divine/textual-corruptions.md) Trinitarian formula. For example they would read:
 
 > For there are three that testify: the Spirit and the water and the blood; and these three agree. — 1 John 5:7-8 (ESV)
 
-> For there are three that testify: the Spirit, the water and the blood; and the three are in agreement. — 1 John 5:7-8 (NIV)
-
-> So we have these three witnesses — the Spirit, the water, and the blood — and all three agree. — 1 John 5:7-8 (NLT)
+or
 
 > For there are three that testify: the Spirit and the water and the blood; and the three are in agreement — 1 John 5:7-8 (NASB95)
 
-> For they that bear witness are three: the Spirit, and the water, and the blood; and the three agree in one. — 1 John 5:7-8 (DARBY)
+Ironically this later addition of the Trinity persons, known as the [Comma Johanneum](https://corebible.app/1JN/5?verseNumber=%2220%22&translation=AICNT), exposes how fake the Trinitarian philosophy is. It is not necessary in invent text to proof the truth. Without the Comma Johanneum, there are **no evidence of the Trinity in the Bible**.
 
-> For there are three that testify: the Spirit, as the water, and the blood — and these three are in agreement. — 1 John 5:7-8 (CSB)
+## Context
 
-> For there are three that testify: the Spirit, the water, and the blood — and these three are in agreement. — 1 John 5:7-8 (HCSB)
+In the context of 1 John 4:2-3, [a test for deception](../../shema/concerns/antichrist.md) would be to check if they confess that "Christ come in flesh" (born like any other human). John was not affirming [concious preexistance](../../divine/preexistance.md). Instead John was saying that **those follow Docetism** (rejecting that Jesus was a genuine human) are being deceived by the spirit of the **antichrist**.
 
-> There are three witnesses: the Spirit, the water, and the blood. These three witnesses agree. — 1 John 5:7-8 (GW)
+Today we have a similiar situation. Like the Docetians, the [Trinitarians](../../trinity.md) belief Jesus Christ was [divine](../../divine.md), although their Christology also acknowledge his a *simultaneous [human nature](../../dual-nature.md)*. This makes them guilty of claiming that Jesus Christ was *not a genuine human*, because no other genuine human has a divine and human nature simultaneously.
 
-> There are three witnesses: the Spirit, the water, and the blood; and all three give the same testimony. — 1 John 5:7-8 (GNB)
+Out of context it seems odd that a spirit, water and blood could have anything in common or agree on anything. Yet, John wrote:
 
-## Conclusion
+> Who is it that overcomes the world except the one who **believes that Jesus is the Son of God**?
+>
+> This is **the One who came by water and blood, Jesus Christ; not with the water only, but with the water and with the blood**. It is **the Spirit who bears witness**, because the Spirit is the truth.
+>
+> For there are three that bear witness:
+>
+> 1. the Spirit and
+> 2. the water and
+> 3. the blood;
+>
+> and the three are in agreement.
+>
+> — 1 John 5:5-8 (LSB)
 
-The overwhelming consensus among biblical scholars and textual critics confirms that 1 John 5:7, as it appears in the King James Version with its explicit Trinitarian formula, represents a later textual addition rather than original apostolic writing. This conclusion is supported by its absence from the earliest Greek and Latin manuscripts, its omission from ancient translations in multiple languages, and its exclusion from the vast majority of modern scholarly translations. The comparative analysis of translations demonstrates how contemporary biblical scholarship has largely corrected this textual variant, with only older translations like the King James Version retaining the expanded reading.
+The agreement is about "believing that Jesus is the Son of God" (1 John 5:5).
+
+Although ubiquitous, 1 John 5:6 potentially refer to Jesus being born as a real human in water and blood. This would have been important for John to mention because he addressed [deceptions of Docetism](../../shema/concerns/antichrist.md) (belief that Jesus is only divine) in his book (1 John 1:1-3). This is also inline with 1 John 4:2.
+
+Believing that Jesus was only a mere human is not good enough to "overcome the world". A second requirement is to belief that Jesus is the "[Son of God](../../index.md)" which is a very unique messianic relationship with God.
+
+Therefore, verse 7-8 mentions 3 witness in agreement about that topic:
+
+1. the Spirit: at Jesus baptism God publically declared Jesus as His Son while the Spirit descended on him like a dove (Matthew 3:16-17)
+2. the water: when Jesus walked on the water, his disciples recognized that he is the Son of God (Matthew 14:22-33)
+3. the blood: at Jesus cruxifiction many wonders appears and even the centurions recognized that Jesus is the Son of God (Matthew 27:51-54)
+
+John was present at all 3 these events in the same sequence. His audience would have known this.
+
+> [!TIP]
+> Another testimony is also the Spirit of the Father that convinced Peter that Jesus is "the Son of God" (Matthew 16:15-17)
+
+## Against Idolatry
+
+John even concludes his book with the warning:
+
+> Little children, **guard yourselves from idols**. — 1 John 5:21 (LSB)

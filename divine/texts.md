@@ -8,7 +8,7 @@ Professional scholars who believe in the deity of Christ admit:
 
 > No one ... can help being impressed by the **remarkable reserve of the NT writers in applying the term θεὸς to Jesus**. ... If the writers of the NT were persuaded of the deity of Christ, what accounts for their reticence to ascribe to him the title that, of all the divine names, would seem most explicitly to affirm that deity? Have the fathers and the creeds of [the church](https://church.ofgod.info) outstripped the NT evidence in speaking so plainly and so often of Jesus Christ as "God"? ... It is a curious fact that **each of the texts to be examined contains an interpretative problem** of some description actually, most contains two or three. -- Murray J. Harris, "Jesus as God" (Eugene, OR: Wipf & Stock, 1992), 9-11.
 
-Evidence Murray Harris use to proof the divinity of Jesus is: [John 1:1](../name/word.md); [John 1:18](texts/john-1-18.md); [John 20:28](texts/john-1-18.md); [Acts 20:28](body-of-god.md#acts-2028-gods-own-blood); [Romans 9:5](texts/romans-9-5.md); [Titus 2:13](texts/titus-2-13.md); [Hebrews 1:8](https://word.ofgod.info/books/hebrews); [2 Peter 1:1](texts/2-peter-1-1.md); 1 John 5:20
+Evidence Murray Harris use to proof the divinity of Jesus is: [John 1:1](../name/word.md); [John 1:18](texts/john-1-18.md); [John 20:28](texts/john-1-18.md); [Acts 20:28](body-of-god.md#acts-2028-gods-own-blood); [Romans 9:5](texts/romans-9-5.md); [Titus 2:13](texts/titus-2-13.md); [Hebrews 1:8](https://word.ofgod.info/books/hebrews); [2 Peter 1:1](texts/2-peter-1-1.md); [1 John 5:20](text/1-john-5-20.md)
 
 > **No author of a Synoptic Gospel explicitly ascribe the title θεὸς to Jesus. Jesus never used the term θεὸς for himself. No sermon in the book of Acts attributes the title θεὸς to Jesus** ... And possibly the biggest problem for NT Christology regarding this topic is that **textual variants exist in every potential passage where Jesus is explicitly referred to as θεὸς**. -- Brian J. Wright, "Jesus as θεὸς: A Textual Examination" in Revisiting the Corruption of the New Testament, ed. Daniel B. Wallace (Grand Rapids: Kregel, 2011), 229-31.
 
@@ -40,6 +40,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Galatians 1:1    | "nor through man, but through Jesus Christ"                    | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                     |
 | Titus 2:13       | "our great God and Savior Jesus Christ"                        | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/titus-2-13.md)                                     |
 | Hebrews 1:3      | "the exact imprint of His nature"                              | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                   |
+| 1 John 5:20      | "... His Son Jesus Christ. He is our true God."                | [Referent ID: Unclear who "the true God" is](texts/1-john-5-20.md)                                                  |
 | Revelation 22:13 | "I am the Alpha and the Omega, the first and last"             | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                     |
 
 ### Preexistance Interpretations
