@@ -60,9 +60,11 @@ Out of context it seems odd that a spirit, water and blood could have anything i
 
 The agreement is about "believing that Jesus is the Son of God" (1 John 5:5).
 
-Although ubiquitous, 1 John 5:6 potentially refers to Jesus being born as a real human in water and blood. This would have been important for John to mention because he addressed [deceptions of Docetism](../../shema/concerns/antichrist.md) (the belief that Jesus is only divine) in his book (1 John 1:1-3). This is also in line with 1 John 4:2.
+Commonly many interpret that John was q
 
-Believing that Jesus was only a mere human is not good enough to "overcome the world." A second requirement is to believe that Jesus is the "[Son of God](../../index.md)," which is a very unique messianic relationship with God.
+Although ubiquitous, 1 John 5:6 most likely refers to Jesus being born as a real human in water and blood. This would have been important for John to mention because he addressed [deceptions of Docetism](../../shema/concerns/antichrist.md) (the belief that Jesus is only divine) and he made it clear from the first verse (1 John 1:1-3) that he personally testify that Jesus was a genuine human. This is also in line with 1 John 4:2.
+
+However, believing that Jesus was only a mere human is not good enough to "overcome the world." A second requirement that John raises, is to believe that Jesus is the "[Son of God](../../index.md)," which is a very unique messianic relationship with God.
 
 Therefore, verses 7-8 mention three witnesses in agreement about that topic:
 
@@ -70,7 +72,7 @@ Therefore, verses 7-8 mention three witnesses in agreement about that topic:
 2. the water: when Jesus walked on the water, his disciples recognized that he was the Son of God (Matthew 14:22-33)
 3. the blood: at Jesus' crucifixion, many wonders appeared, and even the centurions recognized that Jesus is the Son of God (Matthew 27:51-54)
 
-John was present at all three of these events in the same sequence. His audience would have known this.
+John was present at all three of these events in the same sequence. Although he does not directly state it in his book, we could assume that his audience would have been familier with these testimonies.
 
 > [!TIP]
 > Another testimony is also the Spirit of the Father that convinced Peter that Jesus is "the Son of God" (Matthew 16:15-17)
@@ -80,3 +82,5 @@ John was present at all three of these events in the same sequence. His audience
 John even concludes his book with the warning:
 
 > Little children, **guard yourselves from idols**. — 1 John 5:21 (LSB)
+
+Which implies, do not replace the true God (singular) they were already worshipping with any other person or persons.

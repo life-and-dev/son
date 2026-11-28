@@ -122,5 +122,7 @@ At the end of the book John warns about deceptions and explain what we should be
 
 With this passage John made it clear that Jesus Christ was really born as like any ordinary human being in water and blood. The words “not with water only” in 1 John 5:6 appear to be a deliberate correction of a particular belief about Jesus circulating among early Christians. Then he highlights that the Spirit witness in truth that he is ["the Son of God"](https://son.ofgod.info) and not God Himself.
 
-> [!NOTE]
-> Some associate this scripture with repentance, baptism and receiving the Holy Spirit, but in this context of 1 John 4:2 it more likely was used as plain evidence that Jesus was a [genuinely human](../../human.md).
+> [!WARNING]
+> A common theology is that John was preaching the Gospel with repentance (blood), baptism (water) and receiving the Holy Spirit. However, John was not addressing an audience who needed salvation. His audience was already his "little children" (1 John 2:1). "Baptism" and "repentence" is never mentioned in his book.
+>
+> Instead, John was addressing the deception of "the spirit of error" and would more likely testify that [the truth against this deception](../../trinity/proof/1-john-5-7.md).
