@@ -31,17 +31,17 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 > | Translation       | Misleading translation that does not follow the manuscript.                                      |
 > | Word Meaning      | Readers assign different senses to the same word or title.                                                             |
 
-| Scripture        | Divine Jesus Interpretation                                    | Rebuttal                                                                                                            |
-| ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God" | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader"  |
-| John 5:18        | "making himself coequal with God"                              | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/john-5-18.md) |
-| John 20:28       | Thomas answered him, “My Lord and my God!”                     | [Word Meaning: Here "God" means Christ.](texts/john-20-28.md)                                                       |
-| Romans 9:5       | "the Christ who is God"                                        | [Grammar & Scope: Grammar and punctuation make it unclear "who" is God](texts/romans-9-5.md)                        |
-| Galatians 1:1    | "nor through man, but through Jesus Christ"                    | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                     |
-| Titus 2:13       | "our great God and Savior Jesus Christ"                        | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/titus-2-13.md)                                     |
-| Hebrews 1:3      | "the exact imprint of His nature"                              | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                   |
-| 1 John 5:20      | "... His Son Jesus Christ. He is our true God."                | [Referent ID: Unclear who "the true God" is](texts/1-john-5-20.md)                                                  |
-| Revelation 22:13 | "I am the Alpha and the Omega, the first and last"             | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                     |
+| Scripture        | Divine Jesus Interpretation                                    | Rebuttal                                                                                                           |
+| ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God" | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader" |
+| John 5:18        | "making himself coequal with God"                              | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/john-5-18.md)     |
+| John 20:28       | Thomas answered him, “My Lord and my God!”                     | [Word Meaning: Here "God" means Christ.](texts/john-20-28.md)                                                      |
+| Romans 9:5       | "the Christ who is God"                                        | [Grammar & Scope: Grammar and punctuation make it unclear "who" is God](texts/romans-9-5.md)                       |
+| Galatians 1:1    | "nor through man, but through Jesus Christ"                    | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                    |
+| Titus 2:13       | "our great God and Savior Jesus Christ"                        | [Grammar & Scope: Jesus = "the glory of our great God..."](texts/titus-2-13.md)                                    |
+| Hebrews 1:3      | "the exact imprint of His nature"                              | [Translation: "person" was changed to "nature"](https://word.ofgod.info/books/hebrews#hebrews-13)                  |
+| 1 John 5:20      | "... His Son Jesus Christ. He is our true God."                | [Referent ID: Unclear who "the true God" is](texts/1-john-5-20.md)                                                 |
+| Revelation 22:13 | "I am the Alpha and the Omega, the first and last"             | [Word Meaning: "Alpha and Omega", "first and last" not unique to God alone.](first-and-last.md)                    |
 
 ### Preexistance Interpretations
 
@@ -56,10 +56,10 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Scripture          | Divine Jesus Interpretation                    | Rebuttal                                                                                                                         |
 | ------------------ | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Genesis 1:26       | "man in Our image", implying human Jesus = God | [Word Meaning: "image" means representative not same essence. Applies to all humanity.](creator.md#genesis-126-man-in-our-image) |
-| 1 Corinthians 8:6  | “through whom are all things”                  | [Topic: food offered to idols, not an account of creation.](creator.md)                                                          |
-| Colossians 1:13-17 | “For by him all things were created”           | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md)                                                  |
-| Hebrews 1:1-2      | “through whom also He made the worlds”         | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md)                                                    |
-| Revelation 10:5-6  | Jesus is viewed as *the mighty angel*          | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md)                                                  |
+| 1 Corinthians 8:6  | “through whom are all things”                  | [Topic: food offered to idols, not an account of creation.](creator.md#1-corinthians-86-through-whom-all-things-exist)           |
+| Colossians 1:13-17 | “For by him all things were created”           | [Grammar & Scope: “all things” refer to authorities, not creation.](creator.md#colossians-1)                                     |
+| Hebrews 1:1-2      | “through whom also He made the worlds”         | [Word Meaning: “worlds” (*aión*) can mean ages or spans of time.](creator.md#hebrews-1)                                          |
+| Revelation 10:5-6  | Jesus is viewed as *the mighty angel*          | [Referent ID: the Creator is the Father, by whom the angel swears.](creator.md#revelation-105-6)                                 |
 
 ### Omnipresence Interpretations
 
@@ -103,7 +103,7 @@ It is possible that scribes made human errors in the copy process, however it is
 | [Hebrews 1:3](https://word.ofgod.info/books/hebrews#hebrews-13)        | "His Son ... is ... the exact imprint of His **nature**"                       | "His Son ... who being ... the express image of His **person**"                         |
 | [Hebrews 13:20](textual-corruptions.md#hebrews-1320)                   | "... our **God** Jesus ..."                                                    | "... our **Lord** Jesus ..."                                                            |
 | [2 Peter 1:1](texts/2-peter-1-1.md)                                    | "our **God** and Savior Jesus Christ"                                          | "our **Lord** and Saviour Jesus Christ"                                                 |
-| [1 John 5:7-8](../trinity/proof/1-john-5-7.md)                        | lists the 3 persons of the Trinity as witnesses                                | no Trinity persons mentioned                                                            |
+| [1 John 5:7-8](../trinity/proof/1-john-5-7.md)                         | lists the 3 persons of the Trinity as witnesses                                | no Trinity persons mentioned                                                            |
 | [Jude 1:5](texts/jude-1-5.md)                                          | "**Jesus** who saved a people out of the land of Egypt"                        | "**The LORD** having saved the people out of the land of Egypt"                         |
 
 ## Warning

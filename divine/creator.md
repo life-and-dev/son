@@ -219,19 +219,20 @@ Some argue that the Father acted as architect and enabled Jesus to do the work. 
 
 ## Colossians 1
 
-> He has delivered us from [the power of darkness](https://kingdom.ofgod.info/darkness) and conveyed us into [the kingdom](https://kingdom.ofgod.info) of the Son of His love, in whom we have [redemption through his blood](https://kingdom.ofgod.info/covenants/christ), the [forgiveness](https://word.ofgod.info/terms/forgiveness) of sins.
+> He *[God the Father]* has delivered us from [the power of darkness](https://kingdom.ofgod.info/darkness) and conveyed us into [the kingdom](https://kingdom.ofgod.info) of the Son of His love, in whom we have *[redemption through his blood](body-of-god.md#colossians-114-through-his-blood)*, the [forgiveness](https://word.ofgod.info/terms/forgiveness) of sins.
 >
-> He is the [image](https://biblehub.com/greek/1504.htm) of [the invisible God](https://ofgod.info/appearance), [the firstborn](../divine/firstborn.md) over all creation. **For by him all things were created that are in [heaven](https://word.ofgod.info/terms/heaven) and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through him and for him.** And he is before all things, and in him all things consist. And he is the head of [the body](https://kingdom.ofgod.info/christ/body), [the church](https://church.ofgod.info), who is the beginning, [the firstborn](../divine/firstborn.md) from the dead, that in all things he may have the preeminence.
+> He is the [image](https://biblehub.com/greek/1504.htm) of [the invisible God](https://ofgod.info/appearance), [the firstborn](../divine/firstborn.md) *over* all creation. **For by him all things were created that are in [heaven](https://word.ofgod.info/terms/heaven) and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through him and for him.** And he is before all things, and in him all things consist. And he is the head of [the body](https://kingdom.ofgod.info/christ/body), [the church](https://church.ofgod.info), who is the beginning, [the firstborn](../divine/firstborn.md) from the dead, that in all things he may have the preeminence.
 >
 > For it pleased [the Father](https://ofgod.info) that in him all the fullness should dwell, and by him to reconcile all things to himself, by him, whether things on earth or things in [heaven](https://word.ofgod.info/terms/heaven), having made peace through the blood of his [cross](https://kingdom.ofgod.info/christ/crucifixion).
 >
 > — Colossians 1:13-20 (NKJV)
 
-> [!WARNING]
-> The phrase "in him" means "what exist in Christ now, because of what he has done". To be "in him" is to be in his [kingdom](https://kingdom.ofgod.info). Both the NASB and ESV both translate the same Greek phrase "in him" consistenly the same, except in Colossians 1:16, **they changed the phrase** to *"by him"* to fit their biased view so that it appear to look like *Jesus is the Creator*. NASB is hard to read because it is supposed to be more accurate, but they failed with Colossians. Therefore I choose the NKJV version in this case.
+The Textus Receptive from which the KJV and NKJV were translated contain multiple corruptions:
 
-> [!WARNING]
-> [Some bible translations adds the word "fullness of God"](https://classic.net.bible.org/verse.php/displaybible.php?book=Col&chapter=1&verse=19) to verse 19 which does not exist in [original Greek manuscripts](https://biblehub.com/interlinear/colossians/1-19.htm).
+* Colossians 1:14 [does not contain the phrase "redemption through his blood".](body-of-god.md#colossians-114-through-his-blood) No other manuscript contains this addition.
+* Colossians 1:15 actually says ["the firstborn ***of*** all creation"](https://biblehub.com/interlinear/colossians/1-15.htm). This implies he is part of the creation.
+* Colossians 1:16 does not necessary say "*by* him". [The Greek word "en"](https://word.ofgod.info/semantics/en) commonly translated as "by", but also "in", "with", "amount", etc. Both the NASB and ESV translate the same Greek phrase "in him" consistenly the same, except in Colossians 1:16, **they changed the phrase** to *"by him"* to make it appear that all were created *by* Jesus.
+* Colossians 1:19 does not contain the text ["fullness of God"](https://classic.net.bible.org/verse.php/displaybible.php?book=Col&chapter=1&verse=19) in the [original Greek manuscripts](https://biblehub.com/interlinear/colossians/1-19.htm). The NKJV correctly omits it, while other bible translations include it.
 
 The choice of where to end sentences and begin new paragraphs lies with the English translator. Ancient Greek runs all the text continuously. There are not many word or paragraph seperators. When they do occur, it is significant. As seen in the screenshot of the Colossians 1 manuscript below, the outdents highlighted with red arrows indicate the beginning of the 2 strophes of Colossians 1:15-20. Visit [Codex Sinaiticus](https://codexsinaiticus.org/en/manuscript.aspx?__VIEWSTATEGENERATOR=01FB804F&book=43&chapter=1&lid=en&side=r&verse=16&zoomSlider=0) to see the ancient manuscripts in more detail.
 
