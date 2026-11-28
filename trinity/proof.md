@@ -185,7 +185,7 @@ Isaiah 6 places the plural within a throne-room vision attended by seraphim (Isa
 
 > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God. — John 5:18 (ESV)
 
-Out of context, it seems like this verse support the [Trinitarian] formula that defines *the Son is equal with the Father*. However, Jesus' own response in verses John 5:19–29 is [a systematic, point-by-point denial of independent divine authority](proof/equal-with-god.md). Every claim Jesus makes is explicitly grounded in [delegation from the Father](../shema/agency.md).
+Out of context, it seems like this verse support the [Trinitarian] formula that defines *the Son is equal with the Father*. However, Jesus' own response in verses John 5:19–29 is [a systematic, point-by-point denial of independent divine authority](proof/john-5-18.md). Every claim Jesus makes is explicitly grounded in [delegation from the Father](../shema/agency.md).
 
 ## Greek Lexicon
 
@@ -233,9 +233,9 @@ However, Trinitarian Christians practise [Monotheism](development.md#monotheism)
 
 Some modern Bible translators defend the Trinitarian doctrine with biased translations, instead of translating what the original text originally meant to say. For example:
 
-* [Matthew 28:19](proof/baptism-formula.md)
+* [Matthew 28:19](proof/matthew-28-19.md)
 * [John 1:18](../divine/texts/john-1-18.md)
-* [1 John 5:7-8](proof/3-witnesses.md)
+* [1 John 5:7-8](proof/1-john-5-7.md)
 
 ## Paul's Closing
 
@@ -267,7 +267,7 @@ God does not need a recipient to possess the capacity of love. Just as God had t
 
 ## The Trinity and Abraham
 
-Some Trinitarians argue that [the Trinity appeared to Abraham](proof/abraham-3-visitors.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](../name/son-as-angel.md) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
+Some Trinitarians argue that [the Trinity appeared to Abraham](proof/genesis-18.md) (Genesis 18:1-3). Yet, there is no evidence that [God appears](https://ofgod.info/appearance) as a "man" that you can invite for dinner. It was most likely 3 [angels who spoke on behalf of God](../name/son-as-angel.md) to Abraham. Abraham was speaking to the LORD through the angel. Even if it was the LORD Himself that personally appeared to Abraham, the other two "men" were identified as "angels" instead of God or Trinity members.
 
 ## Conclusion
 

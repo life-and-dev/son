@@ -3,7 +3,7 @@ description: Scholarly analysis of the Johannine Comma (1 John 5:7), examining m
 keywords: Johannine Comma, 1 John 5:7, textual criticism, Bible translations, manuscript evidence, Trinity, biblical scholarship
 ---
 
-# The Three Witnesses
+# 1 John 5:7-8 (Johannine Comma)
 
 The textual authenticity of 1 John 5:7, commonly known as the Johannine Comma, represents one of the most significant textual variants in New Testament manuscript tradition. This passage, which explicitly references [the Trinity](../trinity.md), appears in some biblical texts but is absent from the earliest and most reliable manuscripts. The following examination presents the scholarly consensus regarding this passage and demonstrates its treatment across various modern translations.
 

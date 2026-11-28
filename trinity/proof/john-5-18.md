@@ -3,7 +3,7 @@ description: Does John 5:18 teach that Jesus is equal with God?
 keywords: John 5:18, Jesus, God the Father, equality with God, delegated authority
 ---
 
-# Equal with God
+# John 5:18 (Equal with God)
 
 > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God. — John 5:18 (ESV)
 

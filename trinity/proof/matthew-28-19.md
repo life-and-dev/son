@@ -3,7 +3,7 @@ description: Analysis of Matthew 28:19, baptism in Jesus' name, early witnesses,
 keywords: Matthew 28:19, baptism formula, baptism in Jesus name, Eusebius, Shem Tob Hebrew Matthew, authority, Trinity
 ---
 
-# The Baptism Formula
+# Matthew 28:19 (Baptism Formula)
 
 Matthew 28:19 names the Father, the Son, and the Holy Spirit. Some Christians take this as a baptismal formula and evidence for the Trinity. This article distinguishes the wording of Matthew, baptismal practice, the history of the text, and the doctrine inferred from it.
 

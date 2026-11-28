@@ -34,7 +34,7 @@ As the above authors admitted themselves, none of the proven texts are strong ar
 | Scripture        | Divine Jesus Interpretation                                    | Rebuttal                                                                                                            |
 | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Isaiah 9:6       | "for to us a child is born ... he shall be called "Mighty God" | [Word Meaning](https://prophecies.ofgod.info/trinitarian/isaiah-9-6): "Mighty God" could also mean "mighty leader"  |
-| John 5:18        | "making himself coequal with God"                              | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/equal-with-god.md) |
+| John 5:18        | "making himself coequal with God"                              | [Claim Attribution: Charge reflects opponents’ conclusion, not claim of Jesus.](../trinity/proof/john-5-18.md) |
 | John 20:28       | Thomas answered him, “My Lord and my God!”                     | [Word Meaning: Here "God" means Christ.](texts/john-20-28.md)                                                       |
 | Romans 9:5       | "the Christ who is God"                                        | [Grammar & Scope: Grammar and punctuation make it unclear "who" is God](texts/romans-9-5.md)                        |
 | Galatians 1:1    | "nor through man, but through Jesus Christ"                    | [Topic: about authority, not humanity.](texts/galatians-1-1.md)                                                     |
@@ -103,7 +103,7 @@ It is possible that scribes made human errors in the copy process, however it is
 | [Hebrews 1:3](https://word.ofgod.info/books/hebrews#hebrews-13)        | "His Son ... is ... the exact imprint of His **nature**"                       | "His Son ... who being ... the express image of His **person**"                         |
 | [Hebrews 13:20](textual-corruptions.md#hebrews-1320)                   | "... our **God** Jesus ..."                                                    | "... our **Lord** Jesus ..."                                                            |
 | [2 Peter 1:1](texts/2-peter-1-1.md)                                    | "our **God** and Savior Jesus Christ"                                          | "our **Lord** and Saviour Jesus Christ"                                                 |
-| [1 John 5:7-8](../trinity/proof/3-witnesses.md)                        | lists the 3 persons of the Trinity as witnesses                                | no Trinity persons mentioned                                                            |
+| [1 John 5:7-8](../trinity/proof/1-john-5-7.md)                        | lists the 3 persons of the Trinity as witnesses                                | no Trinity persons mentioned                                                            |
 | [Jude 1:5](texts/jude-1-5.md)                                          | "**Jesus** who saved a people out of the land of Egypt"                        | "**The LORD** having saved the people out of the land of Egypt"                         |
 
 ## Warning
